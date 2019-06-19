@@ -1,0 +1,110 @@
+[
+  {
+    "site": "the Guardian",
+    "title": "Gareth McAuley’s own goal takes Wales past Northern Ireland at Euro 2016",
+    "description": "Gareth McAuley turned Gareth Bale’s cross into his own net as Wales progressed to the Euro 2016 quarter-finals at Northern Ireland’s expense",
+    "url": "http://www.theguardian.com/football/2016/jun/25/wales-northern-ireland-euro-2016-match-report"
+  },
+  {
+    "site": "UEFA.com",
+    "title": "McAuley agony as Wales advance to last eight - UEFA EURO - News - UEFA.com",
+    "description": "Wales 1-0 Northern Ireland\nNorthern Ireland defender Gareth McAuley steered Gareth Bale's excellent cross into his own net to settle this all-British contest in Paris.",
+    "url": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000744/match=2017997/postmatch/report/"
+  },
+  {
+    "site": "BBC Sport",
+    "title": "Wales 1-0 Northern Ireland",
+    "description": "Gareth McAuley's own goal puts Wales into the Euro 2016 quarter-finals with a narrow win over Northern Ireland.",
+    "url": "http://www.bbc.com/sport/football/36566171"
+  },
+  {
+    "site": "ESPNFC.com",
+    "title": "Wales vs. Northern Ireland - Football Match Report - June 25, 2016 - ESPN",
+    "description": "Get a report of the Wales vs. Northern Ireland 2016 European Championship, Round of 16 football match.",
+    "url": "http://espnfc.com/report?gameId=438167"
+  },
+  {
+    "site": "www.goal.com",
+    "title": "Wales 1 - 0 Northern Ireland Match report - 25/06/2016 European Championship - Goal.com",
+    "description": "Read the full Wales v Northern Ireland match report, including goals, incidents, and much more. Have your say on the game in our comments feature.",
+    "url": "http://www.goal.com/en-gb/match/wales-vs-northern-ireland/2024879/report"
+  },
+  {
+    "site": "FourFourTwo",
+    "title": "Wales 1 Northern Ireland 0: McAuley's woe is Welsh joy",
+    "description": "Gareth McAuley's own goal proved costly as Wales battled past Northern Ireland 1-0 to book their place in the quarter-finals of Euro 2016 on Saturday. Wales star Gareth Bale had, unsurprisingly, been highlighted as the dangerman before the last-16 tie at the Parc des Princes but was largely stifled in a tense all-British affair. However, the Real Madrid man showed his quality with a teasing left-wing cross that the unfortunate McAuley diverted into his own net when sliding to make a clearance with 15 minutes remaining.",
+    "url": "http://www.fourfourtwo.com/news/wales-1-northern-ireland-0-mcauleys-woe-welsh-joy"
+  },
+  {
+    "site": "The Telegraph",
+    "title": "Wales 1 Northern Ireland 0, Euro 2016: Irish are down and out in Paris after Gareth McAuley own-goal sends Welsh into quarter-finals",
+    "description": "Wales are the kings of the Parc des Princes and, with it, have earned themselves a place in history:",
+    "url": "http://www.telegraph.co.uk/football/2016/06/25/wales-1-northern-ireland-0-euro-2016-irish-are-down-and-out-in-p/"
+  },
+  {
+    "site": "www.independent.ie",
+    "title": "",
+    "description": "",
+    "url": "http://www.independent.ie/sport/soccer/euro-2016/gareth-bale-proves-the-difference-again-with-crucial-assist-as-wales-squeak-by-northern-ireland-34833490.html"
+  },
+  {
+    "site": "Eurosport",
+    "title": "Wales into last eight after heartbreaking Gareth McAuley own goal for Northern Ireland",
+    "description": "Parc des Princes, Paris – Euro 2016 last 16: Wales 1 (McAuley og 75) Northern Ireland 0",
+    "url": "http://www.eurosport.com/football/euro-2016/2016/france-v-romania-preview-destiny-calling-for-deschamps_sto5661082/story.shtml"
+  },
+  {
+    "site": "mirror",
+    "title": "5 things we learned in Wales 1-0 Northern Ireland",
+    "description": "The game looked to be heading to extra time, only for the unlucky defender to divert Gareth Bale's cross into his own net",
+    "url": "http://www.mirror.co.uk/sport/football/match-reports/wales-1-0-northern-ireland-8266206"
+  },
+  {
+    "site": "The Independent",
+    "title": "Gareth McAuley own goal sends Wales through to Euro 2016 quarter-finals",
+    "description": "It was the cruellest of cuts for Northern Ireland, but even when he does not win games for Wales with goals of his own, Gareth Bale always finds a way and  poor Gareth McAuley will never forget it.",
+    "url": "http://www.independent.co.uk/sport/football/international/wales-vs-northern-ireland-euro-2016-match-report-gareth-bale-mcauley-own-goal-quarter-finals-a7103121.html"
+  },
+  {
+    "site": "www.itv.com",
+    "title": "Euro 2016 highlights and report: Wales 1-0 Northern Ireland",
+    "description": "Wales made the last eight of Euro 2016 as an own goal from Northern Ireland's Gareth McAuley settled a tense Battle of Britain in Paris.\n\nOn one of Europe's grandest football stages at the Parc des Princes, the two sides produced a game that would not have won any beauty contests.",
+    "url": "http://www.itv.com/euro2016/euro-2016-highlights-and-report-wales-1-0-northern-ireland"
+  },
+  {
+    "site": "Football365",
+    "title": "Wales 1-0 Norn Iron: Another Euro own goal - Football365",
+    "description": "Football365 - This is what Britain looks like when we play amongst ourselves. It was rotten fare.",
+    "url": "http://www.football365.com/news/wales-1-0-norn-iron-another-euro-own-goal"
+  },
+  {
+    "site": "Mail Online",
+    "title": "Wales vs Northern Ireland, Euro 2016 LIVE",
+    "description": "Wales and Northern Ireland meet in an historic last 16 fixture at the European Championship, as the two home nations go head-to-head in Paris. AMITAI WINEHOUSE has all the action live.",
+    "url": "http://www.dailymail.co.uk/sport/football/article-3659539/Wales-vs-Northern-Ireland-Euro-2016-live-score-Follow-clash-home-nations-Paris-happens.html"
+  },
+  {
+    "site": "Sports Mole",
+    "title": "Result: Own goal sends Wales into quarter-finals",
+    "description": "Wales make history by reaching the quarter-finals of Euro 2016 thanks to an own goal from Northern Ireland defender Gareth McAuley.",
+    "url": "http://www.sportsmole.co.uk/fb_275488.html"
+  },
+  {
+    "site": "Bleacher Report",
+    "title": "Own Goal Propels Wales to Euro Quarterfinals",
+    "description": "Wales booked their spot in the quarter-finals of UEFA Euro 2016 with a 1-0 win over Northern Ireland on Saturday, as Gareth McAuley put the ball in his own net for the only goal of the match...",
+    "url": "http://bleacherreport.com/articles/2648474-wales-vs-northern-ireland-score-and-twitter-reaction-from-euro-2016"
+  },
+  {
+    "site": "FIFA.com",
+    "title": "Live Scores - UEFA EURO 2016: Wales - Northern Ireland - FIFA.com",
+    "description": "Live Scores - UEFA EURO 2016: Wales - Northern Ireland",
+    "url": "http://www.fifa.com/live-scores/uefaeuro/matches/match=Wales-Northern Ireland-300359973/index.html"
+  },
+  {
+    "site": "en.wikipedia.org",
+    "title": "UEFA Euro 2016 knockout phase - Wikipedia, the free encyclopedia",
+    "description": "",
+    "url": "https://en.wikipedia.org/wiki/UEFA_Euro_2016_knockout_phase#Wales_vs_Northern_Ireland"
+  }
+]

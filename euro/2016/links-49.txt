@@ -1,0 +1,116 @@
+[
+  {
+    "site": "the Guardian",
+    "title": "Welsh fairytale ends as Cristiano Ronaldo takes Portugal to Euro 2016 final",
+    "description": "Cristiano Ronaldo and Nani scored in quick succession after half-time to give Portugal a 2-0 win over Wales in the Euro 2016 semi-final in Lyon",
+    "url": "http://www.theguardian.com/football/2016/jul/06/portugal-wales-euro-2016-match-report"
+  },
+  {
+    "site": "UEFA.com",
+    "title": "Portugal reach EURO final as Wales fairy tale ends - UEFA EURO - News - UEFA.com",
+    "description": "Portugal 2-0 Wales\nCristiano Ronaldo scored one and created another for Nani early in the second half as Fernando Santos's men booked a final spot.",
+    "url": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000450/match=2017905/postmatch/report/"
+  },
+  {
+    "site": "BBC Sport",
+    "title": "Portugal 2-0 Wales",
+    "description": "Wales' historic Euro 2016 run comes to an end at the semi-final stage as Cristiano Ronaldo guides Portugal to the final with a 2-0 win.",
+    "url": "http://www.bbc.co.uk/sport/football/36658962"
+  },
+  {
+    "site": "ESPN.com",
+    "title": "Portugal vs. Wales - Football Match Report - July 6, 2016 - ESPN",
+    "description": "Get a report of the Portugal vs. Wales 2016 European Championship, Semifinals football match.",
+    "url": "http://www.espn.co.uk/football/report?gameId=438156"
+  },
+  {
+    "site": "www.goal.com",
+    "title": "Portugal 2 - 0 Wales Match report - 2016-07-06 European Championship",
+    "description": "Read the full Portugal v Wales European Championship match report from 2016-07-06, including goals, incidents and key moments",
+    "url": "http://www.goal.com/euro2016/en/match/portugal-vs-wales/6vbxltdix858qc8blrdzs5r6x"
+  },
+  {
+    "site": "FourFourTwo",
+    "title": "Portugal 2 Wales 0: Ronaldo shines to book final spot",
+    "description": "Cristiano Ronaldo was instrumental as Portugal reached the Euro 2016 final, ending Wales' incredible run with a 2-0 win in Lyon. The pre-match talk had centered on Ronaldo's showdown with Real Madrid teammate Gareth Bale and it was the Portuguese who shone as his side took another step towards assuaging the pain of their defeat in the 2004 final.",
+    "url": "http://www.fourfourtwo.com/us/news/portugal-2-wales-0-ronaldo-shines-book-final-spot"
+  },
+  {
+    "site": "The Telegraph",
+    "title": "How did Portugal finally send Wales home from Euro 2016 and who won the battle between Ronaldo and Bale?",
+    "description": "Yes, even in spite of the result.",
+    "url": "http://www.telegraph.co.uk/football/2016/07/06/how-did-portugal-finally-send-wales-home-from-euro-2016-and-who/"
+  },
+  {
+    "site": "Independent.ie",
+    "title": "Heartache for Wales as Cristiano Ronaldo books Euro 2016 final spot for Portugal - Independent.ie",
+    "description": "Wales' fairytale run at Euro 2016 ended with Cristiano Ronaldo the architect of Portugal's progress into the final.",
+    "url": "http://www.independent.ie/sport/soccer/euro-2016/heartache-for-wales-as-cristiano-ronaldo-books-euro-2016-final-spot-for-portugal-34863297.html"
+  },
+  {
+    "site": "Eurosport",
+    "title": "Cristiano Ronaldo and Portugal end Wales dream",
+    "description": "Stade des Lumières, Olympique Lyonnais, Euro 2016 semi-final – Portugal 2 (Ronaldo 50, Nani 53) Wales 0",
+    "url": "http://www.eurosport.com/football/euro-2016/2016/portugal-v-wales-live_sto5674018/story.shtml"
+  },
+  {
+    "site": "mirror",
+    "title": "Five things we learned from Portugal 2-0 Wales",
+    "description": "The Real Madrid star opened the scoring early in the second half before Nani doubled their lead shortly after to fire them into final",
+    "url": "http://www.mirror.co.uk/sport/football/match-reports/portugal-2-0-wales-cristiano-8331997"
+  },
+  {
+    "site": "The Independent",
+    "title": "Gareth Bale sets Wales' sights on 2018 World Cup",
+    "description": "Gareth Bale insisted Wales must use their Euro 2016 success as a platform for World Cup qualification after seeing Real Madrid team-mate Cristiano Ronaldo inspire Portugal to semi-final glory in Lyon. Playing in their first major tournament since the 1958 World Cup, Wales saw their hopes of a remarkable run to the final ended by Ronaldo, who scored one and made the other for Nani as Portugal secured a 2-0 victory.",
+    "url": "http://www.independent.co.uk/sport/football/international/portugal-vs-wales-gareth-bale-sets-sights-on-2018-world-cup-after-euro-2016-semi-final-elimination-a7124126.html"
+  },
+  {
+    "site": "www.itv.com",
+    "title": "Euro 2016 match report and highlights: Portugal 2-0 Wales",
+    "description": "Wales' fairytale run at Euro 2016 ended with Cristiano Ronaldo the architect of Portugal's progress into the final.\n\nThe match had been billed in some quarters as a private duel between Real Madrid team-mates Ronaldo and Gareth Bale, and the Portuguese won it hands down after a cagey and scoreless first period.",
+    "url": "http://www.itv.com/euro2016/euro-2016-match-report-and-highlights-portugal-2-0-wales"
+  },
+  {
+    "site": "Football365",
+    "title": "Portugal 2-0 Wales: Ronaldo 1-0 Bale - Football365",
+    "description": "Football365 - Wales' memorable Euro 2016 journey was brought to an end by Portugal and, of course, Ronaldo.",
+    "url": "http://www.football365.com/news/portugal-2-0-wales-ronaldo-1-0-bale"
+  },
+  {
+    "site": "Mail Online",
+    "title": "Portugal 2-0 Wales: Cristiano Ronaldo, Nani net twice in three minutes",
+    "description": "MARTIN SAMUEL AT THE STADE DE LYON: When his team-mates had let him go, when the private party by the corner flag ended, Cristiano Ronaldo remembered his trademark celebration.",
+    "url": "http://www.dailymail.co.uk/sport/football/article-3677777/Portugal-2-0-Wales-Cristiano-Ronaldo-Nani-net-twice-three-minutes-crush-Welsh-hopes-Euro-2016-journey-ends-Lyon.html"
+  },
+  {
+    "site": "Sports Mole",
+    "title": "Result: Portugal end Wales's Euros dream",
+    "description": "Cristiano Ronaldo scores one and sets up another as Portugal reach the final of Euro 2016 with a 2-0 victory over surprise package Wales.",
+    "url": "http://www.sportsmole.co.uk/fb_276236.html"
+  },
+  {
+    "site": "Bleacher Report",
+    "title": "Ronaldo Leads Portugal into Euro 2016 Final",
+    "description": "Cristiano Ronaldo fired Portugal into the final of the 2016 UEFA European Championship on Wednesday night, as his team beat Wales, 2-0, at the Stade de Lyon...",
+    "url": "http://bleacherreport.com/articles/2650476-portugal-vs-wales-score-and-twitter-reaction-from-euro-2016-semifinals"
+  },
+  {
+    "site": "FIFA.com",
+    "title": "Live Scores - UEFA EURO 2016: Portugal - Wales - FIFA.com",
+    "description": "Live Scores - UEFA EURO 2016: Portugal - Wales",
+    "url": "http://www.fifa.com/live-scores/uefaeuro/matches/match=Portugal-Wales-300361515/index.html"
+  },
+  {
+    "site": "en.wikipedia.org",
+    "title": "UEFA Euro 2016 knockout phase - Wikipedia, the free encyclopedia",
+    "description": "",
+    "url": "https://en.wikipedia.org/wiki/UEFA_Euro_2016_knockout_phase#Portugal_vs_Wales"
+  },
+  {
+    "site": "www.nytimes.com",
+    "title": "Portugal Beats Wales at Euro 2016 and Gets Another Shot at Glory",
+    "description": "Portugal, led by Ronaldo, advanced to the final of the European Championships, where it will play the winner of the France-Germany game on Sunday.",
+    "url": "http://www.nytimes.com/2016/07/07/sports/soccer/portugal-wales-semifinal-cristiano-ronaldo-euro-2016.html"
+  }
+]

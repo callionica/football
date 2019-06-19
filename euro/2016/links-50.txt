@@ -1,0 +1,116 @@
+[
+  {
+    "site": "the Guardian",
+    "title": "France get final wish after Antoine Griezmann’s double sinks Germany",
+    "description": "France surged into the Euro 2016 final after Antoine Griezmann scored both goals in a 2-0 win over Germany",
+    "url": "http://www.theguardian.com/football/2016/jul/07/germany-france-euro-2016-match-report"
+  },
+  {
+    "site": "UEFA.com",
+    "title": "Griezmann double takes France through to final - UEFA EURO - News - UEFA.com",
+    "description": "Germany 0-2 France\nAntoine Griezmann took his finals tally to six with a goal in each half as the hosts gave a clinical display to set up a Sunday showdown with Portugal.",
+    "url": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000450/match=2017906/postmatch/report/index.html"
+  },
+  {
+    "site": "BBC Sport",
+    "title": "Germany 0-2 France",
+    "description": "Antoine Griezmann's two goals send France through to the Euro 2016 final as World Cup holders Germany are beaten 2-0 in Marseille.",
+    "url": "http://www.bbc.co.uk/sport/football/36669829"
+  },
+  {
+    "site": "ESPN.com",
+    "title": "Germany vs. France - Football Match Report - July 7, 2016 - ESPN",
+    "description": "Get a report of the Germany vs. France 2016 European Championship, Semifinals football match.",
+    "url": "http://www.espn.co.uk/football/report?gameId=438155"
+  },
+  {
+    "site": "www.goal.com",
+    "title": "Germany 0 - 2 France Match report - 2016-07-07 European Championship",
+    "description": "Read the full Germany v France European Championship match report from 2016-07-07, including goals, incidents and key moments",
+    "url": "http://www.goal.com/euro2016/en/match/germany-vs-france/6ve6rgiwgkk23ghzivoztkrft"
+  },
+  {
+    "site": "FourFourTwo",
+    "title": "Germany 0 France 2: Griezmann double puts hosts in Euro 2016 final",
+    "description": "Antoine Griezmann's double sent host France through to the final of Euro 2016 with a 2-0 win over world champion Germany in Marseille. The opening goal came in first-half stoppage-time through Griezmann's controversial penalty after Germany captain Bastian Schweinsteiger was punished for handling as he attempted to block Patrice Evra's header. Joachim Low's men had the better of the match up until the spot-kick decision, but it posed less of a threat after the break, failing to register a shot on target until injury time as France defended stoutly.",
+    "url": "http://www.fourfourtwo.com/us/news/germany-0-france-2-griezmann-double-puts-hosts-euro-2016-final"
+  },
+  {
+    "site": "The Telegraph",
+    "title": "Germany 0 France 2: Antoine Griezmann's double fires hosts into Euro 2016 final with Portugal",
+    "description": "Fifty eight years of hurt is over.",
+    "url": "http://www.telegraph.co.uk/football/2016/07/07/germany-0-2-france-antoine-griezmanns-double-fires-hosts-into-eu/"
+  },
+  {
+    "site": "Independent.ie",
+    "title": "Antoine Griezmann is the toast of France as his brace sends Germany crashing out - Independent.ie",
+    "description": "Euro 2016 poster boy Antoine Griezmann enhanced his love affair with the French public as his two goals put the hosts into the final with a 2-0 win over Germany.",
+    "url": "http://www.independent.ie/sport/soccer/euro-2016/antoine-griezmann-is-the-toast-of-france-as-his-brace-sends-germany-crashing-out-34866237.html"
+  },
+  {
+    "site": "Eurosport",
+    "title": "France topple Germany to reach Euro 2016 final",
+    "description": "Euro 2016 semi-final, Stade Velodrome – Germany 0 France 2 (Griezmann 45+2 pen, 72)",
+    "url": "http://www.eurosport.com/football/euro-2016/2016/france-topple-germany-to-reach-euro-2016-final_sto5674083/story.shtml"
+  },
+  {
+    "site": "mirror",
+    "title": "Five things we learned from Germany 0-2 France",
+    "description": "The Atletico Madrid marksman scored once in either half to book their place in Sunday's final against Portugal in Paris",
+    "url": "http://www.mirror.co.uk/sport/football/match-reports/germany-0-2-france-antoine-8344097"
+  },
+  {
+    "site": "The Independent",
+    "title": "Antoine Griezmann double seals historic France win",
+    "description": "It has taken France 58 years to defeat Germany when it matters on the football pitch and, following a tumultuous evening in Marseille, they did it with a beaming smile on their face with the exuberance of Antoine Griezmann carrying the hosts into the Euro 2016 final.",
+    "url": "http://www.independent.co.uk/sport/football/international/germany-vs-france-euro-2016-match-report-antoine-griezmann-double-seals-historic-win-over-neighbours-a7125951.html"
+  },
+  {
+    "site": "www.itv.com",
+    "title": "Euro 2016 match report and highlights: Germany 0-2 France",
+    "description": "Euro 2016 poster boy Antoine Griezmann enhanced his love affair with the French public as his two goals put the hosts into the final with a 2-0 win over Germany.\n\nThe 25-year-old Atletico Madrid forward became the highest scorer at a single European Championships since the great Michel Platini scored nine for Les Bleus in 1984.",
+    "url": "http://www.itv.com/euro2016/euro-2016-match-report-and-highlights-germany-0-2-france"
+  },
+  {
+    "site": "Football365",
+    "title": "France 2-0 Germany: Griez the wheels - Football365",
+    "description": "Football365 - Antoine Griezmann scored both goals as France beat Germany 2-0 to book their place in the Euro 2016 final",
+    "url": "http://www.football365.com/news/france-2-0-germany-griez-the-wheels"
+  },
+  {
+    "site": "Mail Online",
+    "title": "Germany 0-2 France: Griezmann's double sees hosts into Euro 2016 final",
+    "description": "IAN LADYMAN AT STADE VELODROME: The Germans always find a way to get it done, don’t they? Not this time. European football's serial achievers found a way to a departure lounge.",
+    "url": "http://www.dailymail.co.uk/sport/football/article-3679487/Germany-0-2-France-Antoine-Griezmann-s-double-sees-hosts-Euro-2016-final.html"
+  },
+  {
+    "site": "Sports Mole",
+    "title": "Result: France see off Germany to reach final",
+    "description": "France book their place in the final of Euro 2016 on home soil courtesy of a 2-0 victory over Germany in Marseille.",
+    "url": "http://www.sportsmole.co.uk/fb_276306.html"
+  },
+  {
+    "site": "Bleacher Report",
+    "title": "Germany vs. France: Score, Twitter Reaction from Euro 2016 Semi-Finals",
+    "description": "Antoine Griezmann fired France to the final of UEFA Euro 2016 with a brace on Thursday, as the hosts beat reigning world champions Germany 2-0 in Marseille...",
+    "url": "http://bleacherreport.com/articles/2650714-germany-vs-france-score-and-twitter-reaction-from-euro-2016-semi-finals"
+  },
+  {
+    "site": "FIFA.com",
+    "title": "Live Scores - UEFA EURO 2016: Germany - France - FIFA.com",
+    "description": "Live Scores - UEFA EURO 2016: Germany - France",
+    "url": "http://www.fifa.com/live-scores/uefaeuro/matches/match=Germany-France-300361557/index.html"
+  },
+  {
+    "site": "en.wikipedia.org",
+    "title": "UEFA Euro 2016 knockout phase - Wikipedia, the free encyclopedia",
+    "description": "",
+    "url": "https://en.wikipedia.org/wiki/UEFA_Euro_2016_knockout_phase#Germany_vs_France"
+  },
+  {
+    "site": "www.nytimes.com",
+    "title": "France Beats Germany to Reach Euro 2016 Final",
+    "description": "Antoine Griezmann scored twice and France moved a step closer to winning another major soccer championship on home soil with its victory over Germany.",
+    "url": "http://www.nytimes.com/2016/07/08/sports/soccer/france-beats-germany-to-reach-euro-2016-final.html"
+  }
+]

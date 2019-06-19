@@ -1,0 +1,104 @@
+[
+  {
+    "site": "BBC Sport",
+    "title": "England 1-1 Russia",
+    "description": "England concede an injury-time equaliser as their Euro 2016 campaign begins with a disappointing draw against Russia.",
+    "url": "http://www.bbc.com/sport/football/36450648"
+  },
+  {
+    "site": "the Guardian",
+    "title": "England denied by Russia’s last-gasp equaliser in Euro 2016 opener",
+    "description": "England looked to have won through Eric Dier’s goal when Vasili Berezutski equalised in injury time to earn a draw for Russia in Marseille",
+    "url": "http://www.theguardian.com/football/2016/jun/11/england-russia-euro-2016-match-report"
+  },
+  {
+    "site": "Mail Online",
+    "title": "England 1-1 Russia, Euro 2016: Vasili Berezutski scores late goal",
+    "description": "A last-gasp Vasili Berezutski goal denied England three points after Eric Dier looked to have given Roy Hodgson's side three points.",
+    "url": "http://www.dailymail.co.uk/sport/football/article-3636506/England-vs-Russia-Euro-2016-LIVE-score.html"
+  },
+  {
+    "site": "www.itv.com",
+    "title": "Euro 2016 Report and Highlights: England 1-1 Russia",
+    "description": "England's failure to learn from previous mistakes allowed Russia to net a stoppage-time leveller, with a lack of cutting edge preventing Roy Hodgson's side starting Euro 2016 with the win their exceptional play deserved.",
+    "url": "http://www.itv.com/euro2016/euro-2016-report-and-highlights-england-1-1-russia"
+  },
+  {
+    "site": "en.wikipedia.org",
+    "title": "UEFA Euro 2016 Group B - Wikipedia, the free encyclopedia",
+    "description": "",
+    "url": "https://en.wikipedia.org/wiki/UEFA_Euro_2016_Group_B#England_vs_Russia"
+  },
+  {
+    "site": "NY Daily News",
+    "title": "Brutal scenes of violence after England's 1-1 draw with Russia",
+    "description": "Fights broke out all day before and soon after Russia earned a 1-1 draw against England.",
+    "url": "http://www.nydailynews.com/sports/soccer/brutal-scenes-violence-england-1-1-draw-russia-article-1.2670029"
+  },
+  {
+    "site": "ESPNFC.com",
+    "title": "England vs. Russia - Football Match Report - June 11, 2016 - ESPN",
+    "description": "",
+    "url": "http://espnfc.com/report?gameId=438201"
+  },
+  {
+    "site": "Bleacher Report",
+    "title": "Leadership Issues Undermine Positive England in Euro Opener",
+    "description": "The last time England faced Russia prior to Euro 2016 was in their unsuccessful qualifying campaign for the 2008 European Championship...",
+    "url": "http://bleacherreport.com/articles/2644370-leadership-issues-undermine-positive-england-in-1-1-euro-2016-opener-with-russia"
+  },
+  {
+    "site": "www.goal.com",
+    "title": "England 1-1 Russia: Wasteful Three Lions miss chance to win | Goal.com",
+    "description": "Vasili Berezutski's late goal earned Russia a 1-1 draw with Roy Hodgson's wasteful England in their Euro 2016 Group B opener in Marseille on Saturday evening",
+    "url": "http://www.goal.com/euro2016/en/article/england-1-1-russia-wasteful-three-lions-miss-chance-to-win/dg5ej76obfl61qer5jj5q5jcl"
+  },
+  {
+    "site": "The Independent",
+    "title": "Russia given suspended disqualification from Euro 2016",
+    "description": "Russia have been handed a suspended disqualification from Euro 2016 by Uefa following the crowd violence inside the Stade Velodrome during the 1-1 draw with England last Saturday.",
+    "url": "http://www.independent.co.uk/sport/football/international/euro-2016-russia-suspended-disqualification-thrown-out-fan-violence-marseille-a7081286.html"
+  },
+  {
+    "site": "RadioTimes",
+    "title": "More than 14m viewers watch England’s 1-1 Euro 2016 draw with Russia on ITV",
+    "description": "England's opening match attracts UK television's biggest audience of the year so far",
+    "url": "http://www.radiotimes.com/news/2016-06-12/more-than-14m-viewers-watch-englands-1-1-euro-2016-draw-with-russia-on-itv"
+  },
+  {
+    "site": "www.thefa.com",
+    "title": "England 1-1 Russia: European Championship match report - England | The FA",
+    "description": "",
+    "url": "http://www.thefa.com/news/england/2016/jun/england-russia-european-championship-match-report"
+  },
+  {
+    "site": "Deadline",
+    "title": "Euro 2016: ITV Scores Record Ratings With England V Russia, But Violence Mars Marseille Match",
+    "description": "England’s 1-1 draw versus Russia on Day Two of the Euro 2016 soccer championship gave ITV the biggest television audience for any program in the UK this year. The match at Marseille’s V…",
+    "url": "http://deadline.com/2016/06/euro-2016-itv-record-ratings-violence-england-russia-marseille-1201771149/"
+  },
+  {
+    "site": "Leicester Mercury",
+    "title": "Frustration as Vardy left on bench as England draw 1-1 vs Russia",
+    "description": "Jamie Vardy was an unused substitute as England were held to a 1-1 draw with Russia in their opening game of Euro 2016.  A stoppage-time goal from Vasili Berezutski cancelled out Eric Dier's opener...",
+    "url": "http://www.leicestermercury.co.uk/Jamie-Vardy-left-bench-England-held-1-1-draw/story-29391161-detail/story.html"
+  },
+  {
+    "site": "Sports Mole",
+    "title": "Result: Vasili Berezutski breaks England hearts",
+    "description": "England are made to regret missed opportunities as they are held to a 1-1 draw by Russia in their opening Group B match of Euro 2016.",
+    "url": "http://www.sportsmole.co.uk/fb_274632.html"
+  },
+  {
+    "site": "Football365",
+    "title": "England 1-1 Russia: Oh for fu... - Football365",
+    "description": "Football365 - England conceded a late equaliser to open their Euro 2016 campaign with a disappointing draw against Russia.",
+    "url": "http://www.football365.com/news/england-1-1-russia-oh-for-fu"
+  },
+  {
+    "site": "Independent.ie",
+    "title": "Russia break English hearts with last-gasp goal in Marseille - Independent.ie",
+    "description": "England's failure to learn from previous mistakes allowed Russia to net a stoppage-time leveller, with a lack of cutting edge preventing Roy Hodgson's side starting Euro 2016 with the w",
+    "url": "http://www.independent.ie/sport/soccer/euro-2016/russia-break-english-hearts-with-lastgasp-goal-in-marseille-34792825.html"
+  }
+]

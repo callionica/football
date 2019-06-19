@@ -1,0 +1,68 @@
+[
+  {
+    "site": "Independent.ie",
+    "title": "Match Report: Hoolahan scores a beauty but Ireland left to rue missed chances in 1-1 with Sweden - Independent.ie",
+    "description": "Better than Euro 2012, but still should have been so much better than a 1-1 draw.",
+    "url": "http://www.independent.ie/sport/soccer/euro-2016/euro-2016-teams/republic-of-ireland/match-report-hoolahan-scores-a-beauty-but-ireland-left-to-rue-missed-chances-in-11-with-sweden-34797223.html"
+  },
+  {
+    "site": "the Guardian",
+    "title": "Republic of Ireland give up draw to Sweden with Ciaran Clark own goal",
+    "description": "After a fine Wes Hoolahan strike gave the Republic of Ireland the lead at the Stade de France, Ciaran Clark headed in a Zlatan Ibrahimovic cross as Sweden secured a 1-1 draw",
+    "url": "http://www.theguardian.com/football/2016/jun/13/republic-of-ireland-sweden-euro-2016-match-report"
+  },
+  {
+    "site": "BBC Sport",
+    "title": "Republic of Ireland 1-1 Sweden",
+    "description": "The Republic of Ireland are denied victory in their first match at Euro 2016 as Ciaran Clark's own goal gives Sweden a draw.",
+    "url": "http://www.bbc.com/sport/football/36457309"
+  },
+  {
+    "site": "UEFA.com",
+    "title": "Clark own goal salvages point for Sweden - UEFA EURO - News - UEFA.com",
+    "description": "Republic of Ireland 1-1 Sweden \nIt looked like Wes Hoolahan was going to give Ireland a first EURO win since 1988, but Ciaran Clark's own goal changed the script.",
+    "url": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017954/postmatch/report/"
+  },
+  {
+    "site": "www.itv.com",
+    "title": "Euro 2016 match report and highlights: Ireland 1-1 Sweden",
+    "description": "Ciaran Clark's own goal snatched a first competitive victory over Sweden from the Republic of Ireland's grasp on another night of heartache at the Stade de France.\n\nIreland looked to be on their way to a first win at the European Championship finals since they beat England in Stuttgart in 1988, courtesy of Wes Hoolahan's fine 48th-minute strike.",
+    "url": "http://www.itv.com/euro2016/euro-2016-match-report-and-highlights-ireland-1-1-sweden"
+  },
+  {
+    "site": "www.goal.com",
+    "title": "Republic of Ireland 1-1 Sweden: Clark own goal denies Boys in Green | Goal.com",
+    "description": "An own goal from Aston Villa defender Ciaran Clark gave Sweden a 1-1 draw with the Republic of Ireland in their opening game of Euro 2016 on Monday afternoon",
+    "url": "http://www.goal.com/euro2016/en/article/republic-of-ireland-1-1-sweden-clark-own-goal-denies-boys-in-green/e2zzv7ywylsq1nmwypq4gbty5"
+  },
+  {
+    "site": "irishmirror",
+    "title": "Ireland 1-1 Sweden: Ciaran Clark own goal costs Martin O'Neill's side victory",
+    "description": "Wes Hoolahan had fired Martin O'Neill's side ahead at the Stade de France but the Boys In Green could not hang on for all three points",
+    "url": "http://www.irishmirror.ie/sport/soccer/match-reports/ireland-1-1-sweden-ciaran-8183344"
+  },
+  {
+    "site": "ESPNFC.com",
+    "title": "Zlatan Ibrahimovic helps save Sweden as Republic of Ireland suffer",
+    "description": "Zlatan Ibrahimovic sparked Sweden into life and saved their Euro 2016 campaign against an enterprising Republic of Ireland, says Nick Ames.",
+    "url": "http://www.espnfc.com/european-championship/74/blog/post/2892321"
+  },
+  {
+    "site": "The Telegraph",
+    "title": "Republic of Ireland 1 Sweden 1, Euro 2016: Own goal cancels out Wes Hoolahan's glorious strike",
+    "description": "",
+    "url": "http://www.telegraph.co.uk/football/2016/06/13/republic-of-ireland-1-sweden-1-euro-2016-own-goal-cancels-out-we/"
+  },
+  {
+    "site": "Sports Mole",
+    "title": "Result: Ireland start with a draw against Sweden",
+    "description": "Ciaran Clark's own goal cancels out Wes Hoolahan's opener as Republic of Ireland start their Euro 2016 campaign with a draw against Sweden at the Stade de France.",
+    "url": "http://www.sportsmole.co.uk/fb_274745.html"
+  },
+  {
+    "site": "en.wikipedia.org",
+    "title": "UEFA Euro 2016 Group E - Wikipedia, the free encyclopedia",
+    "description": "",
+    "url": "https://en.wikipedia.org/wiki/UEFA_Euro_2016_Group_E#Republic_of_Ireland_vs_Sweden"
+  }
+]

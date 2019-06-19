@@ -1,0 +1,104 @@
+[
+  {
+    "site": "the Guardian",
+    "title": "Turkey keep their knockout hopes alive and send Northern Ireland through",
+    "description": "Turkey must wait to discover their fate after 2-0 win over Czech Republic, who bow out, while result confirms Northern Ireland’s progress to the last 16",
+    "url": "http://www.theguardian.com/football/2016/jun/21/czech-republic-turkey-euro-2016-match-report"
+  },
+  {
+    "site": "UEFA.com",
+    "title": "Turkey overpower Czechs to go third - UEFA EURO - News - UEFA.com",
+    "description": "Czech Republic 0-2 Turkey\n Goals from Burak Yılmaz and Ozan Tufan gave Turkey the possibility of a last-16 place while leaving the Czechs down in fourth and out.",
+    "url": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017900/postmatch/report/"
+  },
+  {
+    "site": "BBC Sport",
+    "title": "Czech Republic 0-2 Turkey",
+    "description": "Turkey keep alive hopes of reaching the last 16 of Euro 2016 as they eliminate Czech Republic with victory in Lens.",
+    "url": "http://www.bbc.com/sport/football/36524211"
+  },
+  {
+    "site": "ESPNFC.com",
+    "title": "Czech Republic vs. Turkey - Football Match Report - June 21, 2016 - ESPN",
+    "description": "",
+    "url": "http://espnfc.com/report?gameId=438174"
+  },
+  {
+    "site": "www.goal.com",
+    "title": "Czech Republic 0 - 2 Turkey Match report - 2016-06-21 European Championship",
+    "description": "Read the full Czech Republic v Turkey European Championship match report from 2016-06-21, including goals, incidents and key moments",
+    "url": "http://www.goal.com/euro2016/en/match/czech-republic-vs-turkey/b28s3zpw0ta4lbs4basnvik15"
+  },
+  {
+    "site": "FourFourTwo",
+    "title": "Czech Republic 0 Turkey 2: Burak and Tufan keep Terim's men alive",
+    "description": "Turkey remain in with a chance of reaching the last 16 of Euro 2016 after securing an impressive 2-0 win over Czech Republic in Lens on Tuesday. Fatih Terim's side came into their final Group D encounter without a goal or point to their name, but victory thanks to strikes from Burak Yilmaz and Ozan Tufan lifted them above their opponents and into contention for one of the third-place qualification berths.",
+    "url": "http://www.fourfourtwo.com/us/news/czech-republic-0-turkey-2-burak-and-tufan-keep-terims-men-alive"
+  },
+  {
+    "site": "The Telegraph",
+    "title": "Czech Republic 0 Turkey 2, Euro 2016: Turkish delight confirms Northern Ireland's progression",
+    "description": "Northern Ireland may not have been watching this game or even been aware of its significance.",
+    "url": "http://www.telegraph.co.uk/football/2016/06/21/czech-republic-0-turkey-2-euro-2016-turkish-delights-confirms-no/"
+  },
+  {
+    "site": "Independent.ie",
+    "title": "Qualified! Northern Ireland advance to the last 16 after Turkey do them a big favour - Independent.ie",
+    "description": "Northern Ireland have advanced to the last 16 at Euro 2016, despite losing 1-0 to world champions Germany in Paris earlier on Tuesday night.",
+    "url": "http://www.independent.ie/sport/soccer/euro-2016/qualified-northern-ireland-advance-to-the-last-16-after-turkey-do-them-a-big-favour-34821846.html"
+  },
+  {
+    "site": "Eurosport",
+    "title": "Turkey win over Czech Republic confirms Northern Ireland place in last 16",
+    "description": "Group D, Lens - Czech Republic 0 Turkey 2 (Yilmaz 10', Tufan 65')",
+    "url": "http://www.eurosport.com/football/euro-2016/2016/turkey-win-over-czech-republic-confirms-northern-ireland-place-in-last-16_sto5655476/story.shtml"
+  },
+  {
+    "site": "mirror",
+    "title": "Czech Republic 0-2 Turkey: Burak Yilmaz earns Turks Euro 2016 lifeline",
+    "description": "Turkey clinched third spot in Group D, but now need Belgium to beat Sweden and several combinations of results in Group F to qualify",
+    "url": "http://www.mirror.co.uk/sport/football/match-reports/czech-republic-0-2-turkey-8044861"
+  },
+  {
+    "site": "The Independent",
+    "title": "Czech Republic vs Turkey report: Yilmaz and Tufan give Turkish delight",
+    "description": "Burak Yilmaz and Ozan Tufan strikes gave Turkey a 2-0 win over the Czech Republic that also sent Northern Ireland into the last 16 of Euro 2016. Turkey's first points of the tournament, in their final Group D game in Lens, also gave them hope of progressing to the next stage as one of the best third-placed teams. After defeats by Croatia and Spain, Turkey knew they would have to win by at least two goals to keep their tournament alive. They achieved that with strikes in each half from Yilmaz and Tufan.",
+    "url": "http://www.independent.co.uk/sport/football/international/czech-republic-vs-turkey-match-report-burak-yilmaz-and-ozan-tufan-give-turkish-delight-a7094236.html"
+  },
+  {
+    "site": "www.itv.com",
+    "title": "Euro 2016 match report and highlights: Czech Republic 0-2 Turkey",
+    "description": "Burak Yilmaz and Ozan Tufan fired Turkey to a 2-0 win over the Czech Republic that sent Northern Ireland into the last 16 of Euro 2016.\n\nTurkey's first points of the tournament, in their final Group D game in Lens, also gave them hope of progressing to the next stage as one of the best third-placed teams.",
+    "url": "http://www.itv.com/euro2016/euro-2016-match-report-and-highlights-czech-republic-0-2-turkey"
+  },
+  {
+    "site": "Football365",
+    "title": "Czech Republic 0-2 Turkey: Justice for Norn Iron - Football365",
+    "description": "Football365 - Turkey beat Czech Republic 2-0 to leapfrog them into third - and secure Northern Ireland's place in the last 16.",
+    "url": "http://www.football365.com/news/czech-republic-0-2-turkey-justice-for-norn-iron"
+  },
+  {
+    "site": "Mail Online",
+    "title": "Czech Republic 0-2 Turkey: Ozan Tufan and Burak Yilmaz strike",
+    "description": "Turkey’s teenage star Emre Mor helped keep his country’s last-16 hopes alive and also sent Northern Ireland into delirium, as Turkey beat Czech Republic 2-0.",
+    "url": "http://www.dailymail.co.uk/sport/football/article-3653257/Czech-Republic-0-2-Turkey-Ozan-Tufan-Burak-Yilmaz-strike-Turkey-s-hopes-progressing-alive.html"
+  },
+  {
+    "site": "Sports Mole",
+    "title": "Result: Turkey keep last-16 hopes alive with win",
+    "description": "Turkey remain in the hunt for a last-16 spot at Euro 2016 with a 2-0 victory over Czech Republic in Lens.",
+    "url": "http://www.sportsmole.co.uk/fb_275272.html"
+  },
+  {
+    "site": "FIFA.com",
+    "title": "Live Scores - UEFA EURO 2016: Czech Republic - Turkey - FIFA.com",
+    "description": "Live Scores - UEFA EURO 2016: Czech Republic - Turkey",
+    "url": "http://www.fifa.com/live-scores/uefaeuro/matches/match=Czech-Republic-Turkey-300340750/index.html"
+  },
+  {
+    "site": "en.wikipedia.org",
+    "title": "UEFA Euro 2016 Group D - Wikipedia, the free encyclopedia",
+    "description": "",
+    "url": "https://en.wikipedia.org/wiki/UEFA_Euro_2016_Group_D#Czech_Republic_vs_Turkey"
+  }
+]

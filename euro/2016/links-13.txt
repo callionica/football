@@ -1,0 +1,104 @@
+[
+  {
+    "site": "the Guardian",
+    "title": "Marek Hamsik’s sumptuous strike gives Slovakia the edge over Russia",
+    "description": "Vladimir Weiss and Marek Hamsik put Slovakia 2-0 up and, though Denis Glushakov pulled a goal back for Russia with 10 minutes to go, Slovakia held on to win",
+    "url": "http://www.theguardian.com/football/2016/jun/15/russia-slovakia-euro-2016-match-report"
+  },
+  {
+    "site": "UEFA.com",
+    "title": "Hamšík's Slovakia one-two sends Russia reeling - UEFA EURO - News - UEFA.com",
+    "description": "Russia 1-2 Slovakia\nMarek Hamšík set up one and scored another as Ján Kozák's men slipped from their opponents' clutches, surviving a late siege to get three points.",
+    "url": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017888/postmatch/report/"
+  },
+  {
+    "site": "BBC Sport",
+    "title": "Russia 1-2 Slovakia",
+    "description": "Marek Hamsik scores a stunning goal as Slovakia earn a first win at a European Championship by beating Russia in Lille.",
+    "url": "http://www.bbc.com/sport/football/36476053"
+  },
+  {
+    "site": "ESPNFC.com",
+    "title": "Russia vs. Slovakia - Football Match Report - June 15, 2016 - ESPN",
+    "description": "",
+    "url": "http://espnfc.com/report?gameId=438192"
+  },
+  {
+    "site": "Goal.com",
+    "title": "Slovakia's Marek Hamsik earns Euro 2016 win over Russia - Goal.com",
+    "description": "Slovakia earned their maiden European Championship win as Marek Hamsik starred in a 2-1 Group B victory over Russia on Wednesday..",
+    "url": "http://www.goal.com/en-ar/news/18722/main/2016/06/15/24664262/russia-1-slovakia-2-superb-hamsik-inspires-maiden-euros-win"
+  },
+  {
+    "site": "FourFourTwo",
+    "title": "Russia 1 Slovakia 2: Superb Hamsik inspires maiden Euros win",
+    "description": "Marek Hamsik produced a superb performance to inspire Slovakia to a 2-1 Euro 2016 win over Russia. The Napoli star scored one and set up another for Vladimir Weiss at Stade Pierre-Mauroy in Lille, to give his country their maiden European Championship victory following a 2-1 loss to Wales in their Group B opener.  Hamsik found the net with a stunning strike on the stroke of half-time to give Slovakia a 2-0 lead, 23 minutes after playing provider for Weiss.",
+    "url": "http://www.fourfourtwo.com/sg/news/russia-1-slovakia-2-superb-hamsik-inspires-maiden-euros-win"
+  },
+  {
+    "site": "The Telegraph",
+    "title": "Russia 1 Slovakia 2, Euro 2016: Brilliant Marek Hamsik goal sends Russians towards the brink",
+    "description": "Having run the risk of being forcibly removed from the European Championship thanks to the extreme violence inflicted on opposition supporters by a highly organised hooligan mob fighting in their name, Russia are on the brink of leaving the tournament in embarrassingly timid fashion.",
+    "url": "http://www.telegraph.co.uk/football/2016/06/15/russia-1-slovakia-2-euro-2016-brilliant-marek-hamsik-goal-sends/"
+  },
+  {
+    "site": "Independent.ie",
+    "title": "Slovakia survive late onslaught to edge past Russia - Independent.ie",
+    "description": "Slovakia claimed a 2-1 win against Russia to revive their hopes of reaching the Euro 2016 knock-out stages and leave their opponents on the brink of elimination.",
+    "url": "http://www.independent.ie/sport/soccer/euro-2016/slovakia-survive-late-onslaught-to-edge-past-russia-34804784.html"
+  },
+  {
+    "site": "Eurosport",
+    "title": "Marek Hamsik scores stunner as Slovakia beat Russia",
+    "description": "Stade Pierre-Mauroy, Euro 2016 Group B – Russia 1 (Glushakov, 80) – Slovakia 2 (Weiss 32, Hamsik 45)",
+    "url": "http://www.eurosport.com/football/euro-2016/2016/marek-hamsik-scores-stunner-as-slovakia-beat-russia_sto5647126/story.shtml"
+  },
+  {
+    "site": "mirror",
+    "title": "Russia vs Slovakia live score and goal updates from Euro 2016 Group B clash",
+    "description": "All the headlines surrounding Russia have come off the pitch so far - see if they can provide a positive storyline in Lille here",
+    "url": "http://www.mirror.co.uk/sport/football/match-centre/russia-vs-slovakia-live-score-8044896"
+  },
+  {
+    "site": "The Independent",
+    "title": "Russia fans set off more flares but fall flat as Euro hopes fade",
+    "description": "The apparent incapability of organisers to police this event revealed itself about 80 minutes into the match when another of the Russian flares which had been blasted towards England's players in Marseilles was lit. It flickered red, issued acrid smoke, and went out again. The Russians simultaneously began to sing for the first time because their insipid, anaemic team had actually managed to score.",
+    "url": "http://www.independent.co.uk/sport/football/international/russia-vs-slovakia-yet-another-flare-burns-brightly-but-russian-fans-fade-just-like-their-insipid-a7083756.html"
+  },
+  {
+    "site": "Football365",
+    "title": "Russia 1-2 Slovakia: The Weiss guys - Football365",
+    "description": "Football365 - Marek Hamsik and Vladimir Weiss assisted one another as Slovakia beat a limited Russia side 2-1.",
+    "url": "http://www.football365.com/news/russia-1-2-slovakia-the-weiss-guys"
+  },
+  {
+    "site": "Mail Online",
+    "title": "Russia 1-2 Slovakia, Euro 2016 RESULT: Slutsky's side shocked",
+    "description": "With the threat of disqualification hanging over their heads, Russia continue their Group B campaign against Slovakia on Wednesday. Join Sportmail's BEN NAGLE for all the action.",
+    "url": "http://www.dailymail.co.uk/sport/football/article-3642578/Russia-v-Slovakia-Euro-2016-LIVE-score-Slutsky-s-risk-disqualification.html"
+  },
+  {
+    "site": "Sports Mole",
+    "title": "Result: Slovakia overcome Russia in Group B",
+    "description": "Vladimir Weiss and Marek Hamsik score the goals as Slovakia record a 2-1 win over Russia in their Euro 2016 Group B clash in Lille.",
+    "url": "http://www.sportsmole.co.uk/fb_274855.html"
+  },
+  {
+    "site": "Bleacher Report",
+    "title": "Russia vs. Slovakia: Score and Twitter Reaction from Euro 2016",
+    "description": "Slovakia's Marek Hamsik reminded the world that he is one of the brightest stars at Euro 2016 after scoring a brilliant goal and assisting another in Slovakia's 2-1 win over Russia...",
+    "url": "http://bleacherreport.com/articles/2646454-russia-vs-slovakia-score-and-twitter-reaction-from-euro-2016"
+  },
+  {
+    "site": "FIFA.com",
+    "title": "Live Scores - UEFA EURO 2016: Russia - Slovakia - FIFA.com",
+    "description": "Live Scores - UEFA EURO 2016: Russia - Slovakia",
+    "url": "http://www.fifa.com/live-scores/uefaeuro/matches/match=Russia-Slovakia-300340736/index.html"
+  },
+  {
+    "site": "en.wikipedia.org",
+    "title": "UEFA Euro 2016 Group B - Wikipedia, the free encyclopedia",
+    "description": "",
+    "url": "https://en.wikipedia.org/wiki/UEFA_Euro_2016_Group_B#Russia_vs_Slovakia"
+  }
+]

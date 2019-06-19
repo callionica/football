@@ -1,0 +1,104 @@
+[
+  {
+    "site": "the Guardian",
+    "title": "Portugal beat Poland on penalties to reach the semi-finals – as it happened!",
+    "description": "A fine save by Rui Patricio from Jakub Blaszczykowski’s penalty allowed Ricardo Quaresma to strike the decisive kick in the shootout that took Portugal into the semi-finals",
+    "url": "http://www.theguardian.com/football/live/2016/jun/30/poland-portugal-euro-2016-live"
+  },
+  {
+    "site": "UEFA.com",
+    "title": "Draw specialists Portugal beat Poland on penalties - UEFA EURO - News - UEFA.com",
+    "description": "Poland 1-1 Portugal (aet; Portugal win 5-3 on penalties)\nRobert Lewandowski's early goal was cancelled out by 18-year-old Renato Sanches, Rui Patricio saving from Jakub Błaszczykowski in the shoot-out.",
+    "url": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000449/match=2017901/postmatch/report/"
+  },
+  {
+    "site": "BBC Sport",
+    "title": "Poland 1-1 Portugal (3-5 pens)",
+    "description": "Portugal beat Poland on penalties to reach the semi-finals of the European Championship for the fourth time in five tournaments.",
+    "url": "http://www.bbc.com/sport/football/36603665"
+  },
+  {
+    "site": "ESPNFC.com",
+    "title": "Poland vs. Portugal - Football Match Report - June 30, 2016 - ESPN",
+    "description": "Get a report of the Poland vs. Portugal 2016 European Championship, Quarterfinals football match.",
+    "url": "http://espnfc.com/report?gameId=438160"
+  },
+  {
+    "site": "www.goal.com",
+    "title": "Poland 1 - 1 Portugal Match report - 2016-06-30 European Championship",
+    "description": "Read the full Poland v Portugal European Championship match report from 2016-06-30, including goals, incidents and key moments",
+    "url": "http://www.goal.com/euro2016/en/match/poland-vs-portugal/21h75p6syksbispnu72ccho89"
+  },
+  {
+    "site": "FourFourTwo",
+    "title": "Poland 1 Portugal 1 (aet, 3-5 pens): Heartbreak for Blaszczykowski as Santos' men sneak into the semis",
+    "description": "Ricardo Quaresma was Portugal's hero for the second game running as he capitalised on Jakub Blaszczykowski's missed spot-kick to seal a 5-3 penalty shootout win over Poland in the Euro 2016 quarter-finals. Substitute Quaresma scored the only goal as Portugal, who have reached the semi-finals without winning a game in 90 minutes, defeated Croatia in the last 16.",
+    "url": "http://www.fourfourtwo.com/us/news/poland-1-portugal-1-aet-3-5-pens-heartbreak-blaszczykowski-santos-men-sneak-semis"
+  },
+  {
+    "site": "The Telegraph",
+    "title": "Poland 1 Portugal 1 (Portugal win 5-4 on penalties): Ricardo Quaresma scores decisive penalty after turgid draw in Marseille",
+    "description": "There have been many games when Cristiano Ronaldo has been obliged to carry Portugal to victory, and six previous tournaments he has seen them fall short, but now the biggest star in the European game finds himself in the semi-finals of Euro 2016, with a supporting cast worthy of the name.",
+    "url": "http://www.telegraph.co.uk/football/2016/06/30/poland-1-portugal-1-portugal-win-5-4-on-penalties-ricardo-quares/"
+  },
+  {
+    "site": "Independent.ie",
+    "title": "Cristiano Ronaldo misfires again but Portugal edge Poland on penalties to advance to Euro 2016 semi-final - Independent.ie",
+    "description": "Portugal survived another stuttering performance from their star man Cristiano Ronaldo to book their place in the final four of Euro 2016.",
+    "url": "http://www.independent.ie/sport/soccer/euro-2016/cristiano-ronaldo-misfires-again-but-portugal-edge-poland-on-penalties-to-advance-to-euro-2016-semifinal-34847768.html"
+  },
+  {
+    "site": "mirror",
+    "title": "Poland 1-1 Portugal (Pens 3-5): 5 things we learned",
+    "description": "The stunning spot-kick save allowed Ricardo Quaresma to send Portugal through to the semi-finals",
+    "url": "http://www.mirror.co.uk/sport/football/match-reports/poland-1-1-portugal-8285854"
+  },
+  {
+    "site": "The Independent",
+    "title": "Lewandowski finally gets off the mark, but Portugal beat Poland on penalties",
+    "description": "Portugal, the team that have failed to win any of their games in normal time, will face either Wales or Belgium in the semi-finals of Euro 2016 after overcoming Poland on penalties.  When Rui Patricio saved from Jakub Blaszczykowsi, Cristiano Ronaldo punched the air. Four years ago, in Donetsk, Portugal had been eliminated in a penalty shootout against Spain in which Ronaldo, as the fifth penalty taker did not get to take a kick.",
+    "url": "http://www.independent.co.uk/sport/football/international/poland-portugal-euro-2016-robert-lewandowski-cristiano-ronaldo-a7112346.html"
+  },
+  {
+    "site": "www.itv.com",
+    "title": "Euro 2016 highlights and match report: Poland 1-1 Portugal (3-5 on pens)",
+    "description": "Portugal are the first team through to the Euro 2016 semi-finals after beating Poland in a penalty shootout.\n\nThe quarter-final in Marseille's Stade Velodrome ended 1-1 after 90 minutes and with no goals scored in extra time the match was settled 5-3 on penalties as Ricardo Quaresma struck the winning spot-kick.",
+    "url": "http://www.itv.com/euro2016/euro-2016-highlights-and-match-report-poland-1-1-portugal-4-5-on-pens"
+  },
+  {
+    "site": "Football365",
+    "title": "Poland 1-1 (p) Portugal: Keep on keeping on - Football365",
+    "description": "Football365 - Portugal have reached the semi-finals of the European Championship after a penalties victory over Poland",
+    "url": "http://www.football365.com/news/poland-p-1-1-portugal"
+  },
+  {
+    "site": "Mail Online",
+    "title": "Poland 1-1 Portugal (3-5 on pens): Quaresma the hero again",
+    "description": "IAN LADYMAN AT STADE VELODROME: Cristiano Ronaldo has been here before and made the wrong call. Portugal exited Euro 2012 on penalties to Spain without their great talisman taking a kick.",
+    "url": "http://www.dailymail.co.uk/sport/football/article-3668908/Poland-1-1-Portugal-3-5-pens-Ricardo-Quaresma-hero-winger-keeps-cool-spot-send-Cristiano-Euro-2016-semi-finals.html"
+  },
+  {
+    "site": "Sports Mole",
+    "title": "Result: Portugal beat Poland on penalties",
+    "description": "Portugal beat Poland 5-4 on penalties to reach the semi-finals of Euro 2016.",
+    "url": "http://www.sportsmole.co.uk/fb_275829.html"
+  },
+  {
+    "site": "Bleacher Report",
+    "title": "Portugal Defeats Poland on Penalties at Euro 2016",
+    "description": "Portugal needed penalties to beat Poland on Thursday and advance to the UEFA Euro 2016 semi-finals after  Jakub Blaszczykowski saw his spot-kick saved by Portugal goalkeeper Rui Patricio...",
+    "url": "http://bleacherreport.com/articles/2649415-poland-vs-portugal-score-and-twitter-reaction-from-euro-2016"
+  },
+  {
+    "site": "FIFA.com",
+    "title": "Live Scores - UEFA EURO 2016: Poland - Portugal - FIFA.com",
+    "description": "Live Scores - UEFA EURO 2016: Poland - Portugal",
+    "url": "http://www.fifa.com/live-scores/uefaeuro/matches/match=Poland-Portugal-300360757/index.html"
+  },
+  {
+    "site": "en.wikipedia.org",
+    "title": "UEFA Euro 2016 knockout phase - Wikipedia, the free encyclopedia",
+    "description": "",
+    "url": "https://en.wikipedia.org/wiki/UEFA_Euro_2016_knockout_phase#Poland_vs_Portugal"
+  }
+]

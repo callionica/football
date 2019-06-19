@@ -1,0 +1,104 @@
+[
+  {
+    "site": "the Guardian",
+    "title": "Germany’s Julian Draxler rounds off comfortable win against Slovakia",
+    "description": "Jérôme Boateng, Mario Gómez and Julian Draxler were on target as Germany beat Slovakia 3-0 in their last-16 match",
+    "url": "http://www.theguardian.com/football/2016/jun/26/germany-slovakia-euro-2016-match-report"
+  },
+  {
+    "site": "UEFA.com",
+    "title": "Germany go through the gears to see off Slovakia - UEFA EURO - News - UEFA.com",
+    "description": "Germany 3-0 Slovakia\nNot even a rare missed penalty could stop Germany from matching their record EURO win and setting up a quarter-final against Spain or Italy.",
+    "url": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000744/match=2018000/postmatch/report/index.html"
+  },
+  {
+    "site": "BBC Sport",
+    "title": "Germany 3-0 Slovakia",
+    "description": "World champions Germany overwhelm Slovakia in Lille to set up a Euro 2016 quarter-final against Italy or Spain.",
+    "url": "http://www.bbc.com/sport/football/36569510"
+  },
+  {
+    "site": "ESPNFC.com",
+    "title": "Germany vs. Slovakia - Football Match Summary - June 26, 2016 - ESPN",
+    "description": "Get a summary of the Germany vs. Slovakia football match.",
+    "url": "http://espnfc.com/match?gameId=438164"
+  },
+  {
+    "site": "www.goal.com",
+    "title": "Germany 3 - 0 Slovakia Match report - 26/06/2016 European Championship - Goal.com",
+    "description": "Read the full Germany v Slovakia match report, including goals, incidents, and much more. Have your say on the game in our comments feature.",
+    "url": "http://www.goal.com/en-gb/match/germany-vs-slovakia/2024881/report"
+  },
+  {
+    "site": "FourFourTwo",
+    "title": "Germany 3 Slovakia 0: Spain or Italy await for world champions after comprehensive win",
+    "description": "Germany began to click into top gear as they thrashed Slovakia 3-0 in Lille to book a quarter-final with one of their ghosts of Euros past, Spain or Italy. After being held to a frustrating single-goal victory in their final pool game by a staunch Northern Ireland defence, Germany tore into Group B's third-placed team to assert their standing among the favourites for the trophy. Joachim Low gambled on Jerome Boateng's fitness and the Bayern Munich man rewarded him with a first international goal to put Germany into an early lead.",
+    "url": "http://www.fourfourtwo.com/news/germany-3-slovakia-0-spain-or-italy-await-world-champions-after-comprehensive-win"
+  },
+  {
+    "site": "The Telegraph",
+    "title": "Germany 3 Slovakia 0: World champions stroll into Euro 2016 quarter-finals despite Mesut Ozil penalty miss",
+    "description": "The Mexican waves were going around the Stade Pierre-Mauroy well before this game was over, a measure of the ease with which Germany turned this tricky fixture into a sort of Teutonic village fete.",
+    "url": "http://www.telegraph.co.uk/football/2016/06/26/germany-3-slovakia-0-world-champions-stroll-into-euro-2016-quart/"
+  },
+  {
+    "site": "Independent.ie",
+    "title": "Germany send out warning to Spain and Italy with Slovakia stroll - Independent.ie",
+    "description": "Jerome Boateng's first goal for his country set Germany on their way to the quarter-finals of Euro 2016 with a 3-0 victory against Slovakia in Lille.",
+    "url": "http://www.independent.ie/sport/soccer/euro-2016/germany-send-out-warning-to-spain-and-italy-with-slovakia-stroll-34835120.html"
+  },
+  {
+    "site": "Eurosport",
+    "title": "Germany thrash Slovakia to storm into quarter-finals",
+    "description": "Euro 2016, Lille: Germany 3 (Boateng 8, Gomez 43, Draxler 63) Slovakia 0",
+    "url": "http://www.eurosport.com/football/euro-2016/2016/euro-2016-germany-v-slovakia-live_sto5662475/story.shtml"
+  },
+  {
+    "site": "mirror",
+    "title": "Germany 3-0 Slovakia: 5 things we learned",
+    "description": "Die Mannschaft cruised into the quarter-finals, having gone through none of the problems England endured against Jan Kozak's Slovakian outfit",
+    "url": "http://www.mirror.co.uk/sport/football/match-reports/germany-3-0-slovakia-dominant-8266202"
+  },
+  {
+    "site": "www.itv.com",
+    "title": "Euro 2016 highlights and report: Germany 3-0 Slovakia",
+    "description": "Jerome Boateng's first goal for his country set Germany on their way to the quarter-finals of Euro 2016 with a 3-0 victory against Slovakia in Lille.",
+    "url": "http://www.itv.com/euro2016/euro-2016-highlights-and-report-germany-3-0-slovakia"
+  },
+  {
+    "site": "Football365",
+    "title": "Germany 3-0 Slovakia: F**k, that was impressive - Football365",
+    "description": "Football365 - Germany walked into the quarter-finals with a rampant 3-0 win over Slovakia",
+    "url": "http://www.football365.com/news/germany-3-0-slovakia-jeez-that-was-impressive"
+  },
+  {
+    "site": "Mail Online",
+    "title": "Germany 3-0 Slovakia: World champions send out Euro 2016 warning",
+    "description": "MATT BARLOW AT THE STADE PIERRE-MAUROY: Germany booked their place in the last eight at Euro 2016 after Jerome Boateng, Mario Gomez and Julian Draxler saw off Slovakia.",
+    "url": "http://www.dailymail.co.uk/sport/football/article-3660955/Germany-3-0-Slovakia-World-champions-send-ominous-Euro-2016-warning-Jerome-Boateng-Mario-Gomez-Julian-Draxler-score-complete-performance-Joachim-Low-s-side.html"
+  },
+  {
+    "site": "Sports Mole",
+    "title": "Result: Germany reach QF stage of Euro 2016",
+    "description": "World champions Germany book their spot in the quarter-finals of Euro 2016 after a 3-0 win over Slovakia on Sunday night in Lille.",
+    "url": "http://www.sportsmole.co.uk/fb_275552.html"
+  },
+  {
+    "site": "Bleacher Report",
+    "title": "Germany vs. Slovakia: Score and Twitter Reaction",
+    "description": "World champions Germany put on a masterclass on Sunday, thrashing Slovakia 3-0 in Lille to breeze through to the UEFA Euro 2016 quarter-finals.    Jerome Boateng opened the scoring in sensational style with just eight minutes on the clock...",
+    "url": "http://bleacherreport.com/articles/2648586-germany-vs-slovakia-score-and-twitter-reaction-from-euro-2016"
+  },
+  {
+    "site": "FIFA.com",
+    "title": "Live Scores - UEFA EURO 2016: Germany - Slovakia - FIFA.com",
+    "description": "Live Scores - UEFA EURO 2016: Germany - Slovakia",
+    "url": "http://www.fifa.com/live-scores/uefaeuro/matches/match=Germany-Slovakia-300360268/index.html"
+  },
+  {
+    "site": "en.wikipedia.org",
+    "title": "UEFA Euro 2016 knockout phase - Wikipedia, the free encyclopedia",
+    "description": "",
+    "url": "https://en.wikipedia.org/wiki/UEFA_Euro_2016_knockout_phase#Germany_vs_Slovakia"
+  }
+]

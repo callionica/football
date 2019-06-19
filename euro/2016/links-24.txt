@@ -1,0 +1,110 @@
+[
+  {
+    "site": "the Guardian",
+    "title": "Cristiano Ronaldo’s missed penalty thwarts Portugal against Austria",
+    "description": "Austria held out for a 0-0 draw against Portugal for whom Cristiano Ronaldo endured a frustrating night, missing a penalty, in their Euro 2016 Group F game",
+    "url": "http://www.theguardian.com/football/2016/jun/18/portugal-austria-euro-2016-match-report"
+  },
+  {
+    "site": "UEFA.com",
+    "title": "Austria hold on after Ronaldo penalty miss  - UEFA EURO - News - UEFA.com",
+    "description": "Portugal 0-0 Austria\nCristiano Ronaldo missed a penalty on his landmark night as Austria held on for a spirited Group F draw at Parc des Princes.",
+    "url": "http://www.uefa.com/uefaeuro-finals/season=2016/matches/round=2000448/match=2017961/postmatch/report/"
+  },
+  {
+    "site": "BBC Sport",
+    "title": "Portugal 0-0 Austria",
+    "description": "Cristiano Ronaldo misses a late penalty as Portugal's hopes of reaching the Euro 2016 knockout stages are hit by a draw with Austria.",
+    "url": "http://www.bbc.com/sport/football/36505909"
+  },
+  {
+    "site": "ESPNFC.com",
+    "title": "Portugal vs. Austria - Football Match Report - June 18, 2016 - ESPN",
+    "description": "",
+    "url": "http://espnfc.com/report?gameId=438181"
+  },
+  {
+    "site": "www.goal.com",
+    "title": "Portugal 0 - 0 Austria Match report - 2016-06-18 European Championship",
+    "description": "Read the full Portugal v Austria European Championship match report from 2016-06-18, including goals, incidents and key moments",
+    "url": "http://www.goal.com/euro2016/en/match/portugal-vs-austria/dtxylwfjfcuir98e7xfegu5t5"
+  },
+  {
+    "site": "FourFourTwo",
+    "title": "Portugal 0 Austria 0: Ronaldo endures penalty nightmare on landmark appearance",
+    "description": "Cristiano Ronaldo missed a late penalty on his record-breaking 128th Portugal appearance as Fernando Santos' team were head to a 0-0 draw by Group F rivals Austria at the Parc des Princes. Ronaldo surpassed his country's cap milestone previously held by Luis Figo, who watching on from the stands, but failed to lead his side to a first victory at Euro 2016 as he hit the post with a spot-kick in the 79th minute before having a headed goal correctly disallowed for offside.",
+    "url": "http://www.fourfourtwo.com/sg/news/portugal-0-austria-0-ronaldo-endures-penalty-nightmare-landmark-appearance"
+  },
+  {
+    "site": "The Telegraph",
+    "title": "Portugal vs Austria, Euro 2016:  Cristiano Ronaldo misses penalty as Portuguese stumble to goalless draw",
+    "description": "",
+    "url": "http://www.telegraph.co.uk/football/2016/06/18/portugal-vs-austria-euro-2016---live/"
+  },
+  {
+    "site": "Independent.ie",
+    "title": "Ronaldo misses penalty as Portugal and Austria finish in stalemate - Independent.ie",
+    "description": "Cristiano Ronaldo missed a penalty - and spurned a hatful of other chances - as Portugal were frustrated at Euro 2016 yet again and held 0-0 by Austria.",
+    "url": "http://www.independent.ie/sport/soccer/euro-2016/ronaldo-misses-penalty-as-portugal-and-austria-finish-in-stalemate-34813515.html"
+  },
+  {
+    "site": "Eurosport",
+    "title": "Ronaldo misses penalty as Austria hold Portugal",
+    "description": "Parc des Princes, Group F – Portugal 0 Austria 0",
+    "url": "http://www.eurosport.com/football/euro-2016/2016/ronaldo-misses-penalty-as-austria-hold-portugal_sto5652119/story.shtml"
+  },
+  {
+    "site": "mirror",
+    "title": "Portugal 0-0 Austria: Cristiano Ronaldo misses penalty on frustrating night",
+    "description": "The Real Madrid winger threw everything he could at Austria goalkeeper Robert Almer but could not find the net on another disappointing evening",
+    "url": "http://www.mirror.co.uk/sport/football/news/portugal-0-0-austria-cristiano-8227769"
+  },
+  {
+    "site": "The Independent",
+    "title": "Ronaldo could do no more - but it still was not enough against Austria",
+    "description": "He was inconsolable when the game’s single moment of monumental theatre had come and gone, despite the attempts of lesser mortals to see him right. Luis Nani held out two palms in sympathy but Cristiano Ronaldo didn’t want the gesture. He just shoved him away.",
+    "url": "http://www.independent.co.uk/sport/football/international/portugal-vs-austria-match-report-cristiano-ronaldo-could-do-no-more-but-it-still-was-not-enough-a7089511.html"
+  },
+  {
+    "site": "www.itv.com",
+    "title": "Euro 2016 report and highlights: Portugal 0-0 Austria",
+    "description": "Cristiano Ronaldo missed a penalty - and spurned a hatful of other chances - as Portugal were frustrated at Euro 2016 yet again and held 0-0 by Austria.",
+    "url": "http://www.itv.com/euro2016/euro-2016-report-and-highlights-portugal-0-0-austria"
+  },
+  {
+    "site": "Football365",
+    "title": "Portugal 0-0 Austria: Iceland laughs at Ronaldo - Football365",
+    "description": "Football365 - Cristiano Ronaldo missed a penalty as Portugal drew 0-0 with Austria. Oh Ronnie...",
+    "url": "http://www.football365.com/news/portugal-0-0-austria-iceland-laughs-at-ronaldo"
+  },
+  {
+    "site": "Mail Online",
+    "title": "Portugal 0-0 Austria, Euro 2016 RESULT: Ronaldo misses penalty",
+    "description": "Recap all the action from Parc des Princes following Portugal's 0-0 draw with Austria. Cristiano Ronaldo missed a penalty for Portugal while Nani also squandered chances.",
+    "url": "http://www.dailymail.co.uk/sport/football/article-3647972/Portugal-v-Austria-Euro-2016-LIVE-score-Follow-action-Paris.html"
+  },
+  {
+    "site": "Sports Mole",
+    "title": "Result: Portugal, Austria play out goalless draw",
+    "description": "Cristiano Ronaldo misses from the penalty spot as Portugal draw 0-0 with Austria in Saturday night's Euro 2016 Group F clash in Paris.",
+    "url": "http://www.sportsmole.co.uk/fb_275072.html"
+  },
+  {
+    "site": "Bleacher Report",
+    "title": "Portugal vs. Austria: Score, Twitter Reaction from Euro 2016",
+    "description": "Cristiano Ronaldo missed a late penalty as Portugal were held to a scoreless draw in their Euro 2016 clash against Austria on Saturday night, leaving their chances of winning Group F in serious doubt...",
+    "url": "http://bleacherreport.com/articles/2647042-portugal-vs-austria-score-and-twitter-reaction-from-euro-2016"
+  },
+  {
+    "site": "FIFA.com",
+    "title": "Live Scores - UEFA EURO 2016: Portugal - Austria - FIFA.com",
+    "description": "Live Scores - UEFA EURO 2016: Portugal - Austria",
+    "url": "http://www.fifa.com/live-scores/uefaeuro/matches/match=Portugal-Austria-300340755/index.html"
+  },
+  {
+    "site": "en.wikipedia.org",
+    "title": "UEFA Euro 2016 Group F - Wikipedia, the free encyclopedia",
+    "description": "",
+    "url": "https://en.wikipedia.org/wiki/UEFA_Euro_2016_Group_F#Portugal_vs_Austria"
+  }
+]

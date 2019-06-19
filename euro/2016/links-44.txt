@@ -1,0 +1,116 @@
+[
+  {
+    "site": "the Guardian",
+    "title": "England humiliated as Iceland knock them out of Euro 2016",
+    "description": "England suffered one of the most humiliating defeats in their history after Iceland came from behind to beat them 2-1 and knock them out of the European Championship",
+    "url": "http://www.theguardian.com/football/2016/jun/27/england-iceland-euro-2016-match-report"
+  },
+  {
+    "site": "UEFA.com",
+    "title": "Iceland into quarter-finals after stunning England - UEFA EURO - News - UEFA.com",
+    "description": "England 1-2 Iceland\nAll of the scoring occurred inside the opening 18 minutes as Iceland recovered from a goal down to shock England in their first knockout match.",
+    "url": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000744/match=2018003/postmatch/report/"
+  },
+  {
+    "site": "BBC Sport",
+    "title": "England 1-2 Iceland",
+    "description": "England suffer a humiliating exit from Euro 2016 as they go out to minnows Iceland in the last 16 in Nice.",
+    "url": "http://www.bbc.com/sport/football/36573171"
+  },
+  {
+    "site": "ESPNFC.com",
+    "title": "England vs. Iceland - Football Match Report - June 27, 2016 - ESPN",
+    "description": "Get a report of the England vs. Iceland 2016 European Championship, Round of 16 football match.",
+    "url": "http://espnfc.com/report?gameId=438161"
+  },
+  {
+    "site": "www.goal.com",
+    "title": "England 1 - 2 Iceland Match report - 2016-06-27 European Championship",
+    "description": "Read the full England v Iceland European Championship match report from 2016-06-27, including goals, incidents and key moments",
+    "url": "http://www.goal.com/euro2016/en/match/england-vs-iceland/7h3t6sygv81gt8zj0p67m3uuh"
+  },
+  {
+    "site": "FourFourTwo",
+    "title": "England 1 Iceland 2: Fairytale continues as Hodgson's men crash out",
+    "description": "Iceland's remarkable Euro 2016 story continued as they came from behind to defeat England 2-1 and book a quarter-final meeting with hosts France. The small nation's players and supporters have won an abundance of admirers during their time at the finals, but many expected their tale to come to an end against Roy Hodgson's favourites. And when Wayne Rooney put England ahead with a fourth-minute penalty, it looked as though Iceland had a mountain to climb if they were to extend their stay in France.",
+    "url": "http://www.fourfourtwo.com/news/england-1-iceland-2-fairytale-continues-hodgsons-men-crash-out"
+  },
+  {
+    "site": "The Telegraph",
+    "title": "England 1 Iceland 2, Euro 2016 - Humiliation as Joe Hart clanger sees Roy Hodgson's men crash out in Nice",
+    "description": "Of all the ways to mark the 50th anniversary of England’s glorious summer of 1966, perhaps there was nothing that could better encapsulate the ensuing five decades of decline than losing a European championship knockout tie to a country with a smaller population than Coventry.",
+    "url": "http://www.telegraph.co.uk/football/2016/06/27/england-1-iceland-2-euro-2016---humiliation-as-joe-hart-clanger/"
+  },
+  {
+    "site": "Independent.ie",
+    "title": "BREXIT PART 2: Shambolic England knocked out of Euro 2016 by minnows Iceland - Independent.ie",
+    "description": "Roy Hodgson's men are heading home after Iceland, the smallest nation ever to grace a major tournament, inflicted one of the most humiliating defeats in English football history.",
+    "url": "http://www.independent.ie/sport/soccer/euro-2016/brexit-part-2-shambolic-england-knocked-out-of-euro-2016-by-minnows-iceland-34838370.html"
+  },
+  {
+    "site": "Eurosport",
+    "title": "Euro 2016 - England crash out after Iceland humiliation, Roy Hodgson resigns",
+    "description": "Euro 2016 last 16, Stade de Nice, Nice - England 1 (Rooney 4) Iceland 2 (Sigurdsson 6, Sigthorsson 18).",
+    "url": "http://www.eurosport.com/football/euro-2016/2016/euro-2016-england-v-iceland-preview-can-england-produce-the-goods-against-battling-iceland_sto5663881/story.shtml"
+  },
+  {
+    "site": "mirror",
+    "title": "6 things we learned from England 1-2 Iceland",
+    "description": "No ideas, no conviction and no complaints – Roy Hodgson's men are heading home after a ghastly performance in Nice",
+    "url": "http://www.mirror.co.uk/sport/football/match-reports/england-1-2-iceland-three-8266200"
+  },
+  {
+    "site": "The Independent",
+    "title": "Roy Hodgson resigns as England crash out of Euro 2016 to Iceland",
+    "description": "Roy Hodgson knew what was coming.",
+    "url": "http://www.independent.co.uk/sport/football/international/england-vs-iceland-match-report-roy-hodgson-set-to-leave-as-england-crash-out-of-euro-2016-in-a7106576.html"
+  },
+  {
+    "site": "www.itv.com",
+    "title": "Euro 2016 highlights and match report: England 1-2 Iceland",
+    "description": "Roy Hodgson's men are heading home after Iceland, the smallest nation ever to grace a major tournament, inflicted one of the most humiliating defeats in English football history.\n\nHaving arrived at Euro 2016 among the favourites, falling at the last-16 hurdle to a country the size of Leicester ranks alongside the 1950 World Cup exit to the United States in the embarrassment stakes.",
+    "url": "http://www.itv.com/euro2016/euro-2016-highlights-and-match-report-england-1-2-iceland"
+  },
+  {
+    "site": "Football365",
+    "title": "England 1-2 Iceland: Poundland 1-2 Iceland - Football365",
+    "description": "Football365 - England stumbled out of Euro 2016 with an embarrassing performance in a 2-1 last-16 defeat to Iceland.",
+    "url": "http://www.football365.com/news/england-1-2-iceland-poundland-1-2-iceland"
+  },
+  {
+    "site": "Mail Online",
+    "title": "England 1-2 Iceland: Three Lions crash out despite early Rooney opener",
+    "description": "MARTIN SAMUEL AT STADE DE NICE: A lot of people in England have been trying to turn back time over the last few days – and Roy Hodgson managed to get it all the way back to 1950.",
+    "url": "http://www.dailymail.co.uk/sport/football/article-3662810/England-1-2-Iceland-Three-Lions-crash-Euro-2016-despite-early-Wayne-Rooney-penalty.html"
+  },
+  {
+    "site": "www.thefa.com",
+    "title": "England 1-2 Iceland: UEFA Euro 2016 - England | The FA",
+    "description": "",
+    "url": "http://www.thefa.com/news/england/2016/jun/england-iceland-report-270616"
+  },
+  {
+    "site": "Sports Mole",
+    "title": "Result: Tournament minnows Iceland send England packing",
+    "description": "Iceland battle back from a goal behind at the Stade de Nice to humble England 2-1 at the last-16 stage of Euro 2016 in the nation's finest ever moment.",
+    "url": "http://www.sportsmole.co.uk/fb_275632.html"
+  },
+  {
+    "site": "Bleacher Report",
+    "title": "England vs. Iceland: Score, Twitter Reaction from Euro 2016",
+    "description": "Iceland stunned a poor England side at the Stade de Nice on Monday, coming from behind to win, 2-1, and reach the quarter-finals of UEFA Euro 2016...",
+    "url": "http://bleacherreport.com/articles/2648767-england-vs-iceland-score-and-twitter-reaction-from-euro-2016"
+  },
+  {
+    "site": "FIFA.com",
+    "title": "Live Scores - UEFA EURO 2016: England - Iceland - FIFA.com",
+    "description": "Live Scores - UEFA EURO 2016: England - Iceland",
+    "url": "http://www.fifa.com/live-scores/uefaeuro/matches/match=England-Iceland-300359972/index.html"
+  },
+  {
+    "site": "en.wikipedia.org",
+    "title": "UEFA Euro 2016 knockout phase - Wikipedia, the free encyclopedia",
+    "description": "",
+    "url": "https://en.wikipedia.org/wiki/UEFA_Euro_2016_knockout_phase#England_vs_Iceland"
+  }
+]

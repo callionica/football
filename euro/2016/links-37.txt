@@ -1,0 +1,104 @@
+[
+  {
+    "site": "the Guardian",
+    "title": "Poland hold nerve after Switzerland’s Granit Xhaka blazes penalty wide",
+    "description": "Poland became the first team into the Euro 2016 quarter-finals, winning 5-4 on penalties after a 1-1 draw in which Switzerland’s Xherdan Shaqiri’s superb equaliser proved in vain",
+    "url": "http://www.theguardian.com/football/2016/jun/25/switzerland-poland-euro-2016-match-report"
+  },
+  {
+    "site": "UEFA.com",
+    "title": "Poland edge past Switzerland on penalties - UEFA EURO - News - UEFA.com",
+    "description": "Switzerland 1-1 Poland (aet, Poland win 5-4 on pens)\nGranit Xhaka sent his spot kick wide as Poland got to a first-ever EURO quarter-final despite being pegged back by a super Xherdan Shaqiri strike.",
+    "url": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000744/match=2017996/postmatch/report/"
+  },
+  {
+    "site": "BBC Sport",
+    "title": "Switzerland 1-1 Poland (pens 4-5)",
+    "description": "Poland will meet Portugal in the quarter-finals of Euro 2016 after beating Switzerland on penalties.",
+    "url": "http://www.bbc.com/sport/football/36566078"
+  },
+  {
+    "site": "ESPNFC.com",
+    "title": "Switzerland vs. Poland - Football Match Report - June 25, 2016 - ESPN",
+    "description": "Get a report of the Switzerland vs. Poland 2016 European Championship, Round of 16 football match.",
+    "url": "http://espnfc.com/report?gameId=438168"
+  },
+  {
+    "site": "www.goal.com",
+    "title": "Switzerland 1 - 1 Poland Match report - 25/06/2016 European Championship - Goal.com",
+    "description": "Read the full Switzerland v Poland match report, including goals, incidents, and much more. Have your say on the game in our comments feature.",
+    "url": "http://www.goal.com/en-ie/match/switzerland-vs-poland/2024877/report"
+  },
+  {
+    "site": "FourFourTwo",
+    "title": "Switzerland 1 Poland 1 (aet, 4-5 pens): Xhaka shocker costs Swiss after Shaqiri magic",
+    "description": "Granit Xhaka's woeful spot-kick proved decisive as Poland beat Switzerland 5-4 on penalties to render Xherdan Shaqiri's sublime strike redundant in a 1-1 draw after extra time. With Switzerland trailing 1-0 courtesy of Jakub Blaszczykowski's 39th-minute strike, Shaqiri produced a brilliantly executed bicycle kick to stun Poland and force an additional 30 minutes.",
+    "url": "http://www.fourfourtwo.com/news/switzerland-1-poland-1-aet-4-5-pens-xhaka-shocker-costs-swiss-after-shaqiri-magic"
+  },
+  {
+    "site": "The Telegraph",
+    "title": "Switzerland 1 Poland 1, Euro 2016: Poles win 5-4 on penalties despite Xherdan Shaqiri wonder-goal",
+    "description": "Poland reached the quarter-finals of Euro 2016 after beating Switzerland 5-4 in a penalty shoot-out on Saturday as Jakob Blaszczykowski proved again he has the midas touch.",
+    "url": "http://www.telegraph.co.uk/football/2016/06/25/switzerland-1-poland-1-euro-2016-poles-win-5-4-on-penalties-desp/"
+  },
+  {
+    "site": "Independent.ie",
+    "title": "Poland through to quarter-finals of Euro 2016 after penalty shoot-out win over Swiss - Independent.ie",
+    "description": "Poland reached their first-ever European Championship quarter-final with a penalty shoot-out victory over Switzerland.",
+    "url": "http://www.independent.ie/sport/soccer/euro-2016/poland-through-to-quarterfinals-of-euro-2016-after-penalty-shootout-win-over-swiss-34833328.html"
+  },
+  {
+    "site": "Eurosport",
+    "title": "Poland into quarter-finals after penalty shoot-out win over Switzerland, Granit Xhaka the villain",
+    "description": "Stade Geoffroy Guichard, Saint-Etienne - Switzerland 1 (Shaqiri 82) Poland 1 (Blaszczykowski 39) – Poland win 5-4 on penalties",
+    "url": "http://www.eurosport.com/football/euro-2016/2016/poland-into-quarter-finals-after-penalty-shoot-out-win-over-switzerland-granit-xhaka-the-villain_sto5661068/story.shtml"
+  },
+  {
+    "site": "mirror",
+    "title": "Switzerland 1-1 Poland (Pens: 4-5): 5 things we learned",
+    "description": "Shaqiri's overhead kick sent the game to extra time, but after no goals Xhaka's miss cost Switzerland",
+    "url": "http://www.mirror.co.uk/sport/football/match-reports/switzerland-1-1-poland-pens-8253988"
+  },
+  {
+    "site": "The Independent",
+    "title": "Xherdan Shaqiri goal not enough to save Swiss after Granit Xhaka's shocker",
+    "description": "Granit Xhaka, Arsenal’s £30m summer signing, became the first victim of the 12-yard trial at Euro 2016 when his missed penalty cost Switzerland the chance of their first tournament quarter-final since 1954.",
+    "url": "http://www.independent.co.uk/sport/football/international/switzerland-vs-poland-euro-2016-match-report-xherdan-shaqiri-goal-not-enough-to-save-swiss-after-a7102951.html"
+  },
+  {
+    "site": "www.itv.com",
+    "title": "Euro 2016 highlights and report: Switzerland 1-1 Poland (4-5 on penalties)",
+    "description": "Poland reached their first-ever European Championship quarter-final with a penalty shoot-out victory over Switzerland.\n\nA Jakub Blaszczykowski strike had looked to be enough in normal time for Poland only for Stoke's Xherdan Shaqiri to make it 1-1 with a tremendous athletic volley to send the game into extra-time.",
+    "url": "http://www.itv.com/euro2016/euro-2016-highlights-and-report-switzerland-1-1-poland-4-5-on-penalties"
+  },
+  {
+    "site": "Football365",
+    "title": "Switzerland 1-1 Penalty kings Poland - Football365",
+    "description": "Football365 - Five perfect penalties have taken the Poles into the quarter-finals as Xhaka can't score...",
+    "url": "http://www.football365.com/news/switzerland-1-1-penalty-kings-poland"
+  },
+  {
+    "site": "Mail Online",
+    "title": "Poland v Switzerland LIVE: Follow the Euro 2016 knockout action",
+    "description": "Poland are through to the quarter-finals of a European Championship for the first time in their history after defeating Switzerland 5-4 on penalties in Saint Etienne following a 1-1 draw.",
+    "url": "http://www.dailymail.co.uk/sport/football/article-3659527/Poland-v-Switzerland-Euro-2016-LIVE-score-Follow-opening-16-match-Saint-Etienne-happens.html"
+  },
+  {
+    "site": "Sports Mole",
+    "title": "Result: Poland reach last eight on penalties",
+    "description": "Poland are through to the quarter-finals of Euro 2016 after beating Switzerland in a penalty shootout.",
+    "url": "http://www.sportsmole.co.uk/fb_275480.html"
+  },
+  {
+    "site": "FIFA.com",
+    "title": "Live Scores - UEFA EURO 2016: Switzerland - Poland - FIFA.com",
+    "description": "Live Scores - UEFA EURO 2016: Switzerland - Poland",
+    "url": "http://www.fifa.com/live-scores/uefaeuro/matches/match=Switzerland-Poland-300359970/index.html"
+  },
+  {
+    "site": "en.wikipedia.org",
+    "title": "UEFA Euro 2016 knockout phase - Wikipedia, the free encyclopedia",
+    "description": "",
+    "url": "https://en.wikipedia.org/wiki/UEFA_Euro_2016_knockout_phase#Switzerland_vs_Poland"
+  }
+]

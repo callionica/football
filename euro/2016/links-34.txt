@@ -1,0 +1,110 @@
+[
+  {
+    "site": "the Guardian",
+    "title": "Cristiano Ronaldo sends Portugal through to last 16 after Hungary thriller",
+    "description": "Cristiano Ronaldo found his scoring touch as Portugal drew 3-3 with Hungary in Lyon to finish third in Group F behind group winners Hungary",
+    "url": "http://www.theguardian.com/football/2016/jun/22/hungary-portugal-euro-2016-match-report"
+  },
+  {
+    "site": "UEFA.com",
+    "title": "Ronaldo rescues Portugal in Hungary thriller - UEFA EURO - News - UEFA.com",
+    "description": "Hungary 3-3 Portugal\nCristiano Ronaldo equalised twice on a record-breaking day as Portugal fought back to finish third behind Group F winners Hungary.",
+    "url": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017964/postmatch/report/"
+  },
+  {
+    "site": "BBC Sport",
+    "title": "Hungary 3-3 Portugal",
+    "description": "Cristiano Ronaldo scores twice in a pulsating draw against Hungary as Portugal set up a meeting with Croatia in the last 16 at Euro 2016.",
+    "url": "http://www.bbc.com/sport/football/36535365"
+  },
+  {
+    "site": "ESPNFC.com",
+    "title": "Hungary vs. Portugal - Football Match Report - June 22, 2016 - ESPN",
+    "description": "",
+    "url": "http://espnfc.com/report?gameId=438171"
+  },
+  {
+    "site": "www.goal.com",
+    "title": "Hungary 3 - 3 Portugal Match report - 22/06/16 European Championship - Goal.com",
+    "description": "Read the full Hungary v Portugal match report, including goals, incidents, and much more. Have your say on the game in our comments feature.",
+    "url": "http://www.goal.com/en-india/match/hungary-vs-portugal/2024875/report"
+  },
+  {
+    "site": "FourFourTwo",
+    "title": "Hungary 3 Portugal 3: History-maker Ronaldo salvages place in knockouts",
+    "description": "Cristiano Ronaldo finally found his magic touch on the way to making European Championship history, scoring twice to single-handedly salvage Portugal a place in the Euro 2016 knockout stages after a thrilling 3-3 draw with Hungary.",
+    "url": "http://www.fourfourtwo.com/news/hungary-3-portugal-3-history-maker-ronaldo-salvages-place-knockouts"
+  },
+  {
+    "site": "The Telegraph",
+    "title": "Hungary 3 Portugal 3, Euro 2016: Cristiano Ronaldo scores two equalisers in dramatic draw to set-up round of 16 tie with Croatia",
+    "description": "So, England were narrowly spared a reunion with the winker, although after watching Cristiano Ronaldo’s Portugal make such heavy weather of Hungary on a rollercoaster evening in Lyon, Roy Hodgson might have mixed feelings about facing Iceland instead.",
+    "url": "http://www.telegraph.co.uk/football/2016/06/22/hungary-3-portugal-3-euro-2016-cristiano-ronaldo-scores-two-equa/"
+  },
+  {
+    "site": "Independent.ie",
+    "title": "Ronaldo bags double as Portugal advance following epic draw with Hungary - Independent.ie",
+    "description": "Cristiano Ronaldo broke his Euro 2016 duck as Portugal drew 3-3 with Group F winners Hungary to secure their passage through to the last 16.",
+    "url": "http://www.independent.ie/sport/soccer/euro-2016/ronaldo-bags-double-as-portugal-advance-following-epic-draw-with-hungary-34825026.html"
+  },
+  {
+    "site": "Eurosport",
+    "title": "Cristiano Ronaldo brace sends Portugal through after draw with Hungary",
+    "description": "Group F, Stade des Lumières - Hungary 3 (Gera 22 Dzudszak 47 54) Portugal 3 (Nani 44 Ronaldo 52 63)",
+    "url": "http://www.eurosport.com/football/euro-2016/2016/cristiano-ronaldo-brace-sends-portugal-through-after-draw-with-hungary_sto5657391/story.shtml"
+  },
+  {
+    "site": "mirror",
+    "title": "5 things we learned in Hungary 3-3 Portugal",
+    "description": "Fernando Santos' side came from behind THREE times in Lyon, and a late Iceland goal means they WON'T face England",
+    "url": "http://www.mirror.co.uk/sport/football/match-reports/hungary-3-3-portugal-cristiano-8044855"
+  },
+  {
+    "site": "The Independent",
+    "title": "Cristiano Ronaldo and Balazs Dzsudzsak trade blows in game of the tournament",
+    "description": "When the final whistle blew on a pulsating game here in Lyon it was Portugal again for England, and with Cristiano Ronaldo running into form that seemed ominous. The Portuguese captain’s hitherto miserable tournament seemed to reach a nadir in the morning when he was so aggravated by a TV reporter asking him about Lionel Messi’s latest piece of magic he tossed the offending inquisitor’s microphone into an adjacent lake.",
+    "url": "http://www.independent.co.uk/sport/football/international/hungary-vs-portugal-match-report-euro-2016-cristiano-ronaldo-balazs-dzsudzsak-a7096156.html"
+  },
+  {
+    "site": "www.itv.com",
+    "title": "Euro 2016 match report and highlights: Hungary 3-3 Portugal",
+    "description": "Cristiano Ronaldo broke his Euro 2016 duck as Portugal drew 3-3 with Group F winners Hungary to secure their passage through to the last 16.\n\nPortugal came from behind three times in a breathless tie in Lyon and progress as one of the four best third-placed teams.",
+    "url": "http://www.itv.com/euro2016/euro-2016-match-report-and-highlights-hungary-3-3-portugal"
+  },
+  {
+    "site": "Football365",
+    "title": "Portugal 3-3 Hungary: Ronaldo's back in town - Football365",
+    "description": "Football365 - Cristiano Ronaldo scored twice as Portugal came from behind three times to draw 3-3 with Hungary",
+    "url": "http://www.football365.com/news/portugal-3-3-hungary-ronaldos-back-in-town"
+  },
+  {
+    "site": "Mail Online",
+    "title": "Portugal v Hungary, Euro 2016 LIVE: Follow the Group F action here",
+    "description": "Cristiano Ronaldo scored twice to rescue his Portugal side a 3-3 draw against Group F winners Hungary and book a Euro 2016 last-16 spot against Croatia following a six-goal thriller in Lyon.",
+    "url": "http://www.dailymail.co.uk/sport/football/article-3654488/Portugal-v-Hungary-Euro-2016-LIVE-score-Cristiano-Ronaldo-aims-fire-16-spot-Lyon.html"
+  },
+  {
+    "site": "Sports Mole",
+    "title": "Result: Portugal reach last 16 with draw against Hungary",
+    "description": "Portugal come from behind on three occasions to secure a 3-3 draw with Hungary, but they only finish in third place in Group F.",
+    "url": "http://www.sportsmole.co.uk/fb_275323.html"
+  },
+  {
+    "site": "Bleacher Report",
+    "title": "Why Sanches Should Start Match vs. Hungary",
+    "description": "Frustrated and more than a little deflated by events on Saturday night in Paris, Portugal coach Fernando Santos had a message.    “The next game is a final and we’re going to win it...",
+    "url": "http://bleacherreport.com/articles/2647317-why-renato-sanches-should-start-portugals-must-win-euro-2016-match-vs-hungary"
+  },
+  {
+    "site": "FIFA.com",
+    "title": "Live Scores - UEFA EURO 2016: Hungary - Portugal - FIFA.com",
+    "description": "Live Scores - UEFA EURO 2016: Hungary - Portugal",
+    "url": "http://www.fifa.com/live-scores/uefaeuro/matches/match=Hungary-Portugal-300340764/index.html"
+  },
+  {
+    "site": "en.wikipedia.org",
+    "title": "UEFA Euro 2016 Group F - Wikipedia, the free encyclopedia",
+    "description": "",
+    "url": "https://en.wikipedia.org/wiki/UEFA_Euro_2016_Group_F#Hungary_vs_Portugal"
+  }
+]

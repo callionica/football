@@ -1,0 +1,110 @@
+[
+  {
+    "site": "the Guardian",
+    "title": "Belgium get going as Romelu Lukaku punishes Republic of Ireland",
+    "description": "After being criticised for their defeat to Italy, Belgium were convincing 3-0 winners against the Republic of Ireland, with two goals from Romelu Lukaku and one for Axel Witsel",
+    "url": "http://www.theguardian.com/football/2016/jun/18/belgium-republic-of-ireland-euro-2016-match-report"
+  },
+  {
+    "site": "UEFA.com",
+    "title": "Belgium find best form to beat Ireland - UEFA EURO - News - UEFA.com",
+    "description": "Belgium 3-0 Republic of Ireland\nBelgium dominated and got three goals after half-time, including two from Romelu Lukaku, to kick-start their campaign.",
+    "url": "http://www.uefa.com/uefaeuro-finals/season=2016/matches/round=2000448/match=2017955/postmatch/report/"
+  },
+  {
+    "site": "BBC Sport",
+    "title": "Belgium 3-0 Republic of Ireland",
+    "description": "Romelu Lukaku scores twice as Belgium record a first win at Euro 2016 to damage the Republic of Ireland's chances of progress.",
+    "url": "http://www.bbc.com/sport/football/36505833"
+  },
+  {
+    "site": "ESPNFC.com",
+    "title": "Belgium vs. Republic of Ireland - Football Match Report - June 18, 2016 - ESPN",
+    "description": "",
+    "url": "http://espnfc.com/report?gameId=438183"
+  },
+  {
+    "site": "www.goal.com",
+    "title": "Belgium 3 - 0 Republic of Ireland Match report - 2016-06-18 European Championship",
+    "description": "Read the full Belgium v Republic of Ireland European Championship match report from 2016-06-18, including goals, incidents and key moments",
+    "url": "http://www.goal.com/euro2016/en/match/belgium-vs-republic-of-ireland/3mpn4ut6pj86brls0exrnvf1l"
+  },
+  {
+    "site": "FourFourTwo",
+    "title": "Belgium 3 Republic of Ireland 0: Lukaku brace gets Wilmots' men back on track",
+    "description": "Romelu Lukaku's brace either side of Axel Witsel's goal saw off Republic of Ireland as Belgium got their Euro 2016 challenge back on track with a 3-0 victory. Belgium had been placed among the favourites heading into the finals, but put in a disappointing display in their Group E opener, going down 2-0 to Italy. Saturday's performance in Bordeaux was much more akin to what is expected of a side boasting such fine individual talent and a workmanlike Ireland side struggle to cope.",
+    "url": "http://www.fourfourtwo.com/news/belgium-3-republic-ireland-0-lukaku-brace-gets-wilmots-men-back-track"
+  },
+  {
+    "site": "The Telegraph",
+    "title": "Belgium 3 Republic of Ireland 0: Lukaku double leaves Irish needing win against Italy to progress",
+    "description": "If the Belgium conundrum is not yet solved then at least there is the beginning of a working formula to liberate Euro 2016’s greatest all-star attacking cast and the national team that the Fifa rankings say are second in the world only to Lionel Messi’s Argentina.",
+    "url": "http://www.telegraph.co.uk/football/2016/06/18/belgium-3-republic-of-ireland-0-lukaku-double-leaves-irish-needi/"
+  },
+  {
+    "site": "Independent.ie",
+    "title": "Toothless Ireland blown away by ruthless Belgians in Bordeaux - Independent.ie",
+    "description": "SIXTY nine minutes had elapsed when the Irish fans broke into a rendition of Fields of Athenry.",
+    "url": "http://www.independent.ie/sport/soccer/euro-2016/euro-2016-teams/republic-of-ireland/toothless-ireland-blown-away-by-ruthless-belgians-in-bordeaux-34813015.html"
+  },
+  {
+    "site": "Eurosport",
+    "title": "Euro 2016 Belgium v Ireland key moments",
+    "description": "Read how Belgium beat Republic of Ireland 3-0 in Bordeaux in their Euro 2016 meeting.",
+    "url": "http://www.eurosport.com/football/euro-2016/2016/euro-2016-belgium-v-ireland-latest-irish-under-siege_sto5653007/story.shtml"
+  },
+  {
+    "site": "mirror",
+    "title": "5 things we learned from Belgium 3-0 Republic of Ireland",
+    "description": "The Everton forward scored a second-half brace as Marc Wilmot's men cruised to victory to boost their chances of reaching the last 16",
+    "url": "http://www.mirror.co.uk/sport/football/match-reports/belgium-3-0-republic-ireland-8044879"
+  },
+  {
+    "site": "The Independent",
+    "title": "Belgium defeat leaves Ireland in search of a new hero",
+    "description": "The Republic of Ireland will have to reprise one of the greatest results in their history if they are to reach the knock-out stages of Euro 2016. In Lille, on Wednesday, Martin O’Neill’s team have to beat Italy, who they famously defeated in the 1994 World Cup finals in New Jersey. That seems unlikely in the wake of this comprehensive defeat to a revived Belgian side, but Italy are already guaranteed top spot in Group E and coach Antonio Conte has said he will rest players.",
+    "url": "http://www.independent.co.uk/sport/football/international/belgium-vs-republic-of-ireland-match-report-defeat-leaves-martin-oneills-side-in-search-of-a-new-a7089156.html"
+  },
+  {
+    "site": "www.itv.com",
+    "title": "Belgium rout a reality check for Republic of Ireland, admits Hoolahan",
+    "description": "Wes Hoolahan has admitted the Republic of Ireland's Euro 2016 defeat by Belgium brought him back to earth with a bump just days after he had enjoyed one of the biggest moments of his career.",
+    "url": "http://www.itv.com/euro2016/belgium-rout-a-reality-check-for-republic-of-ireland-admits-hoolahan"
+  },
+  {
+    "site": "Football365",
+    "title": "Belgium 3-0 Rep of Ireland: Italian job needed - Football365",
+    "description": "Football365 - Romelu Lukaku helped Belgium to a comfortable 3-0 victory over the Republic of Ireland in Group E.",
+    "url": "http://www.football365.com/news/belgium-3-0-rep-of-ireland-italian-job-needed"
+  },
+  {
+    "site": "Mail Online",
+    "title": "Ireland v Belgium, Euro 2016 LIVE: Follow the action from Bordeaux",
+    "description": "The Republic of Ireland are chasing their first win at Euro 2016 when they meet Belgium in Bordeaux on Saturday afternoon. ADAM SHERGOLD brings you all the action as it unfolds.",
+    "url": "http://www.dailymail.co.uk/sport/football/article-3647966/Ireland-v-Belgium-Euro-2016-LIVE-score-Follow-action-Bordeaux.html"
+  },
+  {
+    "site": "Sports Mole",
+    "title": "Result: Belgium hit three past Republic of Ireland",
+    "description": "Romelu Lukaku scores twice as Belgium seal their first win at Euro 2016 with a 3-0 triumph over Republic of Ireland in Bordeaux.",
+    "url": "http://www.sportsmole.co.uk/fb_275034.html"
+  },
+  {
+    "site": "Bleacher Report",
+    "title": "Belgium vs. Ireland: Score and Twitter Reaction from Euro 2016",
+    "description": "Belgium rebounded from a frustrating defeat against Italy and moved into second place in Group E of Euro 2016 with an emphatic 3-0 victory over Republic of Ireland on Saturday at the Nouveau Stade de Bordeaux in Bordeaux, France...",
+    "url": "http://bleacherreport.com/articles/2647031-belgium-vs-ireland-score-and-twitter-reaction-from-euro-2016"
+  },
+  {
+    "site": "FIFA.com",
+    "title": "Live Scores - UEFA EURO 2016: Belgium - Republic of Ireland - FIFA.com",
+    "description": "Live Scores - UEFA EURO 2016: Belgium - Republic of Ireland",
+    "url": "http://www.fifa.com/live-scores/uefaeuro/matches/match=Belgium-Republic-of-Ireland-300340763/index.html"
+  },
+  {
+    "site": "en.wikipedia.org",
+    "title": "UEFA Euro 2016 Group E - Wikipedia, the free encyclopedia",
+    "description": "",
+    "url": "https://en.wikipedia.org/wiki/UEFA_Euro_2016_Group_E#Belgium_vs_Republic_of_Ireland"
+  }
+]

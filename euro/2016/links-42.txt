@@ -1,0 +1,110 @@
+[
+  {
+    "site": "the Guardian",
+    "title": "Eden Hazard sparkles as Belgium crush Hungary to set up Wales quarter-final",
+    "description": "Belgium defeated Hungary 4-0 in Toulouse and will play Wales in the quarter-finals in Lille on Friday",
+    "url": "http://www.theguardian.com/football/2016/jun/26/hungary-belgium-euro-2016-match-report"
+  },
+  {
+    "site": "UEFA.com",
+    "title": "Hazard-inspired Belgium blow away Hungary - UEFA EURO - News - UEFA.com",
+    "description": "Hungary 0-4 Belgium\nBelgium set up a quarter-final against Wales with a superb Eden Hazard-inspired display in which he got one of the three late goals.",
+    "url": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000744/match=2018001/postmatch/report/"
+  },
+  {
+    "site": "BBC Sport",
+    "title": "How Hazard inspired Belgium's victory",
+    "description": "Eden Hazard inspires Belgium, who beat Hungary to book a Euro 2016 quarter-final against Wales.",
+    "url": "http://www.bbc.com/sport/live/football/35980598"
+  },
+  {
+    "site": "ESPNFC.com",
+    "title": "Hungary vs. Belgium - Football Match Report - June 26, 2016 - ESPN",
+    "description": "Get a report of the Hungary vs. Belgium 2016 European Championship, Round of 16 football match.",
+    "url": "http://espnfc.com/report?gameId=438163"
+  },
+  {
+    "site": "www.goal.com",
+    "title": "Hungary 0 - 4 Belgium Match report - 2016-06-26 European Championship",
+    "description": "Read the full Hungary v Belgium European Championship match report from 2016-06-26, including goals, incidents and key moments",
+    "url": "http://www.goal.com/euro2016/en/match/hungary-vs-belgium/c19ylv8y3b1bvfn7kaepjzlyh"
+  },
+  {
+    "site": "FourFourTwo",
+    "title": "Hungary 0 Belgium 4: Hazard inspires Wilmots' men into quarter-finals",
+    "description": "Belgium moved into the quarter-finals of Euro 2016 as captain Eden Hazard inspired them to an impressive 4-0 victory over Hungary in Toulouse. Toby Alderweireld's early header - only his second international goal – got the ball rolling as Marc Wilmots' men booked a last-eight tie against Wales next Friday. A brilliant goalkeeping display from 40-year-old Gabor Kiraly kept Hungary in with a chance – the pick of his saves seeing him push Kevin De Bruyne's free-kick on to the crossbar.",
+    "url": "http://www.fourfourtwo.com/us/news/hungary-0-belgium-4-hazard-inspires-wilmots-men-quarter-finals"
+  },
+  {
+    "site": "The Telegraph",
+    "title": "Euro 2016: Hungary 0 Belgium 4 - Alderweireld, Hazard, Batshuayi and Carrasco goals set up quarter final against Wales",
+    "description": "",
+    "url": "http://www.telegraph.co.uk/football/2016/06/26/hungary-v-belgium-euro-2016-live/"
+  },
+  {
+    "site": "Independent.ie",
+    "title": "Belgium hit top form to demolish Hungary ahead of Wales clash - Independent.ie",
+    "description": "Belgium produced their best performance of Euro 2016 to power into the quarter-finals with a convincing 4-0 win over Hungary.",
+    "url": "http://www.independent.ie/sport/soccer/euro-2016/belgium-hit-top-form-to-demolish-hungary-ahead-of-wales-clash-34835470.html"
+  },
+  {
+    "site": "Eurosport",
+    "title": "Euro 2016 - Belgium overwhelm Hungary to progress to quarter-finals",
+    "description": "Stadium Municipal, Toulouse – Hungary 0 – 4 Belgium (Alderweireld 10, Batshuayi 78, Hazard 79, Carrasco 90)",
+    "url": "http://www.eurosport.com/football/euro-2016/2016/euro-2016-hungary-v-belgium-preview-wimots-taking-nothing-for-granted_sto5662792/story.shtml"
+  },
+  {
+    "site": "mirror",
+    "title": "Hungary 0-4 Belgium: 5 things we learned",
+    "description": "The Chelsea star ran the show in Toulouse with a sparkling display as Marc Wilmots' men set up a quarter-final match against Wales",
+    "url": "http://www.mirror.co.uk/sport/football/match-reports/hungary-0-4-belgium-eden-8266201"
+  },
+  {
+    "site": "The Independent",
+    "title": "Eden Hazard shows signs of old to inspire Belgian rout",
+    "description": "Belgium produced their best performance of Euro 2016 to power into the quarter-finals with a convincing 4-0 win over Hungary. Toby Alderweireld set up victory with an early header before the brilliant Eden Hazard teed-up substitute Michy Batshuayi for the second after 78 minutes and then scored a superb solo goal himself. Yannick Carrasco wrapped up victory in Toulouse in injury-time.",
+    "url": "http://www.independent.co.uk/sport/football/international/hungary-vs-belgium-euro-2016-match-report-eden-hazard-shows-signs-of-old-to-inspire-belgian-rout-a7104726.html"
+  },
+  {
+    "site": "www.itv.com",
+    "title": "Euro 2016 highlights and report: Hungary 0-4 Belgium",
+    "description": "Belgium produced their best performance of Euro 2016 to power into the quarter-finals with a convincing 4-0 win over Hungary.",
+    "url": "http://www.itv.com/euro2016/euro-2016-highlights-and-report-hungary-0-3-belgium"
+  },
+  {
+    "site": "Football365",
+    "title": "Belgium 4-0 Hungary: Guess who's back? - Football365",
+    "description": "Football365 - Eden Hazard was magnificent as Belgium thrashed Hungary 4-0 to reach the quarter-finals of Euro 2016",
+    "url": "http://www.football365.com/news/belgium-4-0-hungary-guess-whos-back"
+  },
+  {
+    "site": "Mail Online",
+    "title": "Hungary 0-4 Belgium",
+    "description": "GERRY COX IN TOULOUSE: Belgium are through to the quarter-finals of Euro 2016 after sealing a commanding 4-0 victory over Hungary in the last-16 on Sunday night.",
+    "url": "http://www.dailymail.co.uk/sport/football/article-3661062/Hungary-0-4-Belgium-Eden-Hazard-stars-Red-Devils-run-riot-thumping-victory-reach-Euro-2016-quarter-finals.html"
+  },
+  {
+    "site": "Sports Mole",
+    "title": "Result: Hazard stars as Belgium reach last eight",
+    "description": "Belgium are through to the quarter-finals of Euro 2016 after an impressive 4-0 victory over Hungary in Toulouse.",
+    "url": "http://www.sportsmole.co.uk/fb_275562.html"
+  },
+  {
+    "site": "Bleacher Report",
+    "title": "Hungary vs. Belgium: Live Score, Highlights from Euro 2016",
+    "description": "Latest: QUARTER-FINAL DRAW\nThe final spots in the last eight will be decided on Monday. Spain take on Italy in a battle of two heavyweights at 5 p.m. BST (noo...",
+    "url": "http://bleacherreport.com/articles/2648565-hungary-vs-belgium-live-score-highlights-from-euro-2016"
+  },
+  {
+    "site": "FIFA.com",
+    "title": "Live Scores - UEFA EURO 2016: Hungary - Belgium - FIFA.com",
+    "description": "Live Scores - UEFA EURO 2016: Hungary - Belgium",
+    "url": "http://www.fifa.com/live-scores/uefaeuro/matches/match=Hungary-Belgium-300360415/index.html"
+  },
+  {
+    "site": "en.wikipedia.org",
+    "title": "UEFA Euro 2016 knockout phase - Wikipedia, the free encyclopedia",
+    "description": "",
+    "url": "https://en.wikipedia.org/wiki/UEFA_Euro_2016_knockout_phase#Hungary_vs_Belgium"
+  }
+]

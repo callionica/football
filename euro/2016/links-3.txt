@@ -1,0 +1,80 @@
+[
+  {
+    "site": "BBC Sport",
+    "title": "Wales 2-1 Slovakia",
+    "description": "Hal Robson-Kanu snatches a late winner as Wales beat Slovakia in their Euro 2016 opener in Bordeaux.",
+    "url": "http://www.bbc.com/sport/football/36450646"
+  },
+  {
+    "site": "en.wikipedia.org",
+    "title": "UEFA Euro 2016 Group B - Wikipedia, the free encyclopedia",
+    "description": "",
+    "url": "https://en.wikipedia.org/wiki/UEFA_Euro_2016_Group_B#Wales_vs_Slovakia"
+  },
+  {
+    "site": "the Guardian",
+    "title": "Hal Robson-Kanu strikes to give Wales opening victory over Slovakia",
+    "description": "Hal Robson-Kanu came off the bench to fire Wales to a 2-1 win over Slovakia in the Group B opener in Bordeaux",
+    "url": "http://www.theguardian.com/football/2016/jun/11/wales-slovakia-euro-2016-match-report"
+  },
+  {
+    "site": "ESPNFC.com",
+    "title": "Wales vs. Slovakia - Football Match Report - June 11, 2016 - ESPN",
+    "description": "",
+    "url": "http://espnfc.com/report?gameId=438202"
+  },
+  {
+    "site": "UEFA.com",
+    "title": "Wales beat Slovakia to cap dream EURO debut - UEFA EURO - News - UEFA.com",
+    "description": "Wales 2-1 Slovakia\nSubstitute Hal Robson-Kanu scores with nine minutes left to give Wales an opening victory in Group B.",
+    "url": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017880/postmatch/report/index.html"
+  },
+  {
+    "site": "mirror",
+    "title": "Wales 2-1 Slovakia match report",
+    "description": "The Welsh boss opted to play Gareth Bale up top before introducing Hal Robson-Kanu off the bench as both players found the net",
+    "url": "http://www.mirror.co.uk/sport/football/match-reports/wales-2-1-slovakia-colemans-8169179"
+  },
+  {
+    "site": "The Telegraph",
+    "title": "Wales 2 Slovakia 1, Euro 2016: Hal Robson-Kanu makes history for Wales",
+    "description": "",
+    "url": "http://www.telegraph.co.uk/football/2016/06/06/wales-vs-slovakia-euro-2016-live/"
+  },
+  {
+    "site": "The Independent",
+    "title": "Hal Robson-Kanu's late strike seals historic Wales win over Slovakia",
+    "description": "The four minutes of added time were agony, as wave after wave of blue shirts bore down on the goal of rookie ‘keeper Danny Ward, but after 58 years’ waiting it was never going to be easy for Wales. Then the final whistle went and a roar of relief and joy rolled down from the red-shirted stands onto the pitch where the Real Madrid superstar, and blokes who spent last season on loan at MK Dons, on the bench at West Brom, or fighting relegation with Fulham, celebrated together.",
+    "url": "http://www.independent.co.uk/sport/football/international/wales-vs-slovakia-match-report-hal-robson-kanus-late-strike-seals-historic-win-a7077016.html"
+  },
+  {
+    "site": "Bleacher Report",
+    "title": "Wales vs. Slovakia: Score, Twitter Reaction from Euro 2016",
+    "description": "Wales battled to a 2-1 win over Slovakia in their UEFA Euro 2016 opener on Saturday, putting themselves in an excellent position to advance to the knockout stages from Group B...",
+    "url": "http://bleacherreport.com/articles/2645703-wales-vs-slovakia-score-and-twitter-reaction-from-euro-2016"
+  },
+  {
+    "site": "Mail Online",
+    "title": "Wales 2-1 Slovakia, Euro 2016 RESULT: Bale and Co target perfect start",
+    "description": "Chris Coleman's Wales make history on Saturday as they compete in their first ever match at a European Championship finals. Keep up to date with events from Bordeaux with MATT MALTBY.",
+    "url": "http://www.dailymail.co.uk/sport/football/article-3636501/Wales-vs-Slovakia-Euro-2016-LIVE-score-Gareth-Bale-target-perfect-start-Bordeaux.html"
+  },
+  {
+    "site": "Independent.ie",
+    "title": "'It was like a home game' - Gareth Bale praises Welsh fans following victory over Slovakia - Independent.ie",
+    "description": "Wales started their Euro 2016 campaign in style with a 2-1 victory over Slovakia in Bordeaux.",
+    "url": "http://www.independent.ie/sport/soccer/euro-2016/it-was-like-a-home-game-gareth-bale-praises-welsh-fans-following-victory-over-slovakia-34792608.html"
+  },
+  {
+    "site": "reddit",
+    "title": "Match Thread: Wales V Slovakia - Group B Euro 2016 • /r/soccer",
+    "description": "Wales FT: 2-1 Slovakia - Competition: European Championship - Venue: Stade de Bordeaux",
+    "url": "https://www.reddit.com/r/soccer/comments/4nlvv2/match_thread_wales_v_slovakia_group_b_euro_2016/"
+  },
+  {
+    "site": "Eurosport UK",
+    "title": "Euro 2016: Gareth Bale and Robson-Kanu fire Wales to victory against Slovakia",
+    "description": "Substitute Hal Robson-Kanu was the hero for Wales as they kicked off their first appearance at a major international finals in 58 years with a superb 2-1 win over Slovakia in their opening Group B game.",
+    "url": "http://www.eurosport.co.uk/football/euro-2016/2016/wales-v-slovakia-preview-bale-shoots-down-one-man-team-chatter_sto5641492/story.shtml"
+  }
+]

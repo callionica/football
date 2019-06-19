@@ -1,0 +1,110 @@
+[
+  {
+    "site": "the Guardian",
+    "title": "Ivan Perisic stunner for Croatia leaves Spain to face Italy in last 16",
+    "description": "Croatia shocked Spain 2-1 with Ivan Perisic hitting a late winner to leave the holders facing a tricky last-16 tie against Italy at Euro 2016",
+    "url": "http://www.theguardian.com/football/2016/jun/21/croatia-spain-euro-2016-match-report"
+  },
+  {
+    "site": "UEFA.com",
+    "title": "Perišić's late goal means Croatia pip Spain - UEFA EURO - News - UEFA.com",
+    "description": "Croatia 2-1 Spain\nCroatia came from behind to win and top Group D thanks to a dramatic Ivan Perišić goal, leaving Spain to play Italy in a repeat of the 2012 final.",
+    "url": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017899/postmatch/report/"
+  },
+  {
+    "site": "BBC Sport",
+    "title": "Croatia 2-1 Spain",
+    "description": "Spain will play Italy in the last 16 of Euro 2016 after a late Croatia winner condemned them to second in Group D.",
+    "url": "http://www.bbc.com/sport/football/36524210"
+  },
+  {
+    "site": "ESPNFC.com",
+    "title": "Croatia vs. Spain - Football Match Report - June 21, 2016 - ESPN",
+    "description": "",
+    "url": "http://espnfc.com/report?gameId=438173"
+  },
+  {
+    "site": "www.goal.com",
+    "title": "Croatia 2 - 1 Spain Match report - 2016-06-21 European Championship",
+    "description": "Read the full Croatia v Spain European Championship match report from 2016-06-21, including goals, incidents and key moments",
+    "url": "http://www.goal.com/euro2016/en/match/croatia-vs-spain/9udzme2o2kfnr7lnl3menpgx5"
+  },
+  {
+    "site": "FourFourTwo",
+    "title": "Croatia 2 Spain 1: Late Perisic strike wins Group D as Italy await La Roja",
+    "description": "Croatia condemned Spain to their first European Championship defeat in 12 years as a 2-1 victory sent them into Euro 2016's last 16 as Group D winners. Ivan Perisic was the tournament's latest last-gasp hero, marking his 50th cap with a virtuoso performance and an 87th-minute winner that means double-defending champions Spain will play Italy in the next round, having fallen to their first defeat in this tournament since a 1-0 reverse to Portugal at Euro 2004. Both sides knew they would go through before kick-off, and the lack of tension made for an entertaining contest.",
+    "url": "http://www.fourfourtwo.com/news/croatia-2-spain-1-late-perisic-strike-wins-group-d-italy-await-la-roja"
+  },
+  {
+    "site": "The Telegraph",
+    "title": "Croatia 2 Spain 1, Euro 2016: Ivan Perisic stuns European champions with late winner",
+    "description": "That was a long time coming.",
+    "url": "http://www.telegraph.co.uk/football/2016/06/21/croatia-2-spain-1-euro-2016-ivan-persisic-stuns-european-champio/"
+  },
+  {
+    "site": "Independent.ie",
+    "title": "Euro 2016 takes shock turn as Spain stunned by Croatia to set up mouthwatering tie with Italy - Independent.ie",
+    "description": "Ivan Perisic's late goal saw Croatia come from behind to beat defending champions Spain and advance to the knockout stages of Euro 2106 as Group D winners.",
+    "url": "http://www.independent.ie/sport/soccer/euro-2016/euro-2016-takes-shock-turn-as-spain-stunned-by-croatia-to-set-up-mouthwatering-tie-with-italy-34821817.html"
+  },
+  {
+    "site": "Eurosport",
+    "title": "Croatia stun Spain to top Group D, Spain to face Italy in last 16",
+    "description": "Nouveau Stade de Bordeaux, Group D - Croatia 2 (Kalinic 45, Perisic 87) Spain 1 (Morata 7)",
+    "url": "http://www.eurosport.com/football/euro-2016/2016/croatia-stun-spain-to-top-group-d-spain-to-face-italy-in-last-16_sto5656071/story.shtml"
+  },
+  {
+    "site": "mirror",
+    "title": "Croatia 2-1 Spain: Ivan Perisic stuns defending champions - 5 things we learned",
+    "description": "A last-minute winner from Inter's Ivan Perisic shocked two-time champs Spain",
+    "url": "http://www.mirror.co.uk/sport/football/match-reports/croatia-2-1-spain-ivan-8044859"
+  },
+  {
+    "site": "The Independent",
+    "title": "Ivan Perisic's late strike consigns Spanish to second place",
+    "description": "If it was not for the fact that this result pitches Spain into England’s half of the draw, along with Germany, France and Italy, Roy Hodgson would be forgiven a smile of wry satisfaction. Unlike the England manager on Monday Spain’s Vicente del Bosque did not make any changes to his first XI, and they were beaten in the European Championships for the first time in 12 years and a day.",
+    "url": "http://www.independent.co.uk/sport/football/international/croatia-vs-spain-match-report-ivan-perisics-late-strike-consigns-spanish-to-second-place-a7094351.html"
+  },
+  {
+    "site": "www.itv.com",
+    "title": "Euro 2016 match report and highlights: Croatia 2-1 Spain",
+    "description": "Ivan Perisic's late goal saw Croatia come from behind to beat defending champions Spain and advance to the knockout stages of Euro 2106 as Group D winners.\n\nAlvaro Morata's early strike had given Spain the lead but Nikola Kalinic equalised just before half-time before La Roja defender Sergio Ramos saw a penalty saved midway through the second half.",
+    "url": "http://www.itv.com/euro2016/euro-2016-match-report-and-highlights-croatia-2-1-spain"
+  },
+  {
+    "site": "Football365",
+    "title": "Croatia 2-1 Spain: Italy and Conte await - Football365",
+    "description": "Football365 - Spain will face Italy in the Euro 2016 last 16 after falling to a 2-1 defeat to Croatia in Group D.",
+    "url": "http://www.football365.com/news/croatia-2-1-spain-italy-and-conte-await"
+  },
+  {
+    "site": "Mail Online",
+    "title": "Croatia 2-1 Spain: Ivan Perisic sends Croatia to the top of Group D",
+    "description": "IAN LADYMAN AT STADE DE BORDEAUX: One break was all it took. One sprint the length of the field and a shot David de Gea should have kept out, but didn’t, and Spain’s Euro 2016 bid was pitched into chaos.",
+    "url": "http://www.dailymail.co.uk/sport/football/article-3653101/Croatia-2-1-Spain-Ivan-Perisic-sends-Croatia-Group-D-consigns-Spain-clash-Italy-Euro-2016-16.html"
+  },
+  {
+    "site": "Sports Mole",
+    "title": "Result: Croatia beat Spain to top Group D",
+    "description": "Croatia secure first position in Group D courtesy of a 2-1 win over Spain in Tuesday night's Euro 2016 clash in Bordeaux.",
+    "url": "http://www.sportsmole.co.uk/fb_275276.html"
+  },
+  {
+    "site": "Bleacher Report",
+    "title": "Croatia Stun Spain to Top Group D",
+    "description": "Ivan Perisic gave Croatia a shock 2-1 win against Spain  in Group D at UEFA Euro 2016 in  Bordeaux, France, on Tuesday, as the holders collapsed against an inspired opponent...",
+    "url": "http://bleacherreport.com/articles/2647658-croatia-vs-spain-score-and-twitter-reaction-from-euro-2016"
+  },
+  {
+    "site": "FIFA.com",
+    "title": "Live Scores - UEFA EURO 2016: Croatia - Spain - FIFA.com",
+    "description": "Live Scores - UEFA EURO 2016: Croatia - Spain",
+    "url": "http://www.fifa.com/live-scores/uefaeuro/matches/match=Croatia-Spain-300340757/index.html"
+  },
+  {
+    "site": "en.wikipedia.org",
+    "title": "UEFA Euro 2016 Group D - Wikipedia, the free encyclopedia",
+    "description": "",
+    "url": "https://en.wikipedia.org/wiki/UEFA_Euro_2016_Group_D#Croatia_vs_Spain"
+  }
+]

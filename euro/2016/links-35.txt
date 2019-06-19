@@ -1,0 +1,110 @@
+[
+  {
+    "site": "the Guardian",
+    "title": "Robbie Brady’s header earns Ireland win over Italy and last-16 spot",
+    "description": "Robbie Brady scored with an 85th-minute header to earn Republic of Ireland a 1-0 win over Italy and progress to the last 16 at Euro 2016",
+    "url": "http://www.theguardian.com/football/2016/jun/22/italy-republic-of-ireland-euro-2016-match-report"
+  },
+  {
+    "site": "UEFA.com",
+    "title": "Brady sends euphoric Ireland into the last 16 - UEFA EURO - News - UEFA.com",
+    "description": "Italy 0-1 Republic of Ireland \nRobbie Brady's 85th-minute header was enough to give Ireland the victory they required to qualify on a night of high drama in Lille.",
+    "url": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017958/postmatch/report/"
+  },
+  {
+    "site": "BBC Sport",
+    "title": "Italy 0-1 Republic of Ireland",
+    "description": "The Republic of Ireland will play hosts France in the last 16 of Euro 2016 after Robbie Brady heads a late winner against Italy.",
+    "url": "http://www.bbc.com/sport/football/36535314"
+  },
+  {
+    "site": "ESPNFC.com",
+    "title": "Italy vs. Republic of Ireland - Football Match Report - June 22, 2016 - ESPN",
+    "description": "",
+    "url": "http://espnfc.com/report?gameId=438170"
+  },
+  {
+    "site": "www.goal.com",
+    "title": "Italy 0 - 1 Republic of Ireland Match report - 6/22/16 European Championship - Goal.com",
+    "description": "Read the full Italy v Republic of Ireland match report, including goals, incidents, and much more. Have your say on the game in our comments feature.",
+    "url": "http://www.goal.com/en/match/italy-vs-republic-of-ireland/2024869/report"
+  },
+  {
+    "site": "FourFourTwo",
+    "title": "Italy 0 Republic of Ireland 1: Brady the hero as O'Neill's side reach last 16",
+    "description": "Robbie Brady was the Republic of Ireland's hero as his late header earned a 1-0 win over a much-changed Italy to send them through to the last 16 of Euro 2016. Martin O'Neill's side knew it was win or bust in Lille, but it looked like a typically spirited display was not going to be enough until Brady popped up to glance Wes Hoolahan's inch-perfect cross beyond Salvatore Sirigu with five minutes left.",
+    "url": "http://www.fourfourtwo.com/news/italy-0-republic-ireland-1-brady-hero-oneills-side-reach-last-16"
+  },
+  {
+    "site": "The Telegraph",
+    "title": "Republic of Ireland 1 Italy 0, Euro 2016: Late Robbie Brady goal sends delirious Irish into Round of 16",
+    "description": "",
+    "url": "http://www.telegraph.co.uk/football/2016/06/22/republic-of-ireland-vs-italy-euro-2016-live/"
+  },
+  {
+    "site": "Independent.ie",
+    "title": "Match Report: Allez les Verts! Ireland in dreamland as Robbie Brady strikes late to down Italy - Independent.ie",
+    "description": "Ireland are through to the last 16 of Euro 2016 after a historic night in Lille.",
+    "url": "http://www.independent.ie/sport/soccer/euro-2016/match-report-allez-les-verts-ireland-in-dreamland-as-robbie-brady-strikes-late-to-down-italy-34825066.html"
+  },
+  {
+    "site": "Eurosport",
+    "title": "Robbie Brady the hero as Ireland make last 16",
+    "description": "Grand Stade Lille Metropole, Group E – Italy 0 Ireland 1 (Brady 85)",
+    "url": "http://www.eurosport.com/football/euro-2016/2016/robbie-brady-the-hero-as-ireland-make-last-16_sto5657304/story.shtml"
+  },
+  {
+    "site": "mirror",
+    "title": "5 things we learned in Italy 0-1 Republic of Ireland",
+    "description": "Martin O'Neill's men had it all to do going into the final round of fixtures but progress to the last-16 as one of the best third-placed teams",
+    "url": "http://www.mirror.co.uk/sport/football/match-reports/italy-0-1-republic-ireland-8044853"
+  },
+  {
+    "site": "The Independent",
+    "title": "Robbie Brady's late strike seals Irish back-door qualification",
+    "description": "Martin O’Neill was so overwhelmed by the end that he heard the referee’s whistle and made to shake Antonio Conte’s hand, which the Italian accepted. The players stopped and stared at the pair of them. The game still had a minute still to run.",
+    "url": "http://www.independent.co.uk/sport/football/international/italy-vs-republic-of-ireland-match-report-robbie-bradys-late-strike-seals-another-famous-victory-a7096326.html"
+  },
+  {
+    "site": "www.itv.com",
+    "title": "Euro 2016 match report and highlights: Italy 0-1 Republic of Ireland",
+    "description": "Robbie Brady rekindled memories of 1994 when he headed the Republic of Ireland into a dramatic 1-0 victory over Italy to book a dream Euro 2016 showdown with hosts France.\n\nBrady struck with just five minutes remaining to serve up a repeat of the famous night at the Giants Stadium in New Jersey 22 years ago when Jack Charlton's men humbled the Italians.",
+    "url": "http://www.itv.com/euro2016/euro-2016-match-report-and-highlights-italy-0-1-republic-of-ireland"
+  },
+  {
+    "site": "Football365",
+    "title": "Ireland 1-0 Italy: It's history, repeated - Football365",
+    "description": "Football365 - Just like at USA '94, Ireland beat Italy 1-0 and qualified for the knockout stages of Euro 2016",
+    "url": "http://www.football365.com/news/ireland-1-0-italy-its-history-repeated"
+  },
+  {
+    "site": "Mail Online",
+    "title": "Italy 0-1 Republic of Ireland: Robbie Brady scores dramatic winner",
+    "description": "CRAIG HOPE AT STADE PIERRE-MAUROY: They left it late, but Republic of Ireland's remain campaign ended in the most dramatic victory and so they stay in Europe for another five days at least.",
+    "url": "http://www.dailymail.co.uk/sport/football/article-3654952/Republic-Ireland-1-0-Italy-Robbie-Brady-scores-dramatic-late-winner-Euro-2016.html"
+  },
+  {
+    "site": "Sports Mole",
+    "title": "Result: Brady wins it as Rep Ireland advance",
+    "description": "Robbie Brady scores an 85th-minute winner as Republic of Ireland book their spot in the last-16 stage of Euro 2016 with a 1-0 win over Italy in Lille.",
+    "url": "http://www.sportsmole.co.uk/fb_275340.html"
+  },
+  {
+    "site": "Bleacher Report",
+    "title": "Republic of Ireland Beat Italy 1-0 at Euro 2016",
+    "description": "The Republic of Ireland recorded a historic 1-0 win over Italy in Lille, France, on Wednesday to progress to the knockout phase of UEFA Euro 2016. This marks the first time they have reached that stage at the European Championship...",
+    "url": "http://bleacherreport.com/articles/2647862-italy-vs-ireland-score-and-twitter-reaction-from-euro-2016"
+  },
+  {
+    "site": "FIFA.com",
+    "title": "Live Scores - UEFA EURO 2016: Italy - Republic of Ireland - FIFA.com",
+    "description": "Live Scores - UEFA EURO 2016: Italy - Republic of Ireland",
+    "url": "http://www.fifa.com/live-scores/uefaeuro/matches/match=Italy-Republic-of-Ireland-300340762/index.html"
+  },
+  {
+    "site": "en.wikipedia.org",
+    "title": "UEFA Euro 2016 Group E - Wikipedia, the free encyclopedia",
+    "description": "",
+    "url": "https://en.wikipedia.org/wiki/UEFA_Euro_2016_Group_E#Italy_vs_Republic_of_Ireland"
+  }
+]

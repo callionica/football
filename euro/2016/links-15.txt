@@ -1,0 +1,104 @@
+[
+  {
+    "site": "the Guardian",
+    "title": "Euro 2016: France into last 16 after late show against Albania",
+    "description": "France left it late before the substitute Antoine Griezmann and Dimitri Payet earned a 2-0 win against Albania to secure the hosts’ place in the knockout stages",
+    "url": "http://www.theguardian.com/football/2016/jun/15/france-albania-euro-2016-match-report"
+  },
+  {
+    "site": "UEFA.com",
+    "title": "Last-gasp France defeat Albania to reach last 16  - UEFA EURO - News - UEFA.com",
+    "description": "France 2-0 Albania\nThe match was goalless until Antoine Griezmann shattered Albania's resolve with a 90th-minute header, Dimitri Payet then making sure.",
+    "url": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017885/postmatch/report/"
+  },
+  {
+    "site": "BBC Sport",
+    "title": "France 2-0 Albania",
+    "description": "Late goals from Antoine Griezmann and Dimitri Payet help hosts France edge past Albania to reach the Euro 2016 knockout stage.",
+    "url": "http://www.bbc.com/sport/football/36475991"
+  },
+  {
+    "site": "ESPNFC.com",
+    "title": "France vs. Albania - Football Match Report - June 15, 2016 - ESPN",
+    "description": "",
+    "url": "http://espnfc.com/report?gameId=438190"
+  },
+  {
+    "site": "www.goal.com",
+    "title": "France 2-0 Albania: Griezmann & Payet strike late for hosts | Goal.com",
+    "description": "Antoine Griezmann and Dimitri Payet both scored late to give France a 2-0 win over Albania and book their place in the knockout rounds of Euro 2016 on Wednesday",
+    "url": "http://www.goal.com/euro2016/en/article/france-0-0-albania-dogged-underdogs-frustrate-profligate-hosts/lxb7qenqnnr3zz13b2d7xgga"
+  },
+  {
+    "site": "The Telegraph",
+    "title": "France vs Albania, Euro 2016 live: Griezmann and Payet break Albanian hearts in added time",
+    "description": "",
+    "url": "http://www.telegraph.co.uk/football/2016/06/15/france-vs-albania-euro-2016---live/"
+  },
+  {
+    "site": "Independent.ie",
+    "title": "France rally late to see off brave Albania - Independent.ie",
+    "description": "France needed last-gasp goals from Antoine Griezmann and Dimitri Payet to snatch a 2-0 win over Group A minnows Albania and secure their passage to the Round of 16.",
+    "url": "http://www.independent.ie/sport/soccer/euro-2016/france-rally-late-to-see-off-brave-albania-34805812.html"
+  },
+  {
+    "site": "Eurosport",
+    "title": "France leave it late to beat stubborn Albania, qualify for last 16",
+    "description": "Stade Velodrome, Group A – France 2 (Griezmann, 90, Payet, 90) Albania 0",
+    "url": "http://www.eurosport.com/football/euro-2016/2016/preview-pogba-and-griezmann-expected-to-rise-to-the-occasion_sto5646537/story.shtml"
+  },
+  {
+    "site": "mirror",
+    "title": "France vs Albania live score and goal updates",
+    "description": "Les Bleus won on opening night against Romania but Didier Deschamps makes changes as Paul Pogba and Antoine Griezmann are both dropped",
+    "url": "http://www.mirror.co.uk/sport/football/match-centre/france-vs-albania-live-score-8044892"
+  },
+  {
+    "site": "mirror",
+    "title": "France 2-0 Albania: Late double breaks Albanian hearts - 5 things we learned",
+    "description": "Albania looked to have secured a brilliant point until Griezmann's last-minute header broke their resolve and their hearts",
+    "url": "http://www.mirror.co.uk/sport/football/match-reports/france-2-0-albania-late-8044893"
+  },
+  {
+    "site": "The Independent",
+    "title": "France vs Albania - live!",
+    "description": "Welcome to The Independent's live coverage of Wednesday's Group A clash between France and Albania at the Stade Velodrome in Marseille.",
+    "url": "http://www.independent.co.uk/sport/football/international/romania-vs-switzerland-euro-2016-live-latest-score-and-updates-after-defeated-russia-set-off-flare-a7083781.html"
+  },
+  {
+    "site": "Football365",
+    "title": "France 2-0 Albania: Antoine in a million - Football365",
+    "description": "Football365 - Two late goals for France finally helped sink Albania. They keep getting the job done...",
+    "url": "http://www.football365.com/news/france-2-0-albania-antoine-in-a-million"
+  },
+  {
+    "site": "Mail Online",
+    "title": "France vs Albania, Euro 2016 LIVE: Hosts aiming to continue record",
+    "description": "France made it two Euro 2016 wins from two against Albania in Marseille on Wednesday night in Group A after late strikes from Antoine Griezmann and Dimitri Payet.",
+    "url": "http://www.dailymail.co.uk/sport/football/article-3642848/France-v-Albania-Euro-2016-LIVE-score.html"
+  },
+  {
+    "site": "Sports Mole",
+    "title": "Result: France leave it late to beat Albania",
+    "description": "Euro 2016 hosts France score two late goals to beat Albania and book a spot in the last 16.",
+    "url": "http://www.sportsmole.co.uk/fb_274868.html"
+  },
+  {
+    "site": "Bleacher Report",
+    "title": "France vs. Albania: Score and Twitter Reaction from Euro 2016",
+    "description": "France left it very late to beat Albania 2-0 during Wednesday's UEFA Euro 2016 action, booking their spot in the next round in the process...",
+    "url": "http://bleacherreport.com/articles/2646523-france-vs-albania-score-and-twitter-reaction-from-euro-2016"
+  },
+  {
+    "site": "FIFA.com",
+    "title": "Live Scores - UEFA EURO 2016: France - Albania - FIFA.com",
+    "description": "Live Scores - UEFA EURO 2016: France - Albania",
+    "url": "http://www.fifa.com/live-scores/uefaeuro/matches/match=France-Albania-300279077/index.html"
+  },
+  {
+    "site": "en.wikipedia.org",
+    "title": "UEFA Euro 2016 Group A - Wikipedia, the free encyclopedia",
+    "description": "",
+    "url": "https://en.wikipedia.org/wiki/UEFA_Euro_2016_Group_A#France_vs_Albania"
+  }
+]

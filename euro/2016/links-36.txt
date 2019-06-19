@@ -1,0 +1,110 @@
+[
+  {
+    "site": "the Guardian",
+    "title": "Zlatan Ibrahimovic bows out as Sweden are ushered to exit by Belgium",
+    "description": "The curtain fell on Zlatan Ibrahimovic’s international career after Sweden lost 1-0 to Belgium and were eliminated from Euro 2016",
+    "url": "http://www.theguardian.com/football/2016/jun/22/sweden-belgium-euro-2016-match-report"
+  },
+  {
+    "site": "UEFA.com",
+    "title": "Belgium's Nainggolan floors Sweden with late strike - UEFA EURO - News - UEFA.com",
+    "description": "Sweden 0-1 Belgium\nAn entertaining game was level until Radja Nainggolan settled matters with a deflected strike, as the Red Devils clinched second in Group E.",
+    "url": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017957/postmatch/report/"
+  },
+  {
+    "site": "BBC Sport",
+    "title": "Sweden 0-1 Belgium",
+    "description": "Belgium win to reach the last 16 of Euro 2016 and knock Sweden go out, ending Zlatan Ibrahimovic's international career.",
+    "url": "http://www.bbc.com/sport/football/36535313"
+  },
+  {
+    "site": "ESPNFC.com",
+    "title": "Sweden vs. Belgium - Football Match Report - June 22, 2016 - ESPN",
+    "description": "",
+    "url": "http://espnfc.com/report?gameId=438169"
+  },
+  {
+    "site": "www.goal.com",
+    "title": "Sweden 0 - 1 Belgium Match report - 16-06-22 European Championship - Goal.com",
+    "description": "Read the full Sweden v Belgium match report, including goals, incidents, and much more. Have your say on the game in our comments feature.",
+    "url": "http://www.goal.com/en-ca/match/sweden-vs-belgium/2024870/report"
+  },
+  {
+    "site": "FourFourTwo",
+    "title": "Sweden 0 Belgium 1: Ibrahimovic's international career ends with group-stage exit",
+    "description": "Zlatan Ibrahimovic's international career ended in disappointment as Sweden exited Euro 2016 following a 1-0 defeat to Belgium in Nice. The captain revealed ahead of the game that he would be retiring from Sweden duty when they went out of the tournament, a fate that was sealed by Radja Nainggolan's impressive strike six minutes from time. Ibrahimovic and Romelu Lukaku both had goals ruled out in the second half of a match that only caught fire in the closing stages, with Sweden paying the price for their failure to break down Marc Wilmots' men.",
+    "url": "http://www.fourfourtwo.com/news/sweden-0-belgium-1-ibrahimovics-international-career-ends-group-stage-exit"
+  },
+  {
+    "site": "The Telegraph",
+    "title": "Sweden 0 Belgium 1: Zlatan Ibrahimovic bows out with a whimper",
+    "description": "The end, when it came, came with a whimper.",
+    "url": "http://www.telegraph.co.uk/football/2016/06/22/sweden-0-belgium-1-zlatan-ibrahimovic-bows-out-with-a-whimper/"
+  },
+  {
+    "site": "Independent.ie",
+    "title": "Zlatan Ibrahimovic's international career ends in heartache - Independent.ie",
+    "description": "Zlatan Ibrahimovic's international career is over after Sweden exited Euro 2016 following a 1-0 defeat by Belgium in Nice.",
+    "url": "http://www.independent.ie/sport/soccer/euro-2016/zlatan-ibrahimovics-international-career-ends-in-heartache-34825962.html"
+  },
+  {
+    "site": "Eurosport",
+    "title": "Radja Nainggolan sends Belgium through as Sweden crash out, Zlatan Ibrahimovic bows out with loss",
+    "description": "Group E, Allianz Riviera - Sweden 0 Belgium 1 (Nainggolan 84’)",
+    "url": "http://www.eurosport.com/football/euro-2016/2016/euro-2016-sweden-v-belgium-preview-time-for-ibrahimovic-to-step-up-again_sto5657342/story.shtml"
+  },
+  {
+    "site": "mirror",
+    "title": "Sweden 0-1 Belgium: Radja Nainggolan stunner ends Zlatan's international career",
+    "description": "The 84th-minute winner sends Belgium through and Sweden home",
+    "url": "http://www.mirror.co.uk/sport/football/match-reports/sweden-0-1-belgium-radja-8044851"
+  },
+  {
+    "site": "The Independent",
+    "title": "Sweden vs Belgium match report: Nainggolan stunner confirms Belgium's qualification",
+    "description": "There is now just one Swede left at this tournament and Lars Lagerback will be here in Nice on Monday overseeing an Iceland side that has shown far more Viking values than the land of his birth.",
+    "url": "http://www.independent.co.uk/sport/football/international/sweden-vs-belgium-match-report-nainggolan-stunner-confirms-belgiums-qualification-a7096411.html"
+  },
+  {
+    "site": "www.itv.com",
+    "title": "Euro 2016 match report and highlights: Sweden 0-1 Belgium",
+    "description": "Zlatan Ibrahimovic's international career is over after Sweden exited Euro 2016 following a 1-0 defeat by Belgium in Nice.\n\nThe star striker's announcement that the tournament would be his last dominated the build-up to the game, with Ibrahimovic saying in typically understated fashion: \"To finish with a disappointment - never.''",
+    "url": "http://www.itv.com/euro2016/euro-2016-match-report-and-highlights"
+  },
+  {
+    "site": "Football365",
+    "title": "Belgium 1-0 Sweden: Farewell, Zlatan - Football365",
+    "description": "Football365 - Belgium beat Sweden 1-0 in a game that marked Zlatan Ibrahimovic's retirement from international football",
+    "url": "http://www.football365.com/news/belgium-1-0-sweden-farewell-zlatan"
+  },
+  {
+    "site": "Mail Online",
+    "title": "Sweden 0-1 Belgium: MATCH REPORT",
+    "description": "IAN LADYMAN: The ultimate showman and a player who has always been happiest in the epicentre of the drama, Zlatan Ibrahimovic would have hated this.",
+    "url": "http://www.dailymail.co.uk/sport/football/article-3655065/Sweden-0-1-Belgium-Zlatan-Ibrahimovic-bow-Euro-2016-Radja-Nainggolan-scores-screamer-Nice.html"
+  },
+  {
+    "site": "Sports Mole",
+    "title": "Result: Belgium send Sweden home with narrow win",
+    "description": "Belgium secure a narrow 1-0 win over Sweden in Wednesday's Euro 2016 clash to finish second in Group E and send Zlatan Ibrahimovic's team crashing out of the tournament.",
+    "url": "http://www.sportsmole.co.uk/fb_275341.html"
+  },
+  {
+    "site": "Bleacher Report",
+    "title": "Belgium Defeat Sweden 1-0 in Euro 2016",
+    "description": "Radja Nainggolan fired Belgium to the next round of UEFA Euro 2016, as the AS Roma star scored the only goal in the Red Devils' 1-0 win over Sweden on Wednesday...",
+    "url": "http://bleacherreport.com/articles/2647879-sweden-vs-belgium-score-and-twitter-reaction-from-euro-2016"
+  },
+  {
+    "site": "FIFA.com",
+    "title": "Live Scores - UEFA EURO 2016: Sweden - Belgium - FIFA.com",
+    "description": "Live Scores - UEFA EURO 2016: Sweden - Belgium",
+    "url": "http://www.fifa.com/live-scores/uefaeuro/matches/match=Sweden-Belgium-300340754/index.html"
+  },
+  {
+    "site": "en.wikipedia.org",
+    "title": "UEFA Euro 2016 Group E - Wikipedia, the free encyclopedia",
+    "description": "",
+    "url": "https://en.wikipedia.org/wiki/UEFA_Euro_2016_Group_E#Sweden_vs_Belgium"
+  }
+]

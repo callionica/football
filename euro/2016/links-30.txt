@@ -1,0 +1,110 @@
+[
+  {
+    "site": "the Guardian",
+    "title": "Northern Ireland progress after keeping Germany down to a single-goal win",
+    "description": "A first-half goal from Mario Gomez was enough to give Germany a 1-0 win over Northern Ireland in Euro 2016 Group C and mean Michael O’Neill’s men also progress to the last 16",
+    "url": "http://www.theguardian.com/football/2016/jun/21/northern-ireland-germany-euro-2016-match-report"
+  },
+  {
+    "site": "UEFA.com",
+    "title": "Gomez guarantees top spot for Germany - UEFA EURO - News - UEFA.com",
+    "description": "Northern Ireland 0-1 Germany\nMario Gomez's strike was enough to take a profligate Germany through top, though Northern Ireland will join them in the last 16.",
+    "url": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017897/postmatch/report/"
+  },
+  {
+    "site": "BBC Sport",
+    "title": "Northern Ireland 0-1 Germany",
+    "description": "Northern Ireland are beaten by world champions Germany but still advance to the last 16 of Euro 2016 after the Czech Republic lose.",
+    "url": "http://www.bbc.com/sport/football/36524213"
+  },
+  {
+    "site": "ESPNFC.com",
+    "title": "Northern Ireland vs. Germany - Football Match Report - June 21, 2016 - ESPN",
+    "description": "",
+    "url": "http://espnfc.com/report?gameId=438175"
+  },
+  {
+    "site": "www.goal.com",
+    "title": "Northern Ireland 0 - 1 Germany Match report - 2016-06-21 European Championship",
+    "description": "Read the full Northern Ireland v Germany European Championship match report from 2016-06-21, including goals, incidents and key moments",
+    "url": "http://www.goal.com/euro2016/en/match/northern-ireland-vs-germany/am5kver90v9c4ivjsjlq3wfe1"
+  },
+  {
+    "site": "FourFourTwo",
+    "title": "Northern Ireland 0 Germany 1: World champions top group as O'Neill's men await other results",
+    "description": "Mario Gomez's goal wrapped up top spot for Germany in Group C as a 1-0 win at the Parc des Princes left Northern Ireland waiting to find out their own fate at Euro 2016. Having failed to impress in a bore draw against Poland last time out, Joachim Low's side again struggled to hit top gear despite dominating against one of the tournament's biggest underdogs in Paris.",
+    "url": "http://www.fourfourtwo.com/au/news/northern-ireland-0-germany-1-world-champions-top-group-oneills-men-await-other-results"
+  },
+  {
+    "site": "The Telegraph",
+    "title": "Northern Ireland 0 Germany 1, Euro 2016: World champions prevail despite goalkeeping heroics from Michael McGovern",
+    "description": "The unstoppable progress of Germany’s great new millennium generation have taken them to the summit of world football, yet when they come to write the history of this era, there will be a place for a 31-year-old goalkeeper from Enniskillen who spends much of his professional career fishing the ball out the net.",
+    "url": "http://www.telegraph.co.uk/football/2016/06/21/northern-ireland-0-germany-1-euro-2016-world-champions-prevail-d/"
+  },
+  {
+    "site": "Independent.ie",
+    "title": "Northern Ireland on the verge of last 16 place despite loss to Germany - Independent.ie",
+    "description": "Northern Ireland's last-16 chances at Euro 2016 are hanging in the balance following a 1-0 loss to the world champions Germany which may yet see them advance.",
+    "url": "http://www.independent.ie/sport/soccer/euro-2016/northern-ireland-on-the-verge-of-last-16-place-despite-loss-to-germany-34821368.html"
+  },
+  {
+    "site": "Eurosport",
+    "title": "Euro 2016 - Germany beat Northern Ireland to advance as group winners",
+    "description": "Parc des Princes, Group C – Northern Ireland 0 Germany 1 (Gomez 29)",
+    "url": "http://www.eurosport.com/football/euro-2016/2016/euro-2016-germany-beat-northern-ireland-to-advance-as-group-winners_sto5655841/story.shtml"
+  },
+  {
+    "site": "mirror",
+    "title": "5 things we learned from Northern Ireland 0-1 Germany",
+    "description": "Northern Ireland have finished third in Group C on three points with the four best third-placed side progressing to the knockout stages",
+    "url": "http://www.mirror.co.uk/sport/football/match-reports/northern-ireland-0-1-germany-8044863"
+  },
+  {
+    "site": "The Independent",
+    "title": "Northern Ireland vs Germany match report: McGovern heroics keep Irish eyes smiling",
+    "description": "Michael McGovern almost ended Northern Ireland’s Euro 2016 dream with a howler during a 1-1 draw against Hungary last September, yet nine months on, the goalkeeper secured legendary status for his country with a heroic performance against Germany to help secure a second round tie against France or Wales.",
+    "url": "http://www.independent.co.uk/sport/football/international/northern-ireland-vs-germany-match-report-mcgovern-heroics-keep-irish-eyes-smiling-a7094031.html"
+  },
+  {
+    "site": "www.itv.com",
+    "title": "Euro 2016 match report and highlights: Northern Ireland 0-1 Germany",
+    "description": "Northern Ireland's last-16 chances at Euro 2016 are hanging in the balance following a 1-0 loss to the world champions Germany which may yet see them advance.\n\nMario Gomez's first-half finish came amid a flurry of opportunities for the dominant Germans, who had 71 per cent possession, yet a herculean effort from soon-to-be free agent Michael McGovern ensured Michael O'Neill's team finished in third with a goal difference of zero.",
+    "url": "http://www.itv.com/euro2016/euro-2016-match-report-and-highlights-northern-ireland-0-1-germany"
+  },
+  {
+    "site": "Football365",
+    "title": "Northern Ireland 0-1 Germany: Push the button - Football365",
+    "description": "Football365 - Northern Ireland face a wait to discover if they have qualified for the last 16 after losing 1-0 to Germany.",
+    "url": "http://www.football365.com/news/northern-ireland-0-1-germany-push-the-button"
+  },
+  {
+    "site": "Mail Online",
+    "title": "Northern Ireland 0-1 Germany, Euro 2016 LIVE score: Follow the action",
+    "description": "A place in the last-16 of Euro 2016 is at stake as Northern Ireland and Germany go head-to-head in a crunch Group C clash at Parc des Princes. MATT MALTBY brings you all the action.",
+    "url": "http://www.dailymail.co.uk/sport/football/article-3652445/Northern-Ireland-v-Germany-Euro-2016-LIVE-scores-Michael-O-Neill-s-men-bid-historic-win.html"
+  },
+  {
+    "site": "Sports Mole",
+    "title": "Result: Germany claim top spot in Group C",
+    "description": "Germany win Group C courtesy of victory over Northern Ireland, but are limited to just one goal despite a dominant performance in Paris.",
+    "url": "http://www.sportsmole.co.uk/fb_275263.html"
+  },
+  {
+    "site": "Bleacher Report",
+    "title": "Germany Cruise Past Northern Ireland",
+    "description": "Germany made easy work of Northern Ireland in Group C at the Parc des Princes on Tuesday, winning 1-0 as they dominated territory and possession in their final group-stage game at UEFA Euro 2016...",
+    "url": "http://bleacherreport.com/articles/2647612-northern-ireland-vs-germany-score-and-twitter-reaction-from-euro-2016"
+  },
+  {
+    "site": "FIFA.com",
+    "title": "Live Scores - UEFA EURO 2016: Northern Ireland - Germany - FIFA.com",
+    "description": "Live Scores - UEFA EURO 2016: Northern Ireland - Germany",
+    "url": "http://www.fifa.com/live-scores/uefaeuro/matches/match=Northern-Ireland-Germany-300340751/index.html"
+  },
+  {
+    "site": "en.wikipedia.org",
+    "title": "UEFA Euro 2016 Group C - Wikipedia, the free encyclopedia",
+    "description": "",
+    "url": "https://en.wikipedia.org/wiki/UEFA_Euro_2016_Group_C#Northern_Ireland_vs_Germany"
+  }
+]

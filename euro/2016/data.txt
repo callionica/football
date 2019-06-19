@@ -1,0 +1,1571 @@
+{
+  "matches": [
+    {
+      "stage": "Group Stage",
+      "group": "Group A",
+      "stadium": "Stade de France",
+      "city": "Saint-Denis",
+      "home": "FRA",
+      "home-name": "France",
+      "away": "ROU",
+      "away-name": "Romania",
+      "date": "2016-06-10T19:00:00.000Z",
+      "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017877/index.html",
+      "id": "1"
+    },
+    {
+      "stage": "Group Stage",
+      "group": "Group A",
+      "stadium": "Stade Bollaert-Delelis",
+      "city": "Lens Agglo",
+      "home": "ALB",
+      "home-name": "Albania",
+      "away": "SUI",
+      "away-name": "Switzerland",
+      "date": "2016-06-11T13:00:00.000Z",
+      "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017878/index.html",
+      "id": "2"
+    },
+    {
+      "stage": "Group Stage",
+      "group": "Group B",
+      "stadium": "Stade de Bordeaux",
+      "city": "Bordeaux",
+      "home": "WAL",
+      "home-name": "Wales",
+      "away": "SVK",
+      "away-name": "Slovakia",
+      "date": "2016-06-11T16:00:00.000Z",
+      "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017880/index.html",
+      "id": "3"
+    },
+    {
+      "stage": "Group Stage",
+      "group": "Group B",
+      "stadium": "Stade Vélodrome",
+      "city": "Marseille",
+      "home": "ENG",
+      "home-name": "England",
+      "away": "RUS",
+      "away-name": "Russia",
+      "date": "2016-06-11T19:00:00.000Z",
+      "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017879/index.html",
+      "id": "4"
+    },
+    {
+      "stage": "Group Stage",
+      "group": "Group D",
+      "stadium": "Parc des Princes",
+      "city": "Paris",
+      "home": "TUR",
+      "home-name": "Turkey",
+      "away": "CRO",
+      "away-name": "Croatia",
+      "date": "2016-06-12T13:00:00.000Z",
+      "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017884/index.html",
+      "id": "5"
+    },
+    {
+      "stage": "Group Stage",
+      "group": "Group C",
+      "stadium": "Stade de Nice",
+      "city": "Nice",
+      "home": "POL",
+      "home-name": "Poland",
+      "away": "NIR",
+      "away-name": "Northern Ireland",
+      "date": "2016-06-12T16:00:00.000Z",
+      "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017882/index.html",
+      "id": "6"
+    },
+    {
+      "stage": "Group Stage",
+      "group": "Group C",
+      "stadium": "Stade Pierre Mauroy",
+      "city": "Lille Métropole",
+      "home": "GER",
+      "home-name": "Germany",
+      "away": "UKR",
+      "away-name": "Ukraine",
+      "date": "2016-06-12T19:00:00.000Z",
+      "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017881/index.html",
+      "id": "7"
+    },
+    {
+      "stage": "Group Stage",
+      "group": "Group D",
+      "stadium": "Stadium de Toulouse",
+      "city": "Toulouse",
+      "home": "ESP",
+      "home-name": "Spain",
+      "away": "CZE",
+      "away-name": "Czech Republic",
+      "date": "2016-06-13T13:00:00.000Z",
+      "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017883/index.html",
+      "id": "8"
+    },
+    {
+      "stage": "Group Stage",
+      "group": "Group E",
+      "stadium": "Stade de France",
+      "city": "Saint-Denis",
+      "home": "IRL",
+      "home-name": "Republic of Ireland",
+      "away": "SWE",
+      "away-name": "Sweden",
+      "date": "2016-06-13T16:00:00.000Z",
+      "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017954/index.html",
+      "id": "9"
+    },
+    {
+      "stage": "Group Stage",
+      "group": "Group E",
+      "stadium": "Stade de Lyon",
+      "city": "Lyon",
+      "home": "BEL",
+      "home-name": "Belgium",
+      "away": "ITA",
+      "away-name": "Italy",
+      "date": "2016-06-13T19:00:00.000Z",
+      "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017953/index.html",
+      "id": "10"
+    },
+    {
+      "stage": "Group Stage",
+      "group": "Group F",
+      "stadium": "Stade de Bordeaux",
+      "city": "Bordeaux",
+      "home": "AUT",
+      "home-name": "Austria",
+      "away": "HUN",
+      "away-name": "Hungary",
+      "date": "2016-06-14T16:00:00.000Z",
+      "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017960/index.html",
+      "id": "11"
+    },
+    {
+      "stage": "Group Stage",
+      "group": "Group F",
+      "stadium": "Stade Geoffroy Guichard",
+      "city": "Saint-Etienne",
+      "home": "POR",
+      "home-name": "Portugal",
+      "away": "ISL",
+      "away-name": "Iceland",
+      "date": "2016-06-14T19:00:00.000Z",
+      "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017959/index.html",
+      "id": "12"
+    },
+    {
+      "stage": "Group Stage",
+      "group": "Group B",
+      "stadium": "Stade Pierre Mauroy",
+      "city": "Lille Métropole",
+      "home": "RUS",
+      "home-name": "Russia",
+      "away": "SVK",
+      "away-name": "Slovakia",
+      "date": "2016-06-15T13:00:00.000Z",
+      "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017888/index.html",
+      "id": "13"
+    },
+    {
+      "stage": "Group Stage",
+      "group": "Group A",
+      "stadium": "Parc des Princes",
+      "city": "Paris",
+      "home": "ROU",
+      "home-name": "Romania",
+      "away": "SUI",
+      "away-name": "Switzerland",
+      "date": "2016-06-15T16:00:00.000Z",
+      "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017886/index.html",
+      "id": "14"
+    },
+    {
+      "stage": "Group Stage",
+      "group": "Group A",
+      "stadium": "Stade Vélodrome",
+      "city": "Marseille",
+      "home": "FRA",
+      "home-name": "France",
+      "away": "ALB",
+      "away-name": "Albania",
+      "date": "2016-06-15T19:00:00.000Z",
+      "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017885/index.html",
+      "id": "15"
+    },
+    {
+      "stage": "Group Stage",
+      "group": "Group B",
+      "stadium": "Stade Bollaert-Delelis",
+      "city": "Lens Agglo",
+      "home": "ENG",
+      "home-name": "England",
+      "away": "WAL",
+      "away-name": "Wales",
+      "date": "2016-06-16T13:00:00.000Z",
+      "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017887/index.html",
+      "id": "16"
+    },
+    {
+      "stage": "Group Stage",
+      "group": "Group C",
+      "stadium": "Stade de Lyon",
+      "city": "Lyon",
+      "home": "UKR",
+      "home-name": "Ukraine",
+      "away": "NIR",
+      "away-name": "Northern Ireland",
+      "date": "2016-06-16T16:00:00.000Z",
+      "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017890/index.html",
+      "id": "17"
+    },
+    {
+      "stage": "Group Stage",
+      "group": "Group C",
+      "stadium": "Stade de France",
+      "city": "Saint-Denis",
+      "home": "GER",
+      "home-name": "Germany",
+      "away": "POL",
+      "away-name": "Poland",
+      "date": "2016-06-16T19:00:00.000Z",
+      "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017889/index.html",
+      "id": "18"
+    },
+    {
+      "stage": "Group Stage",
+      "group": "Group E",
+      "stadium": "Stadium de Toulouse",
+      "city": "Toulouse",
+      "home": "ITA",
+      "home-name": "Italy",
+      "away": "SWE",
+      "away-name": "Sweden",
+      "date": "2016-06-17T13:00:00.000Z",
+      "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017956/index.html",
+      "id": "19"
+    },
+    {
+      "stage": "Group Stage",
+      "group": "Group D",
+      "stadium": "Stade Geoffroy Guichard",
+      "city": "Saint-Etienne",
+      "home": "CZE",
+      "home-name": "Czech Republic",
+      "away": "CRO",
+      "away-name": "Croatia",
+      "date": "2016-06-17T16:00:00.000Z",
+      "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017892/index.html",
+      "id": "20"
+    },
+    {
+      "stage": "Group Stage",
+      "group": "Group D",
+      "stadium": "Stade de Nice",
+      "city": "Nice",
+      "home": "ESP",
+      "home-name": "Spain",
+      "away": "TUR",
+      "away-name": "Turkey",
+      "date": "2016-06-17T19:00:00.000Z",
+      "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017891/index.html",
+      "id": "21"
+    },
+    {
+      "stage": "Group Stage",
+      "group": "Group E",
+      "stadium": "Stade de Bordeaux",
+      "city": "Bordeaux",
+      "home": "BEL",
+      "home-name": "Belgium",
+      "away": "IRL",
+      "away-name": "Republic of Ireland",
+      "date": "2016-06-18T13:00:00.000Z",
+      "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017955/index.html",
+      "id": "22"
+    },
+    {
+      "stage": "Group Stage",
+      "group": "Group F",
+      "stadium": "Stade Vélodrome",
+      "city": "Marseille",
+      "home": "ISL",
+      "home-name": "Iceland",
+      "away": "HUN",
+      "away-name": "Hungary",
+      "date": "2016-06-18T16:00:00.000Z",
+      "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017962/index.html",
+      "id": "23"
+    },
+    {
+      "stage": "Group Stage",
+      "group": "Group F",
+      "stadium": "Parc des Princes",
+      "city": "Paris",
+      "home": "POR",
+      "home-name": "Portugal",
+      "away": "AUT",
+      "away-name": "Austria",
+      "date": "2016-06-18T19:00:00.000Z",
+      "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017961/index.html",
+      "id": "24"
+    },
+    {
+      "stage": "Group Stage",
+      "group": "Group A",
+      "stadium": "Stade de Lyon",
+      "city": "Lyon",
+      "home": "ROU",
+      "home-name": "Romania",
+      "away": "ALB",
+      "away-name": "Albania",
+      "date": "2016-06-19T19:00:00.000Z",
+      "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017894/index.html",
+      "id": "25"
+    },
+    {
+      "stage": "Group Stage",
+      "group": "Group A",
+      "stadium": "Stade Pierre Mauroy",
+      "city": "Lille Métropole",
+      "home": "SUI",
+      "home-name": "Switzerland",
+      "away": "FRA",
+      "away-name": "France",
+      "date": "2016-06-19T19:00:00.000Z",
+      "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017893/index.html",
+      "id": "26"
+    },
+    {
+      "stage": "Group Stage",
+      "group": "Group B",
+      "stadium": "Stadium de Toulouse",
+      "city": "Toulouse",
+      "home": "RUS",
+      "home-name": "Russia",
+      "away": "WAL",
+      "away-name": "Wales",
+      "date": "2016-06-20T19:00:00.000Z",
+      "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017896/index.html",
+      "id": "27"
+    },
+    {
+      "stage": "Group Stage",
+      "group": "Group B",
+      "stadium": "Stade Geoffroy Guichard",
+      "city": "Saint-Etienne",
+      "home": "SVK",
+      "home-name": "Slovakia",
+      "away": "ENG",
+      "away-name": "England",
+      "date": "2016-06-20T19:00:00.000Z",
+      "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017895/index.html",
+      "id": "28"
+    },
+    {
+      "stage": "Group Stage",
+      "group": "Group C",
+      "stadium": "Stade Vélodrome",
+      "city": "Marseille",
+      "home": "UKR",
+      "home-name": "Ukraine",
+      "away": "POL",
+      "away-name": "Poland",
+      "date": "2016-06-21T16:00:00.000Z",
+      "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017898/index.html",
+      "id": "29"
+    },
+    {
+      "stage": "Group Stage",
+      "group": "Group C",
+      "stadium": "Parc des Princes",
+      "city": "Paris",
+      "home": "NIR",
+      "home-name": "Northern Ireland",
+      "away": "GER",
+      "away-name": "Germany",
+      "date": "2016-06-21T16:00:00.000Z",
+      "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017897/index.html",
+      "id": "30"
+    },
+    {
+      "stage": "Group Stage",
+      "group": "Group D",
+      "stadium": "Stade Bollaert-Delelis",
+      "city": "Lens Agglo",
+      "home": "CZE",
+      "home-name": "Czech Republic",
+      "away": "TUR",
+      "away-name": "Turkey",
+      "date": "2016-06-21T19:00:00.000Z",
+      "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017900/index.html",
+      "id": "31"
+    },
+    {
+      "stage": "Group Stage",
+      "group": "Group D",
+      "stadium": "Stade de Bordeaux",
+      "city": "Bordeaux",
+      "home": "CRO",
+      "home-name": "Croatia",
+      "away": "ESP",
+      "away-name": "Spain",
+      "date": "2016-06-21T19:00:00.000Z",
+      "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017899/index.html",
+      "id": "32"
+    },
+    {
+      "stage": "Group Stage",
+      "group": "Group F",
+      "stadium": "Stade de France",
+      "city": "Saint-Denis",
+      "home": "ISL",
+      "home-name": "Iceland",
+      "away": "AUT",
+      "away-name": "Austria",
+      "date": "2016-06-22T16:00:00.000Z",
+      "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017963/index.html",
+      "id": "33"
+    },
+    {
+      "stage": "Group Stage",
+      "group": "Group F",
+      "stadium": "Stade de Lyon",
+      "city": "Lyon",
+      "home": "HUN",
+      "home-name": "Hungary",
+      "away": "POR",
+      "away-name": "Portugal",
+      "date": "2016-06-22T16:00:00.000Z",
+      "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017964/index.html",
+      "id": "34"
+    },
+    {
+      "stage": "Group Stage",
+      "group": "Group E",
+      "stadium": "Stade Pierre Mauroy",
+      "city": "Lille Métropole",
+      "home": "ITA",
+      "home-name": "Italy",
+      "away": "IRL",
+      "away-name": "Republic of Ireland",
+      "date": "2016-06-22T19:00:00.000Z",
+      "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017958/index.html",
+      "id": "35"
+    },
+    {
+      "stage": "Group Stage",
+      "group": "Group E",
+      "stadium": "Stade de Nice",
+      "city": "Nice",
+      "home": "SWE",
+      "home-name": "Sweden",
+      "away": "BEL",
+      "away-name": "Belgium",
+      "date": "2016-06-22T19:00:00.000Z",
+      "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017957/index.html",
+      "id": "36"
+    },
+    {
+      "stage": "Round of 16",
+      "group": "",
+      "stadium": "Stade Geoffroy Guichard",
+      "city": "Saint-Etienne",
+      "home": "SUI",
+      "home-name": "Switzerland",
+      "away": "POL",
+      "away-name": "Poland",
+      "date": "2016-06-25T13:00:00.000Z",
+      "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000744/match=2017996/index.html",
+      "id": "37"
+    },
+    {
+      "stage": "Round of 16",
+      "group": "",
+      "stadium": "Parc des Princes",
+      "city": "Paris",
+      "home": "WAL",
+      "home-name": "Wales",
+      "away": "NIR",
+      "away-name": "Northern Ireland",
+      "date": "2016-06-25T16:00:00.000Z",
+      "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000744/match=2017997/index.html",
+      "id": "38"
+    },
+    {
+      "stage": "Round of 16",
+      "group": "",
+      "stadium": "Stade Bollaert-Delelis",
+      "city": "Lens Agglo",
+      "home": "CRO",
+      "home-name": "Croatia",
+      "away": "POR",
+      "away-name": "Portugal",
+      "date": "2016-06-25T19:00:00.000Z",
+      "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000744/match=2017998/index.html",
+      "id": "39"
+    },
+    {
+      "stage": "Round of 16",
+      "group": "",
+      "stadium": "Stade de Lyon",
+      "city": "Lyon",
+      "home": "FRA",
+      "home-name": "France",
+      "away": "IRL",
+      "away-name": "Republic of Ireland",
+      "date": "2016-06-26T13:00:00.000Z",
+      "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000744/match=2017999/index.html",
+      "id": "40"
+    },
+    {
+      "stage": "Round of 16",
+      "group": "",
+      "stadium": "Stade Pierre Mauroy",
+      "city": "Lille Métropole",
+      "home": "GER",
+      "home-name": "Germany",
+      "away": "SVK",
+      "away-name": "Slovakia",
+      "date": "2016-06-26T16:00:00.000Z",
+      "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000744/match=2018000/index.html",
+      "id": "41"
+    },
+    {
+      "stage": "Round of 16",
+      "group": "",
+      "stadium": "Stadium de Toulouse",
+      "city": "Toulouse",
+      "home": "HUN",
+      "home-name": "Hungary",
+      "away": "BEL",
+      "away-name": "Belgium",
+      "date": "2016-06-26T19:00:00.000Z",
+      "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000744/match=2018001/index.html",
+      "id": "42"
+    },
+    {
+      "stage": "Round of 16",
+      "group": "",
+      "stadium": "Stade de France",
+      "city": "Saint-Denis",
+      "home": "ITA",
+      "home-name": "Italy",
+      "away": "ESP",
+      "away-name": "Spain",
+      "date": "2016-06-27T16:00:00.000Z",
+      "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000744/match=2018002/index.html",
+      "id": "43"
+    },
+    {
+      "stage": "Round of 16",
+      "group": "",
+      "stadium": "Stade de Nice",
+      "city": "Nice",
+      "home": "ENG",
+      "home-name": "England",
+      "away": "ISL",
+      "away-name": "Iceland",
+      "date": "2016-06-27T19:00:00.000Z",
+      "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000744/match=2018003/index.html",
+      "id": "44"
+    },
+    {
+      "stage": "Quarter-finals",
+      "group": "",
+      "stadium": "Stade Vélodrome",
+      "city": "Marseille",
+      "home": "POL",
+      "home-name": "Poland",
+      "away": "POR",
+      "away-name": "Portugal",
+      "date": "2016-06-30T19:00:00.000Z",
+      "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000449/match=2017901/index.html",
+      "id": "45"
+    },
+    {
+      "stage": "Quarter-finals",
+      "group": "",
+      "stadium": "Stade Pierre Mauroy",
+      "city": "Lille Métropole",
+      "home": "WAL",
+      "home-name": "Wales",
+      "away": "BEL",
+      "away-name": "Belgium",
+      "date": "2016-07-01T19:00:00.000Z",
+      "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000449/match=2017902/index.html",
+      "id": "46"
+    },
+    {
+      "stage": "Quarter-finals",
+      "group": "",
+      "stadium": "Stade de Bordeaux",
+      "city": "Bordeaux",
+      "home": "GER",
+      "home-name": "Germany",
+      "away": "ITA",
+      "away-name": "Italy",
+      "date": "2016-07-02T19:00:00.000Z",
+      "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000449/match=2017903/index.html",
+      "id": "47"
+    },
+    {
+      "stage": "Quarter-finals",
+      "group": "",
+      "stadium": "Stade de France",
+      "city": "Saint-Denis",
+      "home": "FRA",
+      "home-name": "France",
+      "away": "ISL",
+      "away-name": "Iceland",
+      "date": "2016-07-03T19:00:00.000Z",
+      "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000449/match=2017904/index.html",
+      "id": "48"
+    },
+    {
+      "stage": "Semi-finals",
+      "group": "",
+      "stadium": "Stade de Lyon",
+      "city": "Lyon",
+      "home": "POR",
+      "home-name": "Portugal",
+      "away": "WAL",
+      "away-name": "Wales",
+      "date": "2016-07-06T19:00:00.000Z",
+      "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000450/match=2017905/index.html",
+      "id": "49",
+      "home-original": "POR",
+      "away-original": "WAL"
+    },
+    {
+      "stage": "Semi-finals",
+      "group": "",
+      "stadium": "Stade Vélodrome",
+      "city": "Marseille",
+      "home": "GER",
+      "home-name": "Germany",
+      "away": "FRA",
+      "away-name": "France",
+      "date": "2016-07-07T19:00:00.000Z",
+      "id": "50",
+      "home-original": "W #47",
+      "away-original": "W #48"
+    },
+    {
+      "stage": "Final",
+      "group": "",
+      "stadium": "Stade de France",
+      "city": "Saint-Denis",
+      "home": "POR",
+      "home-name": "Portugal",
+      "away": "FRA",
+      "away-name": "France",
+      "date": "2016-07-10T19:00:00.000Z",
+      "id": "51",
+      "home-original": "W #49",
+      "away-original": "W #50"
+    }
+  ],
+  "groups": [
+    {
+      "name": "Group A",
+      "teams": [
+        "ALB",
+        "FRA",
+        "ROU",
+        "SUI"
+      ]
+    },
+    {
+      "name": "Group B",
+      "teams": [
+        "ENG",
+        "RUS",
+        "SVK",
+        "WAL"
+      ]
+    },
+    {
+      "name": "Group C",
+      "teams": [
+        "GER",
+        "NIR",
+        "POL",
+        "UKR"
+      ]
+    },
+    {
+      "name": "Group D",
+      "teams": [
+        "CRO",
+        "CZE",
+        "ESP",
+        "TUR"
+      ]
+    },
+    {
+      "name": "Group E",
+      "teams": [
+        "BEL",
+        "IRL",
+        "ITA",
+        "SWE"
+      ]
+    },
+    {
+      "name": "Group F",
+      "teams": [
+        "AUT",
+        "HUN",
+        "ISL",
+        "POR"
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "name": "Group Stage",
+      "matches": [
+        {
+          "stage": "Group Stage",
+          "group": "Group A",
+          "stadium": "Stade de France",
+          "city": "Saint-Denis",
+          "home": "FRA",
+          "home-name": "France",
+          "away": "ROU",
+          "away-name": "Romania",
+          "date": "2016-06-10T19:00:00.000Z",
+          "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017877/index.html",
+          "id": "1"
+        },
+        {
+          "stage": "Group Stage",
+          "group": "Group A",
+          "stadium": "Stade Bollaert-Delelis",
+          "city": "Lens Agglo",
+          "home": "ALB",
+          "home-name": "Albania",
+          "away": "SUI",
+          "away-name": "Switzerland",
+          "date": "2016-06-11T13:00:00.000Z",
+          "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017878/index.html",
+          "id": "2"
+        },
+        {
+          "stage": "Group Stage",
+          "group": "Group B",
+          "stadium": "Stade de Bordeaux",
+          "city": "Bordeaux",
+          "home": "WAL",
+          "home-name": "Wales",
+          "away": "SVK",
+          "away-name": "Slovakia",
+          "date": "2016-06-11T16:00:00.000Z",
+          "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017880/index.html",
+          "id": "3"
+        },
+        {
+          "stage": "Group Stage",
+          "group": "Group B",
+          "stadium": "Stade Vélodrome",
+          "city": "Marseille",
+          "home": "ENG",
+          "home-name": "England",
+          "away": "RUS",
+          "away-name": "Russia",
+          "date": "2016-06-11T19:00:00.000Z",
+          "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017879/index.html",
+          "id": "4"
+        },
+        {
+          "stage": "Group Stage",
+          "group": "Group D",
+          "stadium": "Parc des Princes",
+          "city": "Paris",
+          "home": "TUR",
+          "home-name": "Turkey",
+          "away": "CRO",
+          "away-name": "Croatia",
+          "date": "2016-06-12T13:00:00.000Z",
+          "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017884/index.html",
+          "id": "5"
+        },
+        {
+          "stage": "Group Stage",
+          "group": "Group C",
+          "stadium": "Stade de Nice",
+          "city": "Nice",
+          "home": "POL",
+          "home-name": "Poland",
+          "away": "NIR",
+          "away-name": "Northern Ireland",
+          "date": "2016-06-12T16:00:00.000Z",
+          "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017882/index.html",
+          "id": "6"
+        },
+        {
+          "stage": "Group Stage",
+          "group": "Group C",
+          "stadium": "Stade Pierre Mauroy",
+          "city": "Lille Métropole",
+          "home": "GER",
+          "home-name": "Germany",
+          "away": "UKR",
+          "away-name": "Ukraine",
+          "date": "2016-06-12T19:00:00.000Z",
+          "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017881/index.html",
+          "id": "7"
+        },
+        {
+          "stage": "Group Stage",
+          "group": "Group D",
+          "stadium": "Stadium de Toulouse",
+          "city": "Toulouse",
+          "home": "ESP",
+          "home-name": "Spain",
+          "away": "CZE",
+          "away-name": "Czech Republic",
+          "date": "2016-06-13T13:00:00.000Z",
+          "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017883/index.html",
+          "id": "8"
+        },
+        {
+          "stage": "Group Stage",
+          "group": "Group E",
+          "stadium": "Stade de France",
+          "city": "Saint-Denis",
+          "home": "IRL",
+          "home-name": "Republic of Ireland",
+          "away": "SWE",
+          "away-name": "Sweden",
+          "date": "2016-06-13T16:00:00.000Z",
+          "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017954/index.html",
+          "id": "9"
+        },
+        {
+          "stage": "Group Stage",
+          "group": "Group E",
+          "stadium": "Stade de Lyon",
+          "city": "Lyon",
+          "home": "BEL",
+          "home-name": "Belgium",
+          "away": "ITA",
+          "away-name": "Italy",
+          "date": "2016-06-13T19:00:00.000Z",
+          "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017953/index.html",
+          "id": "10"
+        },
+        {
+          "stage": "Group Stage",
+          "group": "Group F",
+          "stadium": "Stade de Bordeaux",
+          "city": "Bordeaux",
+          "home": "AUT",
+          "home-name": "Austria",
+          "away": "HUN",
+          "away-name": "Hungary",
+          "date": "2016-06-14T16:00:00.000Z",
+          "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017960/index.html",
+          "id": "11"
+        },
+        {
+          "stage": "Group Stage",
+          "group": "Group F",
+          "stadium": "Stade Geoffroy Guichard",
+          "city": "Saint-Etienne",
+          "home": "POR",
+          "home-name": "Portugal",
+          "away": "ISL",
+          "away-name": "Iceland",
+          "date": "2016-06-14T19:00:00.000Z",
+          "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017959/index.html",
+          "id": "12"
+        },
+        {
+          "stage": "Group Stage",
+          "group": "Group B",
+          "stadium": "Stade Pierre Mauroy",
+          "city": "Lille Métropole",
+          "home": "RUS",
+          "home-name": "Russia",
+          "away": "SVK",
+          "away-name": "Slovakia",
+          "date": "2016-06-15T13:00:00.000Z",
+          "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017888/index.html",
+          "id": "13"
+        },
+        {
+          "stage": "Group Stage",
+          "group": "Group A",
+          "stadium": "Parc des Princes",
+          "city": "Paris",
+          "home": "ROU",
+          "home-name": "Romania",
+          "away": "SUI",
+          "away-name": "Switzerland",
+          "date": "2016-06-15T16:00:00.000Z",
+          "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017886/index.html",
+          "id": "14"
+        },
+        {
+          "stage": "Group Stage",
+          "group": "Group A",
+          "stadium": "Stade Vélodrome",
+          "city": "Marseille",
+          "home": "FRA",
+          "home-name": "France",
+          "away": "ALB",
+          "away-name": "Albania",
+          "date": "2016-06-15T19:00:00.000Z",
+          "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017885/index.html",
+          "id": "15"
+        },
+        {
+          "stage": "Group Stage",
+          "group": "Group B",
+          "stadium": "Stade Bollaert-Delelis",
+          "city": "Lens Agglo",
+          "home": "ENG",
+          "home-name": "England",
+          "away": "WAL",
+          "away-name": "Wales",
+          "date": "2016-06-16T13:00:00.000Z",
+          "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017887/index.html",
+          "id": "16"
+        },
+        {
+          "stage": "Group Stage",
+          "group": "Group C",
+          "stadium": "Stade de Lyon",
+          "city": "Lyon",
+          "home": "UKR",
+          "home-name": "Ukraine",
+          "away": "NIR",
+          "away-name": "Northern Ireland",
+          "date": "2016-06-16T16:00:00.000Z",
+          "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017890/index.html",
+          "id": "17"
+        },
+        {
+          "stage": "Group Stage",
+          "group": "Group C",
+          "stadium": "Stade de France",
+          "city": "Saint-Denis",
+          "home": "GER",
+          "home-name": "Germany",
+          "away": "POL",
+          "away-name": "Poland",
+          "date": "2016-06-16T19:00:00.000Z",
+          "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017889/index.html",
+          "id": "18"
+        },
+        {
+          "stage": "Group Stage",
+          "group": "Group E",
+          "stadium": "Stadium de Toulouse",
+          "city": "Toulouse",
+          "home": "ITA",
+          "home-name": "Italy",
+          "away": "SWE",
+          "away-name": "Sweden",
+          "date": "2016-06-17T13:00:00.000Z",
+          "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017956/index.html",
+          "id": "19"
+        },
+        {
+          "stage": "Group Stage",
+          "group": "Group D",
+          "stadium": "Stade Geoffroy Guichard",
+          "city": "Saint-Etienne",
+          "home": "CZE",
+          "home-name": "Czech Republic",
+          "away": "CRO",
+          "away-name": "Croatia",
+          "date": "2016-06-17T16:00:00.000Z",
+          "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017892/index.html",
+          "id": "20"
+        },
+        {
+          "stage": "Group Stage",
+          "group": "Group D",
+          "stadium": "Stade de Nice",
+          "city": "Nice",
+          "home": "ESP",
+          "home-name": "Spain",
+          "away": "TUR",
+          "away-name": "Turkey",
+          "date": "2016-06-17T19:00:00.000Z",
+          "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017891/index.html",
+          "id": "21"
+        },
+        {
+          "stage": "Group Stage",
+          "group": "Group E",
+          "stadium": "Stade de Bordeaux",
+          "city": "Bordeaux",
+          "home": "BEL",
+          "home-name": "Belgium",
+          "away": "IRL",
+          "away-name": "Republic of Ireland",
+          "date": "2016-06-18T13:00:00.000Z",
+          "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017955/index.html",
+          "id": "22"
+        },
+        {
+          "stage": "Group Stage",
+          "group": "Group F",
+          "stadium": "Stade Vélodrome",
+          "city": "Marseille",
+          "home": "ISL",
+          "home-name": "Iceland",
+          "away": "HUN",
+          "away-name": "Hungary",
+          "date": "2016-06-18T16:00:00.000Z",
+          "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017962/index.html",
+          "id": "23"
+        },
+        {
+          "stage": "Group Stage",
+          "group": "Group F",
+          "stadium": "Parc des Princes",
+          "city": "Paris",
+          "home": "POR",
+          "home-name": "Portugal",
+          "away": "AUT",
+          "away-name": "Austria",
+          "date": "2016-06-18T19:00:00.000Z",
+          "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017961/index.html",
+          "id": "24"
+        },
+        {
+          "stage": "Group Stage",
+          "group": "Group A",
+          "stadium": "Stade de Lyon",
+          "city": "Lyon",
+          "home": "ROU",
+          "home-name": "Romania",
+          "away": "ALB",
+          "away-name": "Albania",
+          "date": "2016-06-19T19:00:00.000Z",
+          "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017894/index.html",
+          "id": "25"
+        },
+        {
+          "stage": "Group Stage",
+          "group": "Group A",
+          "stadium": "Stade Pierre Mauroy",
+          "city": "Lille Métropole",
+          "home": "SUI",
+          "home-name": "Switzerland",
+          "away": "FRA",
+          "away-name": "France",
+          "date": "2016-06-19T19:00:00.000Z",
+          "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017893/index.html",
+          "id": "26"
+        },
+        {
+          "stage": "Group Stage",
+          "group": "Group B",
+          "stadium": "Stadium de Toulouse",
+          "city": "Toulouse",
+          "home": "RUS",
+          "home-name": "Russia",
+          "away": "WAL",
+          "away-name": "Wales",
+          "date": "2016-06-20T19:00:00.000Z",
+          "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017896/index.html",
+          "id": "27"
+        },
+        {
+          "stage": "Group Stage",
+          "group": "Group B",
+          "stadium": "Stade Geoffroy Guichard",
+          "city": "Saint-Etienne",
+          "home": "SVK",
+          "home-name": "Slovakia",
+          "away": "ENG",
+          "away-name": "England",
+          "date": "2016-06-20T19:00:00.000Z",
+          "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017895/index.html",
+          "id": "28"
+        },
+        {
+          "stage": "Group Stage",
+          "group": "Group C",
+          "stadium": "Stade Vélodrome",
+          "city": "Marseille",
+          "home": "UKR",
+          "home-name": "Ukraine",
+          "away": "POL",
+          "away-name": "Poland",
+          "date": "2016-06-21T16:00:00.000Z",
+          "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017898/index.html",
+          "id": "29"
+        },
+        {
+          "stage": "Group Stage",
+          "group": "Group C",
+          "stadium": "Parc des Princes",
+          "city": "Paris",
+          "home": "NIR",
+          "home-name": "Northern Ireland",
+          "away": "GER",
+          "away-name": "Germany",
+          "date": "2016-06-21T16:00:00.000Z",
+          "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017897/index.html",
+          "id": "30"
+        },
+        {
+          "stage": "Group Stage",
+          "group": "Group D",
+          "stadium": "Stade Bollaert-Delelis",
+          "city": "Lens Agglo",
+          "home": "CZE",
+          "home-name": "Czech Republic",
+          "away": "TUR",
+          "away-name": "Turkey",
+          "date": "2016-06-21T19:00:00.000Z",
+          "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017900/index.html",
+          "id": "31"
+        },
+        {
+          "stage": "Group Stage",
+          "group": "Group D",
+          "stadium": "Stade de Bordeaux",
+          "city": "Bordeaux",
+          "home": "CRO",
+          "home-name": "Croatia",
+          "away": "ESP",
+          "away-name": "Spain",
+          "date": "2016-06-21T19:00:00.000Z",
+          "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017899/index.html",
+          "id": "32"
+        },
+        {
+          "stage": "Group Stage",
+          "group": "Group F",
+          "stadium": "Stade de France",
+          "city": "Saint-Denis",
+          "home": "ISL",
+          "home-name": "Iceland",
+          "away": "AUT",
+          "away-name": "Austria",
+          "date": "2016-06-22T16:00:00.000Z",
+          "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017963/index.html",
+          "id": "33"
+        },
+        {
+          "stage": "Group Stage",
+          "group": "Group F",
+          "stadium": "Stade de Lyon",
+          "city": "Lyon",
+          "home": "HUN",
+          "home-name": "Hungary",
+          "away": "POR",
+          "away-name": "Portugal",
+          "date": "2016-06-22T16:00:00.000Z",
+          "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017964/index.html",
+          "id": "34"
+        },
+        {
+          "stage": "Group Stage",
+          "group": "Group E",
+          "stadium": "Stade Pierre Mauroy",
+          "city": "Lille Métropole",
+          "home": "ITA",
+          "home-name": "Italy",
+          "away": "IRL",
+          "away-name": "Republic of Ireland",
+          "date": "2016-06-22T19:00:00.000Z",
+          "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017958/index.html",
+          "id": "35"
+        },
+        {
+          "stage": "Group Stage",
+          "group": "Group E",
+          "stadium": "Stade de Nice",
+          "city": "Nice",
+          "home": "SWE",
+          "home-name": "Sweden",
+          "away": "BEL",
+          "away-name": "Belgium",
+          "date": "2016-06-22T19:00:00.000Z",
+          "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017957/index.html",
+          "id": "36"
+        }
+      ]
+    },
+    {
+      "name": "Round of 16",
+      "matches": [
+        {
+          "stage": "Round of 16",
+          "group": "",
+          "stadium": "Stade Geoffroy Guichard",
+          "city": "Saint-Etienne",
+          "home": "SUI",
+          "home-name": "Switzerland",
+          "away": "POL",
+          "away-name": "Poland",
+          "date": "2016-06-25T13:00:00.000Z",
+          "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000744/match=2017996/index.html",
+          "id": "37"
+        },
+        {
+          "stage": "Round of 16",
+          "group": "",
+          "stadium": "Parc des Princes",
+          "city": "Paris",
+          "home": "WAL",
+          "home-name": "Wales",
+          "away": "NIR",
+          "away-name": "Northern Ireland",
+          "date": "2016-06-25T16:00:00.000Z",
+          "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000744/match=2017997/index.html",
+          "id": "38"
+        },
+        {
+          "stage": "Round of 16",
+          "group": "",
+          "stadium": "Stade Bollaert-Delelis",
+          "city": "Lens Agglo",
+          "home": "CRO",
+          "home-name": "Croatia",
+          "away": "POR",
+          "away-name": "Portugal",
+          "date": "2016-06-25T19:00:00.000Z",
+          "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000744/match=2017998/index.html",
+          "id": "39"
+        },
+        {
+          "stage": "Round of 16",
+          "group": "",
+          "stadium": "Stade de Lyon",
+          "city": "Lyon",
+          "home": "FRA",
+          "home-name": "France",
+          "away": "IRL",
+          "away-name": "Republic of Ireland",
+          "date": "2016-06-26T13:00:00.000Z",
+          "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000744/match=2017999/index.html",
+          "id": "40"
+        },
+        {
+          "stage": "Round of 16",
+          "group": "",
+          "stadium": "Stade Pierre Mauroy",
+          "city": "Lille Métropole",
+          "home": "GER",
+          "home-name": "Germany",
+          "away": "SVK",
+          "away-name": "Slovakia",
+          "date": "2016-06-26T16:00:00.000Z",
+          "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000744/match=2018000/index.html",
+          "id": "41"
+        },
+        {
+          "stage": "Round of 16",
+          "group": "",
+          "stadium": "Stadium de Toulouse",
+          "city": "Toulouse",
+          "home": "HUN",
+          "home-name": "Hungary",
+          "away": "BEL",
+          "away-name": "Belgium",
+          "date": "2016-06-26T19:00:00.000Z",
+          "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000744/match=2018001/index.html",
+          "id": "42"
+        },
+        {
+          "stage": "Round of 16",
+          "group": "",
+          "stadium": "Stade de France",
+          "city": "Saint-Denis",
+          "home": "ITA",
+          "home-name": "Italy",
+          "away": "ESP",
+          "away-name": "Spain",
+          "date": "2016-06-27T16:00:00.000Z",
+          "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000744/match=2018002/index.html",
+          "id": "43"
+        },
+        {
+          "stage": "Round of 16",
+          "group": "",
+          "stadium": "Stade de Nice",
+          "city": "Nice",
+          "home": "ENG",
+          "home-name": "England",
+          "away": "ISL",
+          "away-name": "Iceland",
+          "date": "2016-06-27T19:00:00.000Z",
+          "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000744/match=2018003/index.html",
+          "id": "44"
+        }
+      ]
+    },
+    {
+      "name": "Quarter-finals",
+      "matches": [
+        {
+          "stage": "Quarter-finals",
+          "group": "",
+          "stadium": "Stade Vélodrome",
+          "city": "Marseille",
+          "home": "POL",
+          "home-name": "Poland",
+          "away": "POR",
+          "away-name": "Portugal",
+          "date": "2016-06-30T19:00:00.000Z",
+          "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000449/match=2017901/index.html",
+          "id": "45"
+        },
+        {
+          "stage": "Quarter-finals",
+          "group": "",
+          "stadium": "Stade Pierre Mauroy",
+          "city": "Lille Métropole",
+          "home": "WAL",
+          "home-name": "Wales",
+          "away": "BEL",
+          "away-name": "Belgium",
+          "date": "2016-07-01T19:00:00.000Z",
+          "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000449/match=2017902/index.html",
+          "id": "46"
+        },
+        {
+          "stage": "Quarter-finals",
+          "group": "",
+          "stadium": "Stade de Bordeaux",
+          "city": "Bordeaux",
+          "home": "GER",
+          "home-name": "Germany",
+          "away": "ITA",
+          "away-name": "Italy",
+          "date": "2016-07-02T19:00:00.000Z",
+          "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000449/match=2017903/index.html",
+          "id": "47"
+        },
+        {
+          "stage": "Quarter-finals",
+          "group": "",
+          "stadium": "Stade de France",
+          "city": "Saint-Denis",
+          "home": "FRA",
+          "home-name": "France",
+          "away": "ISL",
+          "away-name": "Iceland",
+          "date": "2016-07-03T19:00:00.000Z",
+          "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000449/match=2017904/index.html",
+          "id": "48"
+        }
+      ]
+    },
+    {
+      "name": "Semi-finals",
+      "matches": [
+        {
+          "stage": "Semi-finals",
+          "group": "",
+          "stadium": "Stade de Lyon",
+          "city": "Lyon",
+          "home": "POR",
+          "home-name": "Portugal",
+          "away": "WAL",
+          "away-name": "Wales",
+          "date": "2016-07-06T19:00:00.000Z",
+          "link": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000450/match=2017905/index.html",
+          "id": "49",
+          "home-original": "POR",
+          "away-original": "WAL"
+        },
+        {
+          "stage": "Semi-finals",
+          "group": "",
+          "stadium": "Stade Vélodrome",
+          "city": "Marseille",
+          "home": "GER",
+          "home-name": "Germany",
+          "away": "FRA",
+          "away-name": "France",
+          "date": "2016-07-07T19:00:00.000Z",
+          "id": "50",
+          "home-original": "W #47",
+          "away-original": "W #48"
+        }
+      ]
+    },
+    {
+      "name": "Final",
+      "matches": [
+        {
+          "stage": "Final",
+          "group": "",
+          "stadium": "Stade de France",
+          "city": "Saint-Denis",
+          "home": "POR",
+          "home-name": "Portugal",
+          "away": "FRA",
+          "away-name": "France",
+          "date": "2016-07-10T19:00:00.000Z",
+          "id": "51",
+          "home-original": "W #49",
+          "away-original": "W #50"
+        }
+      ]
+    }
+  ],
+  "teams": [
+    {
+      "name": "ALB",
+      "group": "Group A"
+    },
+    {
+      "name": "AUT",
+      "group": "Group F"
+    },
+    {
+      "name": "BEL",
+      "group": "Group E"
+    },
+    {
+      "name": "CRO",
+      "group": "Group D"
+    },
+    {
+      "name": "CZE",
+      "group": "Group D"
+    },
+    {
+      "name": "ENG",
+      "group": "Group B"
+    },
+    {
+      "name": "ESP",
+      "group": "Group D"
+    },
+    {
+      "name": "FRA",
+      "group": "Group A"
+    },
+    {
+      "name": "GER",
+      "group": "Group C"
+    },
+    {
+      "name": "HUN",
+      "group": "Group F"
+    },
+    {
+      "name": "IRL",
+      "group": "Group E"
+    },
+    {
+      "name": "ISL",
+      "group": "Group F"
+    },
+    {
+      "name": "ITA",
+      "group": "Group E"
+    },
+    {
+      "name": "NIR",
+      "group": "Group C"
+    },
+    {
+      "name": "POL",
+      "group": "Group C"
+    },
+    {
+      "name": "POR",
+      "group": "Group F"
+    },
+    {
+      "name": "ROU",
+      "group": "Group A"
+    },
+    {
+      "name": "RUS",
+      "group": "Group B"
+    },
+    {
+      "name": "SUI",
+      "group": "Group A"
+    },
+    {
+      "name": "SVK",
+      "group": "Group B"
+    },
+    {
+      "name": "SWE",
+      "group": "Group E"
+    },
+    {
+      "name": "TUR",
+      "group": "Group D"
+    },
+    {
+      "name": "UKR",
+      "group": "Group C"
+    },
+    {
+      "name": "WAL",
+      "group": "Group B"
+    }
+  ],
+  "stadiums": [
+    {
+      "name": "Parc des Princes",
+      "city": "Paris",
+      "country": "France"
+    },
+    {
+      "name": "Stade Bollaert-Delelis",
+      "city": "Lens Agglo",
+      "country": "France"
+    },
+    {
+      "name": "Stade Geoffroy Guichard",
+      "city": "Saint-Etienne",
+      "country": "France"
+    },
+    {
+      "name": "Stade Pierre Mauroy",
+      "city": "Lille Métropole",
+      "country": "France"
+    },
+    {
+      "name": "Stade Vélodrome",
+      "city": "Marseille",
+      "country": "France"
+    },
+    {
+      "name": "Stade de Bordeaux",
+      "city": "Bordeaux",
+      "country": "France"
+    },
+    {
+      "name": "Stade de France",
+      "city": "Saint-Denis",
+      "country": "France"
+    },
+    {
+      "name": "Stade de Lyon",
+      "city": "Lyon",
+      "country": "France"
+    },
+    {
+      "name": "Stade de Nice",
+      "city": "Nice",
+      "country": "France"
+    },
+    {
+      "name": "Stadium de Toulouse",
+      "city": "Toulouse",
+      "country": "France"
+    }
+  ]
+}

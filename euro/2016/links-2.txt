@@ -1,0 +1,86 @@
+[
+  {
+    "site": "en.wikipedia.org",
+    "title": "UEFA Euro 2016 Group A - Wikipedia, the free encyclopedia",
+    "description": "",
+    "url": "https://en.wikipedia.org/wiki/UEFA_Euro_2016_Group_A#Albania_vs_Switzerland"
+  },
+  {
+    "site": "the Guardian",
+    "title": "Switzerland and Fabian Schär quick to spoil Albania’s bit of history",
+    "description": "Albania had chances in their first match at a major finals but Fabian Schär’s header after five minutes gave Switzerland a 1-0 win in their Euro 2016 Group A match in Lens",
+    "url": "http://www.theguardian.com/football/2016/jun/11/albania-switzerland-euro-2016-match-report"
+  },
+  {
+    "site": "UEFA.com",
+    "title": "Switzerland hold on against ten-man Albania  - UEFA EURO - News - UEFA.com",
+    "description": "Albania 0-1 Switzerland \nFabian Schär's fifth-minute goal and some late heroics from Yann Sommer earned the Swiss victory after a first-half red card.",
+    "url": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017878/postmatch/report/index.html"
+  },
+  {
+    "site": "BBC Sport",
+    "title": "Albania 0-1 Switzerland",
+    "description": "Ten-man Albania are denied an historic draw as Switzerland win their Euro 2016 opener thanks to Fabian Schar's header.",
+    "url": "http://www.bbc.com/sport/football/36450647"
+  },
+  {
+    "site": "Mail Online",
+    "title": "Albania 0-1 Switzerland: Fabian Schar's early goal seals Euro 2016 win",
+    "description": "ANDREW WARSHAW AT THE STADE BOLLAERT-DELELIS: Arsenal fans got their first international glimpse of £30million star signing Granit Xhaka as he overshadowed his brother.",
+    "url": "http://www.dailymail.co.uk/sport/football/article-3636629/Albania-0-1-Switzerland-Fabian-Schar-s-early-goal-seals-Euro-2016-win-Swiss-Lorik-Cana-s-half-sending-off.html"
+  },
+  {
+    "site": "Eurosport",
+    "title": "LIVE Albania - Switzerland - Euro 2016 - 11 June 2016",
+    "description": "Watch the Euro 2016 meeting between Albania ­ Switzerland live on Eurosport.",
+    "url": "http://www.eurosport.com/football/euro-2016/2016/albania--switzerland_mtc835148/live.shtml"
+  },
+  {
+    "site": "www.goal.com",
+    "title": "Albania 0 - 1 Switzerland Match report - 2016-06-11 European Championship",
+    "description": "Read the full Albania v Switzerland European Championship match report from 2016-06-11, including goals, incidents and key moments",
+    "url": "http://www.goal.com/euro2016/en/match/albania-vs-switzerland/4i4k3q4wee9wxbe4dau6cz0fd"
+  },
+  {
+    "site": "CNN",
+    "title": "Brotherly love tested at Euro 2016",
+    "description": "Brothers Granit and Taulant Xhaka play against each other as Switzerland beat Albania 1-0 in Group A in Euro 2016.",
+    "url": "http://edition.cnn.com/2016/06/11/football/euro-2016-switzerland-albania/index.html"
+  },
+  {
+    "site": "www.si.com",
+    "title": "Switzerland holds off Albania in Euro 2016",
+    "description": "Switzerland rode an early goal from Fabian Schar to an unconvincing 1-0 win over 10-man Albania in Euro 2016.",
+    "url": "http://www.si.com/planet-futbol/2016/06/11/albania-switzerland-euro-2016-live-score-gamecast"
+  },
+  {
+    "site": "The Telegraph",
+    "title": "Switzerland down 10-man Albania as Xhaka derby is settled by Fabian Schar header",
+    "description": "",
+    "url": "http://www.telegraph.co.uk/football/2016/06/10/albania-vs-switzerland-euro-2016-live/"
+  },
+  {
+    "site": "ESPNFC.com",
+    "title": "Albania vs. Switzerland - Football Match Report - June 11, 2016 - ESPN",
+    "description": "",
+    "url": "http://espnfc.com/report?gameId=438203"
+  },
+  {
+    "site": "www.itv.com",
+    "title": "Euro 2016 Report and Highlights: Albania 0-1 Switzerland",
+    "description": "Switzerland's Granit Xhaka won the battle of the brothers as Albania's debut at a major tournament ended in defeat.\n\nThe new Arsenal midfielder was up against his brother Taulant in the opposition ranks, the first time two siblings have faced each other in European Championship history, but it was the younger of the two who came out on top in the Group A clash.",
+    "url": "http://www.itv.com/euro2016/result-albania-0-1-switzerland"
+  },
+  {
+    "site": "Football365",
+    "title": "Albania 0-1 Switzerland: You Cana be serious?",
+    "description": "Switzerland got their Euro 2016 campaign up and running with a hard-fought 1-0 win against 10-man Albania in a feisty Group A clash.",
+    "url": "http://www.football365.com/news/albania-0-1-switzerland-you-cana-be-serious"
+  },
+  {
+    "site": "Evening Standard",
+    "title": "Arsenal's Xhaka starts Euro 2016 with win as Swiss beat 10-man Albania",
+    "description": "Switzerland got off to a fine start at Euro 2016 as Arsenal's latest signing Granit Xhaka helped Vladimir Petkovic's side to a 1-0 win against 10-man Albania. Arsenal's £34m man Xhaka took to the field against his brother Taulant, who lined up in midfield for Albania at Stade Bollaert-Delelis in the first of three games on Saturday. Switzerland loked dangerous early on and took a deserved lead after just five minutes through Fabian Schar.",
+    "url": "http://www.standard.co.uk/sport/football/euro2016/albania-0-switzerland-1-arsenal-signing-granit-xhaka-euro-2016-win-lorik-cana-red-card-a3269266.html"
+  }
+]

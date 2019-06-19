@@ -1,0 +1,104 @@
+[
+  {
+    "site": "the Guardian",
+    "title": "Italy into last 16 after Éder’s dazzling late goal sees off Sweden",
+    "description": "Éder scored a brilliant late goal to send Italy into the last 16 of Euro 2016 as they beat Sweden 1-0 in Toulouse",
+    "url": "http://www.theguardian.com/football/2016/jun/17/italy-sweden-euro-2016-match-report"
+  },
+  {
+    "site": "UEFA.com",
+    "title": "Éder sparks ecstasy as Italy go through - UEFA EURO - News - UEFA.com",
+    "description": "Italy 1-0 Sweden\nA brilliant solo effort from Éder with two minutes to go secured Italy their second Group E win and a round of 16 slot.",
+    "url": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017956/postmatch/report/"
+  },
+  {
+    "site": "BBC Sport",
+    "title": "Italy 1-0 Sweden",
+    "description": "Italy are through to the last 16 of the European Championships after Eder's brilliant late strike beats Sweden.",
+    "url": "http://www.bbc.com/sport/football/36496077"
+  },
+  {
+    "site": "ESPNFC.com",
+    "title": "Italy vs. Sweden - Football Match Report - June 17, 2016 - ESPN",
+    "description": "",
+    "url": "http://espnfc.com/report?gameId=438186"
+  },
+  {
+    "site": "www.goal.com",
+    "title": "Italy 1 - 0 Sweden Match report - 2016-06-17 European Championship",
+    "description": "Read the full Italy v Sweden European Championship match report from 2016-06-17, including goals, incidents and key moments",
+    "url": "http://www.goal.com/euro2016/en/match/italy-vs-sweden/18ky1p0pe4q9dpc20zqlh8o2x"
+  },
+  {
+    "site": "FourFourTwo",
+    "title": "Conte: Italy started Euro 2016 with flat tyres, but now we're pumping them up!",
+    "description": "Italy have proved the doubters wrong by qualifying for the last 16 of Euro 2016 with a game to spare, says Antonio Conte. Despite coming through qualification for the tournament undefeated, the Azzurri's lack of star power has been highlighted as a potential shortcoming in France. They followed up a 2-0 win over Belgium in their opening Group E clash with a late 1-0 win against Sweden on Friday, Eder scoring the only goal with two minutes remaining.",
+    "url": "http://www.fourfourtwo.com/sg/news/conte-italy-started-euro-2016-flat-tyres-now-were-pumping-them"
+  },
+  {
+    "site": "The Telegraph",
+    "title": "Italy 1 Sweden 0: Eder wins it late on with stunning solo goal",
+    "description": "In a tournament of late late goals, came another.",
+    "url": "http://www.telegraph.co.uk/football/2016/06/17/italy-1-sweden-0-eder-wins-it-late-on-with-stunning-solo-goal/"
+  },
+  {
+    "site": "Independent.ie",
+    "title": "Italy strike late against Sweden to give Ireland's qualification hopes a big boost - Independent.ie",
+    "description": "Ireland weren't playing this afternoon but fans of the Boys in Green would have celebrated Italy's winner against Sweden this afternoon almost as passionately as they did when Wes Hoola",
+    "url": "http://www.independent.ie/sport/soccer/euro-2016/italy-strike-late-against-sweden-to-give-irelands-qualification-hopes-a-big-boost-34810720.html"
+  },
+  {
+    "site": "Eurosport",
+    "title": "Sweden on brink as late Eder strike sends Italy through",
+    "description": "Euro 2016, Group E, Stadium Municipal, Toulouse – Italy 1 (Eder 88') Sweden 0",
+    "url": "http://www.eurosport.com/football/euro-2016/2016/italy-plan-changes-with-sweden_sto5649108/story.shtml"
+  },
+  {
+    "site": "mirror",
+    "title": "Five things we learned from Italy 1-0 Sweden",
+    "description": "The Inter ace popped up with a late winner to maintain Antonio Conte's side's perfect start to Euro 2016",
+    "url": "http://www.mirror.co.uk/sport/football/match-reports/italy-1-0-sweden-eder-8044885"
+  },
+  {
+    "site": "ITV News",
+    "title": "Italy through to last 16 with late win against Sweden",
+    "description": "Italy booked their place in the last 16 of Euro 2016 as a late goal sealed a 1-0 victory over Sweden.\n\nEder scored the winner two minutes from time to decide the Group E match.",
+    "url": "http://www.itv.com/news/update/2016-06-17/italy-through-to-last-16-with-late-win-against-sweden/"
+  },
+  {
+    "site": "Football365",
+    "title": "Italy 1-0 Sweden: Azzurr thing - Football365",
+    "description": "Football365 - Italy join France in the Euro 2016 last-16. It looks like it will take a lot to beat them.",
+    "url": "http://www.football365.com/news/italy-1-0-sweden-azzurr-thing"
+  },
+  {
+    "site": "Mail Online",
+    "title": "Italy 1-0 Sweden Euro 2016 RESULT:",
+    "description": "Italy progressed to the latter stages of Euro 2016 as Eder's sublime late goal settled a game of few chances with Zlatan Ibrahimovic's Sweden. Relive all the action with ALEX BYWATER.",
+    "url": "http://www.dailymail.co.uk/sport/football/article-3646453/Italy-vs-Sweden-Euro-2016-LIVE-action-Toulouse-Zlatan-Ibrahimovic-looks-Antonio-Conte-s-men.html"
+  },
+  {
+    "site": "Sports Mole",
+    "title": "Result: Eder strike sends Italy through to last 16",
+    "description": "A late strike from Eder earns Italy a 1-0 victory over Sweden, a result which takes Antonio Conte's side through to the knockout stages of Euro 2016.",
+    "url": "http://www.sportsmole.co.uk/fb_274982.html"
+  },
+  {
+    "site": "Bleacher Report",
+    "title": "Italy vs. Sweden: Score and Twitter Reaction from Euro 2016",
+    "description": "Italy maintained their place atop Group E and clinched a berth in the knockout rounds at Euro 2016 with a 1-0 victory over Sweden on Friday at Stadium Municipal in Toulouse, France...",
+    "url": "http://bleacherreport.com/articles/2646857-italy-vs-sweden-score-and-twitter-reaction-from-euro-2016"
+  },
+  {
+    "site": "FIFA.com",
+    "title": "Live Scores - UEFA EURO 2016: Italy - Sweden - FIFA.com",
+    "description": "Live Scores - UEFA EURO 2016: Italy - Sweden",
+    "url": "http://www.fifa.com/live-scores/uefaeuro/matches/match=Italy-Sweden-300340745/index.html"
+  },
+  {
+    "site": "en.wikipedia.org",
+    "title": "UEFA Euro 2016 Group E - Wikipedia, the free encyclopedia",
+    "description": "",
+    "url": "https://en.wikipedia.org/wiki/UEFA_Euro_2016_Group_E#Italy_vs_Sweden"
+  }
+]

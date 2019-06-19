@@ -1,0 +1,116 @@
+[
+  {
+    "site": "the Guardian",
+    "title": "Euro 2016: Sturridge leaves it late as England come back to beat Wales",
+    "description": "Daniel Sturridge left it late to grab the winner as England came from behind to defeat Wales 2-1 at Euro 2016",
+    "url": "http://www.theguardian.com/football/2016/jun/16/england-wales-euro-2016-match-report"
+  },
+  {
+    "site": "UEFA.com",
+    "title": "Sturridge earns England late comeback win against Wales - UEFA EURO - News - UEFA.com",
+    "description": "England 2-1 Wales\nHalf-time substitutes Jamie Vardy and Daniel Sturridge struck as England came from behind to move to the top of Group B.",
+    "url": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017887/postmatch/report/"
+  },
+  {
+    "site": "BBC Sport",
+    "title": "England 2-1 Wales: Roy Hodgson revels in last-gasp Euro 2016 win",
+    "description": "England boss Roy Hodgson says it is a long time since he celebrated a goal as much as Daniel Sturridge's winner against Wales.",
+    "url": "http://www.bbc.com/sport/football/36551161"
+  },
+  {
+    "site": "ESPNFC.com",
+    "title": "England vs. Wales - Football Match Report - June 16, 2016 - ESPN",
+    "description": "",
+    "url": "http://espnfc.com/report?gameId=438189"
+  },
+  {
+    "site": "www.goal.com",
+    "title": "England 2 - 1 Wales Match report - 2016-06-16 European Championship",
+    "description": "Read the full England v Wales European Championship match report from 2016-06-16, including goals, incidents and key moments",
+    "url": "http://www.goal.com/euro2016/en/match/england-vs-wales/2aha7qydwdsjlxho9t9iheyuh"
+  },
+  {
+    "site": "FourFourTwo",
+    "title": "'Brilliant' Wales cannot dwell on England defeat, says Ledley",
+    "description": "Joe Ledley says that Wales' \"brilliant\" Euro 2016 campaign must not become derailed after their dramatic defeat to England in Lens. Gareth Bale's free-kick gave Chris Coleman's side a 1-0 lead at half-time, but substitutes Jamie Vardy and Daniel Sturridge - who struck in injury time in the second half - snatched victory for England at the Stade Bollaert-Delelis.",
+    "url": "http://www.fourfourtwo.com/news/brilliant-wales-cannot-dwell-england-defeat-says-ledley"
+  },
+  {
+    "site": "The Telegraph",
+    "title": "England vs Wales, Euro 2016 - live: Super-sub Sturridge with last minute winner for England after Gareth Bale free-kick gives Wales the lead",
+    "description": "To enter the BetVictor Million Pound Goal competition click here",
+    "url": "http://www.telegraph.co.uk/football/2016/06/16/england-vs-wales-euro-2016---live-roy-hodgson-names-unchanged-st/"
+  },
+  {
+    "site": "Independent.ie",
+    "title": "Roy Hodgson's half time gamble pays off as late Sturridge strike completes England's turnaround - Independent.ie",
+    "description": "He got it wrong and began to stare into the abyss, but just when England’s Euro 2016 prospects appeared to be turning to dust, Roy Hodgson went for broke and hit the jackpot with substi",
+    "url": "http://www.independent.ie/sport/soccer/euro-2016/roy-hodgsons-half-time-gamble-pays-off-as-late-sturridge-strike-completes-englands-turnaround-34807695.html"
+  },
+  {
+    "site": "Eurosport",
+    "title": "Euro 2016: Daniel Sturridge grabs winner for England as Roy Hodgson goes for broke",
+    "description": "Stade Bollaert-Delelis, Group B - England 2 (Vardy, 56, Sturridge, 90) Wales 1 (Bale, 42)",
+    "url": "http://www.eurosport.com/football/euro-2016/2016/euro-2016-england-v-wales-preview-live-tv-details-kick-off-time-team-news-odds_sto5647258/story.shtml"
+  },
+  {
+    "site": "mirror",
+    "title": "5 things we learned from England 2-1 Wales",
+    "description": "Bale stunned England with a brilliant free-kick from 30 yards before Jamie Vardy swept home a second half equaliser and Sturridge stabbed in a late winner",
+    "url": "http://www.mirror.co.uk/sport/football/match-reports/england-2-1-wales-daniel-8044891"
+  },
+  {
+    "site": "The Independent",
+    "title": "Euro 2016: As it happened on Thursday",
+    "description": "Welcome to The Independent’s live coverage of Thursday’s European Championship group stage action.",
+    "url": "http://www.independent.co.uk/sport/football/international/england-vs-wales-euro-2016-live-bbc-latest-score-updates-battle-of-britain-stream-a7084886.html"
+  },
+  {
+    "site": "ITV News",
+    "title": "Euro 2016: England score injury time winner against Wales",
+    "description": "England has beaten Wales 2-1 in their Euro 2016 match in Lens, with Daniel Sturridge scoring the winner in injury time.",
+    "url": "http://www.itv.com/news/story/2016-06-16/euro-2016-england-score-injury-time-winner-against-wales/"
+  },
+  {
+    "site": "Football365",
+    "title": "England 2-1 Wales: 16 Conclusions - Football365",
+    "description": "Football365 - Lots of lovely words on Roy Hodgson, Kyle Walker, Joe Hart, Raheem Sterling and Aaron Ramsey",
+    "url": "http://www.football365.com/news/england-2-1-wales-16-conclusions"
+  },
+  {
+    "site": "Mail Online",
+    "title": "England vs Wales, Euro 2016 LIVE score: Follow all the action",
+    "description": "England will be looking to bounce back from their heartbreaking draw with Russia when they face with British rivals Wales in a crunch Euro 2016 match. Follow the action with MATT MALTBY.",
+    "url": "http://www.dailymail.co.uk/sport/football/article-3644370/England-v-Wales-Euro-2016-LIVE-score-Gareth-Bale-face-Three-Lions.html"
+  },
+  {
+    "site": "Sports Mole",
+    "title": "Live Commentary: England 2-1 Wales - as it happened",
+    "description": "Relive Sports Mole's live commentary of the Group B clash between England and Wales from Lens, which ended in a 2-1 England win.",
+    "url": "http://www.sportsmole.co.uk/fb_274905.html"
+  },
+  {
+    "site": "Bleacher Report",
+    "title": "Sturridge the Hero in England Win over Wales",
+    "description": "England moved to the top of Group B after a thrilling 2-1 victory over Wales on Friday thanks to a stoppage-time winner from Daniel Sturridge at the Stade Bollaert-Delelis in Lens, France...",
+    "url": "http://bleacherreport.com/articles/2646625-england-vs-wales-score-and-twitter-reaction-from-euro-2016"
+  },
+  {
+    "site": "www.thefa.com",
+    "title": "England 2-1 Wales: UEFA Euro 2016 - England | The FA",
+    "description": "",
+    "url": "http://www.thefa.com/news/england/2016/jun/england-wales-report-160616"
+  },
+  {
+    "site": "FIFA.com",
+    "title": "Live Scores - UEFA EURO 2016: England - Wales - FIFA.com",
+    "description": "Live Scores - UEFA EURO 2016: England - Wales",
+    "url": "http://www.fifa.com/live-scores/uefaeuro/matches/match=England-Wales-300340733/index.html"
+  },
+  {
+    "site": "en.wikipedia.org",
+    "title": "UEFA Euro 2016 Group B - Wikipedia, the free encyclopedia",
+    "description": "",
+    "url": "https://en.wikipedia.org/wiki/UEFA_Euro_2016_Group_B#England_vs_Wales"
+  }
+]

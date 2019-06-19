@@ -1,0 +1,110 @@
+[
+  {
+    "site": "the Guardian",
+    "title": "Portugal’s Ricardo Quaresma steals last-gasp victory over Croatia",
+    "description": "Portugal beat Croatia 1-0 to win a place in the Euro 2016 quarter-finals, Ricardo Quaresma scoring the only goal with three minutes of extra time remaining",
+    "url": "http://www.theguardian.com/football/2016/jun/25/croatia-portugal-euro-2016-match-report"
+  },
+  {
+    "site": "UEFA.com",
+    "title": "Quaresma snatches extra-time win for Portugal - UEFA EURO - News - UEFA.com",
+    "description": "Croatia 0-1 Portugal (aet)\nRicardo Quaresma scored three minutes from the end of extra time – seconds after the game's first shot on target – as Portugal advanced.",
+    "url": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000744/match=2017998/postmatch/report/index.html"
+  },
+  {
+    "site": "BBC Sport",
+    "title": "Croatia 0-1 Portugal",
+    "description": "Ricardo Quaresma scores late in extra time as Portugal defeat Croatia to set up a Euro 2016 quarter-final match against Poland.",
+    "url": "http://www.bbc.com/sport/football/36566064"
+  },
+  {
+    "site": "ESPNFC.com",
+    "title": "Croatia vs. Portugal - Football Match Report - June 25, 2016 - ESPN",
+    "description": "Get a report of the Croatia vs. Portugal 2016 European Championship, Round of 16 football match.",
+    "url": "http://espnfc.com/report?gameId=438166"
+  },
+  {
+    "site": "www.goal.com",
+    "title": "Croatia 0 - 1 Portugal Match report - 2016-06-25 European Championship",
+    "description": "Read the full Croatia v Portugal European Championship match report from 2016-06-25, including goals, incidents and key moments",
+    "url": "http://www.goal.com/euro2016/en/match/croatia-vs-portugal/7us5h0s3rennheaaawsqk9f55"
+  },
+  {
+    "site": "FourFourTwo",
+    "title": "Croatia 0 Portugal 1 (aet): Quaresma earns quarter-final berth",
+    "description": "Ricardo Quaresma struck a dramatic winner late in the second half of extra time as Portugal scraped past Croatia 1-0 in a dour Euro 2016 last-16 encounter in Lens. Portugal advanced to the knockout stages following an electric 3-3 draw with Hungary in Lyon, but Saturday's game could not have contrasted more starkly. Although Marcelo Brozovic and Domagoj Vida had decent opportunities in the second half, the regulation 90 minutes finished without a shot on target for the first time at a major tournament since 1980.",
+    "url": "http://www.fourfourtwo.com/news/croatia-0-portugal-1-aet-quaresma-earns-quarter-final-berth"
+  },
+  {
+    "site": "The Telegraph",
+    "title": "Portugal 1 Croatia 0, Euro 2016: Ricardo Quaresma heads extra-time winner to keep Cristiano Ronaldo's dream alive",
+    "description": "You could see Cristiano Ronaldo’s arm in the air, begging for the ball like a child who knows the right answer.",
+    "url": "http://www.telegraph.co.uk/football/2016/06/25/portugal-1-croatia-0-euro-2016-ricardo-quaresma-heads-extra-time/"
+  },
+  {
+    "site": "Independent.ie",
+    "title": "Late goal sees Portugal past Croatia in Euro 2016 stinker - Independent.ie",
+    "description": "A header from Ricardo Quaresma deep into extra time snatched a dramatic win for Portugal in a game that failed to live up to expectations.",
+    "url": "http://www.independent.ie/sport/soccer/euro-2016/late-goal-sees-portugal-past-croatia-in-euro-2016-stinker-34833830.html"
+  },
+  {
+    "site": "Eurosport",
+    "title": "Euro 2016 - Ricardo Quaresma the hero as Portugal make last eight",
+    "description": "Stade Bollaert-Delelis, Lens - Euro 2016 last 16: Croatia 0 Portugal  1 (Quaresma, 117)",
+    "url": "http://www.eurosport.com/football/euro-2016/2016/quaresma-the-hero-as-portugal-make-last-eight_sto5660481/story.shtml"
+  },
+  {
+    "site": "mirror",
+    "title": "Croatia 0-1 Portugal(AET): 7 things we learned",
+    "description": "Fernando Santos' side ground it out against the Vatreni, and will take on Poland in the quarter-finals at the Stade Velodrome",
+    "url": "http://www.mirror.co.uk/sport/football/match-reports/croatia-0-1-portugal-aet-8266204"
+  },
+  {
+    "site": "The Independent",
+    "title": "Croatia vs Portugal Euro 2016 match report: Ricardo Quaresma's late strike settles dreadful encounter",
+    "description": "Almost two whole hours of barren desolate football had been played here in Lens before each team finally made their first chance on goal. Up to the 116th minute this had been a game of historical eventlesness, with not one shot on target for either side. But then Croatia missed their chance, Portugal took theirs and they were team heading for a quarter-final with Poland in Marseilles.",
+    "url": "http://www.independent.co.uk/sport/football/international/croatia-vs-portugal-euro-2016-match-report-ricardo-quaresmas-late-strike-settles-dreadful-encounter-a7103531.html"
+  },
+  {
+    "site": "www.itv.com",
+    "title": "Euro 2016 highlights and report: Croatia 0-1 Portugal",
+    "description": "Substitute Ricardo Quaresma put Portugal into the quarter-finals of Euro 2016 with the only goal three minutes from the end of extra time.",
+    "url": "http://www.itv.com/euro2016/euro-2016-highlights-and-report-croatia-0-1-portugal"
+  },
+  {
+    "site": "Football365",
+    "title": "Croatia 0-1 Portugal: Robbed by Quaresma - Football365",
+    "description": "Football365 - After 116 minutes of unmitigated sh*t, the least we deserved was penalties.",
+    "url": "http://www.football365.com/news/croatia-0-1-portugal-robbed-by-quaresma"
+  },
+  {
+    "site": "Mail Online",
+    "title": "Croatia vs Portugal, Euro 2016 LIVE: Follow the last 16 match",
+    "description": "Croatia and Portugal meet in the third last 16 fixture at the European Championship on Saturday evening. Join AMITAI WINEHOUSE for all the action as it happens.",
+    "url": "http://www.dailymail.co.uk/sport/football/article-3659543/Croatia-vs-Portugal-Euro-2016-LIVE-Follow-16-match-Lens-happens.html"
+  },
+  {
+    "site": "Sports Mole",
+    "title": "Result: Quaresma sends Portugal into last eight",
+    "description": "Ricardo Quaresma scores in the 117th minute as Portugal book their spot in the quarter-finals of Euro 2016 with a 1-0 win over Croatia in Lens.",
+    "url": "http://www.sportsmole.co.uk/fb_275513.html"
+  },
+  {
+    "site": "Bleacher Report",
+    "title": "Portugal Advance Past Croatia with Late Goal",
+    "description": "Portugal needed extra time to book their spot in the quarter-final of UEFA Euro 2016 on Saturday, but in the end, Ricardo Quaresma scored the only goal in his team's 1-0 win over Croatia...",
+    "url": "http://bleacherreport.com/articles/2648490-croatia-vs-portugal-score-and-twitter-reaction-from-euro-2016"
+  },
+  {
+    "site": "FIFA.com",
+    "title": "Live Scores - UEFA EURO 2016: Croatia - Portugal - FIFA.com",
+    "description": "Live Scores - UEFA EURO 2016: Croatia - Portugal",
+    "url": "http://www.fifa.com/live-scores/uefaeuro/matches/match=Croatia-Portugal-300360270/index.html"
+  },
+  {
+    "site": "en.wikipedia.org",
+    "title": "UEFA Euro 2016 knockout phase - Wikipedia, the free encyclopedia",
+    "description": "",
+    "url": "https://en.wikipedia.org/wiki/UEFA_Euro_2016_knockout_phase#Croatia_vs_Portugal"
+  }
+]

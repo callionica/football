@@ -1,0 +1,104 @@
+[
+  {
+    "site": "the Guardian",
+    "title": "Portugal v Iceland: Euro 2016 – live!",
+    "description": "Will tournament minnows Iceland cause an upset against Cristiano Ronaldo and co? Get the latest from Gregg Bakowski",
+    "url": "http://www.theguardian.com/football/live/2016/jun/14/portugal-v-iceland-euro-2016-live"
+  },
+  {
+    "site": "the Guardian",
+    "title": "Birkir Bjarnason the hero as Iceland hold Ronaldo’s Portugal to draw",
+    "description": "Iceland recorded their first point at a European Championship finals after Birkir Bjarnason equalised against Portugal",
+    "url": "http://www.theguardian.com/football/2016/jun/14/portugal-iceland-euro-2016-match-report"
+  },
+  {
+    "site": "UEFA.com",
+    "title": "Ice-cool Iceland claim Portugal point - UEFA EURO - News - UEFA.com",
+    "description": "Portugal 1-1 Iceland\nThe major finals debutants kicked off with a memorable draw in Group F thanks to Birkir Bjarnason's second-half leveller.",
+    "url": "http://www.uefa.com/uefaeuro-finals/season=2016/matches/round=2000448/match=2017959/postmatch/report/"
+  },
+  {
+    "site": "BBC Sport",
+    "title": "Portugal 1-1 Iceland",
+    "description": "Portugal are held to a draw by minnows Iceland as their Euro 2016 campaign gets off to an unconvincing start.",
+    "url": "http://www.bbc.com/sport/football/36466090"
+  },
+  {
+    "site": "FIFA.com",
+    "title": "Live Scores - UEFA EURO 2016: Portugal - Iceland - FIFA.com",
+    "description": "Live Scores - UEFA EURO 2016: Portugal - Iceland",
+    "url": "http://www.fifa.com/live-scores/uefaeuro/matches/match=Portugal-Iceland-300340742/index.html"
+  },
+  {
+    "site": "ESPNFC.com",
+    "title": "Portugal vs. Iceland - Football Match Report - June 14, 2016 - ESPN",
+    "description": "",
+    "url": "http://espnfc.com/report?gameId=438193"
+  },
+  {
+    "site": "www.goal.com",
+    "title": "Portugal 1 - 1 Iceland Match report - 2016-06-14 European Championship",
+    "description": "Read the full Portugal v Iceland European Championship match report from 2016-06-14, including goals, incidents and key moments",
+    "url": "http://www.goal.com/euro2016/en/match/portugal-vs-iceland/9qbnphy2hk4e6st9bier29hwp/review"
+  },
+  {
+    "site": "FourFourTwo",
+    "title": "Portugal 1 Iceland 1: Bjarnason into the record books as Ronaldo misses chance at history",
+    "description": "Birkir Bjarnason wrote his name into the history books as Iceland belied their underdog status to earn a 1-1 draw with Portugal at Euro 2016 on Tuesday. Iceland were making their first appearance at a major tournament and the situation appeared bleak when Nani scored the 600th goal in European Championship history to put Portugal into a deserved half-time lead. However, poor marking cost Fernando Santos' men early in the second half when Bjarnason had plenty of time to pick his spot and volley home Johann Gudmundsson's cross.",
+    "url": "http://www.fourfourtwo.com/my/news/portugal-1-iceland-1-bjarnason-record-books-ronaldo-misses-chance-history"
+  },
+  {
+    "site": "Independent.ie",
+    "title": "Frustration for Cristiano Ronaldo as Portugal are held by Iceland - Independent.ie",
+    "description": "Birkir Bjarnason scored Iceland's first goal at a major tournament as Portugal were held to a frustrating 1-1 draw in their Euro 2016 opener.",
+    "url": "http://www.independent.ie/sport/soccer/euro-2016/frustration-for-cristiano-ronaldo-as-portugal-are-held-by-iceland-34802261.html"
+  },
+  {
+    "site": "Eurosport",
+    "title": "LIVE Portugal - Iceland - Euro 2016 - 14 June 2016",
+    "description": "Watch the Euro 2016 meeting between Portugal ­ Iceland live on Eurosport.",
+    "url": "http://www.eurosport.com/football/euro-2016/2016/portugal--iceland_mtc835178/live.shtml"
+  },
+  {
+    "site": "mirror",
+    "title": "5 things we learned from Portugal 1-1 Iceland",
+    "description": "Nani gave Portugal the lead but Birkir Bjarnason scored Iceland's first ever European Championship goal to earn their first Euro point",
+    "url": "http://www.mirror.co.uk/sport/football/match-reports/portugal-1-1-iceland-cristiano-8193567"
+  },
+  {
+    "site": "The Independent",
+    "title": "Portugal vs Iceland match report: Birkir Bjarnason earns newcomers surprise draw on debut",
+    "description": "It is estimated that eight per cent of the population of Iceland have travelled to France to watch them in the European Championship, although since the population of Iceland is roughly that of Leicester, it was not a mass migration. This is, however, not a bad year to have any kind of association with Leicester and Iceland produced what will be recalled as one of the most heroic performances of Euro 2016.",
+    "url": "http://www.independent.co.uk/sport/football/international/portugal-vs-iceland-match-report-birkir-bjarnason-earns-newcomers-surprise-draw-on-debut-a7082566.html"
+  },
+  {
+    "site": "Football365",
+    "title": "Portugal 1-1 Iceland: Go on my ssons - Football365",
+    "description": "Football365 - Iceland gained a famous 1-1 draw against Portugal in their first ever European Championship match",
+    "url": "http://www.football365.com/news/portugal-1-1-iceland-go-on-my-ssons"
+  },
+  {
+    "site": "Mail Online",
+    "title": "Portugal 1-1 Iceland, Euro 2016 RESULT: Minnows earns deserved point",
+    "description": "Cristiano Ronaldo and his Portugal team-mates get their Euro 2016 campaign underway in Saint-Etienne on Tuesday night when they face Iceland. Join Sportsmail's BEN NAGLE for all the live action.",
+    "url": "http://www.dailymail.co.uk/sport/football/article-3641006/Portugal-vs-Iceland-Euro-2016-score-Cristiano-Ronaldo-makes-Group-F-bow.html"
+  },
+  {
+    "site": "Sports Mole",
+    "title": "Result: Iceland hold Portugal to a draw",
+    "description": "Portugal begin their Euro 2016 challenge with a 1-1 draw against Iceland in Group F's clash in Saint-Etienne.",
+    "url": "http://www.sportsmole.co.uk/fb_274817.html"
+  },
+  {
+    "site": "Bleacher Report",
+    "title": "Portugal vs. Iceland: Score and Twitter Reaction from Euro 2016",
+    "description": "Birkir Bjarnason's second-half volley earned Iceland a gallant 1-1 draw against Portugal at Stade  Geoffroy-Guichard  in Saint-Etienne, France, on Tuesday at the 2016 UEFA European Championships...",
+    "url": "http://bleacherreport.com/articles/2646316-portugal-vs-iceland-score-and-twitter-reaction-from-euro-2016"
+  },
+  {
+    "site": "en.wikipedia.org",
+    "title": "UEFA Euro 2016 Group F - Wikipedia, the free encyclopedia",
+    "description": "",
+    "url": "https://en.wikipedia.org/wiki/UEFA_Euro_2016_Group_F#Portugal_vs_Iceland"
+  }
+]

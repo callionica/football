@@ -1,0 +1,56 @@
+[
+  {
+    "site": "Independent.ie",
+    "title": "Croatia off to a flier as Modric stunner sinks Turkey - Independent.ie",
+    "description": "Luka Modric's superb volley gave Croatia a winning start to their Euro 2016 campaign with a 1-0 victory against Turkey at the Parc des Princes.",
+    "url": "http://www.independent.ie/sport/soccer/euro-2016/croatia-off-to-a-flier-as-modric-stunner-sinks-turkey-34793866.html"
+  },
+  {
+    "site": "the Guardian",
+    "title": "Luka Modric stunner for Croatia sinks Turkey in Euro 2016 Group D tie",
+    "description": "Croatia beat Turkey 1-0 in their Group D opener at Euro 2016, with Luka Modric volleying a memorable winner in the 41st minute",
+    "url": "http://www.theguardian.com/football/2016/jun/12/turkey-croatia-euro-2016-match-report"
+  },
+  {
+    "site": "BBC Sport",
+    "title": "Turkey 0-1 Croatia",
+    "description": "Luka Modric's 25-yard volley earns a dominant Croatia victory over Turkey in their opening Euro 2016 fixture in Paris.",
+    "url": "http://www.bbc.com/sport/football/36454287"
+  },
+  {
+    "site": "UEFA.com",
+    "title": "Modrić magic helps Croatia down Turkey - UEFA EURO - News - UEFA.com",
+    "description": "Turkey 0-1 Croatia\nLuka Modrić's 25-metre volley made Croatia's pressure count at the Parc des Princes, with Darijo Srna and Ivan Perišić both denied by the crossbar.",
+    "url": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017884/postmatch/report/"
+  },
+  {
+    "site": "ESPNFC.com",
+    "title": "Turkey vs. Croatia - Football Match Summary - June 12, 2016 - ESPN",
+    "description": "Get a summary of the Turkey vs. Croatia football match.",
+    "url": "http://www.espnfc.co.uk/match?gameId=438200"
+  },
+  {
+    "site": "www.goal.com",
+    "title": "Turkey 0 - 1 Croatia Match report - 2016-06-12 European Championship",
+    "description": "Read the full Turkey v Croatia European Championship match report from 2016-06-12, including goals, incidents and key moments",
+    "url": "http://www.goal.com/euro2016/en/match/turkey-vs-croatia/dfpif2p94e5g9af5p9dyjdwix"
+  },
+  {
+    "site": "The Telegraph",
+    "title": "Turkey 0-1 Croatia: Luka Modric volley and Vedran Corluka heroics see Croats draw first blood in Group D",
+    "description": "",
+    "url": "http://www.telegraph.co.uk/football/2016/06/11/euro-2016-turkey-vs-croatia-live/"
+  },
+  {
+    "site": "en.wikipedia.org",
+    "title": "UEFA Euro 2016 Group D - Wikipedia, the free encyclopedia",
+    "description": "",
+    "url": "https://en.wikipedia.org/wiki/UEFA_Euro_2016_Group_D#Turkey_vs_Croatia"
+  },
+  {
+    "site": "Mail Online",
+    "title": "Turkey 0-1 Croatia: A stunning Luka Modric volley secures victory",
+    "description": "DECLAN TAYLOR IN PARIS: Croatia, the perennial dark horses of European football, are out of the stable and off the mark - but they did not hit top speed in their Group D opener against Turkey.",
+    "url": "http://www.dailymail.co.uk/sport/football/article-3637649/Turkey-0-1-Croatia-Luka-Modric-ensures-open-Euro-2016-victory-stunning-half-volley-Parc-des-Princes.html"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "site": "the Guardian",
+    "title": "Admir Mehmedi crashes home to rescue point for Switzerland against Romania",
+    "description": "Switzerland’s Admir Mehmedi thumped home a fizzing volley to give his side a share of the spoils after Bogdan Stancu’s second penalty of the tournament for Romania",
+    "url": "http://www.theguardian.com/football/2016/jun/15/romania-switzerland-euro-201-match-report"
+  },
+  {
+    "site": "UEFA.com",
+    "title": "Mehmedi strike earns Swiss valuable point - UEFA EURO - News - UEFA.com",
+    "description": "Romania 1 -1 Switzerland\nAdmir Mehmedi's brilliant volley earns Switzerland a valuable draw but Romania can take heart after another battling display.",
+    "url": "http://www.uefa.com/uefaeuro-finals/season=2016/matches/round=2000448/match=2017886/postmatch/report/"
+  },
+  {
+    "site": "BBC Sport",
+    "title": "Romania 1-1 Switzerland",
+    "description": "Admir Mehmedi's second-half equaliser secures a draw for Switzerland as Romania pick up their first point of Euro 2016.",
+    "url": "http://www.bbc.com/sport/football/36476033"
+  },
+  {
+    "site": "ESPNFC.com",
+    "title": "Romania vs. Switzerland - Football Match Report - June 15, 2016 - ESPN",
+    "description": "",
+    "url": "http://espnfc.com/report?gameId=438191"
+  },
+  {
+    "site": "www.goal.com",
+    "title": "Romania 1 - 1 Switzerland Match report - 15/06/2016 European Championship - Goal.com",
+    "description": "Read the full Romania v Switzerland match report, including goals, incidents, and much more. Have your say on the game in our comments feature.",
+    "url": "http://www.goal.com/en-gb/match/romania-vs-switzerland/2024612/report?ICID=MP_MS_5"
+  },
+  {
+    "site": "FourFourTwo",
+    "title": "Romania 1 Switzerland 1: Group A rivals share spoils in Paris",
+    "description": "Switzerland fought back to draw 1-1 with Romania in an entertaining Group A clash at Euro 2016 on Wednesday. Vladimir Petkovic's men could have qualified for the knock-out stages for the first time with a victory in Paris, but fell behind to Bogdan Stancu's first-half penalty – Romania's second spot-kick of the tournament. Admir Mehmedi brilliantly levelled the scores after the break, preventing Romania from recording just their second win at a European Championship.",
+    "url": "http://www.fourfourtwo.com/sg/news/romania-1-switzerland-1-group-a-rivals-share-spoils-paris"
+  },
+  {
+    "site": "The Telegraph",
+    "title": "Romania 1-1 Switzerland, Euro 2016: Swiss on course for knockouts after Admir Mehmedi volley secures draw with tired Romania",
+    "description": "Admir Mehmedi's spectacular volley denied Romania a first win at Euro 2016 as Switzerland snatched a 1-1 draw.",
+    "url": "http://www.telegraph.co.uk/football/2016/06/15/romania-vs-switzerland-euro-2016-live2/"
+  },
+  {
+    "site": "Independent.ie",
+    "title": "Group A remains wide open as Switzerland and Romania finish in stalemate - Independent.ie",
+    "description": "Admir Mehmedi's spectacular volley denied Romania a first win at Euro 2016 as Switzerland snatched a 1-1 draw.",
+    "url": "http://www.independent.ie/sport/soccer/euro-2016/group-a-remains-wide-open-as-switzerland-and-romania-finish-in-stalemate-34805367.html"
+  },
+  {
+    "site": "Eurosport",
+    "title": "Romania hold on for draw against Switzerland",
+    "description": "Parc des Princes, Group A – Romania 1 (Stancu, 18 [p]) Switzerland 1 (Mehmedi)",
+    "url": "http://www.eurosport.com/football/euro-2016/2016/romania-hold-on-for-draw-against-switzerland_sto5646536/story.shtml"
+  },
+  {
+    "site": "mirror",
+    "title": "Romania 1-1 Switzerland: 7 things we learned",
+    "description": "The Swiss started brightly but after gifting Romania an opening goal are thankful to their German-based winger Admir Mehmedi for a share of the spoils in Paris",
+    "url": "http://www.mirror.co.uk/sport/football/match-reports/romania-1-1-switzerland-granit-8201186"
+  },
+  {
+    "site": "The Independent",
+    "title": "Admir Mehmedi's spectacular hands Swiss vital point against Romania",
+    "description": "The benefit to Switzerland of the 24-team tournament is obvious. They are almost assured of qualification to the last-16 already, having picked up their fourth point today at the Parc des Princes with a 1-1 draw against a feisty but limited Romania side. That gives them Sunday’s match against France as another chance to gel, with less pressure on it, before their match in the next round.",
+    "url": "http://www.independent.co.uk/sport/football/international/romania-vs-switzerland-report-admir-mehmedis-spectacular-hands-swiss-vital-point-in-group-a-a7084296.html"
+  },
+  {
+    "site": "ITV News",
+    "title": "Romania and Switzerland share the points",
+    "description": "Admir Mehmedi's spectacular volley denied Romania a first win at Euro 2016 as Switzerland snatched a 1-1 draw.\n\nThe Bayer Leverkusen forward crashed an unstoppable shot into the net to cancel out Bogdan Stancu's second penalty of the tournament.",
+    "url": "http://www.itv.com/news/update/2016-06-15/romania-and-switzerland-share-the-points/"
+  },
+  {
+    "site": "Football365",
+    "title": "Romania 1-1 Switzerland: Stancu but no Stancu - Football365",
+    "description": "Football365 - Switzerland moved one step closer to qualification from Group A with a 1-1 draw against Romania.",
+    "url": "http://www.football365.com/news/romania-1-1-switzerland-stancu-but-no-stancu"
+  },
+  {
+    "site": "Mail Online",
+    "title": "Romania vs Switzerland, Euro 2016 LIVE: Group A continues in Paris",
+    "description": "Ahmed Mehmedi rocketed home a stunning volley shortly before the hour mark to give Switzerland a vital point against Romania in Group A at Euro 2016.",
+    "url": "http://www.dailymail.co.uk/sport/football/article-3642643/Romania-vs-Switzerland-Euro-2016-LIVE-Granit-Xhaka-Xherdan-Shaqiri-aim-continue-100-cent-record-Group-A.html"
+  },
+  {
+    "site": "Sports Mole",
+    "title": "Result: Switzerland, Romania share the points",
+    "description": "Admir Mehmedi cancels out a first-half penalty from Bogdan Stancu as Switzerland come from behind to draw with Romania in their Group A clash at Euro 2016.",
+    "url": "http://www.sportsmole.co.uk/fb_274869.html"
+  },
+  {
+    "site": "Bleacher Report",
+    "title": "France vs. Romania: Score and Twitter Reaction",
+    "description": "Dimitri Payet scored the winner for France in Friday's UEFA Euro 2016 opener, as Les Bleus battled to a hard-fought 2-1 win over Romania...",
+    "url": "http://bleacherreport.com/articles/2645566-france-vs-romania-score-and-twitter-reaction-from-euro-2016"
+  },
+  {
+    "site": "FIFA.com",
+    "title": "Live Scores - UEFA EURO 2016: Romania - Switzerland - FIFA.com",
+    "description": "Live Scores - UEFA EURO 2016: Romania - Switzerland",
+    "url": "http://www.fifa.com/live-scores/uefaeuro/matches/match=Romania-Switzerland-300340731/index.html"
+  },
+  {
+    "site": "en.wikipedia.org",
+    "title": "UEFA Euro 2016 Group A - Wikipedia, the free encyclopedia",
+    "description": "",
+    "url": "https://en.wikipedia.org/wiki/UEFA_Euro_2016_Group_A#Romania_vs_Switzerland"
+  }
+]

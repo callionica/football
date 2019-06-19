@@ -1,0 +1,110 @@
+[
+  {
+    "site": "the Guardian",
+    "title": "Czech Republic comeback marred by Croatia flare and fan incidents",
+    "description": "Late goals from the substitutes Milan Skoda and Tomas Necid, the latter with a 93rd‑minute penalty, gave the Czech Republic a 2-2 draw against Croatia, whose fans threw flares and fought",
+    "url": "http://www.theguardian.com/football/2016/jun/17/croatia-czech-republic-euro-2016-match-report"
+  },
+  {
+    "site": "UEFA.com",
+    "title": "Modrić magic helps Croatia down Turkey - UEFA EURO - News - UEFA.com",
+    "description": "Turkey 0-1 Croatia\nLuka Modrić's 25-metre volley made Croatia's pressure count at the Parc des Princes, with Darijo Srna and Ivan Perišić both denied by the crossbar.",
+    "url": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017884/postmatch/report/"
+  },
+  {
+    "site": "BBC Sport",
+    "title": "Czech Republic 2-2 Croatia",
+    "description": "Crowd trouble and flares on the pitch mar the Euro 2016 Group D draw between Croatia and the Czech Republic.",
+    "url": "http://www.bbc.com/sport/football/36496116"
+  },
+  {
+    "site": "ESPNFC.com",
+    "title": "Spain vs. Czech Republic - Football Match Report - June 13, 2016 - ESPN",
+    "description": "",
+    "url": "http://espnfc.com/report?gameId=438197"
+  },
+  {
+    "site": "www.goal.com",
+    "title": "Czech Republic 2 - 2 Croatia Match report - 2016-06-17 European Championship",
+    "description": "Read the full Czech Republic v Croatia European Championship match report from 2016-06-17, including goals, incidents and key moments",
+    "url": "http://www.goal.com/euro2016/en/match/czech-republic-vs-croatia/768btkd03fu3emz6uco4zud49"
+  },
+  {
+    "site": "FourFourTwo",
+    "title": "Czech Republic 2 Croatia 2: Injury-time Necid penalty earns draw amid crowd disruption",
+    "description": "Czech Republic came from two goals down to keep their Euro 2016 qualification hopes alive in a dramatic 2-2 draw against Croatia, but crowd disorder marred the closing stages of the Group D match in Saint-Etienne. Croatia appeared to be cruising into the last 16 thanks to goals either side of half-time from Ivan Perisic and Ivan Rakitic, but a late comeback was sparked after Milan Skoda's superb header halved the Czechs' deficit with 15 minutes left.",
+    "url": "http://www.fourfourtwo.com/news/czech-republic-2-croatia-2-injury-time-necid-penalty-earns-draw-amid-crowd-disruption"
+  },
+  {
+    "site": "The Telegraph",
+    "title": "Czech Republic 2 Croatia 2, Euro 2016: Czechs grab late draw in game overshadowed by crowd violence",
+    "description": "James Ducker was our man at the ground this evening, and he's filed his report on a truly bizarre match, which you can find here:",
+    "url": "http://www.telegraph.co.uk/football/2016/06/17/czech-republic-vs-croatia-euro-2016---live/"
+  },
+  {
+    "site": "Independent.ie",
+    "title": "Crowd trouble mars Czech Republic's epic comeback against Croatia - Independent.ie",
+    "description": "Tomas Necid's injury-time penalty grabbed the Czech Republic an unlikely point as Croatia - who are also likely to face UEFA sanctions following crowd trouble - blew a two-goal lead.",
+    "url": "http://www.independent.ie/sport/soccer/euro-2016/crowd-trouble-mars-czech-republics-epic-comeback-against-croatia-34811289.html"
+  },
+  {
+    "site": "Eurosport",
+    "title": "Czech Republic get the point in another Euro 2016 game marred by fan problems",
+    "description": "Tomas Necid's injury-time penalty grabbed the Czech Republic an unlikely point as Croatia - who are also likely to face UEFA sanctions following crowd trouble - blew a two-goal lead.",
+    "url": "http://www.eurosport.com/football/czech-republic-get-the-point-in-another-euro-2016-game-marred-by-fan-problems_sto5652024/story.shtml"
+  },
+  {
+    "site": "mirror",
+    "title": "Czech Republic 2-2 Croatia: 5 things we learned",
+    "description": "For 75 minutes the Czech Republic looked out of their depth against a classy Vatreni - but then a remarkable show of defiance saw them claim a share of the spoils",
+    "url": "http://www.mirror.co.uk/sport/football/match-reports/czech-republic-2-2-croatia-8044883"
+  },
+  {
+    "site": "The Independent",
+    "title": "Czech Republic vs Croatia match report: Crowd disturbances marr Czech comeback",
+    "description": "What should have been a victory that demonstrated Croatia’s billing as the swiftest dark horses of this tournament ended with flares being thrown on to the pitch, a steward struck by a firecracker, fans fighting among themselves and both sets of players taken off. The Croatia manager, Ante Cacic, called the supporters who started the incident “sports terrorists”.",
+    "url": "http://www.independent.co.uk/sport/football/international/czech-republic-vs-croatia-match-report-crowd-disturbances-marr-czech-comeback-a7088381.html"
+  },
+  {
+    "site": "ITV News",
+    "title": "Czech Republic 2-2 Croatia: Flares thrown onto pitch as match briefly suspended",
+    "description": "Czech Republic kept their Euro 2016 hopes alive with a dramatic comeback against Croatia in St Etienne.\n\nCroatia had led 2-0 and looked like winning comfortably until their star midfielder Luka Modric was substituted midway through the second half. Goals by Milan Skoda and a late penalty by Tomas Necid earned a point for the Czechs.\n\nUgly scenes marred the match late on, however, as flares were thrown onto the pitch and fans scuffled in a Croatia section of the stadium. English referee Mark Clattenburg suspended the match for several minutes as Croatia's players appealed to their own supporters to calm down.\n\nVisit ITV's Euro 2016 website for a full report and to watch highlights",
+    "url": "http://www.itv.com/news/update/2016-06-17/czech-republic-2-2-croatia-flares-thrown-onto-pitch-as-match-briefly-suspended/"
+  },
+  {
+    "site": "Football365",
+    "title": "Czech Republic 2-2 Croatia: Better when you're Necid - Football365",
+    "description": "Football365 - Tempers flared - quite literally - as Czech Republic came from two down to draw with Croatia.",
+    "url": "http://www.football365.com/news/czech-republic-2-2-croatia-better-when-youre-necid"
+  },
+  {
+    "site": "Mail Online",
+    "title": "Czech Republic v Croatia Euro 2016 LIVE: All the action",
+    "description": "Czech Republic snatched a crucial draw against Croatia in Saint-Etienne after it looked as though they were all-but out of Euro 2016, but fan violence marred Group D clash.",
+    "url": "http://www.dailymail.co.uk/sport/football/article-3646624/Czech-Republic-v-Croatia-Euro-2016-LIVE-score-action-Saint-Etienne.html"
+  },
+  {
+    "site": "Sports Mole",
+    "title": "Result: Czechs stun Croatia with late draw",
+    "description": "Czech Republic come from two goals down to draw 2-2 with Croatia in their Group D match at Euro 2016.",
+    "url": "http://www.sportsmole.co.uk/fb_274996.html"
+  },
+  {
+    "site": "Bleacher Report",
+    "title": "Czech Republic and Croatia Draw 2-2 at Euro 2016",
+    "description": "Czech Republic came back from two goals down to draw 2-2 against Croatia in Group D on Friday and keep their Euro 2016 campaign alive thanks to goals from super substitute pair Milan Skoda and Tomas Necid...",
+    "url": "http://bleacherreport.com/articles/2646868-czech-republic-vs-croatia-score-and-twitter-reaction-from-euro-2016"
+  },
+  {
+    "site": "FIFA.com",
+    "title": "Live Scores - UEFA EURO 2016: Czech Republic - Croatia - FIFA.com",
+    "description": "Live Scores - UEFA EURO 2016: Czech Republic - Croatia",
+    "url": "http://www.fifa.com/live-scores/uefaeuro/matches/match=Czech-Republic-Croatia-300340752/index.html"
+  },
+  {
+    "site": "en.wikipedia.org",
+    "title": "UEFA Euro 2016 Group D - Wikipedia, the free encyclopedia",
+    "description": "",
+    "url": "https://en.wikipedia.org/wiki/UEFA_Euro_2016_Group_D#Czech_Republic_vs_Croatia"
+  }
+]

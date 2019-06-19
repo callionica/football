@@ -1,0 +1,110 @@
+[
+  {
+    "site": "the Guardian",
+    "title": "Germany beat Italy to reach Euro 2016 semi-finals after epic penalty shootout",
+    "description": "Jonas Hector scored Germany’s winning penalty as they beat Italy 6-5 in a shootout to reach the semi-finals of Euro 2016 with the match 1-1 after extra time",
+    "url": "http://www.theguardian.com/football/2016/jul/02/germany-italy-euro-2016-match-report"
+  },
+  {
+    "site": "UEFA.com",
+    "title": "Germany finally defeat Italy to stride into semis - UEFA EURO - News - UEFA.com",
+    "description": "Germany 1-1 Italy (Germany win 6-5 on pens)\nJonas Hector hit the winning penalty as Germany beat Italy for the first time in a major finals – albeit on spot kicks after an epic, miss-laden shoot-out.",
+    "url": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000449/match=2017903/postmatch/report/"
+  },
+  {
+    "site": "BBC Sport",
+    "title": "Germany 1-1 Italy (6-5 on pens)",
+    "description": "Germany miss three penalties in a shootout but still beat Italy 6-5 to reach the semi-finals of Euro 2016.",
+    "url": "http://www.bbc.com/sport/football/36628245"
+  },
+  {
+    "site": "ESPNFC.com",
+    "title": "Germany vs. Italy - Football Match Report - July 2, 2016 - ESPN",
+    "description": "Get a report of the Germany vs. Italy 2016 European Championship, Quarterfinals football match.",
+    "url": "http://espnfc.com/report?gameId=438158"
+  },
+  {
+    "site": "www.goal.com",
+    "title": "Germany 1 - 1 Italy Match report - 02/07/2016 European Championship - Goal.com",
+    "description": "Read the full Germany v Italy match report, including goals, incidents, and much more. Have your say on the game in our comments feature.",
+    "url": "http://www.goal.com/en-gb/match/germany-vs-italy/2024887/report"
+  },
+  {
+    "site": "FourFourTwo",
+    "title": "Germany 1 Italy 1 (aet, 6-5 pens): Darmian miss decisive in unbelievable shootout",
+    "description": "Germany won a dramatic penalty shootout 6-5 to book a place in the Euro 2016 semifinals and send Italy crashing out in Bordeaux. After 120 minutes of action ended in a 1-1 draw, Manuel Neuer saved from Matteo Darmian in the shootout's decisive moment, with Jonas Hector netting the winning spot kick.",
+    "url": "http://www.fourfourtwo.com/us/news/germany-1-italy-1-aet-6-5-pens-darmian-miss-decisive-unbelievable-shootout"
+  },
+  {
+    "site": "The Telegraph",
+    "title": "Italy 1 Germany 1, Euro 2016: World champions break Italian hearts with 6-5 sudden-death shootout success",
+    "description": "They are the greatest penalty-taking nation in the history of the elite game, and this Germany team did not fail as they dispatched Italy from Euro 2016 in a shoot-out that finished at ten minutes to midnight in Bordeaux and saw more drama than it usually takes for the world champions to win these things.",
+    "url": "http://www.telegraph.co.uk/football/2016/07/02/italy-1-germany-1-euro-2016-world-champions-break-italian-hearts/"
+  },
+  {
+    "site": "Independent.ie",
+    "title": "Germany end Italian hoodoo as Joachim Loew's side go through after penalty drama - Independent.ie",
+    "description": "They are the greatest penalty-taking nation in the history of the elite game, and this Germany team did not fail as they dispatched Italy from Euro 2016 after a in-out that finished at",
+    "url": "http://www.independent.ie/sport/soccer/euro-2016/germany-end-italian-hoodoo-as-joachim-loews-side-go-through-after-penalty-drama-34852165.html"
+  },
+  {
+    "site": "Eurosport",
+    "title": "Euro 2016 - Germany clinch semi-final spot after shoot-out win over Italy",
+    "description": "Euro 2016 quarter-finals, Stade de Bordeaux, Bordeaux - Germany 1 (Ozil 65) Italy 1 (Bonucci (p) 78) - Germany win 6-5 on penalties.",
+    "url": "http://www.eurosport.com/football/euro-2016/2016/euro-2016-germany-v-italy-germany-v-italy-quarter-final-penalties-live_sto5666035/story.shtml"
+  },
+  {
+    "site": "mirror",
+    "title": "Germany 1-1 Italy (6-5 on pens): 7 things we learned in Bordeaux",
+    "description": "The two giants of European football met in Bordeaux and it was Die Mannschaft who claimed a place in the semi-final",
+    "url": "http://www.mirror.co.uk/sport/football/match-reports/germany-1-1-italy-6-8299533"
+  },
+  {
+    "site": "The Independent",
+    "title": "Germany vs Italy match report: Hector seals spot-kick success for world champions",
+    "description": "It was ten minutes to midnight in Bordeaux when Germany finally pulled their way through to the European Championship semi-finals, ending their lifetime curse against Italy as well as a penalty shout-out that had a historic feel to it. It took 18 penalty-kicks, the normal 10 and another four rounds of sudden-death, for Germany to finally pull away from a dogged Italian side who they simply could not escape. This was a night that Joachim Low’s side, hunting a European crown to go with their World Cup, had made far harder for themselves than they should have done.",
+    "url": "http://www.independent.co.uk/sport/football/international/germany-vs-italy-match-report-hector-seals-spot-kick-success-for-world-champions-a7116336.html"
+  },
+  {
+    "site": "www.itv.com",
+    "title": "Euro 2016 highlights and match report: Germany 1-1 Italy (6-5 pens)",
+    "description": "Germany advanced to the semi-final of Euro 2016 after an enthralling penalty shoot-out success over Italy in Bordeaux.\n\nMesut Ozil had opened the scoring for Germany on 65 minutes after a tight tactical battle, with Leonardo Bonucci levelling from the penalty spot with 12 minutes remaining as the game ended 1-1 after extra time.",
+    "url": "http://www.itv.com/euro2016/euro-2016-highlights-and-match-report-germany-1-1-italy-6-5-pens"
+  },
+  {
+    "site": "Football365",
+    "title": "Germany (p) 1-1 Italy: Die Penaltymeisters - Football365",
+    "description": "Football365 - Germany beat Italy after an epic penalty shootout to reach the semi-finals of Euro 2016",
+    "url": "http://www.football365.com/news/germany-p-1-1-italy-die-penaltymeisters"
+  },
+  {
+    "site": "Mail Online",
+    "title": "Germany 1-1 Italy (AET, 6-5 pens): Low's side through to semi-finals",
+    "description": "ROB DRAPER AT THE NOUVEAU STADE DE BORDEAUX: Germany missed three spot-kicks during Saturday night's shootout - their first slip-ups since 1982 - and still won on penalties.",
+    "url": "http://www.dailymail.co.uk/sport/football/article-3671713/Germany-1-1-Italy-AET-6-5-pens-Jonas-Hector-s-sudden-death-spot-kick-sends-Joachim-Low-s-Euro-2016-semi-finals-Matteo-Darmian-sees-effort-saved-Manuel-Neuer.html"
+  },
+  {
+    "site": "Sports Mole",
+    "title": "Result: Germany make semi-finals of Euro 2016",
+    "description": "Germany book their spot in the semi-finals of Euro 2016 courtesy of a penalty-shootout victory over Italy in Saturday's last-eight clash in Bordeaux.",
+    "url": "http://www.sportsmole.co.uk/fb_275986.html"
+  },
+  {
+    "site": "Bleacher Report",
+    "title": "Germany vs. Italy: Score, Twitter Reaction from Euro 2016",
+    "description": "Germany needed penalties to book their spot in the semi-finals of UEFA Euro 2016 on Saturday, as their match against Italy ended 1-1 after 120 minutes.    The two teams served up a tremendous tactical battle that led to few chances in the first half...",
+    "url": "http://bleacherreport.com/articles/2649782-germany-vs-italy-score-and-twitter-reaction-from-euro-2016"
+  },
+  {
+    "site": "FIFA.com",
+    "title": "Live Scores - UEFA EURO 2016: Germany - Italy - FIFA.com",
+    "description": "Live Scores - UEFA EURO 2016: Germany - Italy",
+    "url": "http://www.fifa.com/live-scores/uefaeuro/matches/match=Germany-Italy-300360760/index.html"
+  },
+  {
+    "site": "en.wikipedia.org",
+    "title": "UEFA Euro 2016 knockout phase - Wikipedia, the free encyclopedia",
+    "description": "",
+    "url": "https://en.wikipedia.org/wiki/UEFA_Euro_2016_knockout_phase#Germany_vs_Italy"
+  }
+]

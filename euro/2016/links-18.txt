@@ -1,0 +1,104 @@
+[
+  {
+    "site": "the Guardian",
+    "title": "Germany turn off the power against Poland to leave it tight in Group C",
+    "description": "Germany failed to hit their straps against Poland who had the best two chances, both missed by Arkadiusz Milik, resulting in a 0-0 draw at Euro 2016",
+    "url": "http://www.theguardian.com/football/2016/jun/16/germany-poland-euro-2016-match-report"
+  },
+  {
+    "site": "UEFA.com",
+    "title": "Germany and Poland draw to end Ukraine's campaign - UEFA EURO - News - UEFA.com",
+    "description": "Germany 0-0 Poland\nArkadiusz Milik missed the best two chances of a match that brought the first goalless draw of UEFA EURO 2016 and the end of Ukraine.",
+    "url": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017889/postmatch/report/"
+  },
+  {
+    "site": "BBC Sport",
+    "title": "Germany 0-0 Poland",
+    "description": "Germany and Poland play out the first goalless draw of Euro 2016 as both teams move closer to the knockout stages.",
+    "url": "http://www.bbc.com/sport/football/36486347"
+  },
+  {
+    "site": "ESPNFC.com",
+    "title": "Germany vs. Poland - Football Match Report - June 16, 2016 - ESPN",
+    "description": "",
+    "url": "http://espnfc.com/report?gameId=438187"
+  },
+  {
+    "site": "www.goal.com",
+    "title": "Germany 0 - 0 Poland Match report - 6/16/16 European Championship - Goal.com",
+    "description": "Read the full Germany v Poland match report, including goals, incidents, and much more. Have your say on the game in our comments feature.",
+    "url": "http://www.goal.com/en/match/germany-vs-poland/2024856/report"
+  },
+  {
+    "site": "FourFourTwo",
+    "title": "Germany 0 Poland 0: Milik fluffs lines in Saint-Denis stalemate",
+    "description": "World champions Germany and Group C rivals Poland played out a goalless draw at the Stade de France, which leaves both nations in good shape to qualify for the last 16 and eliminates Ukraine from contention. After opening-match wins, victory on Thursday for either side would have secured a spot in the knockout phase, but for the most part the game failed to capture the imagination. Indeed, it was not until the opening minute of the second half that the first real opening materialised – Arkadiusz Milik somehow failing to connect with a dangerous Kamil Grosicki cross.",
+    "url": "http://www.fourfourtwo.com/news/germany-0-poland-0-milik-fluffs-lines-saint-denis-stalemate"
+  },
+  {
+    "site": "The Telegraph",
+    "title": "Germany 0 Poland 0, Euro 2016: World champions fail to impress in first bore draw of the tournament",
+    "description": "What’s wrong with Germany?",
+    "url": "http://www.telegraph.co.uk/football/2016/06/16/germany-0-poland-0-euro-2016-world-champions-fail-to-impress-in/"
+  },
+  {
+    "site": "Independent.ie",
+    "title": "Milik fails to deliver as Poles highlight German inefficiency - Independent.ie",
+    "description": "Two unbeaten sides left the pitch here at the Stade de France, and yet they did so in strikingly different moods.",
+    "url": "http://www.independent.ie/sport/soccer/euro-2016/milik-fails-to-deliver-as-poles-highlight-german-inefficiency-34809158.html"
+  },
+  {
+    "site": "Eurosport",
+    "title": "Euro 2016: Subdued Germany held to drab draw by Poland",
+    "description": "Stade de France, Group C - Germany 0 Poland 0",
+    "url": "http://www.eurosport.com/football/euro-2016/2016/subdued-germany-held-to-drab-draw-by-poland_sto5648189/story.shtml"
+  },
+  {
+    "site": "mirror",
+    "title": "5 things we learned from Germany 0-0 Poland",
+    "description": "Both countries are guaranteed to qualify for the Euro 2016 knockout stages if they avoid defeat in their final games next week",
+    "url": "http://www.mirror.co.uk/sport/football/match-reports/germany-0-0-poland-honours-8044887"
+  },
+  {
+    "site": "The Independent",
+    "title": "Germany vs Poland report: Flaws come to the fore for world champions",
+    "description": "On Sunday in Lille Germany showed their best qualities, the qualities that won them the 2014 World Cup and make them so favoured in France. Beating Ukraine 2-0, Germany played incisive intelligent football and when they were ahead they managed the game to perfection.",
+    "url": "http://www.independent.co.uk/sport/football/international/germany-vs-poland-match-report-flaws-come-to-the-fore-for-world-champions-as-first-euro-2016-a7086456.html"
+  },
+  {
+    "site": "Football365",
+    "title": "Germany 0-0 Poland: First bad one of the tournament - Football365",
+    "description": "Football365 - Germany and Poland drew 0-0, with Poland having the better of few chances. Not a good one",
+    "url": "http://www.football365.com/news/germany-0-0-poland-first-bad-one-of-the-tournament"
+  },
+  {
+    "site": "Mail Online",
+    "title": "Germany v Poland, Euro 2016 LIVE: Top two sides in Group C clash",
+    "description": "The German machine showed itself to be functioning perfectly as die Mannschaft brushed aside Ukraine in their opening game. You can follow their clash against Poland with DAN RIPLEY.",
+    "url": "http://www.dailymail.co.uk/sport/football/article-3645397/Germany-vs-Poland-Euro-2016-LIVE-SCORE-Robert-Lewandowski-Thomas-Muller-face-battle-Bayern-Munich-strikers.html"
+  },
+  {
+    "site": "Sports Mole",
+    "title": "Result: Milik misses as Poland, Germany share point",
+    "description": "Arkadiusz Milik misses two golden chances as Poland and Germany record a goalless draw in their Group C clash at Euro 2016.",
+    "url": "http://www.sportsmole.co.uk/fb_274933.html"
+  },
+  {
+    "site": "Bleacher Report",
+    "title": "Germany, Poland Play to Scoreless Draw",
+    "description": "Germany and Poland played out a dull goalless draw  in Group C of UEFA Euro 2016 on Thursday at the Stade de France in Paris, as both teams struggled in the final third of the pitch...",
+    "url": "http://bleacherreport.com/articles/2646719-germany-vs-poland-score-and-twitter-reaction-from-euro-2016"
+  },
+  {
+    "site": "FIFA.com",
+    "title": "Live Scores - UEFA EURO 2016: Germany - Poland - FIFA.com",
+    "description": "Live Scores - UEFA EURO 2016: Germany - Poland",
+    "url": "http://www.fifa.com/live-scores/uefaeuro/matches/match=Germany-Poland-300340747/index.html"
+  },
+  {
+    "site": "en.wikipedia.org",
+    "title": "UEFA Euro 2016 Group C - Wikipedia, the free encyclopedia",
+    "description": "",
+    "url": "https://en.wikipedia.org/wiki/UEFA_Euro_2016_Group_C#Germany_vs_Poland"
+  }
+]

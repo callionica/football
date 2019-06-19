@@ -1,0 +1,110 @@
+[
+  {
+    "site": "the Guardian",
+    "title": "Antoine Griezmann leads French fightback to end Ireland’s Euro 2016",
+    "description": "Ireland scored a third-minute penalty but Antoine Griezmann struck twice in four minutes as France staged a second-half recovery to win 2-1 at the Stade de Lyon",
+    "url": "http://www.theguardian.com/football/2016/jun/26/france-republic-ireland-euro-2016-match-report"
+  },
+  {
+    "site": "UEFA.com",
+    "title": "Griezmann helps France fight back to oust Ireland - UEFA EURO - News - UEFA.com",
+    "description": "France 2-1 Republic of Ireland\nTwo goals in four minutes from Antoine Griezmann gave the hosts victory in Lyon after the shock of Robbie Brady's second-minute penalty.",
+    "url": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000744/match=2017999/postmatch/report/"
+  },
+  {
+    "site": "BBC Sport",
+    "title": "France 2-1 Republic of Ireland",
+    "description": "Hosts France come from behind to beat 10-man Republic of Ireland 2-1 and reach the quarter-finals of Euro 2016.",
+    "url": "http://www.bbc.com/sport/football/36569511"
+  },
+  {
+    "site": "ESPNFC.com",
+    "title": "France vs. Republic of Ireland - Football Match Report - June 26, 2016 - ESPN",
+    "description": "Get a report of the France vs. Republic of Ireland 2016 European Championship, Round of 16 football match.",
+    "url": "http://espnfc.com/report?gameId=438165"
+  },
+  {
+    "site": "www.goal.com",
+    "title": "France 2 - 1 Republic of Ireland Match report - 6/26/16 European Championship - Goal.com",
+    "description": "Read the full France v Republic of Ireland match report, including goals, incidents, and much more. Have your say on the game in our comments feature.",
+    "url": "http://www.goal.com/en/match/france-vs-republic-of-ireland/2024883/report"
+  },
+  {
+    "site": "FourFourTwo",
+    "title": "France v Republic of Ireland: Long not on Henry revenge mission",
+    "description": "Shane Long insists Republic of Ireland are not on a revenge mission over Thierry Henry's infamous handball as the sides prepare to go head-to-head in the last 16 of Euro 2016. Henry caused outrage in the Emerald Isle as he deliberately handballed in the build-up to the goal that cost Ireland a place at the South Africa World Cup in a 2009 play-off tie. The Boys in Green can avenge the incident in perfect style by knocking France out of their own tournament in Lyon on Sunday.",
+    "url": "http://www.fourfourtwo.com/news/france-v-republic-ireland-long-not-henry-revenge-mission"
+  },
+  {
+    "site": "The Telegraph",
+    "title": "France 2 Republic of Ireland 1 - Heartbreak for the Irish as Antoine Griezmann brace knocks them out of Euro 2016",
+    "description": "It is fair to say that this European Championship has struggled to ignite, while a highly fancied host nation have also failed to fire, but that all changed in Lyon as France came back from a goal down to breeze into the quarter-finals, thanks to Antoine Griezmann.",
+    "url": "http://www.telegraph.co.uk/football/2016/06/26/france-2-republic-of-ireland-1---heartbreak-for-the-irish-as-ant/"
+  },
+  {
+    "site": "Independent.ie",
+    "title": "Match report: Brave Ireland bow out of Euro 2016 in gallant fashion as France advance - Independent.ie",
+    "description": "It wasn’t revenge, but it was at least respectability. Ireland go out of Euro 2016 after a spirited 2-1 defeat to hosts France but only after a long spell when it really seemed like som",
+    "url": "http://www.independent.ie/sport/soccer/euro-2016/match-report-brave-ireland-bow-out-of-euro-2016-in-gallant-fashion-as-france-advance-34834826.html"
+  },
+  {
+    "site": "Eurosport",
+    "title": "France come from behind to beat ten-man Ireland",
+    "description": "Euro 2016 last-16, Lyon: France 2 (Griezmann 57, 61) Republic of Ireland 1 (Brady 2pen)",
+    "url": "http://www.eurosport.com/football/euro-2016/2016/euro-2016-france-v-republic-of-ireland-preview-can-the-irish-get-their-revenge_sto5662343/story.shtml"
+  },
+  {
+    "site": "mirror",
+    "title": "France 2-1 Ireland: Griezmann brace breaks Irish hearts - 5 things we learned",
+    "description": "The Atletico man netted two second-half goals to overturn Robbie Brady's early penalty",
+    "url": "http://www.mirror.co.uk/sport/football/match-reports/france-2-1-republic-ireland-8266203"
+  },
+  {
+    "site": "The Independent",
+    "title": "Antoine Griezmann breaks Irish hearts to keep France in Euro 2016",
+    "description": "The prospect of a miracle was quite beautiful for the hour it lasted because it was built on creativity, intelligence and technical excellence, not just workmanlike determination from the Republic of Ireland.",
+    "url": "http://www.independent.co.uk/sport/football/international/france-vs-republic-of-ireland-euro-2016-match-report-antoine-griezmann-breaks-irish-hearts-to-save-a7104431.html"
+  },
+  {
+    "site": "www.itv.com",
+    "title": "Euro 2016 highlights and report: France 2-1 Ireland",
+    "description": "Antoine Griezmann kept France on track for Euro 2016 glory as the hosts survived a major scare to edge the Republic of Ireland 2-1.",
+    "url": "http://www.itv.com/euro2016/euro-2016-highlights-and-report-france-2-1-ireland"
+  },
+  {
+    "site": "Football365",
+    "title": "France 2-1 Ireland: Griezmann the Lyon king - Football365",
+    "description": "Football365 - Ireland are out of Euro 2016 after losing 2-1 to France, Antoine Griezmann the French hero.",
+    "url": "http://www.football365.com/news/france-2-1-ireland-antoine-in-a-million"
+  },
+  {
+    "site": "Mail Online",
+    "title": "France v Republic of Ireland, Euro 2016: Follow the action from Lyon",
+    "description": "Euro 2016 hosts France beat Republic of Ireland 2-1 in last-16 at the Stade des Lumieres in Lyon on Sunday afternoon, thanks to a brace from Atletico Madrid forward Antoine Griezmann.",
+    "url": "http://www.dailymail.co.uk/sport/football/article-3660565/France-v-Republic-Ireland-Euro-2016-live-score-Follow-action-Lyon-16-continues.html"
+  },
+  {
+    "site": "Sports Mole",
+    "title": "Result: France come from behind to beat Republic of Ireland",
+    "description": "France are through to the quarter-finals of Euro 2016 after beating the Republic of Ireland 2-1 in Sunday's last-16 clash at Lyon's Stade des Lumieres.",
+    "url": "http://www.sportsmole.co.uk/fb_275540.html"
+  },
+  {
+    "site": "Bleacher Report",
+    "title": "France vs. Republic of Ireland: Score and Twitter Reaction",
+    "description": "France staged a stunning second-half comeback to book their place in the quarter-finals of Euro 2016 on Sunday, coming from 1-0 down to beat the Republic of Ireland 2-1 with two goals from Antoine Griezmann...",
+    "url": "http://bleacherreport.com/articles/2648561-france-vs-republic-of-ireland-score-and-twitter-reaction-from-euro-2016"
+  },
+  {
+    "site": "FIFA.com",
+    "title": "Live Scores - UEFA EURO 2016: France - Republic of Ireland - FIFA.com",
+    "description": "Live Scores - UEFA EURO 2016: France - Republic of Ireland",
+    "url": "http://www.fifa.com/live-scores/uefaeuro/matches/match=France-Republic of Ireland-300359971/index.html"
+  },
+  {
+    "site": "en.wikipedia.org",
+    "title": "UEFA Euro 2016 knockout phase - Wikipedia, the free encyclopedia",
+    "description": "",
+    "url": "https://en.wikipedia.org/wiki/UEFA_Euro_2016_knockout_phase#France_vs_Republic_of_Ireland"
+  }
+]

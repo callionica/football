@@ -1,0 +1,110 @@
+[
+  {
+    "site": "the Guardian",
+    "title": "Wales thump sorry Russia to top their group in Euro 2016",
+    "description": "An emphatic 3-0 victory in Toulouse took Wales to the top of their group in Euro 2016 above England",
+    "url": "http://www.theguardian.com/football/2016/jun/20/wales-russia-euro-2016-match-report"
+  },
+  {
+    "site": "UEFA.com",
+    "title": "Wonderful Wales win group and oust Russia - UEFA EURO - News - UEFA.com",
+    "description": "Russia 0-3 Wales\nAaron Ramsey and Neil Taylor's early goals were followed up by Gareth Bale as Wales won Group B and eliminated Russia.",
+    "url": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017896/postmatch/report/"
+  },
+  {
+    "site": "BBC Sport",
+    "title": "Russia 0-3 Wales",
+    "description": "Wales secure a place in the last 16 at Euro 2016 by overpowering Russia to finish top of Group B ahead of England.",
+    "url": "http://www.bbc.com/sport/football/36514115"
+  },
+  {
+    "site": "ESPNFC.com",
+    "title": "Russia vs. Wales - Football Match Report - June 20, 2016 - ESPN",
+    "description": "",
+    "url": "http://espnfc.com/report?gameId=438178"
+  },
+  {
+    "site": "www.goal.com",
+    "title": "Russia 0 - 3 Wales Match report - 2016-06-20 European Championship",
+    "description": "Read the full Russia v Wales European Championship match report from 2016-06-20, including goals, incidents and key moments",
+    "url": "http://www.goal.com/euro2016/en/match/russia-vs-wales/798gkea48mu476b767pefxofd"
+  },
+  {
+    "site": "FourFourTwo",
+    "title": "Russia 0 Wales 3: Coleman's men storm into last 16 as group winners",
+    "description": "Wales dominated Russia to seal their progression to the Euro 2016 knockout stages as Group B winners with a stunning 3-0 victory in Toulouse. Showing no signs of a hangover from their last-gasp 2-1 defeat to England in Lens on Thursday, Chris Coleman's side controlled the game from start to finish and took the lead through a neat Aaron Ramsey finish. Neil Taylor had Wales two up by the 20th minute, with Leonid Slutsky's men limited to an Artem Dzyuba strike out of nothing that forced Wayne Hennessey into a good save.",
+    "url": "http://www.fourfourtwo.com/au/news/russia-0-wales-3-colemans-men-storm-last-16-group-winners"
+  },
+  {
+    "site": "The Telegraph",
+    "title": "Gareth Bale seizes chance to become the main man at Euro 2016 as Wales emerge as team to be feared",
+    "description": "We will never know how George Best or Ryan Giggs might have influenced a major international tournament but we can at least feel privileged to witness the answer that is currently being provided by the finest British player of this generation.",
+    "url": "http://www.telegraph.co.uk/football/2016/06/21/gareth-bale-seizes-chance-to-become-the-main-man-at-euro-2016-as/"
+  },
+  {
+    "site": "Independent.ie",
+    "title": "Magnificent Wales rout Russia to progress to last 16 as group winners - Independent.ie",
+    "description": "Wales enjoyed one of the greatest nights in their football history as they brushed aside Russia 3-0 in Toulouse to win Group B at Euro 2016.",
+    "url": "http://www.independent.ie/sport/soccer/euro-2016/magnificent-wales-rout-russia-to-progress-to-last-16-as-group-winners-34818116.html"
+  },
+  {
+    "site": "Eurosport",
+    "title": "Euro 2016 - Wales crush Russia, leapfrog England to top Group B",
+    "description": "Euro 2016 Group B, Stadium Municipal – Russia 0 Wales 3 (Ramsey 11 Taylor 20 Bale 67)",
+    "url": "http://www.eurosport.com/football/euro-2016/2016/euro-2016-wales-crush-russia-leapfrog-england-to-top-group-b_sto5655188/story.shtml"
+  },
+  {
+    "site": "mirror",
+    "title": "Russia 0-3 Wales: Gareth Bale seals convincing win",
+    "description": "Two first-half goals in nine minutes from Aaron Ramsey and Neil Taylor set Wales on their way before Bale wrapped up victory after the break",
+    "url": "http://www.mirror.co.uk/sport/football/match-reports/russia-0-3-wales-gareth-8044867"
+  },
+  {
+    "site": "The Independent",
+    "title": "Wales vs Russia match report: Team effort ensures Dragons seal top spot ahead of England",
+    "description": "They will talk about this for years to come. From Cardiff to Caernarfon, via Merthyr, Aberystwyth and Machynlleth. They will talk about until their memories are faint and everyone they know has heard it a thousand times. And still they will say, ‘I was there’. Max Boyce, get writing, and this time it is about football.",
+    "url": "http://www.independent.co.uk/sport/football/international/wales-vs-russia-match-report-team-effort-ensures-dragons-seal-top-spot-ahead-of-england-a7092296.html"
+  },
+  {
+    "site": "www.itv.com",
+    "title": "Euro 2016 match report and highlights: Russia 0-3 Wales",
+    "description": "Wales enjoyed one of the greatest nights in their football history as they brushed aside Russia 3-0 in Toulouse to win Group B at Euro 2016.\n\nEngland's goalless draw with Slovakia opened the door for Wales to take top spot and they barged right through it with goals from Aaron Ramsey, Neil Taylor and Gareth Bale.",
+    "url": "http://www.itv.com/euro2016/euro-2016-match-report-and-highlights-russia-0-3-wales"
+  },
+  {
+    "site": "Football365",
+    "title": "Russia 0-3 Wales: Happy valleys once again - Football365",
+    "description": "Football365 - Wales top the group after destroying a rotten Russian side with room to spare.",
+    "url": "http://www.football365.com/news/russia-0-3-wales-happy-valleys-once-again"
+  },
+  {
+    "site": "Mail Online",
+    "title": "Wales 3-0 Russia, Euro 2016 LIVE: Bale hopes to fire side into last-16",
+    "description": "A place in the last-16 of Euro 2016 is on the line as Wales and Russia hope to advance to the knock out stages when they clash in Toulouse in their final group games. Join MATT MALTBY for all the action.",
+    "url": "http://www.dailymail.co.uk/sport/football/article-3650866/Wales-v-Russia-Euro-2016-LIVE-scores-Gareth-Bale-hopes-fire-16.html"
+  },
+  {
+    "site": "Sports Mole",
+    "title": "Result: Wales thrash Russia and win Group B",
+    "description": "Wales pull off a historic feat by thrashing Russia to reach the last 16 at Euro 2016.",
+    "url": "http://www.sportsmole.co.uk/fb_275198.html"
+  },
+  {
+    "site": "Bleacher Report",
+    "title": "Russia vs. Wales: Score, Twitter Reaction from Euro 2016",
+    "description": "Wales qualified for the Euro 2016 knockout stages as Group B  winners  after defeating Russia 3-0 in Toulouse   on Monday evening, while pool opponents England were held to a bore draw by Slovakia   in Saint-Etienne...",
+    "url": "http://bleacherreport.com/articles/2647385-russia-vs-wales-score-and-twitter-reaction-from-euro-2016"
+  },
+  {
+    "site": "FIFA.com",
+    "title": "Live Scores - UEFA EURO 2016: Russia - Wales - FIFA.com",
+    "description": "Live Scores - UEFA EURO 2016: Russia - Wales",
+    "url": "http://www.fifa.com/live-scores/uefaeuro/matches/match=Russia-Wales-300340732/index.html"
+  },
+  {
+    "site": "en.wikipedia.org",
+    "title": "UEFA Euro 2016 Group B - Wikipedia, the free encyclopedia",
+    "description": "",
+    "url": "https://en.wikipedia.org/wiki/UEFA_Euro_2016_Group_B#Russia_vs_Wales"
+  }
+]

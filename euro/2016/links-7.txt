@@ -1,0 +1,50 @@
+[
+  {
+    "site": "Independent.ie",
+    "title": "Defensively suspect Germany eventually see off Ukraine - Independent.ie",
+    "description": "World champions Germany began their Euro 2016 campaign with a 2-0 victory over Ukraine.",
+    "url": "http://www.independent.ie/sport/soccer/euro-2016/defensively-suspect-germany-eventually-see-off-ukraine-34794715.html"
+  },
+  {
+    "site": "BBC Sport",
+    "title": "Germany 2-0 Ukraine",
+    "description": "World champions Germany begin their quest for a record fourth European Championship by beating Ukraine.",
+    "url": "http://www.bbc.com/sport/football/36454267"
+  },
+  {
+    "site": "the Guardian",
+    "title": "Germany’s Schweinsteiger and Mustafi sink Ukraine in Euro 2016 opener",
+    "description": "Shkodran Mustafi’s first goal for his country and another in injury time from Bastian Schweinsteiger gave Germany a comfortable 2-0 win against Ukraine in Euro 2016",
+    "url": "http://www.theguardian.com/football/2016/jun/12/germany-ukraine-euro-2016-match-report"
+  },
+  {
+    "site": "UEFA.com",
+    "title": "Germany up and running with Ukraine win - UEFA EURO - News - UEFA.com",
+    "description": "Germany 2-0 Ukraine\nGoals from Shkodran Mustafi and Bastian Schweinsteiger ensured a winning start to Germany's quest for UEFA EURO 2016 glory.",
+    "url": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017881/postmatch/report/"
+  },
+  {
+    "site": "www.goal.com",
+    "title": "Germany 2 - 0 Ukraine Match report - 2016-06-12 European Championship",
+    "description": "Read the full Germany v Ukraine European Championship match report from 2016-06-12, including goals, incidents and key moments",
+    "url": "http://www.goal.com/euro2016/en/match/germany-vs-ukraine/auytbpl7opzlsf4c41fzzpdrd"
+  },
+  {
+    "site": "www.itv.com",
+    "title": "Euro 2016 Report and Highlights: Germany 2-0 Ukraine",
+    "description": "World champions Germany began their Euro 2016 campaign with a 2-0 victory over Ukraine.",
+    "url": "http://www.itv.com/euro2016/euro-2016-report-and-highlights-germany-2-0-ukraine"
+  },
+  {
+    "site": "Mail Online",
+    "title": "Germany 2-0 Ukraine, Euro 2016 RESULT: Relive the action",
+    "description": "Joachim Low's side start their Group C fixture list at Stade Pierre Mauroy desperate to rip up the form book after a run of four defeats in seven matches. Follow the action with MATT MALTBY.",
+    "url": "http://www.dailymail.co.uk/sport/football/article-3637459/Germany-vs-Ukraine-Euro-2016-LIVE-score-World-champions-begin-campaign-conquer-Europe.html"
+  },
+  {
+    "site": "en.wikipedia.org",
+    "title": "UEFA Euro 2016 Group C - Wikipedia, the free encyclopedia",
+    "description": "",
+    "url": "https://en.wikipedia.org/wiki/UEFA_Euro_2016_Group_C#Germany_vs_Ukraine"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "site": "the Guardian",
+    "title": "Italy’s Giorgio Chiellini and Graziano Pellè end Spain’s European reign",
+    "description": "The holders Spain were knocked out of Euro 2016 after losing 2-0 to Italy in the last-16 game in Paris",
+    "url": "http://www.theguardian.com/football/2016/jun/27/italy-spain-euro-2016-match-report"
+  },
+  {
+    "site": "UEFA.com",
+    "title": "Dominant Italy brush aside champions Spain - UEFA EURO - News - UEFA.com",
+    "description": "Italy 2-0 Spain\nA brilliant display by Antonio Conte's team carried them through to a quarter-final with Germany, dismantling champions Spain at Saint-Denis.",
+    "url": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000744/match=2018002/postmatch/report/"
+  },
+  {
+    "site": "BBC Sport",
+    "title": "Italy 2-0 Spain",
+    "description": "Italy outclass Spain to knock out the defending champions and set up a Euro 2016 quarter-final against Germany.",
+    "url": "http://www.bbc.com/sport/football/36573157"
+  },
+  {
+    "site": "ESPNFC.com",
+    "title": "Italy vs. Spain - Football Match Report - June 27, 2016 - ESPN",
+    "description": "Get a report of the Italy vs. Spain 2016 European Championship, Round of 16 football match.",
+    "url": "http://espnfc.com/report?gameId=438162"
+  },
+  {
+    "site": "www.goal.com",
+    "title": "Italy 2 - 0 Spain Match report - 6/27/16 European Championship - Goal.com",
+    "description": "Read the full Italy v Spain match report, including goals, incidents, and much more. Have your say on the game in our comments feature.",
+    "url": "http://www.goal.com/en/match/italy-vs-spain/2024882/report"
+  },
+  {
+    "site": "FourFourTwo",
+    "title": "Chiellini delighted to end Italy's Spain pain",
+    "description": "Giorgio Chiellini was delighted to gain a measure of revenge after he opened the scoring in Italy's 2-0 Euro 2016 win over holders Spain. The Juventus man turned in a typically robust defensive display and scrambled home a deserved opener for Italy in the 33rd minute of a superb first-half performance. Spain came on strong as the clock ticked down, with Chiellini, Andrea Barzagli, man-of-the-match Leonardo Bonucci and their club goalkeeper Gianluigi Buffon manning the fort before Graziano Pelle struck in stoppage time to spark delirious celebrations.",
+    "url": "http://www.fourfourtwo.com/my/news/chiellini-delighted-end-italys-spain-pain"
+  },
+  {
+    "site": "The Telegraph",
+    "title": "Italy 2 Spain 0, Euro 2016: Antonio Conte's intelligent Italians consign holders to the history books",
+    "description": "The great age of Spain did not end in Paris.",
+    "url": "http://www.telegraph.co.uk/football/2016/06/27/italy-2-spain-0-euro-2016-antonio-contes-intelligent-italians-co/"
+  },
+  {
+    "site": "Independent.ie",
+    "title": "Masterclass by Italy signals end of Spain's reign - Independent.ie",
+    "description": "The great age of Spain did not end in Paris last night. It ended two years ago in Brazil, but perhaps we only realised it now.",
+    "url": "http://www.independent.ie/sport/soccer/euro-2016/masterclass-by-italy-signals-end-of-spains-reign-34839080.html"
+  },
+  {
+    "site": "Eurosport",
+    "title": "Giorgio Chiellini and Graziano Pelle strike to sink Spain and send Italy into quarter-finals",
+    "description": "Euro 2016 last 16, Stade de France, Saint-Denis - Italy 2 (Chiellini 33, Pelle 90+1) Spain 0.",
+    "url": "http://www.eurosport.com/football/euro-2016/2016/euro-2016-italy-v-spain-preview-antonio-candreva-out-for-italy-but-the-spanish-expect-a-tough-test_sto5663673/story.shtml"
+  },
+  {
+    "site": "mirror",
+    "title": "Italy 2-0 Spain: Azzurri dump out defending champions - 5 things we learned",
+    "description": "Goals from Giorgio Chiellini and Graziano Pelle were enough to settle an engrossing tie",
+    "url": "http://www.mirror.co.uk/sport/football/match-reports/italy-2-0-spain-antonio-8253986"
+  },
+  {
+    "site": "The Independent",
+    "title": "Giorgio Chiellini and Graziano Pelle fire Italy into last eight at Spain's expense",
+    "description": "This is what Antonio Conte means when he talks about values. This is what Italian football is meant to be all about. This was a performance of personality, intelligence and discipline, characteristics in far more demand than the patriotic motivation which every team in France claims to have.",
+    "url": "http://www.independent.co.uk/sport/football/international/italy-vs-spain-euro-2016-match-report-giorgio-chiellini-capitalises-on-david-de-geas-error-to-fire-a7106311.html"
+  },
+  {
+    "site": "www.itv.com",
+    "title": "Euro 2016 match report and highlights: Italy 2-0 Spain",
+    "description": "Graziano Pelle sealed Italy's place in the Euro 2016 quarter-finals with a stoppage-time strike to sink reigning champions Spain at the Stade de France.\n\nLeading and largely dominant after Giorgio Chiellini's first-half opener, the Italians had survived a scare moments earlier when Gianluigi Buffon saved superbly to deny Gerard Pique an equaliser.",
+    "url": "http://www.itv.com/euro2016/euro-2016-highlights-and-report-italy-2-0-spain"
+  },
+  {
+    "site": "Football365",
+    "title": "Italy 2-0 Spain: You've been Conte'd - Football365",
+    "description": "Football365 - New European champions will be crowned on July 10 after Italy outclassed Spain.",
+    "url": "http://www.football365.com/news/italy-2-0-spain-youve-been-conted"
+  },
+  {
+    "site": "Mail Online",
+    "title": "Italy 2-0 Spain",
+    "description": "IAN LADYMAN IN PARIS: Not just the end of a tournament for Spain but the end of a domination, the end of an era. In all likelihood this defeat by Italy will spell the end of coach Vicente del Bosque too.",
+    "url": "http://www.dailymail.co.uk/sport/football/article-3662515/Italy-2-0-Spain-Giorgio-Chiellini-Graziano-Pelle-target-Azzurri-book-Euro-2016-quarter-final-spot-victory-Paris.html"
+  },
+  {
+    "site": "Sports Mole",
+    "title": "Result: Italy dethrone holders Spain",
+    "description": "Italy have reached the quarter-finals of Euro 2016 after defeating holders Spain 2-0 in Monday's last-16 clash at the Stade de France.",
+    "url": "http://www.sportsmole.co.uk/fb_275619.html"
+  },
+  {
+    "site": "Bleacher Report",
+    "title": "Italy vs. Spain: Score, Twitter Reaction from Euro 2016",
+    "description": "Italy beat Spain  on Monday  to set up a quarter-final showdown with world champions Germany at UEFA Euro 2016, triumphing 2-0 at the Stade de France in Paris...",
+    "url": "http://bleacherreport.com/articles/2648745-italy-vs-spain-score-and-twitter-reaction-from-euro-2016"
+  },
+  {
+    "site": "FIFA.com",
+    "title": "Live Scores - UEFA EURO 2016: Italy - Spain - FIFA.com",
+    "description": "Live Scores - UEFA EURO 2016: Italy - Spain",
+    "url": "http://www.fifa.com/live-scores/uefaeuro/matches/match=Italy-Spain-300360267/index.html"
+  },
+  {
+    "site": "en.wikipedia.org",
+    "title": "UEFA Euro 2016 knockout phase - Wikipedia, the free encyclopedia",
+    "description": "",
+    "url": "https://en.wikipedia.org/wiki/UEFA_Euro_2016_knockout_phase#Italy_vs_Spain"
+  }
+]

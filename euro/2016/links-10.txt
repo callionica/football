@@ -1,0 +1,74 @@
+[
+  {
+    "site": "BBC Sport",
+    "title": "Belgium 0-2 Italy",
+    "description": "Emanuele Giaccherini and Graziano Pelle score as Italy begin their Euro 2016 campaign with victory over Belgium.",
+    "url": "http://www.bbc.com/sport/football/36457308"
+  },
+  {
+    "site": "UEFA.com",
+    "title": "Impressive Italy leave Belgium floored - UEFA EURO - News - UEFA.com",
+    "description": "Belgium 0-2 Italy\nPatient and well organised, the Azzurri posted an eye-catching opening win in Group E thanks to goals from Emanuele Giaccherini and Graziano Pellè.",
+    "url": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017953/postmatch/report/"
+  },
+  {
+    "site": "the Guardian",
+    "title": "Emanuele Giaccherini and Graziano Pellè seal Italy win over Belgium",
+    "description": "Stunning goals from Emanuele Giaccherini and Graziano Pellè gave Italy a 2-0 victory over Belgium in their Euro 2016 Group E match at Stade de Lyon",
+    "url": "http://www.theguardian.com/football/2016/jun/13/belgium-italy-euro-2016-match-report"
+  },
+  {
+    "site": "Independent.ie",
+    "title": "Belgium shellshocked by resilient Italians as their star names fail to sparkle - Independent.ie",
+    "description": "Emanuele Giaccherini and Graziano Pelle got Italy off to a winning start with a stunning goal to sink fellow Group E heavyweights Belgium 2-0.",
+    "url": "http://www.independent.ie/sport/soccer/euro-2016/euro-2016-teams/belgium/belgium-shellshocked-by-resilient-italians-as-their-star-names-fail-to-sparkle-34798353.html"
+  },
+  {
+    "site": "www.itv.com",
+    "title": "Euro 2016 match report and highlights: Belgium 0-2 Italy",
+    "description": "Emanuele Giaccherini and Graziano Pelle got Italy off to a winning start with a stunning goal to sink fellow Group E heavyweights Belgium 2-0.\n\nGiaccherini has hardly set the world alight in three years at Sunderland - and spent last season on loan at Serie A Bologna - but he ignited Italy's Euro 2016 challenge with a superb strike.",
+    "url": "http://www.itv.com/euro2016/euro-2016-match-report-and-highlights-belgium-0-2-italy"
+  },
+  {
+    "site": "www.goal.com",
+    "title": "Belgium 0 - 2 Italy Match report - 2016-06-13 European Championship",
+    "description": "Read the full Belgium v Italy European Championship match report from 2016-06-13, including goals, incidents and key moments",
+    "url": "http://www.goal.com/euro2016/en/match/belgium-vs-italy/dh866kbe9g4ajcqhnm7rtwm3t"
+  },
+  {
+    "site": "mirror",
+    "title": "Belgium 0-2 Italy: Azzurri stun Belgians in thriller - 5 things we learned",
+    "description": "Tactics beat talent in the most entertaining game of Euro 2016 thus far",
+    "url": "http://www.mirror.co.uk/sport/football/match-reports/belgium-0-2-italy-azzurri-8044903"
+  },
+  {
+    "site": "The Telegraph",
+    "title": "Italy 2 Belgium 0, Euro 2016: Giaccherini and Pelle see off disjointed dark horses",
+    "description": "",
+    "url": "http://www.telegraph.co.uk/football/2016/06/13/italy-2-belgium-0-euro-2016-giaccherini-and-pelle-see-off-disjoi/"
+  },
+  {
+    "site": "Football365",
+    "title": "Belgium 0-2 Italy: Who expected that? - Football365",
+    "description": "Football365 - Their chances had been dismissed but Italy were brilliant against a Belgian side that slept for 70 minutes.",
+    "url": "http://www.football365.com/news/belgium-0-2-italy-who-expected-that"
+  },
+  {
+    "site": "ESPNFC.com",
+    "title": "Antonio Conte's scheme works as Italy beat Belgium, but it wasn't perfect",
+    "description": "Scheme beat talent as Antonio Conte's Italy outworked and out-thought Belgium, though it wasn't a flawless win, writes Gab Marcotti.",
+    "url": "http://www.espnfc.com/blog/the-match/60/post/2892423"
+  },
+  {
+    "site": "Sports Mole",
+    "title": "Result: Italy start with a win against Belgium",
+    "description": "Emanuele Giaccherini and Graziano Pelle both score as Italy record a 2-0 win over Belgium in their opening Group E clash at Euro 2016.",
+    "url": "http://www.sportsmole.co.uk/fb_274757.html"
+  },
+  {
+    "site": "en.wikipedia.org",
+    "title": "UEFA Euro 2016 Group E - Wikipedia, the free encyclopedia",
+    "description": "",
+    "url": "https://en.wikipedia.org/wiki/UEFA_Euro_2016_Group_E#Belgium_vs_Italy"
+  }
+]

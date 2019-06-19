@@ -1,0 +1,110 @@
+[
+  {
+    "site": "the Guardian",
+    "title": "Portugal beat France to win Euro 2016 final with Éder’s extra-time goal",
+    "description": "Portugal have won their first European Championship – and first major trophy – after beating France 1-0 in extra time at the Stade de France in Paris",
+    "url": "http://www.theguardian.com/football/2016/jul/10/france-portugal-euro-2016-match-report"
+  },
+  {
+    "site": "UEFA.com",
+    "title": "Portugal spoil France's party with extra-time win - UEFA EURO - News - UEFA.com",
+    "description": "Portugal 1-0 France (aet)\nPortugal shrugged off an early injury to Cristiano Ronaldo to claim a first-ever major tournament trophy thanks to Éder's 109th-minute strike.",
+    "url": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000451/match=2017907/postmatch/report/"
+  },
+  {
+    "site": "BBC Sport",
+    "title": "Portugal 1-0 France (AET)",
+    "description": "Portugal win a first major international trophy as they overcome the loss of captain Cristiano Ronaldo to beat hosts France in the Euro 2016 final.",
+    "url": "http://www.bbc.co.uk/sport/football/36696772"
+  },
+  {
+    "site": "ESPN.com",
+    "title": "Portugal vs. France - Football Match Report - July 10, 2016 - ESPN",
+    "description": "Get a report of the Portugal vs. France 2016 European Championship, Final football match.",
+    "url": "http://www.espn.co.uk/football/report?gameId=438154"
+  },
+  {
+    "site": "www.goal.com",
+    "title": "Portugal 1 - 0 France Match report - 7/10/16 European Championship - Goal.com",
+    "description": "Read the full Portugal v France match report, including goals, incidents, and much more. Have your say on the game in our comments feature.",
+    "url": "http://www.goal.com/en-us/match/portugal-vs-france/2024891/report"
+  },
+  {
+    "site": "FourFourTwo",
+    "title": "Portugal 1 France 0 (aet): Eder snatches Euro 2016 glory",
+    "description": "An extra-time goal from Eder saw Portugal recover from losing Cristiano Ronaldo to injury to beat France 1-0 at the final of Euro 2016.",
+    "url": "http://www.fourfourtwo.com/news/portugal-1-france-0-aet-eder-snatches-euro-2016-glory"
+  },
+  {
+    "site": "The Telegraph",
+    "title": "Portugal 1 France 0, Euro 2016 final: Underdogs recover from Ronaldo injury as Eder wins it in extra-time",
+    "description": "In the under-dogs European Championship the under-dog is the top dog.",
+    "url": "http://www.telegraph.co.uk/football/2016/07/10/portugal-1-france-0-euro-2016-final-underdogs-recover-from-ronal/"
+  },
+  {
+    "site": "Independent.ie",
+    "title": "Stunning strike shocks France as Portugal continue the year of the underdog in Euro 2016 final - Independent.ie",
+    "description": "Cristiano Ronaldo's tears turned into unbounded joy as Portugal secured their first ever trophy, with Eder's stunning extra-time strike seeing off Euro 2016 hosts France.",
+    "url": "http://www.independent.ie/sport/soccer/euro-2016/stunning-strike-shocks-france-as-portugal-continue-the-year-of-the-underdog-in-euro-2016-final-34872197.html"
+  },
+  {
+    "site": "Eurosport",
+    "title": "Portugal snatch Euro 2016 triumph as Eder stuns France; redemption for injured Cristiano Ronaldo",
+    "description": "Euro 2016 final, Stade de France - France 0, Portugal 1 (Eder 109)",
+    "url": "http://www.eurosport.com/football/euro-2016/2016/portugal-v-france-preview-france-dream-of-more-home-glory-portugal-get-their-pepe-back_sto5681135/story.shtml"
+  },
+  {
+    "site": "mirror",
+    "title": "7 things we learned as Portugal won the Euro 2016 final",
+    "description": "The former Swansea striker fired home in extra time for Fernando Santos' men, who had lost talisman Cristiano Ronaldo to an early injury",
+    "url": "http://www.mirror.co.uk/sport/football/match-reports/portugal-1-0-france-eder-8393000"
+  },
+  {
+    "site": "The Independent",
+    "title": "Live: France vs Portugal Euro 2016 final",
+    "description": "Welcome to The Independent's live coverage of the Euro 2016 final in Paris where Portugal have beaten France 1-0 to inflict a heartbreaking defeat on the tournament hosts to win their first ever European Championship. Follow the latest reaction here.",
+    "url": "http://www.independent.co.uk/sport/football/international/france-vs-portugal-euro-2016-final-live-latest-score-updates-cristiano-ronaldo-paul-pogba-a7129276.html"
+  },
+  {
+    "site": "www.itv.com",
+    "title": "Euro 2016 Report and Highlights: Portugal 1-0 France",
+    "description": "Cristiano Ronaldo's tears turned into unbounded joy as Portugal secured their first ever trophy, with Eder's stunning extra-time strike seeing off Euro 2016 hosts France.",
+    "url": "http://www.itv.com/euro2016/euro-2016-report-and-highlights-portugal-1-0-france"
+  },
+  {
+    "site": "Football365",
+    "title": "France 0-1 Portugal: Eder is to do - Football365",
+    "description": "Football365 - Portugal beat France in the final of Euro 2016, with Eder scoring the winner in extra-time...",
+    "url": "http://www.football365.com/news/france-0-1-portugal-eder-is-to-do"
+  },
+  {
+    "site": "Mail Online",
+    "title": "France vs Portugal Euro 2016 Final LIVE",
+    "description": "After 50 matches and 107 goals watched by over 2.3million spectators in 10 host cities, it all comes down to this. Follow all the action as France face Portugal for the chance to lift the Euro 2016 trophy.",
+    "url": "http://www.dailymail.co.uk/sport/football/article-3683342/France-vs-Portugal-UEFA-Euro-2016-Final-LIVE-score-Cristiano-Ronaldo-hosts-Paris.html"
+  },
+  {
+    "site": "Sports Mole",
+    "title": "Result: Eder fires Portugal to Euro 2016 glory",
+    "description": "Eder scores the only goal of the game as Portugal beat host nation France 1-0 after extra time to win Euro 2016.",
+    "url": "http://www.sportsmole.co.uk/fb_276500.html"
+  },
+  {
+    "site": "Bleacher Report",
+    "title": "Portugal vs. France: Celebration Highlights, Twitter Reaction",
+    "description": "Portugal lifted the Euro 2016 trophy on Sunday evening after beating France 1-0 thanks to a 109th-minute winner from  Swansea City  striker and substitute Eder  at the  Stade   de  France...",
+    "url": "http://bleacherreport.com/articles/2651264-portugal-vs-france-celebration-highlights-twitter-reaction-for-euro-2016"
+  },
+  {
+    "site": "FIFA.com",
+    "title": "Live Scores - UEFA EURO 2016: Portugal - France - FIFA.com",
+    "description": "Live Scores - UEFA EURO 2016: Portugal - France",
+    "url": "http://www.fifa.com/live-scores/uefaeuro/matches/match=Portugal-France-300362364/index.html"
+  },
+  {
+    "site": "en.wikipedia.org",
+    "title": "UEFA Euro 2016 knockout phase - Wikipedia, the free encyclopedia",
+    "description": "",
+    "url": "https://en.wikipedia.org/wiki/UEFA_Euro_2016_knockout_phase#Final"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "site": "the Guardian",
+    "title": "Armando Sadiku winner makes Albania history in win over Romania",
+    "description": "Armando Sadiku scored against Romania just before half-time for Albania’s first win in a tournament but they have to wait to find out if they have reached the last 16 of Euro 2016",
+    "url": "http://www.theguardian.com/football/2016/jun/19/romania-albania-euro-2016-match-report"
+  },
+  {
+    "site": "UEFA.com",
+    "title": "Albania await their fate after historic victory - UEFA EURO - News - UEFA.com",
+    "description": "Romania 0-1 Albania\nArmando Sadiku headed Albania's first goal at a major finals to give his side a chance of progress while eliminating Romania.",
+    "url": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017894/postmatch/report/"
+  },
+  {
+    "site": "BBC Sport",
+    "title": "Romania 0-1 Albania",
+    "description": "Albania record their first major tournament win with victory over Romania that gives them hope of reaching the Euro 2016 last 16.",
+    "url": "http://www.bbc.com/sport/football/36509864"
+  },
+  {
+    "site": "ESPNFC.com",
+    "title": "Romania vs. Albania - Football Match Report - June 19, 2016 - ESPN",
+    "description": "",
+    "url": "http://espnfc.com/report?gameId=438179"
+  },
+  {
+    "site": "www.goal.com",
+    "title": "Romania 0 - 1 Albania Match report - 19/06/2016 European Championship - Goal.com",
+    "description": "Read the full Romania v Albania match report, including goals, incidents, and much more. Have your say on the game in our comments feature.",
+    "url": "http://www.goal.com/en-ie/match/romania-vs-albania/2024614/report"
+  },
+  {
+    "site": "FourFourTwo",
+    "title": "Romania 0 Albania 1: Sadiku seals famous win",
+    "description": "Albania kept their hopes of progression to the knockout rounds of Euro 2016 alive by eliminating Romania with a historic 1-0 Group A win in Lyon on Sunday. Gianni De Biasi's side had lost their opening games against Switzerland and hosts France but produced a superb performance to claim their first win at a major tournament. Having scored just seven goals in qualifying for the competition, Albania showed why they have struggled in front of goal by spurning some gilt-edged opportunities in the first half.",
+    "url": "http://www.fourfourtwo.com/news/romania-0-albania-1-sadiku-seals-famous-win"
+  },
+  {
+    "site": "The Telegraph",
+    "title": "Euro 2016: Romania 0 Albania 1 - Armando Sadiku scores the only goal to seal his country's first ever win at a major competition",
+    "description": "As it stands:",
+    "url": "http://www.telegraph.co.uk/football/2016/06/19/albania-vs-romania-euro-2016---live/"
+  },
+  {
+    "site": "Independent.ie",
+    "title": "Albania do Ireland a favour as they seal their first ever major tournament win - Independent.ie",
+    "description": "Armando Sadiku's first-half header clinched Albania their maiden win at a major tournament and first against Romania in 68 years to keep alive their hopes of qualifying for the Euro 201",
+    "url": "http://www.independent.ie/sport/soccer/euro-2016/albania-do-ireland-a-favour-as-they-seal-their-first-ever-major-tournament-win-34815108.html"
+  },
+  {
+    "site": "Eurosport",
+    "title": "Euro 2016 - Albania beat Romania to earn chance of last 16 place",
+    "description": "Stade des Lumières, Group A - Romania 0 Albania 1 (Sadiku, 43)",
+    "url": "http://www.eurosport.com/football/euro-2016/2016/albania-beat-romania-to-earn-chance-of-last-16-place_sto5652456/story.shtml"
+  },
+  {
+    "site": "mirror",
+    "title": "Romania 0-1 Albania - Sadiku scores landmark goal to provide last 16 hope",
+    "description": "Sadiku's 43rd minute header sparked incredible scenes among the Albania players and fans as they wildly celebrated their country's first-ever goal at a major tournament",
+    "url": "http://www.mirror.co.uk/sport/football/match-reports/romania-0-1-albania-armando-8233364"
+  },
+  {
+    "site": "The Independent",
+    "title": "Romania vs Albania match report: Sadiku helps Albania take third-place spot after first finals win",
+    "description": "Albania kept hopes of qualifying for the knockout stages of the European Championship alive with a 1-0 victory over Romania on Sunday, a result that sent their opponents home.  The result took Albania above Romania in the group rankings into third place. The team will have to wait until the group stages of Euro 2016 has been completed on Wednesday before finding out whether they will be one of the four third-placed teams to make it through to the round of 16.",
+    "url": "http://www.independent.co.uk/sport/football/international/romania-vs-albania-match-report-sadiku-helps-albania-take-third-place-spot-after-first-finals-win-a7090746.html"
+  },
+  {
+    "site": "www.itv.com",
+    "title": "Albania players to be given diplomatic passports",
+    "description": "Albania's players will be given diplomatic passports by their government as a reward for Sunday's historic Euro 2016 victory over Romania.",
+    "url": "http://www.itv.com/euro2016/albania-players-to-be-given-diplomatic-passports"
+  },
+  {
+    "site": "Football365",
+    "title": "Football365 - Football News, Views, Gossip and much more....",
+    "description": "Football365 - Football News, Views, Gossip and much more....",
+    "url": "http://www.football365.com"
+  },
+  {
+    "site": "Mail Online",
+    "title": "Romania 0-1 Albania: Armando Sadiku header gives Albania Last 16 hope",
+    "description": "CRAIG HATHERALL AT STADE DES LUMINIERES: An Armando Sadiku header gave Albania three points, and a fighting chance of making the Last 16 in France.",
+    "url": "http://www.dailymail.co.uk/sport/football/article-3649507/Romania-0-1-Albania-Armando-Sadiku-header-gives-Albania-hope-16-sends-Romania-packing.html"
+  },
+  {
+    "site": "Sports Mole",
+    "title": "Result: Albania leapfrog Romania into third",
+    "description": "Albania remain in with chance of reaching the knockout stages of Euro 2016 following their 1-0 win over Romania in Sunday's Group A clash at the Stade des Lumieres.",
+    "url": "http://www.sportsmole.co.uk/fb_275131.html"
+  },
+  {
+    "site": "Bleacher Report",
+    "title": "Romania vs. Albania: Score, Twitter Reaction from Euro 2016",
+    "description": "Albania toppled Romania in a physical match in Group A at UEFA Euro 2016, winning 1-0 at the Stade de Lyon on Sunday night...",
+    "url": "http://bleacherreport.com/articles/2647218-romania-vs-albania-score-and-twitter-reaction-from-euro-2016"
+  },
+  {
+    "site": "FIFA.com",
+    "title": "Live Scores - UEFA EURO 2016: Romania - Albania - FIFA.com",
+    "description": "Live Scores - UEFA EURO 2016: Romania - Albania",
+    "url": "http://www.fifa.com/live-scores/uefaeuro/matches/match=Romania-Albania-300340735/index.html"
+  },
+  {
+    "site": "en.wikipedia.org",
+    "title": "UEFA Euro 2016 Group A - Wikipedia, the free encyclopedia",
+    "description": "",
+    "url": "https://en.wikipedia.org/wiki/UEFA_Euro_2016_Group_A#Romania_vs_Albania"
+  }
+]

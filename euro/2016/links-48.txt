@@ -1,0 +1,116 @@
+[
+  {
+    "site": "the Guardian",
+    "title": "France coast past Iceland and into Euro 2016 semi-final",
+    "description": "France have made short work of Iceland, winning 5-2, to coast into a Euro 2016 semi-final against Germany on Thursday",
+    "url": "http://www.theguardian.com/football/2016/jul/03/france-iceland-euro-2016-quarter-final-match-report"
+  },
+  {
+    "site": "UEFA.com",
+    "title": "Slick France end Iceland saga - UEFA EURO - News - UEFA.com",
+    "description": "France 5-2 Iceland\nOlivier Giroud, Paul Pogba, Dimitri Payet and Antoine Griezmann struck in the first half as France ended Iceland's fairy tale to earn a semi with Germany.",
+    "url": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000449/match=2017904/postmatch/report/"
+  },
+  {
+    "site": "BBC Sport",
+    "title": "France 5-2 Iceland",
+    "description": "Euro 2016 hosts France thrash Iceland to set up a intriguing semi-final with world champions Germany.",
+    "url": "http://www.bbc.com/sport/football/36632457"
+  },
+  {
+    "site": "ESPNFC.com",
+    "title": "France vs. Iceland - Football Match Report - July 3, 2016 - ESPN",
+    "description": "Get a report of the France vs. Iceland 2016 European Championship, Quarterfinals football match.",
+    "url": "http://espnfc.com/report?gameId=438157"
+  },
+  {
+    "site": "www.goal.com",
+    "title": "France 5 - 2 Iceland Match preview - 03/07/2016 European Championship - Goal.com",
+    "description": "Get all of the latest France v Iceland match preview information from Goal.com, including the editors prediction.",
+    "url": "http://www.goal.com/en-gb/match/france-vs-iceland/2024888/preview"
+  },
+  {
+    "site": "FourFourTwo",
+    "title": "France 5 Iceland 2: Hosts end debutants' fairytale in rout",
+    "description": "France surged into the semi-finals of Euro 2016 as they ended Iceland's fairytale run in brutal fashion with a 5-2 win at the Stade de France on Sunday. Iceland stunned the football world by coming from behind to beat England 2-1 in the last 16, but were run ragged by France, Didier Deschamps' side easing through to book a last-four meeting with Germany in Marseille on Thursday.",
+    "url": "http://www.fourfourtwo.com/news/france-5-iceland-2-hosts-end-debutants-fairytale-rout"
+  },
+  {
+    "site": "The Telegraph",
+    "title": "France 5 Iceland 2: Euro 2016 hosts show England how it's done as they set up Germany semi-final",
+    "description": "France are in the semi-finals of their own European Championship where they will face their old nemesis, Germany;",
+    "url": "http://www.telegraph.co.uk/football/2016/07/03/france-5-iceland-2-euro-2016-hosts-show-england-how-its-done-as/"
+  },
+  {
+    "site": "Independent.ie",
+    "title": "Brave Iceland bow out as ruthless France set up mouthwatering semi-final with Germany - Independent.ie",
+    "description": "So one fairy tale comes to an end and another one now faces a chapter with eleven Germans taking on the role of the big bad wolf.",
+    "url": "http://www.independent.ie/sport/soccer/euro-2016/brave-iceland-bow-out-as-ruthless-france-set-up-mouthwatering-semifinal-with-germany-34853793.html"
+  },
+  {
+    "site": "Eurosport",
+    "title": "France demolish Iceland to reach semi-finals",
+    "description": "Euro 2016 quarter-finals, Stade De France – France 5 (Giroud 12 59, Pogba 19, Payet 42, Griezmann 45) Iceland 2 (Sigthorsson 56, Bjarnason 84)",
+    "url": "http://www.eurosport.com/football/euro-2016/2016/euro-2016-france-v-iceland-quarter-final-live_sto5671177/story.shtml"
+  },
+  {
+    "site": "mirror",
+    "title": "France 5-2 Iceland: 5 things we learned",
+    "description": "Goals in the opening 20 minutes from Olivier Giroud and Paul Pogba set Les Bleus on course for a semi-final date with world champions Germany",
+    "url": "http://www.mirror.co.uk/sport/football/match-reports/france-5-2-iceland-les-8299532"
+  },
+  {
+    "site": "The Independent",
+    "title": "France show guile and flair to rival Germany but defensive frailties remain",
+    "description": "So one fairy tale comes to an end and another one now faces a chapter with eleven Germans taking on the role of the big bad wolf.",
+    "url": "http://www.independent.co.uk/sport/football/international/france-vs-iceland-euro-2016-match-report-french-show-flair-and-guile-to-rival-germany-but-defensive-a7117591.html"
+  },
+  {
+    "site": "www.itv.com",
+    "title": "Euro 2016 report and highlights: France 5-2 Iceland",
+    "description": "Hosts France set up a mouth-watering Euro 2016 semi-final with Germany by comprehensively ending Iceland's captivating and historic run.",
+    "url": "http://www.itv.com/euro2016/euro-2016-report-and-highlights-france-5-2-iceland"
+  },
+  {
+    "site": "Football365",
+    "title": "France 5-2 Iceland: The hosts with the most - Football365",
+    "description": "Football365 - France were bloody brilliant, and Iceland were bloody knackered. Germany await.",
+    "url": "http://www.football365.com/news/france-5-2-iceland-the-hosts-with-the-most"
+  },
+  {
+    "site": "Mail Online",
+    "title": "France 5-2 Iceland: Giroud scores twice as Euro 2016 hosts win",
+    "description": "IAN LADYMAN AT THE STADE DE FRANCE: This will have made for uncomfortable viewing in Iceland and won’t have been an awful lot better for the English.",
+    "url": "http://www.dailymail.co.uk/sport/football/article-3672673/France-5-2-Iceland-Olivier-Giroud-scores-twice-Euro-2016-hosts-cruise-victory-set-mouthwatering-semi-final-Germany.html"
+  },
+  {
+    "site": "Sports Mole",
+    "title": "Result: France thump Iceland to make semi-finals",
+    "description": "France book their spot in the semi-finals of Euro 2016 courtesy of a 5-2 win over Iceland in Sunday night's last-eight clash at the Stade de France.",
+    "url": "http://www.sportsmole.co.uk/fb_276047.html"
+  },
+  {
+    "site": "Bleacher Report",
+    "title": "France vs. Iceland: Score, Twitter Reaction from Euro 2016",
+    "description": "UEFA Euro 2016 hosts France booked their semi-final spot with a simple 5-2 win over Iceland on Sunday, dominating the tournament debutants from start to finish...",
+    "url": "http://bleacherreport.com/articles/2649899-france-vs-iceland-score-and-twitter-reaction-from-euro-2016"
+  },
+  {
+    "site": "FIFA.com",
+    "title": "Live Scores - UEFA EURO 2016: France - Iceland - FIFA.com",
+    "description": "Live Scores - UEFA EURO 2016: France - Iceland",
+    "url": "http://www.fifa.com/live-scores/uefaeuro/matches/match=France-Iceland-300360759/index.html"
+  },
+  {
+    "site": "en.wikipedia.org",
+    "title": "UEFA Euro 2016 knockout phase - Wikipedia, the free encyclopedia",
+    "description": "",
+    "url": "https://en.wikipedia.org/wiki/UEFA_Euro_2016_knockout_phase#France_vs_Iceland"
+  },
+  {
+    "site": "www.nytimes.com",
+    "title": "Iceland’s Run in Euro 2016 Ends With Frenetic First Half for France",
+    "description": "France defeated Iceland, 5-2, after scoring four goals before halftime in a European Championships quarterfinal. It will face Germany in the semifinals.",
+    "url": "http://www.nytimes.com/2016/07/04/sports/soccer/icelands-dream-run-is-ended-by-frances-frenetic-first-half.html"
+  }
+]

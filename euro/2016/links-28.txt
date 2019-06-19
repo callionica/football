@@ -1,0 +1,116 @@
+[
+  {
+    "site": "the Guardian",
+    "title": "England come second as Roy Hodgson’s gamble backfires in Slovakia stalemate",
+    "description": "Roy Hodgson’s decision to make six changes backfired as a goalless draw with Slovakia left England second behind Wales in their group",
+    "url": "http://www.theguardian.com/football/2016/jun/20/england-slovakia-euro-2016-match-report"
+  },
+  {
+    "site": "UEFA.com",
+    "title": "England second after Slovakia stalemate - UEFA EURO - News - UEFA.com",
+    "description": "Slovakia 0-0 England\nRoy Hodgson's men finished runners-up in Group B after failing to make their chances count against third-placed Slovakia, who will wait to learn their fate.",
+    "url": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017895/postmatch/report/"
+  },
+  {
+    "site": "BBC Sport",
+    "title": "Slovakia 0-0 England",
+    "description": "England finish second in Group B at Euro 2016 after they draw with Slovakia and Wales beat Russia to take top spot.",
+    "url": "http://www.bbc.com/sport/football/36514116"
+  },
+  {
+    "site": "ESPNFC.com",
+    "title": "Slovakia vs. England - Football Match Report - June 20, 2016 - ESPN",
+    "description": "",
+    "url": "http://espnfc.com/report?gameId=438177"
+  },
+  {
+    "site": "www.goal.com",
+    "title": "Slovakia 0 - 0 England Match report - 20/06/2016 European Championship - Goal.com",
+    "description": "Read the full Slovakia v England match report, including goals, incidents, and much more. Have your say on the game in our comments feature.",
+    "url": "http://www.goal.com/en-gb/match/slovakia-vs-england/2024851/report"
+  },
+  {
+    "site": "FourFourTwo",
+    "title": "Slovakia 0 England 0: Hodgson changes backfire in Saint-Etienne stalemate",
+    "description": "A much-changed England had to settle for second spot in Group B as Slovakia clung on for a goalless draw which may also see them progress at Euro 2016. Roy Hodgson made six changes from the side that started the 2-1 win over Wales last time out, but will face criticism after England drew a frustrating blank in Saint-Etienne while Chris Coleman's side thrashed Russia 3-0 to win the group. Jamie Vardy and Daniel Sturridge, the goalscoring heroes against Wales, were given starts, with Wayne Rooney among those rested as Gary Cahill was handed the captain's armband.",
+    "url": "http://www.fourfourtwo.com/au/news/slovakia-0-england-0-hodgson-changes-backfire-saint-etienne-stalemate"
+  },
+  {
+    "site": "The Telegraph",
+    "title": "England arrived at Euro 2016 with Leicester in mind but have looked more like Arsenal",
+    "description": "England arrived in France with Leicester City in mind but have looked more like Arsenal.",
+    "url": "http://www.telegraph.co.uk/football/2016/06/21/england-arrived-at-euro-2016-with-leicester-in-mind-but-have-loo/"
+  },
+  {
+    "site": "Independent.ie",
+    "title": "England have to settle for second place as Roy Hodgson's men draw blank against Slovakia - Independent.ie",
+    "description": "Roy Hodgson's decision to make wholesale changes backfired as England wasted the chance to top their Euro 2016 group, with a goalless draw against Slovakia only enough to see them throu",
+    "url": "http://www.independent.ie/sport/soccer/euro-2016/england-have-to-settle-for-second-place-as-roy-hodgsons-men-draw-blank-against-slovakia-34818221.html"
+  },
+  {
+    "site": "Eurosport",
+    "title": "Euro 2016 - England frustrated by Slovakia, finish second in Group B",
+    "description": "Euro 2016 Group B, Stade Geoffroy-Guichard – England 0 Slovakia 0",
+    "url": "http://www.eurosport.com/football/euro-2016/2016/england-frustrated-by-slovakia-finish-second-in-group-b_sto5654889/story.shtml"
+  },
+  {
+    "site": "mirror",
+    "title": "Slovakia 0-0 England: 10 things we learned",
+    "description": "Roy Hodgson made six changes and it backfired as England failed to beat Slovakia and handed Wales top spot",
+    "url": "http://www.mirror.co.uk/sport/football/match-reports/slovakia-0-0-england-roy-8044869"
+  },
+  {
+    "site": "The Independent",
+    "title": "Roy Hodgson's gamble fails to pay off as England finish as runners-up",
+    "description": "All roads still lead to Paris for England, but the route to the final on July 10 has now become so much more perilous after Roy Hodgson’s selection gamble backfired and set his team on course for a potential Euro 2016 quarter-final meeting with France after Slovakia refused to buckle in Saint Etienne. Six changes to his starting line-up was a bold move by the England manager, but it failed to pay off. England dominated this game, but their failure to win ensures they progress to the knock-out stage as runners-up in Group B.",
+    "url": "http://www.independent.co.uk/sport/football/international/england-vs-slovakia-match-report-euro-2016-a7092251.html"
+  },
+  {
+    "site": "www.itv.com",
+    "title": "Euro 2016 match report and highlights: Slovakia 0-0 England",
+    "description": "Roy Hodgson's decision to make wholesale changes backfired as England wasted the chance to top their Euro 2016 group, with a goalless draw against Slovakia only enough to see them through as runners-up to Wales.\n\nDays after being praised to the hilt for his match-winning decision to bring on Daniel Sturridge and Jamie Vardy in Lens, the Three Lions boss made an error in judgement by making six alterations for Group B clash at the Stade Geoffroy Guichard.",
+    "url": "http://www.itv.com/euro2016/euro-2016-match-report-and-highlights-slovakia-0-0-england"
+  },
+  {
+    "site": "Football365",
+    "title": "Slovakia 0-0 England: Ah b***ocks - Football365",
+    "description": "Football365 - How much possession? How many shots? But still 0-0 and second place for England.",
+    "url": "http://www.football365.com/news/slovakia-0-0-england-ah-bocks"
+  },
+  {
+    "site": "Mail Online",
+    "title": "England v Slovakia, Euro 2016 LIVE: Three Lions bid to reach last-16",
+    "description": "Don’t let anyone kid you this is bad luck. Don’t let anyone tell you it is cruel fate. England are going to have to do it the hard way. Again. And it is all their own fault. Again.",
+    "url": "http://www.dailymail.co.uk/sport/football/article-3650792/England-v-Slovakia-Euro-2016-LIVE-score-Three-Lions-set-gamble-line-up.html"
+  },
+  {
+    "site": "www.thefa.com",
+    "title": "Slovakia 0-0 England: Euro 2016 Group B match report - England | The FA",
+    "description": "",
+    "url": "http://www.thefa.com/news/england/2016/jun/slovakia-report-200616"
+  },
+  {
+    "site": "Sports Mole",
+    "title": "Result: Dominant England frustrated by Slovakia",
+    "description": "England are consigned to second place in Group B courtesy of a frustrating 0-0 draw with Slovakia in Saint-Etienne.",
+    "url": "http://www.sportsmole.co.uk/fb_275199.html"
+  },
+  {
+    "site": "Bleacher Report",
+    "title": "Slovakia vs. England: Score, Twitter Reaction from Euro 2016",
+    "description": "England qualified for the last 16 of UEFA Euro 2016 as Group B runners-up as they could only earn a 0-0 draw against Slovakia despite near-total dominance of the  Stade Geoffroy Guichard clash in  Saint-Etienne, France, on Monday...",
+    "url": "http://bleacherreport.com/articles/2647441-slovakia-vs-england-score-and-twitter-reaction-from-euro-2016"
+  },
+  {
+    "site": "FIFA.com",
+    "title": "Live Scores - UEFA EURO 2016: Slovakia - England - FIFA.com",
+    "description": "Live Scores - UEFA EURO 2016: Slovakia - England",
+    "url": "http://www.fifa.com/live-scores/uefaeuro/matches/match=Slovakia-England-300340744/index.html"
+  },
+  {
+    "site": "en.wikipedia.org",
+    "title": "UEFA Euro 2016 Group B - Wikipedia, the free encyclopedia",
+    "description": "",
+    "url": "https://en.wikipedia.org/wiki/UEFA_Euro_2016_Group_B#Slovakia_vs_England"
+  }
+]

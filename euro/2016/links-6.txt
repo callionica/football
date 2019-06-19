@@ -1,0 +1,56 @@
+[
+  {
+    "site": "the Guardian",
+    "title": "Poland’s Arkadiusz Milik consigns Northern Ireland to Euro 2016 defeat",
+    "description": "Arkadiusz Milik struck after 51 minutes to give Poland the perfect start in Euro 2016 as Northern Ireland lost 1-0 in their first tournament game in 30 years",
+    "url": "http://www.theguardian.com/football/2016/jun/12/poland-northern-ireland-euro-2016-match-report"
+  },
+  {
+    "site": "Independent.ie",
+    "title": "Northern Ireland suffer opening defeat against Poland - Independent.ie",
+    "description": "Northern Ireland's long-awaited return to a major international tournament ended with a narrow 1-0 loss to Poland in a contest which came exactly 30 years since their last finals partic",
+    "url": "http://www.independent.ie/sport/soccer/euro-2016/northern-ireland-suffer-opening-defeat-against-poland-34794331.html"
+  },
+  {
+    "site": "BBC Sport",
+    "title": "Poland 1-0 Northern Ireland",
+    "description": "Northern Ireland's first game at a major tournament for 30 years ends in defeat by Poland in Group C at Euro 2016.",
+    "url": "http://www.bbc.com/sport/football/36454294"
+  },
+  {
+    "site": "UEFA.com",
+    "title": "Poland defeat Northern Irish for first EURO win - UEFA EURO - News - UEFA.com",
+    "description": "Poland 1-0 Northern Ireland\nArkadiusz Milik's 51st-minute goal gave Poland their first EURO finals victory, ending the debutants' 12-match unbeaten run.",
+    "url": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017882/postmatch/report/"
+  },
+  {
+    "site": "www.goal.com",
+    "title": "Poland 1 - 0 Northern Ireland Match report - 2016-06-12 European Championship",
+    "description": "Read the full Poland v Northern Ireland European Championship match report from 2016-06-12, including goals, incidents and key moments",
+    "url": "http://www.goal.com/euro2016/en/match/poland-vs-northern-ireland/ek59fv19gd5l0juq33ecbdaeh"
+  },
+  {
+    "site": "www.itv.com",
+    "title": "Euro 2016 Report and Highlights: Poland 1-0 Northern Ireland",
+    "description": "Northern Ireland's long-awaited return to a major international tournament ended with a narrow 1-0 loss to Poland in a contest which came exactly 30 years since their last finals participation.",
+    "url": "http://www.itv.com/euro2016/euro-2016-report-and-highlights-poland-1-0-northern-ireland"
+  },
+  {
+    "site": "Mail Online",
+    "title": "Poland vs Northern Ireland, Euro 2016: Relive all the action",
+    "description": "Arkadiusz Milik scored the only goal of the game in Nice as Northern Ireland's recent unbeaten run came to an end in their opening match of Euro 2016. Relive all the action with ANTHONY HAY.",
+    "url": "http://www.dailymail.co.uk/sport/football/article-3637456/Northern-Ireland-vs-Poland-Euro-2016-LIVE-score-Follow-action-happens.html"
+  },
+  {
+    "site": "en.wikipedia.org",
+    "title": "UEFA Euro 2016 Group C - Wikipedia, the free encyclopedia",
+    "description": "",
+    "url": "https://en.wikipedia.org/wiki/UEFA_Euro_2016_Group_C#Poland_vs_Northern_Ireland"
+  },
+  {
+    "site": "Eurosport",
+    "title": "Euro 2016: Poland beat plucky Northern Ireland in Nice",
+    "description": "Euro 2016, Stade de Nice, Nice - Poland 1 (Milik 51) Northern Ireland 0.",
+    "url": "http://www.eurosport.com/football/euro-2016/2016/euro-2016-poland-v-northern-ireland-preview-o-neill-s-men-back-on-big-stage-at-last_sto5642583/story.shtml"
+  }
+]

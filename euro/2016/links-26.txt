@@ -1,0 +1,110 @@
+[
+  {
+    "site": "the Guardian",
+    "title": "Switzerland quell Paul Pogba storm to earn France draw and last-16 spot",
+    "description": "France, powered by Paul Pogba in the first half, hit the woodwork three times but were held at bay by Switzerland in a 0-0 Euro 2016 draw",
+    "url": "http://www.theguardian.com/football/2016/jun/19/switzerland-france-euro-2016-match-report"
+  },
+  {
+    "site": "UEFA.com",
+    "title": "Stalemate takes Swiss through with France - UEFA EURO - News - UEFA.com",
+    "description": "Switzerland 0-0 France\nThe hosts struck the woodwork three times, through Paul Pogba – twice – and Dimitri Payet, but the draw ensured both teams went through.",
+    "url": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017893/postmatch/report/"
+  },
+  {
+    "site": "BBC Sport",
+    "title": "Switzerland 0-0 France",
+    "description": "Switzerland and France play out a Euro 2016 goalless draw which takes the Swiss into the last 16 and sees the French win Group A.",
+    "url": "http://www.bbc.com/sport/football/36509865"
+  },
+  {
+    "site": "ESPNFC.com",
+    "title": "Switzerland vs. France - Football Match Report - June 19, 2016 - ESPN",
+    "description": "",
+    "url": "http://espnfc.com/report?gameId=438180"
+  },
+  {
+    "site": "www.goal.com",
+    "title": "Switzerland 0 - 0 France Match report - 2016-06-19 European Championship",
+    "description": "Read the full Switzerland v France European Championship match report from 2016-06-19, including goals, incidents and key moments",
+    "url": "http://www.goal.com/euro2016/en/match/switzerland-vs-france/5n5zz50052kx2kyiz71yfrmcp"
+  },
+  {
+    "site": "FourFourTwo",
+    "title": "Switzerland 0 France 0: Hosts seal first place in Group A",
+    "description": "France sealed top spot in Group A despite being held to a 0-0 draw by Switzerland in Lille. The Euro 2016 hosts got the point they needed to ensure they would finish top of the section, while the result also sees Switzerland confirm their place in the last 16 for the first time as runners-up. With qualification already secured, France made five changes to their starting line-up in Didier Deschamps' 50th game in charge.",
+    "url": "http://www.fourfourtwo.com/news/switzerland-0-france-0-hosts-seal-first-place-group-a"
+  },
+  {
+    "site": "The Telegraph",
+    "title": "Euro 2016: France 0 Switzerland 0 - Hosts held in Lille but both sides progress to Round-of-16",
+    "description": "France and Switzerland came for a draw and on a thoroughly underwhelming  night in Flanders, they both got it.",
+    "url": "http://www.telegraph.co.uk/football/2016/06/19/euro-2016-france-0-switzerland-0---hosts-held-in-lille-but-both/"
+  },
+  {
+    "site": "Independent.ie",
+    "title": "France confirm top spot in Group A while Switzerland advance to the last 16 after scoreless draw - Independent.ie",
+    "description": "France topped Group A despite being held to a 0-0 draw by Switzerland - who also qualified for the last 16 - in Lille.",
+    "url": "http://www.independent.ie/sport/soccer/euro-2016/france-confirm-top-spot-in-group-a-while-switzerland-advance-to-the-last-16-after-scoreless-draw-34815074.html"
+  },
+  {
+    "site": "Eurosport",
+    "title": "Euro 2016 - Switzerland follow France through to last 16 after drab draw",
+    "description": "Grand Stade Lille Métropole, Group A – France 0 Switzerland 0",
+    "url": "http://www.eurosport.com/football/euro-2016/2016/switzerland-follow-france-through-to-last-16-with-drab-draw_sto5653095/story.shtml"
+  },
+  {
+    "site": "mirror",
+    "title": "Switzerland 0-0 France: Les Bleus seal top spot in Group A - 6 things we learned",
+    "description": "Les Bleus had already guaranteed their place in the next round and struggled to get out of neutral against a side for whom a draw was also a convenient outcome",
+    "url": "http://www.mirror.co.uk/sport/football/match-reports/switzerland-x-x-france-xxx-8044873"
+  },
+  {
+    "site": "The Independent",
+    "title": "Switzerland vs France match report: Hosts secure top spot after dour draw",
+    "description": "This time there was no last-minute winner, no spectacular drama and no three points for France. Twice in Group A they saved themselves from frustration by beating Romania and Albania right at the death. But on Sunday night in Lille, against Switzerland, they could not. France had their moments, and when Dimitri Payet stood over a free-kick with three minutes left it felt as if he was going to produce yet another moment of match-winning inspiration, to rescue his manager once again. But his free-kick hit Moussa Sissoko and rolled away for a goal-kick.",
+    "url": "http://www.independent.co.uk/sport/football/international/switzerland-vs-france-match-report-hosts-secure-top-spot-after-dour-draw-a7090721.html"
+  },
+  {
+    "site": "www.itv.com",
+    "title": "Euro 2016 match report and highlights: Switzerland 0-0 France",
+    "description": "France topped Group A despite being held to a 0-0 draw by Switzerland - who also qualified for the last 16 - in Lille.\n\nThe hosts were left frustrated after Dimitri Payet and Paul Pogba hit the woodwork and goalkeeper Yann Sommer denied Antoine Griezmann.",
+    "url": "http://www.itv.com/euro2016/euro-2016-match-report-and-highlights-switzerland-0-0-france"
+  },
+  {
+    "site": "Football365",
+    "title": "Switzerland 0-0 France: Slip and slide - Football365",
+    "description": "Football365 - France topped Group A after battling to a largely uninspiring 0-0 draw with Switzerland on Monday.",
+    "url": "http://www.football365.com/news/switzerland-0-0-france-slip-and-slide"
+  },
+  {
+    "site": "Mail Online",
+    "title": "Switzerland 0-0 France, Euro 2016 RESULT: Relive the action",
+    "description": "France will be looking to make it three wins out of three when they clash with Switzerland in the final Euro 2016 Group A clash while Romania meet Albania. Join MATT MALTBY for all the action.",
+    "url": "http://www.dailymail.co.uk/sport/football/article-3649114/France-v-Switzerland-Euro-2016-LIVE-score-Paul-Pogba-look-make-three-wins-three.html"
+  },
+  {
+    "site": "Sports Mole",
+    "title": "Result: Switzerland through with France draw",
+    "description": "Switzerland book their spot in the last-16 stage of Euro 2016 after drawing 0-0 with already-qualified France in Lille on Sunday night.",
+    "url": "http://www.sportsmole.co.uk/fb_275132.html"
+  },
+  {
+    "site": "Bleacher Report",
+    "title": "Switzerland vs. France: Score, Twitter Reaction from Euro 2016",
+    "description": "France and Switzerland both qualified for the last 16 of UEFA Euro 2016 after playing out a 0-0 draw in Lille on Sunday...",
+    "url": "http://bleacherreport.com/articles/2647215-switzerland-vs-france-score-and-twitter-reaction-from-euro-2016"
+  },
+  {
+    "site": "FIFA.com",
+    "title": "Live Scores - UEFA EURO 2016: Switzerland - France - FIFA.com",
+    "description": "Live Scores - UEFA EURO 2016: Switzerland - France",
+    "url": "http://www.fifa.com/live-scores/uefaeuro/matches/match=Switzerland-France-300340749/index.html"
+  },
+  {
+    "site": "en.wikipedia.org",
+    "title": "UEFA Euro 2016 Group A - Wikipedia, the free encyclopedia",
+    "description": "",
+    "url": "https://en.wikipedia.org/wiki/UEFA_Euro_2016_Group_A#Switzerland_vs_France"
+  }
+]

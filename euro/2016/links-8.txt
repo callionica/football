@@ -1,0 +1,86 @@
+[
+  {
+    "site": "en.wikipedia.org",
+    "title": "UEFA Euro 2016 Group D - Wikipedia, the free encyclopedia",
+    "description": "",
+    "url": "https://en.wikipedia.org/wiki/UEFA_Euro_2016_Group_D#Spain_vs_Czech_Republic"
+  },
+  {
+    "site": "the Guardian",
+    "title": "Spain’s Gerard Piqué leaves it late to break Czech Republic resistance",
+    "description": "Spain began their defence of the European Championship with a 1-0 win against Czech Republic after Gerard Piqué headed home three minutes from time",
+    "url": "http://www.theguardian.com/football/2016/jun/13/spain-czech-republic-euro-2016-match-report"
+  },
+  {
+    "site": "www.itv.com",
+    "title": "Euro 2016 Report and Highlights: Spain 1-0 Czech Republic",
+    "description": "A late winner from Gerard Pique gave Spain a hard-fought 1-0 victory over the Czech Republic in their opening Euro 2016 match.",
+    "url": "http://www.itv.com/euro2016/euro-2016-report-spain-1-0-czech-republic"
+  },
+  {
+    "site": "www.goal.com",
+    "title": "Spain 1 - 0 Czech Republic Match report - 2016-06-13 European Championship",
+    "description": "Read the full Spain v Czech Republic European Championship match report from 2016-06-13, including goals, incidents and key moments",
+    "url": "http://www.goal.com/euro2016/en/match/spain-vs-czech-republic/f03hp3r98b4qxodoqe6hrw8a1"
+  },
+  {
+    "site": "Independent.ie",
+    "title": "Gerard Pique the hero as holders Spain scrape past gallant Czech Republic - Independent.ie",
+    "description": "Gerard Pique struck a late winner as defending champions Spain opened their Euro 2016 campaign with a narrow victory over the Czech Republic.",
+    "url": "http://www.independent.ie/sport/soccer/euro-2016/euro-2016-teams/spain/gerard-pique-the-hero-as-holders-spain-scrape-past-gallant-czech-republic-34797006.html"
+  },
+  {
+    "site": "BBC Sport",
+    "title": "Spain 1-0 Czech Republic",
+    "description": "Spain's attempt to win a record third European Championship in a row begins with a last-gasp win over the Czech Republic.",
+    "url": "http://www.bbc.com/sport/football/36457219"
+  },
+  {
+    "site": "UEFA.com",
+    "title": "Piqué pounces for late Spain win - UEFA EURO - News - UEFA.com",
+    "description": "Spain 1-0 Czech Republic\nGerard Piqué's towering 87th-minute header ensured Spain began their title defence with a victory in Group D.",
+    "url": "http://www.uefa.com/uefaeuro-finals/season=2016/matches/round=2000448/match=2017883/postmatch/report/"
+  },
+  {
+    "site": "Mail Online",
+    "title": "Spain 1-0 Czech Republic, Euro 2016 LIVE: Follow all the action",
+    "description": "Reigning European champions Spain begin their quest to retain their crown with a Group D opener against Czech Republic in Toulouse.  Follow the action with MATT MALTBY.",
+    "url": "http://www.dailymail.co.uk/sport/football/article-3638615/Spain-v-Czech-Republic-Euro-2016-LIVE-score-Andres-Iniesta-aim-retain-crown.html"
+  },
+  {
+    "site": "mirror",
+    "title": "Spain 1-0 Czech Republic: Pique wins it at the death - 5 things we learned",
+    "description": "Petr Cech and his side frustrated the defending champions for 87 minutes - but couldn't hold out",
+    "url": "http://www.mirror.co.uk/sport/football/match-reports/spain-1-0-czech-republic-8044907"
+  },
+  {
+    "site": "ESPNFC.com",
+    "title": "Gerard Pique strikes late as Spain edge Czech Republic in Euro 2016",
+    "description": "Spain left it late to win their Group D opener against Czech Republic and there will now be question marks over Alvaro Morata's inclusion in the side.",
+    "url": "http://www.espnfc.com/european-championship/74/blog/post/2892273"
+  },
+  {
+    "site": "The Telegraph",
+    "title": "Spain 1 Czech Republic 0, Euro 2016: Gerard Pique's late header denies Czechs a drab draw",
+    "description": "",
+    "url": "http://www.telegraph.co.uk/football/2016/06/13/spain-1-czech-republic-0-euro-2016-gerard-piques-late-header-den/"
+  },
+  {
+    "site": "Eurosport",
+    "title": "Euro 2016: Gerard Pique header sees Spain snatch late win against Czech Republic",
+    "description": "Euro 2016 Group D, Toulouse - Spain 1 (Pique 87) Czech Republic 0",
+    "url": "http://www.eurosport.com/football/euro-2016/2016/euro-2016-spain-v-czech-republic-preview-european-champions-begin-defence-of-title_sto5643285/story.shtml"
+  },
+  {
+    "site": "Sports Mole",
+    "title": "Result: Pique nets as Spain beat Czech Republic",
+    "description": "Gerard Pique scores an 87th-minute header as Spain record a 1-0 win over Czech Republic in their Group D opener at Euro 2016.",
+    "url": "http://www.sportsmole.co.uk/fb_274732.html"
+  },
+  {
+    "site": "Bleacher Report",
+    "title": "Spain vs. Czech Republic: Score and Twitter Reaction",
+    "description": "Spain passed and prodded—and at times, it seemed, plodded—their way to a 1-0 win over the Czech Republic in their Euro 2016 opener on Monday...",
+    "url": "http://bleacherreport.com/articles/2646004-spain-vs-czech-republic-score-and-twitter-reaction-from-euro-2016"
+  }
+]

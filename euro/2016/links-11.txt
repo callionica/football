@@ -1,0 +1,104 @@
+[
+  {
+    "site": "the Guardian",
+    "title": "Hungary’s Adam Szalai finds scoring touch to defeat 10-man Austria",
+    "description": "Second-half goals from Adam Szalai and Zoltan Stieber gave Hungary a 2-0 win over Austria in the opening Group F game in Bordeaux",
+    "url": "http://www.theguardian.com/football/2016/jun/14/austria-hungary-euro-2016-match-report"
+  },
+  {
+    "site": "UEFA.com",
+    "title": "Slick Hungary outwit ten-man Austria - UEFA EURO - News - UEFA.com",
+    "description": "Austria 0-2 Hungary\nÁdám Szalai and Zoltán Stieber gave Hungary victory against their neighbours with a clean sheet for 40-year-old goalkeeper  Gábor Király.",
+    "url": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017960/postmatch/report/"
+  },
+  {
+    "site": "BBC Sport",
+    "title": "Austria 0-2 Hungary",
+    "description": "Hungary produce a Euro 2016 shock with a win over 10-man Austria as both teams open their campaigns in France.",
+    "url": "http://www.bbc.com/sport/football/36466135"
+  },
+  {
+    "site": "FIFA.com",
+    "title": "Live Scores - UEFA EURO 2016: Austria - Hungary - FIFA.com",
+    "description": "Live Scores - UEFA EURO 2016: Austria - Hungary",
+    "url": "http://www.fifa.com/live-scores/uefaeuro/matches/match=Austria-Hungary-300340759/index.html"
+  },
+  {
+    "site": "ESPNFC.com",
+    "title": "Austria vs. Hungary - Football Match Report - June 14, 2016 - ESPN",
+    "description": "",
+    "url": "http://espnfc.com/report?gameId=438194"
+  },
+  {
+    "site": "www.goal.com",
+    "title": "Who said God was all-powerful? Alaba and Austria flop as Hungary make history | Goal.com",
+    "description": "The Bayern Munich midfielder proved far from infallible as his team of mere mortals were humbled by their old rivals in a huge upset in Bordeaux",
+    "url": "http://www.goal.com/euro2016/en/article/who-said-god-was-all-powerful-alaba-and-austria-flop-as-hungary-make-history/k49du87lz4u0zfui7l5br8qu"
+  },
+  {
+    "site": "FourFourTwo",
+    "title": "Austria 0 Hungary 2: Szalai and Stieber stun 10-man favourites",
+    "description": "Hungary stunned 10-man Austria 2-0 as second-half goals from Adam Szalai and Zoltan Stieber earned a surprise victory in their Euro 2016 Group F opener. Austria came into Tuesday's meeting in Bordeaux as the favourites to get their campaign off to a triumphant start, having cruised through qualifying in style, dropping just two points from their 10 fixtures. But Hungary, who scraped into the play-offs before defeating Norway, had other ideas and after being on the back foot for much of the first half, took the lead just after the hour through Szalai's prodded finish.",
+    "url": "http://www.fourfourtwo.com/news/austria-0-hungary-2-szalai-and-stieber-stun-10-man-favourites"
+  },
+  {
+    "site": "The Telegraph",
+    "title": "Austria vs Hungary, Euro 2016: Szalai and Stieber strike to sink ten-man Austria",
+    "description": "",
+    "url": "http://www.telegraph.co.uk/football/2016/06/14/austria-vs-hungary-euro-2016-live/"
+  },
+  {
+    "site": "Independent.ie",
+    "title": "Hungary stun Austria with victory in Bordeaux - Independent.ie",
+    "description": "Adam Szalai and Zoltan Stieber struck as Hungary claimed a surprise 2-0 win over 10-man neighbours Austria in their Euro 2016 opener in Bordeaux.",
+    "url": "http://www.independent.ie/sport/soccer/euro-2016/hungary-stun-austria-with-victory-in-bordeaux-34801947.html"
+  },
+  {
+    "site": "Eurosport",
+    "title": "Euro 2016: Hungary overcome Austria in winning return after 44 years",
+    "description": "Euro 2016 Group F, Stade Matmut Atlantique, Bordeaux - Austria 0 (Dragovic s/o 67) Hungary 2 (Szalai 62, Stieber 87)",
+    "url": "http://www.eurosport.com/football/euro-2016/2016/austria-v-hungary-live_sto5645155/story.shtml"
+  },
+  {
+    "site": "mirror",
+    "title": "Austria 0-2 Hungary: 5 things we learned",
+    "description": "Goals from Adam Szalai and Zoltan Stieber sealed a surprise win",
+    "url": "http://www.mirror.co.uk/sport/football/match-reports/austria-0-2-hungary-outsiders-8044901"
+  },
+  {
+    "site": "The Independent",
+    "title": "Austria vs Hungary match report: Adam Szalai and Zoltan Stieber down 10-man Austria",
+    "description": "Hungary achieved their first victory at the European Championships, and their first in any major competition since defeating El Salvador 10-1 at the 1982 World Cup, to spark wild celebrations here with team and supporters. In the heart of the party was the familiar figure of ex-Crystal Palace and Fulham goalkeeper Gabor Kiraly, still wearing the grey tracksuit bottoms, and playing as well as ever at the age of 40.",
+    "url": "http://www.independent.co.uk/sport/football/international/austria-vs-hungary-match-report-adam-szalai-and-zoltan-stieber-down-10-man-austria-a7082376.html"
+  },
+  {
+    "site": "Football365",
+    "title": "Austria 0-2 Hungary: The Storck delivers - Football365",
+    "description": "Football365 - Bernd Storck's Hungary side shocked Austria with a 2-0 win to get their Euro 2016 campaign off to the perfect start.",
+    "url": "http://www.football365.com/news/austria-0-2-hungary-the-storck-delivers"
+  },
+  {
+    "site": "Mail Online",
+    "title": "Austria 0-2 Hungary, Euro 2016 RESULT: Old rivals meet in Group F",
+    "description": "Gabor Kiraly will become the oldest player ever to feature in a European Championship if he features for Hungary against Austria. Join Sportsmail's BEN NAGLE for all the action.",
+    "url": "http://www.dailymail.co.uk/sport/football/article-3640936/Austria-vs-Hungary-Euro-2016-score-Old-rivals-meet-Group-F.html"
+  },
+  {
+    "site": "Sports Mole",
+    "title": "Result: Hungary beat Austria in Bordeaux",
+    "description": "Hungary open their Euro 2016 Group F campaign with a 2-0 victory over Austria in Bordeaux on Tuesday afternoon.",
+    "url": "http://www.sportsmole.co.uk/fb_274804.html"
+  },
+  {
+    "site": "Bleacher Report",
+    "title": "Austria vs. Hungary: Score and Twitter Reaction from Euro 2016",
+    "description": "Hungary sprung a surprise  on Tuesday , beating Austria 2-0  in  Bordeaux at the 2016 UEFA European Championship.   An even first half in the  Habsburg derby  yielded no goals despite a flurry of opportunities for both sides...",
+    "url": "http://bleacherreport.com/articles/2646269-austria-vs-hungary-score-and-twitter-reaction-from-euro-2016"
+  },
+  {
+    "site": "en.wikipedia.org",
+    "title": "UEFA Euro 2016 Group F - Wikipedia, the free encyclopedia",
+    "description": "",
+    "url": "https://en.wikipedia.org/wiki/UEFA_Euro_2016_Group_F#Austria_vs_Hungary"
+  }
+]

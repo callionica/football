@@ -1,0 +1,92 @@
+[
+  {
+    "site": "the Guardian",
+    "title": "Álvaro Morata leads imperious Spain into last 16 as Turkey are outclassed",
+    "description": "Álvaro Morata scored twice as the reigning European champions Spain booked their place in the last 16 with a 3-0 win over Turkey in Group D",
+    "url": "http://www.theguardian.com/football/2016/jun/17/spain-turkey-euro-2016-match-report"
+  },
+  {
+    "site": "UEFA.com",
+    "title": "Spain ease past Turkey into round of 16 - UEFA EURO - News - UEFA.com",
+    "description": "Spain 3-0 Turkey\nVicente del Bosque's men made it two wins and as many clean sheets in Group D, sealing their place in the knockout stage of UEFA EURO 2016.",
+    "url": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017891/postmatch/report/"
+  },
+  {
+    "site": "BBC Sport",
+    "title": "Spain 3-0 Turkey",
+    "description": "Two-time defending champions Spain progress to the last 16 of the European Championships with a masterful display against Turkey.",
+    "url": "http://www.bbc.com/sport/football/36496076"
+  },
+  {
+    "site": "ESPNFC.com",
+    "title": "Spain vs. Turkey - Football Match Report - June 17, 2016 - ESPN",
+    "description": "",
+    "url": "http://espnfc.com/report?gameId=438184"
+  },
+  {
+    "site": "www.goal.com",
+    "title": "Spain 3 - 0 Turkey Match report - 2016-06-17 European Championship",
+    "description": "Read the full Spain v Turkey European Championship match report from 2016-06-17, including goals, incidents and key moments",
+    "url": "http://www.goal.com/euro2016/en/match/spain-vs-turkey/5ktsz5ps0l39w9kn8h73j77jd"
+  },
+  {
+    "site": "The Telegraph",
+    "title": "Spain 3 Turkey 0, Euro 2016: Morata double and Nolito tear Turks apart",
+    "description": "",
+    "url": "http://www.telegraph.co.uk/football/2016/06/17/euro-2016-when-is-spain-vs-turkey-what-tv-channel-is-it-on-and-c1/"
+  },
+  {
+    "site": "Eurosport",
+    "title": "Alvaro Morata hits double as Spain stroll past Turkey and into last 16",
+    "description": "Alvaro Morata scored twice as Spain strolled past Turkey to qualify for the last 16 of Euro 2016.",
+    "url": "http://www.eurosport.com/football/euro-2016/2016/alvaro-morata-hits-double-as-spain-stroll-past-turkey-and-into-last-16_sto5649513/story.shtml"
+  },
+  {
+    "site": "mirror",
+    "title": "Spain 3-0 Turkey: Alvaro Morata brace seals win - 5 things we learned",
+    "description": "Alvaro Morata scored twice and Nolito once as Turkey were roasted by Spain",
+    "url": "http://www.mirror.co.uk/sport/football/match-reports/spain-3-0-turkey-alvaro-8044881"
+  },
+  {
+    "site": "The Independent",
+    "title": "Spain vs Turkey match report: Supreme Spaniards sail into last sixteen",
+    "description": "After 21 games of Euro 2016 it appears we have a clear favourite. Spain will face far tougher tests than Turkey but their 3-0 win in Nice suggests they are the team to beat again, just as they have been in the last two European Championships. They became the first side to score three goals in a game at this year's finals with a convincing dismantling of their Group D rivals. They are definitely in the last 16 and should win the group they conclude on Tuesday against Croatia in Bordeaux.",
+    "url": "http://www.independent.co.uk/sport/football/international/spain-vs-turkey-match-report-supreme-spaniards-sail-into-last-sixteen-a7088421.html"
+  },
+  {
+    "site": "Football365",
+    "title": "Spain 3-0 Turkey: Someone scored three goals! - Football365",
+    "description": "Football365 - Spain became the first team since, erm, Spain in 2012 to score more than twice in one Euros game.",
+    "url": "http://www.football365.com/news/spain-3-0-turkey-someone-scored-three-goals"
+  },
+  {
+    "site": "Mail Online",
+    "title": "Spain v Turkey, Euro 2016 LIVE: All the action from Nice",
+    "description": "On a day when sickening violence and brutality cast its shadow over Euro 2016 once again, it was left to the artists of Spain to remind us just how beautiful this game can be.",
+    "url": "http://www.dailymail.co.uk/sport/football/article-3646675/Spain-v-Turkey-Euro-2016-LIVE-score-action-Nice.html"
+  },
+  {
+    "site": "Sports Mole",
+    "title": "Result: Spain through to last-16 of Euro 2016",
+    "description": "Spain book their spot in the last-16 stage of Euro 2016 with a game to spare after recording a 3-0 win over Turkey in Friday night's Group D clash in Nice.",
+    "url": "http://www.sportsmole.co.uk/fb_275007.html"
+  },
+  {
+    "site": "Bleacher Report",
+    "title": "Spain Routs Turkey 3-0 in Euro 2016",
+    "description": "Rampant Spain cruised past Turkey in Group D of UEFA Euro 2016 at the Stade de Nice on Friday, as  Vicente del Bosque's men  seamlessly slipped into top gear to earn a 3-0 win, booking a spot in the next round...",
+    "url": "http://bleacherreport.com/articles/2646934-spain-vs-turkey-score-and-twitter-reaction-from-euro-2016"
+  },
+  {
+    "site": "FIFA.com",
+    "title": "Live Scores - UEFA EURO 2016: Spain - Turkey - FIFA.com",
+    "description": "Live Scores - UEFA EURO 2016: Spain - Turkey",
+    "url": "http://www.fifa.com/live-scores/uefaeuro/matches/match=Spain-Turkey-300340748/index.html"
+  },
+  {
+    "site": "en.wikipedia.org",
+    "title": "UEFA Euro 2016 Group D - Wikipedia, the free encyclopedia",
+    "description": "",
+    "url": "https://en.wikipedia.org/wiki/UEFA_Euro_2016_Group_D#Spain_vs_Turkey"
+  }
+]

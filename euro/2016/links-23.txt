@@ -1,0 +1,98 @@
+[
+  {
+    "site": "the Guardian",
+    "title": "Hungary exult and Iceland only draw after Birkir Saevarsson own goal",
+    "description": "Iceland came close to a famous win after Gylfi Sigurdsson’s penalty but a late own goal left Hungary with four points and their opponents with only two",
+    "url": "http://www.theguardian.com/football/2016/jun/18/iceland-hungary-euro-2016-match-report"
+  },
+  {
+    "site": "UEFA.com",
+    "title": "Iceland own goal spares Hungary defeat - UEFA EURO - News - UEFA.com",
+    "description": "Iceland 1-1 Hungary\nBirkir Sævarsson's own goal salvaged a point for Bernd Storck's side, but the Icelanders' smash-and-grab tactics almost earned them a second goal.",
+    "url": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017962/postmatch/report/"
+  },
+  {
+    "site": "BBC Sport",
+    "title": "Iceland 1-1 Hungary",
+    "description": "Birkir Saevarsson's late own goal denies Iceland a famous victory as Hungary earn a 1-1 draw in Group F of Euro 2016.",
+    "url": "http://www.bbc.com/sport/football/36505834"
+  },
+  {
+    "site": "ESPNFC.com",
+    "title": "Iceland vs. Hungary - Football Match Report - June 18, 2016 - ESPN",
+    "description": "",
+    "url": "http://espnfc.com/report?gameId=438182"
+  },
+  {
+    "site": "www.goal.com",
+    "title": "Iceland 1 - 1 Hungary Match report - 2016-06-18 European Championship",
+    "description": "Read the full Iceland v Hungary European Championship match report from 2016-06-18, including goals, incidents and key moments",
+    "url": "http://www.goal.com/euro2016/en/match/iceland-vs-hungary/ctmc2l6o1tvfe9ububz550kix"
+  },
+  {
+    "site": "FourFourTwo",
+    "title": "Iceland 1 Hungary 1: Saeversson own-goal breaks Scandinavian hearts",
+    "description": "Iceland were denied a first win at a major tournament as a late own-goal from Birkir Saevarsson snatched a 1-1 draw for Hungary in Marseille. Gylfi Sigurdsson's first-half penalty had given Lars Lagerback's men a lead that they held until the 87th minute when Saevarsson diverted a cross from substitute Nemanja Nikolic into his own net - continuing an astonishing run of late goals at Euro 2016.",
+    "url": "http://www.fourfourtwo.com/news/iceland-1-hungary-1-saeversson-own-goal-breaks-scandinavian-hearts"
+  },
+  {
+    "site": "The Telegraph",
+    "title": "Iceland vs Hungary, Euro 2016: Late own goal cancels out Gylfi Sigurdsson penalty",
+    "description": "",
+    "url": "http://www.telegraph.co.uk/football/2016/06/18/iceland-vs-hungary-euro-2016---live/"
+  },
+  {
+    "site": "Independent.ie",
+    "title": "Late own goal robs Iceland of historic win over Hungary - Independent.ie",
+    "description": "A late own goal from Birkir Saevarsson saw Hungary snatch a 1-1 draw and avoid an unexpected defeat against Iceland at Euro 2016.",
+    "url": "http://www.independent.ie/sport/soccer/euro-2016/late-own-goal-robs-iceland-of-historic-win-over-hungary-34813403.html"
+  },
+  {
+    "site": "Eurosport",
+    "title": "Heartbreak for Iceland as late own goal puts Hungary on brink of last-16",
+    "description": "Stade Velodrome, Marseille, Euro 2016 Group F - Iceland 1 (Sigurdsson 39 pen) Hungary 1 (Saevarsson og 88)",
+    "url": "http://www.eurosport.com/football/euro-2016/2016/euro-2016-preview-iceland-v-hungary_sto5651818/story.shtml"
+  },
+  {
+    "site": "mirror",
+    "title": "Five things we learned from Iceland 1-1 Hungary",
+    "description": "The Swansea star put Iceland ahead from the penalty spot just before the break before Birkir Mar Saevarsson put through his own net",
+    "url": "http://www.mirror.co.uk/sport/football/match-reports/iceland-1-1-hungary-gylfi-8044877"
+  },
+  {
+    "site": "The Independent",
+    "title": "Late own goal denies Iceland another day to remember",
+    "description": "Iceland is said to be a land of sagas but not all their long stories have a happy ending. There have been plenty of late goals in this tournament but none has been crueller than the one Birkir Saevarsson put into his own net three minutes from the end. Iceland, the team whose co-manager, Heimar Hallgrimsson is a dentist, whose goalkeeper, Hannes Halldorsson, is a sometime film-maker who directed the country’s Eurovision entry, were moments away from almost certain qualification for the knockout phase of Euro 2016.",
+    "url": "http://www.independent.co.uk/sport/football/international/iceland-vs-hungary-match-report-late-birkir-saevarsson-own-goal-denies-iceland-another-day-to-a7089331.html"
+  },
+  {
+    "site": "www.itv.com",
+    "title": "Euro 2016 report and highlights: Iceland 1-1 Hungary",
+    "description": "A late own goal from Birkir Saevarsson saw Hungary snatch a 1-1 draw and avoid an unexpected defeat against Iceland at Euro 2016.",
+    "url": "http://www.itv.com/euro2016/euro-2016-report-and-highlights-iceland-1-1-hungary"
+  },
+  {
+    "site": "Football365",
+    "title": "Iceland 1-1 Hungary: Another Euro 2016 late show - Football365",
+    "description": "Football365 - A late own-goal handed Hungary a share of the spoils as they come from behind to draw 1-1 with Iceland.",
+    "url": "http://www.football365.com/news/iceland-1-1-hungary-another-euro-2016-late-show"
+  },
+  {
+    "site": "Mail Online",
+    "title": "Hungary 1-1 Iceland, Euro 2016 RESULT: Saevarsson scores own goal",
+    "description": "Iceland's heart were broken at the closing stages of their match with Hungary as a Birkir Saevarsson own goal changed the outcome of the match. Relive the action here.",
+    "url": "http://www.dailymail.co.uk/sport/football/article-3647953/Hungary-vs-Iceland-Euro-2016-LIVE-score-Follow-action-Marseille-happens.html"
+  },
+  {
+    "site": "FIFA.com",
+    "title": "Live Scores - UEFA EURO 2016: Iceland - Hungary - FIFA.com",
+    "description": "Live Scores - UEFA EURO 2016: Iceland - Hungary",
+    "url": "http://www.fifa.com/live-scores/uefaeuro/matches/match=Iceland-Hungary-300340758/index.html"
+  },
+  {
+    "site": "en.wikipedia.org",
+    "title": "UEFA Euro 2016 Group F - Wikipedia, the free encyclopedia",
+    "description": "",
+    "url": "https://en.wikipedia.org/wiki/UEFA_Euro_2016_Group_F#Iceland_vs_Hungary"
+  }
+]

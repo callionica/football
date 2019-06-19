@@ -1,0 +1,98 @@
+[
+  {
+    "title": "Euro 2016: Soccer Tourney Kicks Off With Record Ratings In France & More",
+    "description": "Against a backdrop of nationwide strikes and the lingering threat of terrorism, Euro 2016 kicked off in France last night with the French national team facing Romania. Following an opening ceremony…",
+    "url": "http://deadline.com/2016/06/euro-2016-opening-match-ratings-france-romania-strikes-terrorism-1201770963/",
+    "site": "Deadline"
+  },
+  {
+    "site": "the Guardian",
+    "title": "France 2-1 Romania: Euro 2016 opening game – as it happened",
+    "description": "Dimitri Payet scored a wonderful late goal to give France a win on the opening day",
+    "url": "http://www.theguardian.com/football/live/2016/jun/10/france-romania-euro-2016-live"
+  },
+  {
+    "site": "CNN",
+    "title": "Euro 2016: Payet secures France win",
+    "description": "Amid floods, strikes and terrorism concerns in France, the country's soccer team wins its opening Euro 2016 game 2-1 against Romania.",
+    "url": "http://edition.cnn.com/2016/06/10/football/euro-2016-france-romania-opening-ceremony/index.html"
+  },
+  {
+    "site": "BBC Sport",
+    "title": "France 2-1 Romania",
+    "description": "Dimitri Payet scores a stunning late winner to give hosts France a 2-1 victory over Romania in the first game of Euro 2016.",
+    "url": "http://www.bbc.com/sport/football/36441485"
+  },
+  {
+    "site": "UEFA.com",
+    "title": "Payet stunner gives hosts France opening win - UEFA EURO - News - UEFA.com",
+    "description": "France 2-1 Romania\nDimitri Payet struck a delightful late winner to cap a fine individual performance and hand victory to the hosts in the UEFA EURO 2016 opener.",
+    "url": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017877/postmatch/report/index.html"
+  },
+  {
+    "site": "France 24",
+    "title": "France beat Romania 2-1 in nail-biting Euro 2016 opener - France 24",
+    "description": "Dimitri Payet's stunning 25 metre strike a minute from time got hosts France off to a winning start at Euro 2016 on Friday as they beat Romania 2-1.",
+    "url": "http://www.france24.com/en/20160610-euro2016-france-romania-liveblog-opening-match-football-sport"
+  },
+  {
+    "site": "Mail Online",
+    "title": "France 2-1 Romania: Dimitri Payet scores spectacular late winner",
+    "description": "MARTIN SAMUEL AT THE STADE DE FRANCE: Better than Zinedine Zidane? Well, let’s not get carried away; but this was a performance of Zizou-like influence, and it won France the game.",
+    "url": "http://www.dailymail.co.uk/sport/football/article-3635902/France-2-1-Romania-Dimitri-Payet-scores-spectacular-late-winner-save-blushes-nervy-Euro-2016-hosts-tournament-opener.html"
+  },
+  {
+    "site": "www.goal.com",
+    "title": "France 2 - 1 Romania Match report - 2016-06-10 European Championship",
+    "description": "Read the full France v Romania European Championship match report from 2016-06-10, including goals, incidents and key moments",
+    "url": "http://www.goal.com/euro2016/en/match/france-vs-romania/1svska2msm8k2ybp2be9icm3t"
+  },
+  {
+    "site": "www.itv.com",
+    "title": "Euro 2016 Report and Highlights: France 2-1 Romania",
+    "description": "Dimitri Payet classily and dramatically scored in the 89th minute to secure France a late 2-1 win over Romania in the opening game of Euro 2016 at the Stade de France.",
+    "url": "http://www.itv.com/euro2016/euro-2016-report-and-highlights-france-2-1-romania"
+  },
+  {
+    "site": "mirror",
+    "title": "France 2-1 Romania: 6 things we learned from the Euro 2016 opener",
+    "description": "Bogdan Stancu converted a second half penalty to threaten to spoil the hosts' party before Payet's late stunner at the Stade de France",
+    "url": "http://www.mirror.co.uk/sport/football/match-reports/france-2-1-romania-dimitri-8044921"
+  },
+  {
+    "site": "ESPNFC.com",
+    "title": "France vs. Romania - Football Match Report - June 10, 2016 - ESPN",
+    "description": "",
+    "url": "http://espnfc.com/report?gameId=438204"
+  },
+  {
+    "site": "Sports Mole",
+    "title": "Live Commentary: France 2-1 Romania - as it happened",
+    "description": "Relive France's dramatic 2-1 victory over Romania in the opening match of Euro 2016 as Dimitri Payet's late strike gets the hosts off to a winning start.",
+    "url": "http://www.sportsmole.co.uk/fb_274549.html"
+  },
+  {
+    "site": "Eurosport",
+    "title": "Euro 2016: The key moments that decided France v Romania",
+    "description": "Dimitri Payet scored a belter at the opening match of Euro 2016 as France beat Romania 2-1.",
+    "url": "http://www.eurosport.com/football/euro-2016/2016/euro-2016-france-v-romania-latest-giround-scores-first-goal-romania-level-from-the-spot_sto5642511/story.shtml"
+  },
+  {
+    "site": "Bleacher Report",
+    "title": "France vs. Romania: Score and Twitter Reaction",
+    "description": "Dimitri Payet scored the winner for France in Friday's UEFA Euro 2016 opener, as Les Bleus battled to a hard-fought 2-1 win over Romania...",
+    "url": "http://bleacherreport.com/articles/2645566-france-vs-romania-score-and-twitter-reaction-from-euro-2016"
+  },
+  {
+    "site": "Independent.ie",
+    "title": "France kick off Euro 2016 with a win: As it happened - Independent.ie",
+    "description": "We are here at last. France kick off Euro 2016 in Stade de France against Romania and you can follow all the action right here.",
+    "url": "http://www.independent.ie/sport/soccer/euro-2016/france-kick-off-euro-2016-with-a-win-as-it-happened-34790037.html"
+  },
+  {
+    "site": "The Telegraph",
+    "title": "France vs Romania, Euro 2016: Late Dimitri Payet wondergoal steals victory for hosts",
+    "description": "",
+    "url": "http://www.telegraph.co.uk/football/2016/06/10/france-vs-romania-euro-2016-live/"
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "site": "the Guardian",
+    "title": "Jakub Blaszczykowski’s fine goal fires Poland to victory against Ukraine",
+    "description": "Poland defeated Ukraine 1-0 in Marseille to finish runners-up in Group C and next face Switzerland in the last 16 in Saint-Étienne on Saturday",
+    "url": "http://www.theguardian.com/football/2016/jun/21/ukraine-poland-euro-2016-match-report"
+  },
+  {
+    "site": "UEFA.com",
+    "title": "Błaszczykowski shoots Poland past Ukraine - UEFA EURO - News - UEFA.com",
+    "description": "Ukraine 0-1 Poland\nJakub Błaszczykowski fired Poland into the last 16, but the substitute's strike was not enough to pip Germany to top spot in Group C.",
+    "url": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017898/postmatch/report/"
+  },
+  {
+    "site": "BBC Sport",
+    "title": "Ukraine 0-1 Poland",
+    "description": "Poland reach the knockout stages of a European Championship for the first time as they beat Ukraine to finish second in Group C.",
+    "url": "http://www.bbc.com/sport/football/36524212"
+  },
+  {
+    "site": "ESPNFC.com",
+    "title": "Ukraine vs. Poland - Football Match Report - June 21, 2016 - ESPN",
+    "description": "",
+    "url": "http://espnfc.com/report?gameId=438176"
+  },
+  {
+    "site": "www.goal.com",
+    "title": "Ukraine 0 - 1 Poland Match report - 2016-06-21 European Championship",
+    "description": "Read the full Ukraine v Poland European Championship match report from 2016-06-21, including goals, incidents and key moments",
+    "url": "http://www.goal.com/euro2016/en/match/ukraine-vs-poland/5i9dz0b90opi0vrkj6kplovzd"
+  },
+  {
+    "site": "FourFourTwo",
+    "title": "Ukraine 0 Poland 1: Blaszczykowski stunner seals victory",
+    "description": "Substitute Jakub Blaszczykowski struck the decisive blow in Marseille as Poland bounced back from their goalless draw with Germany to beat Ukraine 1-0 on Tuesday. It took the Borussia Dortmund midfielder - who spent last season on loan at Fiorentina - nine minutes to open the scoring after his introduction in Poland's final game of Group C at Euro 2016, netting with a fierce strike that flew into the top-left corner. Blaszczykowski's goal lifted the pressure on Adam Nawalka's side after a tough first half that saw Ukraine enjoy the better openings.",
+    "url": "http://www.fourfourtwo.com/au/news/ukraine-0-poland-1-blaszczykowski-stunner-seals-victory"
+  },
+  {
+    "site": "The Telegraph",
+    "title": "Ukraine 0 Poland 1: Jakub Blaszczykowski appears from off the bench to seal progression into last 16",
+    "description": "A second half strike by substitute Jakub Blaszczykowski booked Poland's ticket into the last-16 at Euro 2016 and sent hapless Ukraine home without a point.",
+    "url": "http://www.telegraph.co.uk/football/2016/06/21/ukraine-vs-poland-euro-2016-live/"
+  },
+  {
+    "site": "Independent.ie",
+    "title": "Poland book last 16 tie with the Swiss after brilliant goal against underwhelming Ukraine - Independent.ie",
+    "description": "A brilliantly worked goal by substitute Jakub Blaszczykowski sent Poland through to the last 16 of Euro 2016 with a 1-0 win over Ukraine in Marseille.",
+    "url": "http://www.independent.ie/sport/soccer/euro-2016/poland-book-last-16-tie-with-the-swiss-after-brilliant-goal-against-underwhelming-ukraine-34821532.html"
+  },
+  {
+    "site": "Eurosport",
+    "title": "Euro 2016 - Blaszczykowski winner against Ukraine seals Poland progress to last 16",
+    "description": "Euro 2016, Group C, Stade Velodrome, Marseille - Poland 1 (Blaszczykowski 54') Ukraine 0",
+    "url": "http://www.eurosport.com/football/euro-2016/2016/ukraine-v-poland-live_sto5656000/story.shtml"
+  },
+  {
+    "site": "mirror",
+    "title": "Ukraine 0-1 Poland: Blaszczykowski stunner wins it",
+    "description": "After both sides wasted golden chances in the first half, the experienced winger settled the game with a sublime finish",
+    "url": "http://www.mirror.co.uk/sport/football/match-reports/ukraine-0-1-poland-jakub-8044865"
+  },
+  {
+    "site": "The Independent",
+    "title": "Poland progress to round of 16 with misfiring Robert Lewandowski",
+    "description": "If Poland were go any distance in this competition, you assumed Robert Lewandowski would be their central figure. Instead, they qualified to face Switzerland in the first knockout game of Euro 2016 without their captain and finest player having had so much as a shot on target. For Lewandowski this is all rather bad timing. He is 27, at the peak of his powers and anxious for a move to Real Madrid.",
+    "url": "http://www.independent.co.uk/sport/football/international/ukraine-vs-poland-match-report-poles-progress-to-round-of-16-with-misfiring-robert-lewandowski-in-a7094126.html"
+  },
+  {
+    "site": "www.itv.com",
+    "title": "Euro 2016 match report and highlights: Ukraine 0-1 Poland",
+    "description": "A brilliantly worked goal by substitute Jakub Blaszczykowski sent Poland through to the last 16 of Euro 2016 with a 1-0 win over Ukraine in Marseille.\n\nBlaszczykowski sent a superb left-footed finish past Ukrainian goalkeeper Andriy Pyatov after a sharp series of one-touch passes following a short corner in the 54th minute.",
+    "url": "http://www.itv.com/euro2016/euro-2016-match-report-and-highlights-ukraine-0-1-poland"
+  },
+  {
+    "site": "Football365",
+    "title": "Ukraine 0-1 Poland: Szczuper szczub - Football365",
+    "description": "Football365 - Jakub Blaszczykowski scored after coming on as a substitute in Poland's 1-0 victory over Ukraine in Group C.",
+    "url": "http://www.football365.com/news/ukraine-0-1-poland-szczuper-szczub"
+  },
+  {
+    "site": "Mail Online",
+    "title": "Ukraine v Poland, Euro 2016 LIVE: Follow the Group C action",
+    "description": "Poland reached the knockout stages of the European Championship for the first time in their history following a 1-0 victory over neighbours Ukraine in the Stade Velodrome, Marseille.",
+    "url": "http://www.dailymail.co.uk/sport/football/article-3652522/Ukraine-v-Poland-Euro-2016-LIVE-score-Follow-Group-C-action-Marseille-happens.html"
+  },
+  {
+    "site": "Sports Mole",
+    "title": "Result: Poland edge past Ukraine to finish second in Group C",
+    "description": "Jakub Blaszczykowski's second-half strike helps Poland clinch a narrow 1-0 win over Ukraine in Tuesday's Euro 2016 Group C game in Marseille to finish second ahead of Northern Ireland.",
+    "url": "http://www.sportsmole.co.uk/fb_275262.html"
+  },
+  {
+    "site": "FIFA.com",
+    "title": "Live Scores - UEFA EURO 2016: Ukraine - Poland - FIFA.com",
+    "description": "Live Scores - UEFA EURO 2016: Ukraine - Poland",
+    "url": "http://www.fifa.com/live-scores/uefaeuro/matches/match=Ukraine-Poland-300340734/index.html"
+  },
+  {
+    "site": "en.wikipedia.org",
+    "title": "UEFA Euro 2016 Group C - Wikipedia, the free encyclopedia",
+    "description": "",
+    "url": "https://en.wikipedia.org/wiki/UEFA_Euro_2016_Group_C#Ukraine_vs_Poland"
+  }
+]

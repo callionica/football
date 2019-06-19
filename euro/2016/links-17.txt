@@ -1,0 +1,110 @@
+[
+  {
+    "site": "the Guardian",
+    "title": "McGinn’s late goal confirms Northern Ireland’s famous win over Ukraine",
+    "description": "A late goal by Niall McGinn added to Gareth McAuley’s header to give Northern Ireland a 2-0 win over Ukraine at Euro 2016",
+    "url": "http://www.theguardian.com/football/2016/jun/16/ukraine-northern-ireland-euro-2016-match-report"
+  },
+  {
+    "site": "UEFA.com",
+    "title": "McAuley heads Northern Ireland to victory - UEFA EURO - News - UEFA.com",
+    "description": "Ukraine 0-2 Northern Ireland\nGareth McAuley and substitute Niall McGinn struck to get Northern Ireland up and running in Group C, with Ukraine the first side to be eliminated.",
+    "url": "http://www.uefa.com/uefaeuro/season=2016/matches/round=2000448/match=2017890/postmatch/report/"
+  },
+  {
+    "site": "BBC Sport",
+    "title": "Ukraine 0-2 Northern Ireland",
+    "description": "Northern Ireland earn their first tournament victory for 34 years by beating Ukraine in wet conditions in Lyon.",
+    "url": "http://www.bbc.com/sport/football/36486427"
+  },
+  {
+    "site": "ESPNFC.com",
+    "title": "Ukraine vs. Northern Ireland - Football Match Report - June 16, 2016 - ESPN",
+    "description": "",
+    "url": "http://espnfc.com/report?gameId=438188"
+  },
+  {
+    "site": "www.goal.com",
+    "title": "Ukraine 0 - 2 Northern Ireland Match report - 2016-06-16 European Championship",
+    "description": "Read the full Ukraine v Northern Ireland European Championship match report from 2016-06-16, including goals, incidents and key moments",
+    "url": "http://www.goal.com/euro2016/en/match/ukraine-vs-northern-ireland/2texld02sduz2quka1vmyl3vt"
+  },
+  {
+    "site": "FourFourTwo",
+    "title": "Northern Ireland's on fire - Euro 2016 is terrified",
+    "description": "To say fortune favoured the brave in Lyon on Thursday would be doing a disservice to Michael O'Neill and his Northern Ireland players, who conclusively disproved the disparaging 'route-one' label applied to them before the game by Ukraine's Ruslan Rotan. Making five changes to the line-up that lost 1-0 to Poland, including axing talismanic striker Kyle Lafferty, was a brave decision from the coach, but it was not such decisiveness alone that sealed a memorable 2-0 win.",
+    "url": "http://www.fourfourtwo.com/news/northern-irelands-fire-euro-2016-terrified"
+  },
+  {
+    "site": "The Telegraph",
+    "title": "Ukraine 0 Northern Ireland 2, Euro 2016: Heroic win sealed by late goal sends Northern Irish into dreamland",
+    "description": "The ramifications were clear.",
+    "url": "http://www.telegraph.co.uk/football/2016/06/16/ukraine-0-northern-ireland-2-euro-2016-heroic-win-sealed-by-late/"
+  },
+  {
+    "site": "Independent.ie",
+    "title": "Second half double reignites Northern Ireland's Euro 2016 charge - Independent.ie",
+    "description": "Northern Ireland are back in Euro 2016 business after Gareth McAuley and Niall McGinn gave Michael O'Neill's men a crucial win over Ukraine in the Stade de Lyon.",
+    "url": "http://www.independent.ie/sport/soccer/euro-2016/second-half-double-reignites-northern-irelands-euro-2016-charge-34808280.html"
+  },
+  {
+    "site": "Eurosport",
+    "title": "Northern Ireland claim historic win against Ukraine",
+    "description": "Stade des Lumieres, Group C - Ukraine 0 Northern Ireland 2 (McAuley 49, McGinn 90+6)",
+    "url": "http://www.eurosport.com/football/euro-2016/2016/northern-ireland-claim-historic-win-against-ukraine_sto5648339/story.shtml"
+  },
+  {
+    "site": "mirror",
+    "title": "5 things we learned from Ukraine 0-2 Northern Ireland",
+    "description": "The West Brom defender opened the scoring four minutes after the break before McGinn climbed off the bench to seal the points late on",
+    "url": "http://www.mirror.co.uk/sport/football/match-reports/ukraine-0-2-northern-ireland-8044889"
+  },
+  {
+    "site": "The Independent",
+    "title": "Ukraine vs Northern Ireland halted due to heavy rain and hailstorm",
+    "description": "You wait 30 years for a goal in a major finals and the gods intervene. With Northern Ireland players and supporters alike were still celebrating Gareth McAuley's towering header against Ukraine on Thursday, the heavy rain that had affected the Group C match from kick-off turned torrential, with small hailstones filling the playing surface. Czech referee Pavel Kralovec wasted no time in taking the players off the Stade de Lyon to the sanctuary of the dressing rooms, with 56 minutes showing on the stadium clock.",
+    "url": "http://www.independent.co.uk/sport/football/international/ukraine-vs-northern-ireland-halted-due-to-heavy-rain-and-hailstorm-a7086281.html"
+  },
+  {
+    "site": "www.itv.com",
+    "title": "Euro 2016 match report and highlights: Ukraine 0-2 Northern Ireland",
+    "description": "Goals from Gareth McAuley and Niall McGinn took Northern Ireland to their first ever European Championship finals victory as a 2-0 win over Ukraine in Lyon kept alive their last-16 hopes.\n\nVeteran West Brom defender McAuley nodded home four minutes after the restart from a brilliant Oliver Norwood free-kick before McGinn swept home in stoppage time as Michael O'Neill's tactical roll of the dice paid off.",
+    "url": "http://www.itv.com/euro2016/euro-2016-match-report-and-highlights-ukraine-0-2-northern-ireland"
+  },
+  {
+    "site": "Football365",
+    "title": "Northern Ireland 2-0 Ukraine: Belfast and the furious - Football365",
+    "description": "Football365 - Goals from Gareth McAuley and Niall McGinn took Northern Ireland to their first ever European Championship finals victory",
+    "url": "http://www.football365.com/news/northern-ireland-2-0-ukraine-belfast-and-the-furious"
+  },
+  {
+    "site": "Mail Online",
+    "title": "Ukraine v Northern Ireland, Euro 2016 LIVE: Follow all the action",
+    "description": "Northern Ireland have taken a major step towards qualifying for the knock-out stages of Euro 2016 after second-half goals from Gareth McAuley and Niall McGinn secured victory over Ukraine in Lyon.",
+    "url": "http://www.dailymail.co.uk/sport/football/article-3644987/Ukraine-v-Northern-Ireland-Euro-2016-LIVE-score-Follow-action.html"
+  },
+  {
+    "site": "Sports Mole",
+    "title": "Result: Northern Ireland keep hopes alive with win",
+    "description": "Northern Ireland keep their hopes at Euro 2016 alive with a 2-0 victory over Ukraine in Lyon.",
+    "url": "http://www.sportsmole.co.uk/fb_274928.html"
+  },
+  {
+    "site": "Bleacher Report",
+    "title": "Ukraine vs. Northern Ireland: Score, Twitter Reaction from Euro 2016",
+    "description": "Northern Ireland shocked Ukraine in Group C of UEFA Euro 2016 on Thursday, winning 2-0 in testing weather at the Stade de Lyon, France...",
+    "url": "http://bleacherreport.com/articles/2646672-ukraine-vs-northern-ireland-score-and-twitter-reaction-from-euro-2016"
+  },
+  {
+    "site": "FIFA.com",
+    "title": "Live Scores - UEFA EURO 2016: Ukraine - Northern Ireland - FIFA.com",
+    "description": "Live Scores - UEFA EURO 2016: Ukraine - Northern Ireland",
+    "url": "http://www.fifa.com/live-scores/uefaeuro/matches/match=Ukraine-Northern-Ireland-300340737/index.html"
+  },
+  {
+    "site": "en.wikipedia.org",
+    "title": "UEFA Euro 2016 Group C - Wikipedia, the free encyclopedia",
+    "description": "",
+    "url": "https://en.wikipedia.org/wiki/UEFA_Euro_2016_Group_C#Ukraine_vs_Northern_Ireland"
+  }
+]
