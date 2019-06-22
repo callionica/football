@@ -1,0 +1,496 @@
+[
+  {
+    "id": "1986",
+    "link": "/worldcup/matches/round=262/match=1986/index.html",
+    "date": "1974-06-13T17:00",
+    "group": "Group 2",
+    "home": "BRA",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "away": "YUG",
+    "stadium": "Waldstadion, Frankfurt/Main"
+  },
+  {
+    "id": "2003",
+    "link": "/worldcup/matches/round=262/match=2003/index.html",
+    "date": "1974-06-14T16:00",
+    "group": "Group 1",
+    "home": "FRG",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "CHI",
+    "stadium": "Olympiastadion, Berlin West"
+  },
+  {
+    "id": "1955",
+    "link": "/worldcup/matches/round=262/match=1955/index.html",
+    "date": "1974-06-14T19:30",
+    "group": "Group 1",
+    "home": "GDR",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "away": "AUS",
+    "stadium": "Volksparkstadion, Hamburg"
+  },
+  {
+    "id": "2176",
+    "link": "/worldcup/matches/round=262/match=2176/index.html",
+    "date": "1974-06-14T19:30",
+    "group": "Group 2",
+    "home": "ZAI",
+    "score": {
+      "home": 0,
+      "away": 2
+    },
+    "away": "SCO",
+    "stadium": "Westfalenstadion, Dortmund"
+  },
+  {
+    "id": "2098",
+    "link": "/worldcup/matches/round=262/match=2098/index.html",
+    "date": "1974-06-15T16:00",
+    "group": "Group 3",
+    "home": "URU",
+    "score": {
+      "home": 0,
+      "away": 2
+    },
+    "away": "NED",
+    "stadium": "Niedersachsenstadion, Hanover"
+  },
+  {
+    "id": "1995",
+    "link": "/worldcup/matches/round=262/match=1995/index.html",
+    "date": "1974-06-15T16:00",
+    "group": "Group 3",
+    "home": "SWE",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "away": "BUL",
+    "stadium": "Rheinstadion, Düsseldorf"
+  },
+  {
+    "id": "2083",
+    "link": "/worldcup/matches/round=262/match=2083/index.html",
+    "date": "1974-06-15T18:00",
+    "group": "Group 4",
+    "home": "ITA",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "away": "HAI",
+    "stadium": "Olympiastadion, Munich"
+  },
+  {
+    "id": "1952",
+    "link": "/worldcup/matches/round=262/match=1952/index.html",
+    "date": "1974-06-15T18:00",
+    "group": "Group 4",
+    "home": "POL",
+    "score": {
+      "home": 3,
+      "away": 2
+    },
+    "away": "ARG",
+    "stadium": "Neckarstadion, Stuttgart"
+  },
+  {
+    "id": "1954",
+    "link": "/worldcup/matches/round=262/match=1954/index.html",
+    "date": "1974-06-18T16:00",
+    "group": "Group 1",
+    "home": "AUS",
+    "score": {
+      "home": 0,
+      "away": 3
+    },
+    "away": "FRG",
+    "stadium": "Volksparkstadion, Hamburg"
+  },
+  {
+    "id": "1985",
+    "link": "/worldcup/matches/round=262/match=1985/index.html",
+    "date": "1974-06-18T19:30",
+    "group": "Group 2",
+    "home": "SCO",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "away": "BRA",
+    "stadium": "Waldstadion, Frankfurt/Main"
+  },
+  {
+    "id": "2004",
+    "link": "/worldcup/matches/round=262/match=2004/index.html",
+    "date": "1974-06-18T19:30",
+    "group": "Group 1",
+    "home": "CHI",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "away": "GDR",
+    "stadium": "Olympiastadion, Berlin West"
+  },
+  {
+    "id": "2186",
+    "link": "/worldcup/matches/round=262/match=2186/index.html",
+    "date": "1974-06-18T19:30",
+    "group": "Group 2",
+    "home": "YUG",
+    "score": {
+      "home": 9,
+      "away": 0
+    },
+    "away": "ZAI",
+    "stadium": "Parkstadion, Gelsenkirchen"
+  },
+  {
+    "id": "2097",
+    "link": "/worldcup/matches/round=262/match=2097/index.html",
+    "date": "1974-06-19T19:30",
+    "group": "Group 3",
+    "home": "NED",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "away": "SWE",
+    "stadium": "Westfalenstadion, Dortmund"
+  },
+  {
+    "id": "1996",
+    "link": "/worldcup/matches/round=262/match=1996/index.html",
+    "date": "1974-06-19T19:30",
+    "group": "Group 3",
+    "home": "BUL",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "away": "URU",
+    "stadium": "Niedersachsenstadion, Hanover"
+  },
+  {
+    "id": "2085",
+    "link": "/worldcup/matches/round=262/match=2085/index.html",
+    "date": "1974-06-19T19:30",
+    "group": "Group 4",
+    "home": "HAI",
+    "score": {
+      "home": 0,
+      "away": 7
+    },
+    "away": "POL",
+    "stadium": "Olympiastadion, Munich"
+  },
+  {
+    "id": "1949",
+    "link": "/worldcup/matches/round=262/match=1949/index.html",
+    "date": "1974-06-19T19:30",
+    "group": "Group 4",
+    "home": "ARG",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "away": "ITA",
+    "stadium": "Neckarstadion, Stuttgart"
+  },
+  {
+    "id": "2175",
+    "link": "/worldcup/matches/round=262/match=2175/index.html",
+    "date": "1974-06-22T16:00",
+    "group": "Group 2",
+    "home": "SCO",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "away": "YUG",
+    "stadium": "Waldstadion, Frankfurt/Main"
+  },
+  {
+    "id": "1953",
+    "link": "/worldcup/matches/round=262/match=1953/index.html",
+    "date": "1974-06-22T16:00",
+    "group": "Group 1",
+    "home": "AUS",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "away": "CHI",
+    "stadium": "Olympiastadion, Berlin West"
+  },
+  {
+    "id": "1987",
+    "link": "/worldcup/matches/round=262/match=1987/index.html",
+    "date": "1974-06-22T16:00",
+    "group": "Group 2",
+    "home": "ZAI",
+    "score": {
+      "home": 0,
+      "away": 3
+    },
+    "away": "BRA",
+    "stadium": "Parkstadion, Gelsenkirchen"
+  },
+  {
+    "id": "2062",
+    "link": "/worldcup/matches/round=262/match=2062/index.html",
+    "date": "1974-06-22T19:30",
+    "group": "Group 1",
+    "home": "GDR",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "FRG",
+    "stadium": "Volksparkstadion, Hamburg"
+  },
+  {
+    "id": "1990",
+    "link": "/worldcup/matches/round=262/match=1990/index.html",
+    "date": "1974-06-23T16:00",
+    "group": "Group 3",
+    "home": "BUL",
+    "score": {
+      "home": 1,
+      "away": 4
+    },
+    "away": "NED",
+    "stadium": "Westfalenstadion, Dortmund"
+  },
+  {
+    "id": "1947",
+    "link": "/worldcup/matches/round=262/match=1947/index.html",
+    "date": "1974-06-23T16:00",
+    "group": "Group 4",
+    "home": "ARG",
+    "score": {
+      "home": 4,
+      "away": 1
+    },
+    "away": "HAI",
+    "stadium": "Olympiastadion, Munich"
+  },
+  {
+    "id": "2181",
+    "link": "/worldcup/matches/round=262/match=2181/index.html",
+    "date": "1974-06-23T16:00",
+    "group": "Group 3",
+    "home": "SWE",
+    "score": {
+      "home": 3,
+      "away": 0
+    },
+    "away": "URU",
+    "stadium": "Rheinstadion, Düsseldorf"
+  },
+  {
+    "id": "2129",
+    "link": "/worldcup/matches/round=262/match=2129/index.html",
+    "date": "1974-06-23T16:00",
+    "group": "Group 4",
+    "home": "POL",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "ITA",
+    "stadium": "Neckarstadion, Stuttgart"
+  },
+  {
+    "id": "2066",
+    "link": "/worldcup/matches/round=263/match=2066/index.html",
+    "date": "1974-06-26T16:00",
+    "group": "Group B",
+    "home": "YUG",
+    "score": {
+      "home": 0,
+      "away": 2
+    },
+    "away": "FRG",
+    "stadium": "Rheinstadion, Düsseldorf"
+  },
+  {
+    "id": "1982",
+    "link": "/worldcup/matches/round=263/match=1982/index.html",
+    "date": "1974-06-26T19:30",
+    "group": "Group A",
+    "home": "BRA",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "GDR",
+    "stadium": "Niedersachsenstadion, Hanover"
+  },
+  {
+    "id": "1948",
+    "link": "/worldcup/matches/round=263/match=1948/index.html",
+    "date": "1974-06-26T19:30",
+    "group": "Group A",
+    "home": "NED",
+    "score": {
+      "home": 4,
+      "away": 0
+    },
+    "away": "ARG",
+    "stadium": "Parkstadion, Gelsenkirchen"
+  },
+  {
+    "id": "2167",
+    "link": "/worldcup/matches/round=263/match=2167/index.html",
+    "date": "1974-06-26T19:30",
+    "group": "Group B",
+    "home": "SWE",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "away": "POL",
+    "stadium": "Neckarstadion, Stuttgart"
+  },
+  {
+    "id": "1945",
+    "link": "/worldcup/matches/round=263/match=1945/index.html",
+    "date": "1974-06-30T16:00",
+    "group": "Group A",
+    "home": "ARG",
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "away": "BRA",
+    "stadium": "Niedersachsenstadion, Hanover"
+  },
+  {
+    "id": "2170",
+    "link": "/worldcup/matches/round=263/match=2170/index.html",
+    "date": "1974-06-30T16:00",
+    "group": "Group B",
+    "home": "POL",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "YUG",
+    "stadium": "Waldstadion, Frankfurt/Main"
+  },
+  {
+    "id": "2067",
+    "link": "/worldcup/matches/round=263/match=2067/index.html",
+    "date": "1974-06-30T16:00",
+    "group": "Group A",
+    "home": "GDR",
+    "score": {
+      "home": 0,
+      "away": 2
+    },
+    "away": "NED",
+    "stadium": "Parkstadion, Gelsenkirchen"
+  },
+  {
+    "id": "2065",
+    "link": "/worldcup/matches/round=263/match=2065/index.html",
+    "date": "1974-06-30T19:30",
+    "group": "Group B",
+    "home": "FRG",
+    "score": {
+      "home": 4,
+      "away": 2
+    },
+    "away": "SWE",
+    "stadium": "Rheinstadion, Düsseldorf"
+  },
+  {
+    "id": "2064",
+    "link": "/worldcup/matches/round=263/match=2064/index.html",
+    "date": "1974-07-03T17:00",
+    "group": "Group B",
+    "home": "POL",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "away": "FRG",
+    "stadium": "Waldstadion, Frankfurt/Main"
+  },
+  {
+    "id": "1983",
+    "link": "/worldcup/matches/round=263/match=1983/index.html",
+    "date": "1974-07-03T19:30",
+    "group": "Group A",
+    "home": "NED",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "away": "BRA",
+    "stadium": "Westfalenstadion, Dortmund"
+  },
+  {
+    "id": "1946",
+    "link": "/worldcup/matches/round=263/match=1946/index.html",
+    "date": "1974-07-03T19:30",
+    "group": "Group A",
+    "home": "ARG",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "away": "GDR",
+    "stadium": "Parkstadion, Gelsenkirchen"
+  },
+  {
+    "id": "2182",
+    "link": "/worldcup/matches/round=263/match=2182/index.html",
+    "date": "1974-07-03T19:30",
+    "group": "Group B",
+    "home": "SWE",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "YUG",
+    "stadium": "Rheinstadion, Düsseldorf"
+  },
+  {
+    "id": "1984",
+    "link": "/worldcup/matches/round=264/match=1984/index.html",
+    "date": "1974-07-06T16:00",
+    "group": "Match for third place",
+    "home": "BRA",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "away": "POL",
+    "stadium": "Olympiastadion, Munich"
+  },
+  {
+    "id": "2063",
+    "link": "/worldcup/matches/round=605/match=2063/index.html",
+    "date": "1974-07-07T16:00",
+    "group": "Final",
+    "home": "NED",
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "away": "FRG",
+    "stadium": "Olympiastadion, Munich"
+  }
+]

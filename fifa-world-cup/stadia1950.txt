@@ -1,0 +1,38 @@
+{
+  "Maracanã - Estádio Jornalista Mário Filho, Rio De Janeiro": {
+    "name": "Maracanã - Estádio Jornalista Mário Filho",
+    "locality": "Rio De Janeiro",
+    "country": "Brazil",
+    "key": "Maracanã - Estádio Jornalista Mário Filho, Rio De Janeiro"
+  },
+  "Durival de Brito, Curitiba": {
+    "name": "Durival de Brito",
+    "locality": "Curitiba",
+    "country": "Brazil",
+    "key": "Durival de Brito, Curitiba"
+  },
+  "Pacaembu, Sao Paulo": {
+    "name": "Pacaembu",
+    "locality": "Sao Paulo",
+    "country": "Brazil",
+    "key": "Pacaembu, Sao Paulo"
+  },
+  "Independencia, Belo Horizonte": {
+    "name": "Independencia",
+    "locality": "Belo Horizonte",
+    "country": "Brazil",
+    "key": "Independencia, Belo Horizonte"
+  },
+  "Eucaliptos, Porto Alegre": {
+    "name": "Eucaliptos",
+    "locality": "Porto Alegre",
+    "country": "Brazil",
+    "key": "Eucaliptos, Porto Alegre"
+  },
+  "Ilha do Retiro, Recife": {
+    "name": "Ilha do Retiro",
+    "locality": "Recife",
+    "country": "Brazil",
+    "key": "Ilha do Retiro, Recife"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "Arena de Sao Paulo, Sao Paulo": {
+    "name": "Arena de Sao Paulo",
+    "locality": "Sao Paulo",
+    "country": "Brazil",
+    "key": "Arena de Sao Paulo, Sao Paulo"
+  },
+  "Estadio das Dunas, Natal": {
+    "name": "Estadio das Dunas",
+    "locality": "Natal",
+    "country": "Brazil",
+    "key": "Estadio das Dunas, Natal"
+  },
+  "Arena Fonte Nova, Salvador": {
+    "name": "Arena Fonte Nova",
+    "locality": "Salvador",
+    "country": "Brazil",
+    "key": "Arena Fonte Nova, Salvador"
+  },
+  "Arena Pantanal, Cuiaba": {
+    "name": "Arena Pantanal",
+    "locality": "Cuiaba",
+    "country": "Brazil",
+    "key": "Arena Pantanal, Cuiaba"
+  },
+  "Estadio Mineirao, Belo Horizonte": {
+    "name": "Estadio Mineirao",
+    "locality": "Belo Horizonte",
+    "country": "Brazil",
+    "key": "Estadio Mineirao, Belo Horizonte"
+  },
+  "Estadio Castelao, Fortaleza": {
+    "name": "Estadio Castelao",
+    "locality": "Fortaleza",
+    "country": "Brazil",
+    "key": "Estadio Castelao, Fortaleza"
+  },
+  "Arena Amazonia, Manaus": {
+    "name": "Arena Amazonia",
+    "locality": "Manaus",
+    "country": "Brazil",
+    "key": "Arena Amazonia, Manaus"
+  },
+  "Arena Pernambuco, Recife": {
+    "name": "Arena Pernambuco",
+    "locality": "Recife",
+    "country": "Brazil",
+    "key": "Arena Pernambuco, Recife"
+  },
+  "Estadio Nacional, Brasilia": {
+    "name": "Estadio Nacional",
+    "locality": "Brasilia",
+    "country": "Brazil",
+    "key": "Estadio Nacional, Brasilia"
+  },
+  "Estadio Beira-Rio, Porto Alegre": {
+    "name": "Estadio Beira-Rio",
+    "locality": "Porto Alegre",
+    "country": "Brazil",
+    "key": "Estadio Beira-Rio, Porto Alegre"
+  },
+  "Estadio do Maracana, Rio De Janeiro": {
+    "name": "Estadio do Maracana",
+    "locality": "Rio De Janeiro",
+    "country": "Brazil",
+    "key": "Estadio do Maracana, Rio De Janeiro"
+  },
+  "Arena da Baixada, Curitiba": {
+    "name": "Arena da Baixada",
+    "locality": "Curitiba",
+    "country": "Brazil",
+    "key": "Arena da Baixada, Curitiba"
+  }
+}

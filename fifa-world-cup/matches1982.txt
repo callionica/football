@@ -1,0 +1,682 @@
+[
+  {
+    "id": "749",
+    "link": "/worldcup/matches/round=293/match=749/index.html",
+    "date": "1982-06-13T20:00",
+    "group": "Group 3",
+    "home": "ARG",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "away": "BEL",
+    "stadium": "Camp Nou, Barcelona"
+  },
+  {
+    "id": "995",
+    "link": "/worldcup/matches/round=293/match=995/index.html",
+    "date": "1982-06-14T17:15",
+    "group": "Group 1",
+    "home": "ITA",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "away": "POL",
+    "stadium": "Estadio Municipal de Balaídos, Vigo"
+  },
+  {
+    "id": "791",
+    "link": "/worldcup/matches/round=293/match=791/index.html",
+    "date": "1982-06-14T21:00",
+    "group": "Group 6",
+    "home": "BRA",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "URS",
+    "stadium": "Ramon Sanchez Pizjuan, Seville"
+  },
+  {
+    "id": "833",
+    "link": "/worldcup/matches/round=293/match=833/index.html",
+    "date": "1982-06-15T17:15",
+    "group": "Group 1",
+    "home": "PER",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "away": "CMR",
+    "stadium": "Riazor, La CoruñA"
+  },
+  {
+    "id": "896",
+    "link": "/worldcup/matches/round=293/match=896/index.html",
+    "date": "1982-06-15T21:00",
+    "group": "Group 3",
+    "home": "HUN",
+    "score": {
+      "home": 10,
+      "away": 1
+    },
+    "away": "SLV",
+    "stadium": "Nuevo Estadio, Elche"
+  },
+  {
+    "id": "1051",
+    "link": "/worldcup/matches/round=293/match=1051/index.html",
+    "date": "1982-06-15T21:00",
+    "group": "Group 6",
+    "home": "SCO",
+    "score": {
+      "home": 5,
+      "away": 2
+    },
+    "away": "NZL",
+    "stadium": "La Rosaleda, Malaga"
+  },
+  {
+    "id": "741",
+    "link": "/worldcup/matches/round=293/match=741/index.html",
+    "date": "1982-06-16T17:15",
+    "group": "Group 2",
+    "home": "FRG",
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "away": "ALG",
+    "stadium": "El Molinon, Gijon"
+  },
+  {
+    "id": "878",
+    "link": "/worldcup/matches/round=293/match=878/index.html",
+    "date": "1982-06-16T17:15",
+    "group": "Group 4",
+    "home": "ENG",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "away": "FRA",
+    "stadium": "San Mames, Bilbao"
+  },
+  {
+    "id": "901",
+    "link": "/worldcup/matches/round=293/match=901/index.html",
+    "date": "1982-06-16T21:00",
+    "group": "Group 5",
+    "home": "ESP",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "away": "HON",
+    "stadium": "Luis Casanova, Valencia"
+  },
+  {
+    "id": "764",
+    "link": "/worldcup/matches/round=293/match=764/index.html",
+    "date": "1982-06-17T17:15",
+    "group": "Group 2",
+    "home": "CHI",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "away": "AUT",
+    "stadium": "Carlos Tartiere, Oviedo"
+  },
+  {
+    "id": "1012",
+    "link": "/worldcup/matches/round=293/match=1012/index.html",
+    "date": "1982-06-17T17:45",
+    "group": "Group 4",
+    "home": "TCH",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "away": "KUW",
+    "stadium": "Jose Zorrilla, Valladolid"
+  },
+  {
+    "id": "1044",
+    "link": "/worldcup/matches/round=293/match=1044/index.html",
+    "date": "1982-06-17T21:00",
+    "group": "Group 5",
+    "home": "YUG",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "away": "NIR",
+    "stadium": "La Romareda, Zaragoza"
+  },
+  {
+    "id": "994",
+    "link": "/worldcup/matches/round=293/match=994/index.html",
+    "date": "1982-06-18T17:15",
+    "group": "Group 1",
+    "home": "ITA",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "away": "PER",
+    "stadium": "Estadio Municipal de Balaídos, Vigo"
+  },
+  {
+    "id": "752",
+    "link": "/worldcup/matches/round=293/match=752/index.html",
+    "date": "1982-06-18T21:00",
+    "group": "Group 3",
+    "home": "ARG",
+    "score": {
+      "home": 4,
+      "away": 1
+    },
+    "away": "HUN",
+    "stadium": "Jose Rico Perez, Alicante"
+  },
+  {
+    "id": "790",
+    "link": "/worldcup/matches/round=293/match=790/index.html",
+    "date": "1982-06-18T21:00",
+    "group": "Group 6",
+    "home": "BRA",
+    "score": {
+      "home": 4,
+      "away": 1
+    },
+    "away": "SCO",
+    "stadium": "Benito Villamarin, Seville"
+  },
+  {
+    "id": "834",
+    "link": "/worldcup/matches/round=293/match=834/index.html",
+    "date": "1982-06-19T19:15",
+    "group": "Group 1",
+    "home": "POL",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "away": "CMR",
+    "stadium": "Riazor, La CoruñA"
+  },
+  {
+    "id": "774",
+    "link": "/worldcup/matches/round=293/match=774/index.html",
+    "date": "1982-06-19T21:00",
+    "group": "Group 3",
+    "home": "BEL",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "SLV",
+    "stadium": "Nuevo Estadio, Elche"
+  },
+  {
+    "id": "1054",
+    "link": "/worldcup/matches/round=293/match=1054/index.html",
+    "date": "1982-06-19T21:00",
+    "group": "Group 6",
+    "home": "URS",
+    "score": {
+      "home": 3,
+      "away": 0
+    },
+    "away": "NZL",
+    "stadium": "La Rosaleda, Malaga"
+  },
+  {
+    "id": "813",
+    "link": "/worldcup/matches/round=293/match=813/index.html",
+    "date": "1982-06-20T17:15",
+    "group": "Group 2",
+    "home": "FRG",
+    "score": {
+      "home": 4,
+      "away": 1
+    },
+    "away": "CHI",
+    "stadium": "El Molinon, Gijon"
+  },
+  {
+    "id": "889",
+    "link": "/worldcup/matches/round=293/match=889/index.html",
+    "date": "1982-06-20T17:15",
+    "group": "Group 4",
+    "home": "ENG",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "away": "TCH",
+    "stadium": "San Mames, Bilbao"
+  },
+  {
+    "id": "903",
+    "link": "/worldcup/matches/round=293/match=903/index.html",
+    "date": "1982-06-20T21:00",
+    "group": "Group 5",
+    "home": "ESP",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "YUG",
+    "stadium": "Luis Casanova, Valencia"
+  },
+  {
+    "id": "739",
+    "link": "/worldcup/matches/round=293/match=739/index.html",
+    "date": "1982-06-21T17:15",
+    "group": "Group 2",
+    "home": "ALG",
+    "score": {
+      "home": 0,
+      "away": 2
+    },
+    "away": "AUT",
+    "stadium": "Carlos Tartiere, Oviedo"
+  },
+  {
+    "id": "919",
+    "link": "/worldcup/matches/round=293/match=919/index.html",
+    "date": "1982-06-21T17:15",
+    "group": "Group 4",
+    "home": "FRA",
+    "score": {
+      "home": 4,
+      "away": 1
+    },
+    "away": "KUW",
+    "stadium": "Jose Zorrilla, Valladolid"
+  },
+  {
+    "id": "959",
+    "link": "/worldcup/matches/round=293/match=959/index.html",
+    "date": "1982-06-21T21:00",
+    "group": "Group 5",
+    "home": "HON",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "away": "NIR",
+    "stadium": "La Romareda, Zaragoza"
+  },
+  {
+    "id": "1055",
+    "link": "/worldcup/matches/round=293/match=1055/index.html",
+    "date": "1982-06-22T17:15",
+    "group": "Group 1",
+    "home": "POL",
+    "score": {
+      "home": 5,
+      "away": 1
+    },
+    "away": "PER",
+    "stadium": "Riazor, La CoruñA"
+  },
+  {
+    "id": "779",
+    "link": "/worldcup/matches/round=293/match=779/index.html",
+    "date": "1982-06-22T21:00",
+    "group": "Group 3",
+    "home": "BEL",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "away": "HUN",
+    "stadium": "Nuevo Estadio, Elche"
+  },
+  {
+    "id": "1071",
+    "link": "/worldcup/matches/round=293/match=1071/index.html",
+    "date": "1982-06-22T21:00",
+    "group": "Group 6",
+    "home": "URS",
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "away": "SCO",
+    "stadium": "La Rosaleda, Malaga"
+  },
+  {
+    "id": "828",
+    "link": "/worldcup/matches/round=293/match=828/index.html",
+    "date": "1982-06-23T17:15",
+    "group": "Group 1",
+    "home": "ITA",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "away": "CMR",
+    "stadium": "Estadio Municipal de Balaídos, Vigo"
+  },
+  {
+    "id": "751",
+    "link": "/worldcup/matches/round=293/match=751/index.html",
+    "date": "1982-06-23T21:00",
+    "group": "Group 3",
+    "home": "ARG",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "away": "SLV",
+    "stadium": "Jose Rico Perez, Alicante"
+  },
+  {
+    "id": "789",
+    "link": "/worldcup/matches/round=293/match=789/index.html",
+    "date": "1982-06-23T21:00",
+    "group": "Group 6",
+    "home": "BRA",
+    "score": {
+      "home": 4,
+      "away": 0
+    },
+    "away": "NZL",
+    "stadium": "Benito Villamarin, Seville"
+  },
+  {
+    "id": "740",
+    "link": "/worldcup/matches/round=293/match=740/index.html",
+    "date": "1982-06-24T17:15",
+    "group": "Group 2",
+    "home": "ALG",
+    "score": {
+      "home": 3,
+      "away": 2
+    },
+    "away": "CHI",
+    "stadium": "Carlos Tartiere, Oviedo"
+  },
+  {
+    "id": "922",
+    "link": "/worldcup/matches/round=293/match=922/index.html",
+    "date": "1982-06-24T17:15",
+    "group": "Group 4",
+    "home": "FRA",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "away": "TCH",
+    "stadium": "Jose Zorrilla, Valladolid"
+  },
+  {
+    "id": "962",
+    "link": "/worldcup/matches/round=293/match=962/index.html",
+    "date": "1982-06-24T21:00",
+    "group": "Group 5",
+    "home": "HON",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "away": "YUG",
+    "stadium": "La Romareda, Zaragoza"
+  },
+  {
+    "id": "770",
+    "link": "/worldcup/matches/round=293/match=770/index.html",
+    "date": "1982-06-25T17:15",
+    "group": "Group 2",
+    "home": "FRG",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "AUT",
+    "stadium": "El Molinon, Gijon"
+  },
+  {
+    "id": "882",
+    "link": "/worldcup/matches/round=293/match=882/index.html",
+    "date": "1982-06-25T17:15",
+    "group": "Group 4",
+    "home": "ENG",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "KUW",
+    "stadium": "San Mames, Bilbao"
+  },
+  {
+    "id": "902",
+    "link": "/worldcup/matches/round=293/match=902/index.html",
+    "date": "1982-06-25T21:00",
+    "group": "Group 5",
+    "home": "NIR",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "ESP",
+    "stadium": "Luis Casanova, Valencia"
+  },
+  {
+    "id": "767",
+    "link": "/worldcup/matches/round=294/match=767/index.html",
+    "date": "1982-06-28T17:15",
+    "group": "Group 4",
+    "home": "AUT",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "away": "FRA",
+    "stadium": "Vicente Calderon, Madrid"
+  },
+  {
+    "id": "782",
+    "link": "/worldcup/matches/round=294/match=782/index.html",
+    "date": "1982-06-28T21:00",
+    "group": "Group 1",
+    "home": "POL",
+    "score": {
+      "home": 3,
+      "away": 0
+    },
+    "away": "BEL",
+    "stadium": "Camp Nou, Barcelona"
+  },
+  {
+    "id": "753",
+    "link": "/worldcup/matches/round=294/match=753/index.html",
+    "date": "1982-06-29T17:15",
+    "group": "Group 3",
+    "home": "ITA",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "ARG",
+    "stadium": "Sarria, Barcelona"
+  },
+  {
+    "id": "879",
+    "link": "/worldcup/matches/round=294/match=879/index.html",
+    "date": "1982-06-29T21:00",
+    "group": "Group 2",
+    "home": "FRG",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "away": "ENG",
+    "stadium": "Santiago Bernabeu, Madrid"
+  },
+  {
+    "id": "771",
+    "link": "/worldcup/matches/round=294/match=771/index.html",
+    "date": "1982-07-01T17:15",
+    "group": "Group 4",
+    "home": "AUT",
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "away": "NIR",
+    "stadium": "Vicente Calderon, Madrid"
+  },
+  {
+    "id": "783",
+    "link": "/worldcup/matches/round=294/match=783/index.html",
+    "date": "1982-07-01T21:00",
+    "group": "Group 1",
+    "home": "BEL",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "away": "URS",
+    "stadium": "Camp Nou, Barcelona"
+  },
+  {
+    "id": "750",
+    "link": "/worldcup/matches/round=294/match=750/index.html",
+    "date": "1982-07-02T17:15",
+    "group": "Group 3",
+    "home": "ARG",
+    "score": {
+      "home": 1,
+      "away": 3
+    },
+    "away": "BRA",
+    "stadium": "Sarria, Barcelona"
+  },
+  {
+    "id": "900",
+    "link": "/worldcup/matches/round=294/match=900/index.html",
+    "date": "1982-07-02T21:00",
+    "group": "Group 2",
+    "home": "FRG",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "ESP",
+    "stadium": "Santiago Bernabeu, Madrid"
+  },
+  {
+    "id": "920",
+    "link": "/worldcup/matches/round=294/match=920/index.html",
+    "date": "1982-07-04T17:15",
+    "group": "Group 4",
+    "home": "FRA",
+    "score": {
+      "home": 4,
+      "away": 1
+    },
+    "away": "NIR",
+    "stadium": "Vicente Calderon, Madrid"
+  },
+  {
+    "id": "1058",
+    "link": "/worldcup/matches/round=294/match=1058/index.html",
+    "date": "1982-07-04T21:00",
+    "group": "Group 1",
+    "home": "POL",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "away": "URS",
+    "stadium": "Camp Nou, Barcelona"
+  },
+  {
+    "id": "788",
+    "link": "/worldcup/matches/round=294/match=788/index.html",
+    "date": "1982-07-05T17:15",
+    "group": "Group 3",
+    "home": "ITA",
+    "score": {
+      "home": 3,
+      "away": 2
+    },
+    "away": "BRA",
+    "stadium": "Sarria, Barcelona"
+  },
+  {
+    "id": "877",
+    "link": "/worldcup/matches/round=294/match=877/index.html",
+    "date": "1982-07-05T21:00",
+    "group": "Group 2",
+    "home": "ESP",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "away": "ENG",
+    "stadium": "Santiago Bernabeu, Madrid"
+  },
+  {
+    "id": "996",
+    "link": "/worldcup/matches/round=295/match=996/index.html",
+    "date": "1982-07-08T17:15",
+    "group": "Semi-finals",
+    "home": "POL",
+    "score": {
+      "home": 0,
+      "away": 2
+    },
+    "away": "ITA",
+    "stadium": "Camp Nou, Barcelona"
+  },
+  {
+    "id": "914",
+    "link": "/worldcup/matches/round=295/match=914/index.html",
+    "date": "1982-07-08T21:00",
+    "group": "Semi-finals",
+    "home": "FRG",
+    "score": {
+      "home": 3,
+      "away": 3,
+      "penalties": {
+        "home": 5,
+        "away": 4
+      }
+    },
+    "away": "FRA",
+    "stadium": "Ramon Sanchez Pizjuan, Seville"
+  },
+  {
+    "id": "921",
+    "link": "/worldcup/matches/round=676/match=921/index.html",
+    "date": "1982-07-10T20:00",
+    "group": "Match for third place",
+    "home": "POL",
+    "score": {
+      "home": 3,
+      "away": 2
+    },
+    "away": "FRA",
+    "stadium": "Jose Rico Perez, Alicante"
+  },
+  {
+    "id": "923",
+    "link": "/worldcup/matches/round=3475/match=923/index.html",
+    "date": "1982-07-11T20:00",
+    "group": "Final",
+    "home": "ITA",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "away": "FRG",
+    "stadium": "Santiago Bernabeu, Madrid"
+  }
+]

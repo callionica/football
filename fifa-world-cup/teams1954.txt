@@ -1,0 +1,178 @@
+{
+  "URU": {
+    "fifa_code": "URU",
+    "fifa_name": "Uruguay",
+    "fifa_id": "43930",
+    "fifa_link": "/worldcup/archive/switzerland1954/teams/team=43930/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Uruguay_national_football_team",
+    "wiki_name": "Uruguay",
+    "bbc_name": "Uruguay",
+    "daily_mail_name": "Uruguay"
+  },
+  "TCH": {
+    "fifa_code": "TCH",
+    "fifa_name": "Czechoslovakia",
+    "fifa_id": "44025",
+    "fifa_link": "/worldcup/archive/switzerland1954/teams/team=44025/players.html",
+    "current": false,
+    "wiki_link": "https://en.wikipedia.org/wiki/Czechoslovakia_national_football_team",
+    "wiki_name": "Czechoslovakia",
+    "bbc_name": "Czechoslovakia",
+    "daily_mail_name": "Czechoslovakia"
+  },
+  "AUT": {
+    "fifa_code": "AUT",
+    "fifa_name": "Austria",
+    "fifa_id": "43934",
+    "fifa_link": "/worldcup/archive/switzerland1954/teams/team=43934/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Austria_national_football_team",
+    "wiki_name": "Austria",
+    "bbc_name": "Austria",
+    "daily_mail_name": "Austria"
+  },
+  "SCO": {
+    "fifa_code": "SCO",
+    "fifa_name": "Scotland",
+    "fifa_id": "43967",
+    "fifa_link": "/worldcup/archive/switzerland1954/teams/team=43967/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Scotland_national_football_team",
+    "wiki_name": "Scotland",
+    "bbc_name": "Scotland",
+    "daily_mail_name": "Scotland"
+  },
+  "BRA": {
+    "fifa_code": "BRA",
+    "fifa_name": "Brazil",
+    "fifa_id": "43924",
+    "fifa_link": "/worldcup/archive/switzerland1954/teams/team=43924/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Brazil_national_football_team",
+    "wiki_name": "Brazil",
+    "bbc_name": "Brazil",
+    "daily_mail_name": "Brazil"
+  },
+  "MEX": {
+    "fifa_code": "MEX",
+    "fifa_name": "Mexico",
+    "fifa_id": "43911",
+    "fifa_link": "/worldcup/archive/switzerland1954/teams/team=43911/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Mexico_national_football_team",
+    "wiki_name": "Mexico",
+    "bbc_name": "Mexico",
+    "daily_mail_name": "Mexico"
+  },
+  "YUG": {
+    "fifa_code": "YUG",
+    "fifa_name": "Yugoslavia",
+    "fifa_id": "43975",
+    "fifa_link": "/worldcup/archive/switzerland1954/teams/team=43975/players.html",
+    "current": false,
+    "wiki_link": "https://en.wikipedia.org/wiki/Yugoslavia_national_football_team",
+    "wiki_name": "Yugoslavia",
+    "bbc_name": "Yugoslavia",
+    "daily_mail_name": "Yugoslavia"
+  },
+  "FRA": {
+    "fifa_code": "FRA",
+    "fifa_name": "France",
+    "fifa_id": "43946",
+    "fifa_link": "/worldcup/archive/switzerland1954/teams/team=43946/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/France_national_football_team",
+    "wiki_name": "France",
+    "bbc_name": "France",
+    "daily_mail_name": "France"
+  },
+  "FRG": {
+    "fifa_code": "FRG",
+    "fifa_name": "Germany FR",
+    "fifa_id": "44023",
+    "fifa_link": "/worldcup/archive/switzerland1954/teams/team=44023/players.html",
+    "current": false,
+    "wiki_link": "https://en.wikipedia.org/wiki/Germany_national_football_team",
+    "wiki_name": "West Germany",
+    "bbc_name": "West Germany",
+    "daily_mail_name": "West Germany"
+  },
+  "TUR": {
+    "fifa_code": "TUR",
+    "fifa_name": "Turkey",
+    "fifa_id": "43972",
+    "fifa_link": "/worldcup/archive/switzerland1954/teams/team=43972/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Turkey_national_football_team",
+    "wiki_name": "Turkey",
+    "bbc_name": "Turkey",
+    "daily_mail_name": "Turkey"
+  },
+  "HUN": {
+    "fifa_code": "HUN",
+    "fifa_name": "Hungary",
+    "fifa_id": "43950",
+    "fifa_link": "/worldcup/archive/switzerland1954/teams/team=43950/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Hungary_national_football_team",
+    "wiki_name": "Hungary",
+    "bbc_name": "Hungary",
+    "daily_mail_name": "Hungary"
+  },
+  "KOR": {
+    "fifa_code": "KOR",
+    "fifa_name": "Korea Republic",
+    "fifa_id": "43822",
+    "fifa_link": "/worldcup/archive/switzerland1954/teams/team=43822/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/South_Korea_national_football_team",
+    "wiki_name": "South Korea",
+    "bbc_name": "South Korea",
+    "daily_mail_name": "South Korea"
+  },
+  "ENG": {
+    "fifa_code": "ENG",
+    "fifa_name": "England",
+    "fifa_id": "43942",
+    "fifa_link": "/worldcup/archive/switzerland1954/teams/team=43942/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/England_national_football_team",
+    "wiki_name": "England",
+    "bbc_name": "England",
+    "daily_mail_name": "England"
+  },
+  "BEL": {
+    "fifa_code": "BEL",
+    "fifa_name": "Belgium",
+    "fifa_id": "43935",
+    "fifa_link": "/worldcup/archive/switzerland1954/teams/team=43935/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Belgium_national_football_team",
+    "wiki_name": "Belgium",
+    "bbc_name": "Belgium",
+    "daily_mail_name": "Belgium"
+  },
+  "SUI": {
+    "fifa_code": "SUI",
+    "fifa_name": "Switzerland",
+    "fifa_id": "43971",
+    "fifa_link": "/worldcup/archive/switzerland1954/teams/team=43971/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Switzerland_national_football_team",
+    "wiki_name": "Switzerland",
+    "bbc_name": "Switzerland",
+    "daily_mail_name": "Switzerland"
+  },
+  "ITA": {
+    "fifa_code": "ITA",
+    "fifa_name": "Italy",
+    "fifa_id": "43954",
+    "fifa_link": "/worldcup/archive/switzerland1954/teams/team=43954/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Italy_national_football_team",
+    "wiki_name": "Italy",
+    "bbc_name": "Italy",
+    "daily_mail_name": "Italy"
+  }
+}

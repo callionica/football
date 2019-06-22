@@ -1,0 +1,68 @@
+{
+  "Soccer City Stadium, Johannesburg": {
+    "name": "Soccer City Stadium",
+    "locality": "Johannesburg",
+    "country": "South Africa",
+    "key": "Soccer City Stadium, Johannesburg"
+  },
+  "Cape Town Stadium, Cape Town": {
+    "name": "Cape Town Stadium",
+    "locality": "Cape Town",
+    "country": "South Africa",
+    "key": "Cape Town Stadium, Cape Town"
+  },
+  "Port Elizabeth Stadium, Nelson Mandela Bay/Port Elizabeth": {
+    "name": "Port Elizabeth Stadium",
+    "locality": "Nelson Mandela Bay/Port Elizabeth",
+    "country": "South Africa",
+    "key": "Port Elizabeth Stadium, Nelson Mandela Bay/Port Elizabeth"
+  },
+  "Ellis Park Stadium, Johannesburg": {
+    "name": "Ellis Park Stadium",
+    "locality": "Johannesburg",
+    "country": "South Africa",
+    "key": "Ellis Park Stadium, Johannesburg"
+  },
+  "Royal Bafokeng Sports Palace, Phokeng": {
+    "name": "Royal Bafokeng Sports Palace",
+    "locality": "Phokeng",
+    "country": "South Africa",
+    "key": "Royal Bafokeng Sports Palace, Phokeng"
+  },
+  "Peter Mokaba Stadium, Polokwane": {
+    "name": "Peter Mokaba Stadium",
+    "locality": "Polokwane",
+    "country": "South Africa",
+    "key": "Peter Mokaba Stadium, Polokwane"
+  },
+  "Loftus Versfeld Stadium, Tshwane/Pretoria": {
+    "name": "Loftus Versfeld Stadium",
+    "locality": "Tshwane/Pretoria",
+    "country": "South Africa",
+    "key": "Loftus Versfeld Stadium, Tshwane/Pretoria"
+  },
+  "Durban Stadium, Durban": {
+    "name": "Durban Stadium",
+    "locality": "Durban",
+    "country": "South Africa",
+    "key": "Durban Stadium, Durban"
+  },
+  "Free State Stadium, Mangaung/Bloemfontein": {
+    "name": "Free State Stadium",
+    "locality": "Mangaung/Bloemfontein",
+    "country": "South Africa",
+    "key": "Free State Stadium, Mangaung/Bloemfontein"
+  },
+  "Mbombela Stadium, Nelspruit": {
+    "name": "Mbombela Stadium",
+    "locality": "Nelspruit",
+    "country": "South Africa",
+    "key": "Mbombela Stadium, Nelspruit"
+  },
+  "Royal Bafokeng Stadium, Rustenburg": {
+    "name": "Royal Bafokeng Stadium",
+    "locality": "Rustenburg",
+    "country": "South Africa",
+    "key": "Royal Bafokeng Stadium, Rustenburg"
+  }
+}

@@ -1,0 +1,288 @@
+[
+  {
+    "id": "1187",
+    "link": "/worldcup/matches/round=208/match=1187/index.html",
+    "date": "1950-06-24T15:00",
+    "group": "Group 1",
+    "home": "BRA",
+    "score": {
+      "home": 4,
+      "away": 0
+    },
+    "away": "MEX",
+    "stadium": "Maracanã - Estádio Jornalista Mário Filho, Rio De Janeiro"
+  },
+  {
+    "id": "1192",
+    "link": "/worldcup/matches/round=208/match=1192/index.html",
+    "date": "1950-06-25T15:00",
+    "group": "Group 2",
+    "home": "ENG",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "away": "CHI",
+    "stadium": "Maracanã - Estádio Jornalista Mário Filho, Rio De Janeiro"
+  },
+  {
+    "id": "1208",
+    "link": "/worldcup/matches/round=208/match=1208/index.html",
+    "date": "1950-06-25T15:00",
+    "group": "Group 2",
+    "home": "ESP",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "away": "USA",
+    "stadium": "Durival de Brito, Curitiba"
+  },
+  {
+    "id": "1219",
+    "link": "/worldcup/matches/round=208/match=1219/index.html",
+    "date": "1950-06-25T15:00",
+    "group": "Group 3",
+    "home": "SWE",
+    "score": {
+      "home": 3,
+      "away": 2
+    },
+    "away": "ITA",
+    "stadium": "Pacaembu, Sao Paulo"
+  },
+  {
+    "id": "1230",
+    "link": "/worldcup/matches/round=208/match=1230/index.html",
+    "date": "1950-06-25T15:00",
+    "group": "Group 1",
+    "home": "YUG",
+    "score": {
+      "home": 3,
+      "away": 0
+    },
+    "away": "SUI",
+    "stadium": "Independencia, Belo Horizonte"
+  },
+  {
+    "id": "1188",
+    "link": "/worldcup/matches/round=208/match=1188/index.html",
+    "date": "1950-06-28T15:00",
+    "group": "Group 1",
+    "home": "BRA",
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "away": "SUI",
+    "stadium": "Pacaembu, Sao Paulo"
+  },
+  {
+    "id": "1225",
+    "link": "/worldcup/matches/round=208/match=1225/index.html",
+    "date": "1950-06-28T15:00",
+    "group": "Group 1",
+    "home": "YUG",
+    "score": {
+      "home": 4,
+      "away": 1
+    },
+    "away": "MEX",
+    "stadium": "Eucaliptos, Porto Alegre"
+  },
+  {
+    "id": "1193",
+    "link": "/worldcup/matches/round=208/match=1193/index.html",
+    "date": "1950-06-29T15:00",
+    "group": "Group 2",
+    "home": "ESP",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "away": "CHI",
+    "stadium": "Maracanã - Estádio Jornalista Mário Filho, Rio De Janeiro"
+  },
+  {
+    "id": "1228",
+    "link": "/worldcup/matches/round=208/match=1228/index.html",
+    "date": "1950-06-29T15:30",
+    "group": "Group 3",
+    "home": "SWE",
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "away": "PAR",
+    "stadium": "Durival de Brito, Curitiba"
+  },
+  {
+    "id": "1202",
+    "link": "/worldcup/matches/round=208/match=1202/index.html",
+    "date": "1950-06-29T15:00",
+    "group": "Group 2",
+    "home": "USA",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "ENG",
+    "stadium": "Independencia, Belo Horizonte"
+  },
+  {
+    "id": "1191",
+    "link": "/worldcup/matches/round=208/match=1191/index.html",
+    "date": "1950-07-01T15:00",
+    "group": "Group 1",
+    "home": "BRA",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "away": "YUG",
+    "stadium": "Maracanã - Estádio Jornalista Mário Filho, Rio De Janeiro"
+  },
+  {
+    "id": "1199",
+    "link": "/worldcup/matches/round=208/match=1199/index.html",
+    "date": "1950-07-02T15:00",
+    "group": "Group 2",
+    "home": "ESP",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "ENG",
+    "stadium": "Maracanã - Estádio Jornalista Mário Filho, Rio De Janeiro"
+  },
+  {
+    "id": "1218",
+    "link": "/worldcup/matches/round=208/match=1218/index.html",
+    "date": "1950-07-02T15:00",
+    "group": "Group 3",
+    "home": "ITA",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "away": "PAR",
+    "stadium": "Pacaembu, Sao Paulo"
+  },
+  {
+    "id": "1185",
+    "link": "/worldcup/matches/round=208/match=1185/index.html",
+    "date": "1950-07-02T15:00",
+    "group": "Group 4",
+    "home": "URU",
+    "score": {
+      "home": 8,
+      "away": 0
+    },
+    "away": "BOL",
+    "stadium": "Independencia, Belo Horizonte"
+  },
+  {
+    "id": "1222",
+    "link": "/worldcup/matches/round=208/match=1222/index.html",
+    "date": "1950-07-02T15:40",
+    "group": "Group 1",
+    "home": "SUI",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "MEX",
+    "stadium": "Eucaliptos, Porto Alegre"
+  },
+  {
+    "id": "1194",
+    "link": "/worldcup/matches/round=208/match=1194/index.html",
+    "date": "1950-07-02T15:00",
+    "group": "Group 2",
+    "home": "CHI",
+    "score": {
+      "home": 5,
+      "away": 2
+    },
+    "away": "USA",
+    "stadium": "Ilha do Retiro, Recife"
+  },
+  {
+    "id": "1207",
+    "link": "/worldcup/matches/round=209/match=1207/index.html",
+    "date": "1950-07-09T15:00",
+    "group": "Group 6",
+    "home": "URU",
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "away": "ESP",
+    "stadium": "Pacaembu, Sao Paulo"
+  },
+  {
+    "id": "1189",
+    "link": "/worldcup/matches/round=209/match=1189/index.html",
+    "date": "1950-07-09T15:00",
+    "group": "Group 6",
+    "home": "BRA",
+    "score": {
+      "home": 7,
+      "away": 1
+    },
+    "away": "SWE",
+    "stadium": "Maracanã - Estádio Jornalista Mário Filho, Rio De Janeiro"
+  },
+  {
+    "id": "1186",
+    "link": "/worldcup/matches/round=209/match=1186/index.html",
+    "date": "1950-07-13T15:00",
+    "group": "Group 6",
+    "home": "BRA",
+    "score": {
+      "home": 6,
+      "away": 1
+    },
+    "away": "ESP",
+    "stadium": "Maracanã - Estádio Jornalista Mário Filho, Rio De Janeiro"
+  },
+  {
+    "id": "1231",
+    "link": "/worldcup/matches/round=209/match=1231/index.html",
+    "date": "1950-07-13T15:00",
+    "group": "Group 6",
+    "home": "URU",
+    "score": {
+      "home": 3,
+      "away": 2
+    },
+    "away": "SWE",
+    "stadium": "Pacaembu, Sao Paulo"
+  },
+  {
+    "id": "1206",
+    "link": "/worldcup/matches/round=209/match=1206/index.html",
+    "date": "1950-07-16T15:00",
+    "group": "Group 6",
+    "home": "SWE",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "away": "ESP",
+    "stadium": "Pacaembu, Sao Paulo"
+  },
+  {
+    "id": "1190",
+    "link": "/worldcup/matches/round=209/match=1190/index.html",
+    "date": "1950-07-16T15:00",
+    "group": "Group 6",
+    "home": "URU",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "BRA",
+    "stadium": "Maracanã - Estádio Jornalista Mário Filho, Rio De Janeiro"
+  }
+]

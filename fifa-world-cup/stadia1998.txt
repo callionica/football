@@ -1,0 +1,62 @@
+{
+  "Stade de France, Saint-Denis": {
+    "name": "Stade de France",
+    "locality": "Saint-Denis",
+    "country": "France",
+    "key": "Stade de France, Saint-Denis"
+  },
+  "La Mosson, Montpellier": {
+    "name": "La Mosson",
+    "locality": "Montpellier",
+    "country": "France",
+    "key": "La Mosson, Montpellier"
+  },
+  "Stade du Parc Lescure, Bordeaux": {
+    "name": "Stade du Parc Lescure",
+    "locality": "Bordeaux",
+    "country": "France",
+    "key": "Stade du Parc Lescure, Bordeaux"
+  },
+  "Stade Municipal, Toulouse": {
+    "name": "Stade Municipal",
+    "locality": "Toulouse",
+    "country": "France",
+    "key": "Stade Municipal, Toulouse"
+  },
+  "Stade Felix Bollaert, Lens": {
+    "name": "Stade Felix Bollaert",
+    "locality": "Lens",
+    "country": "France",
+    "key": "Stade Felix Bollaert, Lens"
+  },
+  "Stade Vélodrome, Marseilles": {
+    "name": "Stade Vélodrome",
+    "locality": "Marseilles",
+    "country": "France",
+    "key": "Stade Vélodrome, Marseilles"
+  },
+  "La Beaujoire, Nantes": {
+    "name": "La Beaujoire",
+    "locality": "Nantes",
+    "country": "France",
+    "key": "La Beaujoire, Nantes"
+  },
+  "Stade de Gerland, Lyon": {
+    "name": "Stade de Gerland",
+    "locality": "Lyon",
+    "country": "France",
+    "key": "Stade de Gerland, Lyon"
+  },
+  "Stade Geoffroy Guichard, Saint-Etienne": {
+    "name": "Stade Geoffroy Guichard",
+    "locality": "Saint-Etienne",
+    "country": "France",
+    "key": "Stade Geoffroy Guichard, Saint-Etienne"
+  },
+  "Parc des Princes, Paris": {
+    "name": "Parc des Princes",
+    "locality": "Paris",
+    "country": "France",
+    "key": "Parc des Princes, Paris"
+  }
+}

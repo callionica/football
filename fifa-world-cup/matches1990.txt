@@ -1,0 +1,698 @@
+[
+  {
+    "id": "26",
+    "link": "/worldcup/matches/round=322/match=26/index.html",
+    "date": "1990-06-08T18:00",
+    "group": "Group B",
+    "home": "ARG",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "away": "CMR",
+    "stadium": "Giuseppe Meazza, Milan"
+  },
+  {
+    "id": "342",
+    "link": "/worldcup/matches/round=322/match=342/index.html",
+    "date": "1990-06-09T17:00",
+    "group": "Group B",
+    "home": "URS",
+    "score": {
+      "home": 0,
+      "away": 2
+    },
+    "away": "ROU",
+    "stadium": "Stadio San Nicola, Bari"
+  },
+  {
+    "id": "119",
+    "link": "/worldcup/matches/round=322/match=119/index.html",
+    "date": "1990-06-09T17:00",
+    "group": "Group D",
+    "home": "UAE",
+    "score": {
+      "home": 0,
+      "away": 2
+    },
+    "away": "COL",
+    "stadium": "Renato Dall Ara, Bologna"
+  },
+  {
+    "id": "42",
+    "link": "/worldcup/matches/round=322/match=42/index.html",
+    "date": "1990-06-09T21:00",
+    "group": "Group A",
+    "home": "ITA",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "AUT",
+    "stadium": "Stadio Olimpico, Rome"
+  },
+  {
+    "id": "355",
+    "link": "/worldcup/matches/round=322/match=355/index.html",
+    "date": "1990-06-10T17:00",
+    "group": "Group A",
+    "home": "USA",
+    "score": {
+      "home": 1,
+      "away": 5
+    },
+    "away": "TCH",
+    "stadium": "Comunale, Florence"
+  },
+  {
+    "id": "75",
+    "link": "/worldcup/matches/round=322/match=75/index.html",
+    "date": "1990-06-10T21:00",
+    "group": "Group C",
+    "home": "BRA",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "SWE",
+    "stadium": "Stadio delle Alpi, Turin"
+  },
+  {
+    "id": "201",
+    "link": "/worldcup/matches/round=322/match=201/index.html",
+    "date": "1990-06-10T21:00",
+    "group": "Group D",
+    "home": "FRG",
+    "score": {
+      "home": 4,
+      "away": 1
+    },
+    "away": "YUG",
+    "stadium": "Giuseppe Meazza, Milan"
+  },
+  {
+    "id": "127",
+    "link": "/worldcup/matches/round=322/match=127/index.html",
+    "date": "1990-06-11T17:00",
+    "group": "Group C",
+    "home": "CRC",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "SCO",
+    "stadium": "Luigi Ferraris, Genoa"
+  },
+  {
+    "id": "161",
+    "link": "/worldcup/matches/round=322/match=161/index.html",
+    "date": "1990-06-11T21:00",
+    "group": "Group F",
+    "home": "ENG",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "away": "IRL",
+    "stadium": "Sant Elia, Cagliari"
+  },
+  {
+    "id": "57",
+    "link": "/worldcup/matches/round=322/match=57/index.html",
+    "date": "1990-06-12T17:00",
+    "group": "Group E",
+    "home": "BEL",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "away": "KOR",
+    "stadium": "Marc Antonio Bentegodi, Verona"
+  },
+  {
+    "id": "151",
+    "link": "/worldcup/matches/round=322/match=151/index.html",
+    "date": "1990-06-12T21:00",
+    "group": "Group F",
+    "home": "NED",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "away": "EGY",
+    "stadium": "Della Favorita, Palermo"
+  },
+  {
+    "id": "180",
+    "link": "/worldcup/matches/round=322/match=180/index.html",
+    "date": "1990-06-13T17:00",
+    "group": "Group E",
+    "home": "URU",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "away": "ESP",
+    "stadium": "Friuli, Udine"
+  },
+  {
+    "id": "30",
+    "link": "/worldcup/matches/round=322/match=30/index.html",
+    "date": "1990-06-13T21:00",
+    "group": "Group B",
+    "home": "ARG",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "away": "URS",
+    "stadium": "San Paolo, Naples"
+  },
+  {
+    "id": "108",
+    "link": "/worldcup/matches/round=322/match=108/index.html",
+    "date": "1990-06-14T17:00",
+    "group": "Group B",
+    "home": "CMR",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "ROU",
+    "stadium": "Stadio San Nicola, Bari"
+  },
+  {
+    "id": "120",
+    "link": "/worldcup/matches/round=322/match=120/index.html",
+    "date": "1990-06-14T17:00",
+    "group": "Group D",
+    "home": "YUG",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "COL",
+    "stadium": "Renato Dall Ara, Bologna"
+  },
+  {
+    "id": "265",
+    "link": "/worldcup/matches/round=322/match=265/index.html",
+    "date": "1990-06-14T21:00",
+    "group": "Group A",
+    "home": "ITA",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "USA",
+    "stadium": "Stadio Olimpico, Rome"
+  },
+  {
+    "id": "43",
+    "link": "/worldcup/matches/round=322/match=43/index.html",
+    "date": "1990-06-15T17:00",
+    "group": "Group A",
+    "home": "AUT",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "away": "TCH",
+    "stadium": "Comunale, Florence"
+  },
+  {
+    "id": "198",
+    "link": "/worldcup/matches/round=322/match=198/index.html",
+    "date": "1990-06-15T21:00",
+    "group": "Group D",
+    "home": "FRG",
+    "score": {
+      "home": 5,
+      "away": 1
+    },
+    "away": "UAE",
+    "stadium": "Giuseppe Meazza, Milan"
+  },
+  {
+    "id": "73",
+    "link": "/worldcup/matches/round=322/match=73/index.html",
+    "date": "1990-06-16T17:00",
+    "group": "Group C",
+    "home": "BRA",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "CRC",
+    "stadium": "Stadio delle Alpi, Turin"
+  },
+  {
+    "id": "348",
+    "link": "/worldcup/matches/round=322/match=348/index.html",
+    "date": "1990-06-16T21:00",
+    "group": "Group C",
+    "home": "SWE",
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "away": "SCO",
+    "stadium": "Luigi Ferraris, Genoa"
+  },
+  {
+    "id": "160",
+    "link": "/worldcup/matches/round=322/match=160/index.html",
+    "date": "1990-06-16T21:00",
+    "group": "Group F",
+    "home": "ENG",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "away": "NED",
+    "stadium": "Sant Elia, Cagliari"
+  },
+  {
+    "id": "152",
+    "link": "/worldcup/matches/round=322/match=152/index.html",
+    "date": "1990-06-17T17:00",
+    "group": "Group F",
+    "home": "IRL",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "away": "EGY",
+    "stadium": "Della Favorita, Palermo"
+  },
+  {
+    "id": "175",
+    "link": "/worldcup/matches/round=322/match=175/index.html",
+    "date": "1990-06-17T21:00",
+    "group": "Group E",
+    "home": "KOR",
+    "score": {
+      "home": 1,
+      "away": 3
+    },
+    "away": "ESP",
+    "stadium": "Friuli, Udine"
+  },
+  {
+    "id": "66",
+    "link": "/worldcup/matches/round=322/match=66/index.html",
+    "date": "1990-06-17T21:00",
+    "group": "Group E",
+    "home": "BEL",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "away": "URU",
+    "stadium": "Marc Antonio Bentegodi, Verona"
+  },
+  {
+    "id": "29",
+    "link": "/worldcup/matches/round=322/match=29/index.html",
+    "date": "1990-06-18T21:00",
+    "group": "Group B",
+    "home": "ARG",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "away": "ROU",
+    "stadium": "San Paolo, Naples"
+  },
+  {
+    "id": "111",
+    "link": "/worldcup/matches/round=322/match=111/index.html",
+    "date": "1990-06-18T21:00",
+    "group": "Group B",
+    "home": "CMR",
+    "score": {
+      "home": 0,
+      "away": 4
+    },
+    "away": "URS",
+    "stadium": "Stadio San Nicola, Bari"
+  },
+  {
+    "id": "114",
+    "link": "/worldcup/matches/round=322/match=114/index.html",
+    "date": "1990-06-19T17:00",
+    "group": "Group D",
+    "home": "FRG",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "away": "COL",
+    "stadium": "Giuseppe Meazza, Milan"
+  },
+  {
+    "id": "364",
+    "link": "/worldcup/matches/round=322/match=364/index.html",
+    "date": "1990-06-19T17:00",
+    "group": "Group D",
+    "home": "YUG",
+    "score": {
+      "home": 4,
+      "away": 1
+    },
+    "away": "UAE",
+    "stadium": "Renato Dall Ara, Bologna"
+  },
+  {
+    "id": "263",
+    "link": "/worldcup/matches/round=322/match=263/index.html",
+    "date": "1990-06-19T21:00",
+    "group": "Group A",
+    "home": "ITA",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "away": "TCH",
+    "stadium": "Stadio Olimpico, Rome"
+  },
+  {
+    "id": "48",
+    "link": "/worldcup/matches/round=322/match=48/index.html",
+    "date": "1990-06-19T21:00",
+    "group": "Group A",
+    "home": "AUT",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "USA",
+    "stadium": "Comunale, Florence"
+  },
+  {
+    "id": "74",
+    "link": "/worldcup/matches/round=322/match=74/index.html",
+    "date": "1990-06-20T21:00",
+    "group": "Group C",
+    "home": "BRA",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "SCO",
+    "stadium": "Stadio delle Alpi, Turin"
+  },
+  {
+    "id": "128",
+    "link": "/worldcup/matches/round=322/match=128/index.html",
+    "date": "1990-06-20T21:00",
+    "group": "Group C",
+    "home": "SWE",
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "away": "CRC",
+    "stadium": "Luigi Ferraris, Genoa"
+  },
+  {
+    "id": "290",
+    "link": "/worldcup/matches/round=322/match=290/index.html",
+    "date": "1990-06-21T17:00",
+    "group": "Group E",
+    "home": "KOR",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "away": "URU",
+    "stadium": "Friuli, Udine"
+  },
+  {
+    "id": "56",
+    "link": "/worldcup/matches/round=322/match=56/index.html",
+    "date": "1990-06-21T17:00",
+    "group": "Group E",
+    "home": "BEL",
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "away": "ESP",
+    "stadium": "Marc Antonio Bentegodi, Verona"
+  },
+  {
+    "id": "228",
+    "link": "/worldcup/matches/round=322/match=228/index.html",
+    "date": "1990-06-21T21:00",
+    "group": "Group F",
+    "home": "IRL",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "away": "NED",
+    "stadium": "Della Favorita, Palermo"
+  },
+  {
+    "id": "150",
+    "link": "/worldcup/matches/round=322/match=150/index.html",
+    "date": "1990-06-21T21:00",
+    "group": "Group F",
+    "home": "ENG",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "EGY",
+    "stadium": "Sant Elia, Cagliari"
+  },
+  {
+    "id": "102",
+    "link": "/worldcup/matches/round=323/match=102/index.html",
+    "date": "1990-06-23T17:00",
+    "group": "Round of 16",
+    "home": "CMR",
+    "score": {
+      "home": 2,
+      "away": 1,
+      "note": "AET"
+    },
+    "away": "COL",
+    "stadium": "San Paolo, Naples"
+  },
+  {
+    "id": "129",
+    "link": "/worldcup/matches/round=323/match=129/index.html",
+    "date": "1990-06-23T21:00",
+    "group": "Round of 16",
+    "home": "TCH",
+    "score": {
+      "home": 4,
+      "away": 1
+    },
+    "away": "CRC",
+    "stadium": "Stadio San Nicola, Bari"
+  },
+  {
+    "id": "25",
+    "link": "/worldcup/matches/round=323/match=25/index.html",
+    "date": "1990-06-24T17:00",
+    "group": "Round of 16",
+    "home": "BRA",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "away": "ARG",
+    "stadium": "Stadio delle Alpi, Turin"
+  },
+  {
+    "id": "196",
+    "link": "/worldcup/matches/round=323/match=196/index.html",
+    "date": "1990-06-24T21:00",
+    "group": "Round of 16",
+    "home": "FRG",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "NED",
+    "stadium": "Giuseppe Meazza, Milan"
+  },
+  {
+    "id": "248",
+    "link": "/worldcup/matches/round=323/match=248/index.html",
+    "date": "1990-06-25T17:00",
+    "group": "Round of 16",
+    "home": "IRL",
+    "score": {
+      "home": 0,
+      "away": 0,
+      "penalties": {
+        "home": 5,
+        "away": 4
+      }
+    },
+    "away": "ROU",
+    "stadium": "Luigi Ferraris, Genoa"
+  },
+  {
+    "id": "264",
+    "link": "/worldcup/matches/round=323/match=264/index.html",
+    "date": "1990-06-25T21:00",
+    "group": "Round of 16",
+    "home": "ITA",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "away": "URU",
+    "stadium": "Stadio Olimpico, Rome"
+  },
+  {
+    "id": "181",
+    "link": "/worldcup/matches/round=323/match=181/index.html",
+    "date": "1990-06-26T17:00",
+    "group": "Round of 16",
+    "home": "ESP",
+    "score": {
+      "home": 1,
+      "away": 2,
+      "note": "AET"
+    },
+    "away": "YUG",
+    "stadium": "Marc Antonio Bentegodi, Verona"
+  },
+  {
+    "id": "55",
+    "link": "/worldcup/matches/round=323/match=55/index.html",
+    "date": "1990-06-26T21:00",
+    "group": "Round of 16",
+    "home": "ENG",
+    "score": {
+      "home": 1,
+      "away": 0,
+      "note": "AET"
+    },
+    "away": "BEL",
+    "stadium": "Renato Dall Ara, Bologna"
+  },
+  {
+    "id": "31",
+    "link": "/worldcup/matches/round=751/match=31/index.html",
+    "date": "1990-06-30T17:00",
+    "group": "Quarter-finals",
+    "home": "YUG",
+    "score": {
+      "home": 0,
+      "away": 0,
+      "penalties": {
+        "home": 2,
+        "away": 3
+      }
+    },
+    "away": "ARG",
+    "stadium": "Comunale, Florence"
+  },
+  {
+    "id": "243",
+    "link": "/worldcup/matches/round=751/match=243/index.html",
+    "date": "1990-06-30T21:00",
+    "group": "Quarter-finals",
+    "home": "ITA",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "IRL",
+    "stadium": "Stadio Olimpico, Rome"
+  },
+  {
+    "id": "197",
+    "link": "/worldcup/matches/round=751/match=197/index.html",
+    "date": "1990-07-01T17:00",
+    "group": "Quarter-finals",
+    "home": "FRG",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "TCH",
+    "stadium": "Giuseppe Meazza, Milan"
+  },
+  {
+    "id": "103",
+    "link": "/worldcup/matches/round=751/match=103/index.html",
+    "date": "1990-07-01T21:00",
+    "group": "Quarter-finals",
+    "home": "ENG",
+    "score": {
+      "home": 3,
+      "away": 2,
+      "note": "AET"
+    },
+    "away": "CMR",
+    "stadium": "San Paolo, Naples"
+  },
+  {
+    "id": "28",
+    "link": "/worldcup/matches/round=3464/match=28/index.html",
+    "date": "1990-07-03T20:00",
+    "group": "Semi-finals",
+    "home": "ITA",
+    "score": {
+      "home": 1,
+      "away": 1,
+      "penalties": {
+        "home": 3,
+        "away": 4
+      }
+    },
+    "away": "ARG",
+    "stadium": "San Paolo, Naples"
+  },
+  {
+    "id": "159",
+    "link": "/worldcup/matches/round=3464/match=159/index.html",
+    "date": "1990-07-04T20:00",
+    "group": "Semi-finals",
+    "home": "FRG",
+    "score": {
+      "home": 1,
+      "away": 1,
+      "penalties": {
+        "home": 4,
+        "away": 3
+      }
+    },
+    "away": "ENG",
+    "stadium": "Stadio delle Alpi, Turin"
+  },
+  {
+    "id": "162",
+    "link": "/worldcup/matches/round=3463/match=162/index.html",
+    "date": "1990-07-07T20:00",
+    "group": "Match for third place",
+    "home": "ITA",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "ENG",
+    "stadium": "Stadio San Nicola, Bari"
+  },
+  {
+    "id": "27",
+    "link": "/worldcup/matches/round=3462/match=27/index.html",
+    "date": "1990-07-08T20:00",
+    "group": "Final",
+    "home": "FRG",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "ARG",
+    "stadium": "Stadio Olimpico, Rome"
+  }
+]

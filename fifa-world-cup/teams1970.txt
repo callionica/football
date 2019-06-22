@@ -1,0 +1,178 @@
+{
+  "MEX": {
+    "fifa_code": "MEX",
+    "fifa_name": "Mexico",
+    "fifa_id": "43911",
+    "fifa_link": "/worldcup/archive/mexico1970/teams/team=43911/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Mexico_national_football_team",
+    "wiki_name": "Mexico",
+    "bbc_name": "Mexico",
+    "daily_mail_name": "Mexico"
+  },
+  "URS": {
+    "fifa_code": "URS",
+    "fifa_name": "Soviet Union",
+    "fifa_id": "44026",
+    "fifa_link": "/worldcup/archive/mexico1970/teams/team=44026/players.html",
+    "current": false,
+    "wiki_link": "https://en.wikipedia.org/wiki/Soviet_Union_national_football_team",
+    "wiki_name": "Soviet Union",
+    "bbc_name": "Soviet Union",
+    "daily_mail_name": "Soviet Union"
+  },
+  "URU": {
+    "fifa_code": "URU",
+    "fifa_name": "Uruguay",
+    "fifa_id": "43930",
+    "fifa_link": "/worldcup/archive/mexico1970/teams/team=43930/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Uruguay_national_football_team",
+    "wiki_name": "Uruguay",
+    "bbc_name": "Uruguay",
+    "daily_mail_name": "Uruguay"
+  },
+  "ISR": {
+    "fifa_code": "ISR",
+    "fifa_name": "Israel",
+    "fifa_id": "43984",
+    "fifa_link": "/worldcup/archive/mexico1970/teams/team=43984/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Israel_national_football_team",
+    "wiki_name": "Israel",
+    "bbc_name": "Israel",
+    "daily_mail_name": "Israel"
+  },
+  "PER": {
+    "fifa_code": "PER",
+    "fifa_name": "Peru",
+    "fifa_id": "43929",
+    "fifa_link": "/worldcup/archive/mexico1970/teams/team=43929/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Peru_national_football_team",
+    "wiki_name": "Peru",
+    "bbc_name": "Peru",
+    "daily_mail_name": "Peru"
+  },
+  "BUL": {
+    "fifa_code": "BUL",
+    "fifa_name": "Bulgaria",
+    "fifa_id": "43936",
+    "fifa_link": "/worldcup/archive/mexico1970/teams/team=43936/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Bulgaria_national_football_team",
+    "wiki_name": "Bulgaria",
+    "bbc_name": "Bulgaria",
+    "daily_mail_name": "Bulgaria"
+  },
+  "ENG": {
+    "fifa_code": "ENG",
+    "fifa_name": "England",
+    "fifa_id": "43942",
+    "fifa_link": "/worldcup/archive/mexico1970/teams/team=43942/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/England_national_football_team",
+    "wiki_name": "England",
+    "bbc_name": "England",
+    "daily_mail_name": "England"
+  },
+  "ROU": {
+    "fifa_code": "ROU",
+    "fifa_name": "Romania",
+    "fifa_id": "43964",
+    "fifa_link": "/worldcup/archive/mexico1970/teams/team=43964/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Romania_national_football_team",
+    "wiki_name": "Romania",
+    "bbc_name": "Romania",
+    "daily_mail_name": "Romania"
+  },
+  "ITA": {
+    "fifa_code": "ITA",
+    "fifa_name": "Italy",
+    "fifa_id": "43954",
+    "fifa_link": "/worldcup/archive/mexico1970/teams/team=43954/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Italy_national_football_team",
+    "wiki_name": "Italy",
+    "bbc_name": "Italy",
+    "daily_mail_name": "Italy"
+  },
+  "SWE": {
+    "fifa_code": "SWE",
+    "fifa_name": "Sweden",
+    "fifa_id": "43970",
+    "fifa_link": "/worldcup/archive/mexico1970/teams/team=43970/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Sweden_national_football_team",
+    "wiki_name": "Sweden",
+    "bbc_name": "Sweden",
+    "daily_mail_name": "Sweden"
+  },
+  "FRG": {
+    "fifa_code": "FRG",
+    "fifa_name": "Germany FR",
+    "fifa_id": "44023",
+    "fifa_link": "/worldcup/archive/mexico1970/teams/team=44023/players.html",
+    "current": false,
+    "wiki_link": "https://en.wikipedia.org/wiki/Germany_national_football_team",
+    "wiki_name": "West Germany",
+    "bbc_name": "West Germany",
+    "daily_mail_name": "West Germany"
+  },
+  "MAR": {
+    "fifa_code": "MAR",
+    "fifa_name": "Morocco",
+    "fifa_id": "43872",
+    "fifa_link": "/worldcup/archive/mexico1970/teams/team=43872/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Morocco_national_football_team",
+    "wiki_name": "Morocco",
+    "bbc_name": "Morocco",
+    "daily_mail_name": "Morocco"
+  },
+  "BRA": {
+    "fifa_code": "BRA",
+    "fifa_name": "Brazil",
+    "fifa_id": "43924",
+    "fifa_link": "/worldcup/archive/mexico1970/teams/team=43924/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Brazil_national_football_team",
+    "wiki_name": "Brazil",
+    "bbc_name": "Brazil",
+    "daily_mail_name": "Brazil"
+  },
+  "TCH": {
+    "fifa_code": "TCH",
+    "fifa_name": "Czechoslovakia",
+    "fifa_id": "44025",
+    "fifa_link": "/worldcup/archive/mexico1970/teams/team=44025/players.html",
+    "current": false,
+    "wiki_link": "https://en.wikipedia.org/wiki/Czechoslovakia_national_football_team",
+    "wiki_name": "Czechoslovakia",
+    "bbc_name": "Czechoslovakia",
+    "daily_mail_name": "Czechoslovakia"
+  },
+  "BEL": {
+    "fifa_code": "BEL",
+    "fifa_name": "Belgium",
+    "fifa_id": "43935",
+    "fifa_link": "/worldcup/archive/mexico1970/teams/team=43935/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Belgium_national_football_team",
+    "wiki_name": "Belgium",
+    "bbc_name": "Belgium",
+    "daily_mail_name": "Belgium"
+  },
+  "SLV": {
+    "fifa_code": "SLV",
+    "fifa_name": "El Salvador",
+    "fifa_id": "43904",
+    "fifa_link": "/worldcup/archive/mexico1970/teams/team=43904/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/El_Salvador_national_football_team",
+    "wiki_name": "El Salvador",
+    "bbc_name": "El Salvador",
+    "daily_mail_name": "El Salvador"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "Wembley Stadium, London": {
+    "name": "Wembley Stadium",
+    "locality": "London",
+    "country": "England",
+    "key": "Wembley Stadium, London"
+  },
+  "Hillsborough, Sheffield": {
+    "name": "Hillsborough",
+    "locality": "Sheffield",
+    "country": "England",
+    "key": "Hillsborough, Sheffield"
+  },
+  "Goodison Park, Liverpool": {
+    "name": "Goodison Park",
+    "locality": "Liverpool",
+    "country": "England",
+    "key": "Goodison Park, Liverpool"
+  },
+  "Ayresome Park, Middlesbrough": {
+    "name": "Ayresome Park",
+    "locality": "Middlesbrough",
+    "country": "England",
+    "key": "Ayresome Park, Middlesbrough"
+  },
+  "Old Trafford Stadium, Manchester": {
+    "name": "Old Trafford Stadium",
+    "locality": "Manchester",
+    "country": "England",
+    "key": "Old Trafford Stadium, Manchester"
+  },
+  "Villa Park, Birmingham": {
+    "name": "Villa Park",
+    "locality": "Birmingham",
+    "country": "England",
+    "key": "Villa Park, Birmingham"
+  },
+  "Roker Park Ground, Sunderland": {
+    "name": "Roker Park Ground",
+    "locality": "Sunderland",
+    "country": "England",
+    "key": "Roker Park Ground, Sunderland"
+  },
+  "White City, London": {
+    "name": "White City",
+    "locality": "London",
+    "country": "England",
+    "key": "White City, London"
+  }
+}

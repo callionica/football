@@ -1,0 +1,145 @@
+{
+  "FRA": {
+    "fifa_code": "FRA",
+    "fifa_name": "France",
+    "fifa_id": "43946",
+    "fifa_link": "/worldcup/archive/uruguay1930/teams/team=43946/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/France_national_football_team",
+    "wiki_name": "France",
+    "bbc_name": "France",
+    "daily_mail_name": "France"
+  },
+  "MEX": {
+    "fifa_code": "MEX",
+    "fifa_name": "Mexico",
+    "fifa_id": "43911",
+    "fifa_link": "/worldcup/archive/uruguay1930/teams/team=43911/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Mexico_national_football_team",
+    "wiki_name": "Mexico",
+    "bbc_name": "Mexico",
+    "daily_mail_name": "Mexico"
+  },
+  "USA": {
+    "fifa_code": "USA",
+    "fifa_name": "USA",
+    "fifa_id": "43921",
+    "fifa_link": "/worldcup/archive/uruguay1930/teams/team=43921/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/United_States_men%27s_national_soccer_team",
+    "wiki_name": "United States",
+    "bbc_name": "USA",
+    "daily_mail_name": "USA"
+  },
+  "BEL": {
+    "fifa_code": "BEL",
+    "fifa_name": "Belgium",
+    "fifa_id": "43935",
+    "fifa_link": "/worldcup/archive/uruguay1930/teams/team=43935/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Belgium_national_football_team",
+    "wiki_name": "Belgium",
+    "bbc_name": "Belgium",
+    "daily_mail_name": "Belgium"
+  },
+  "YUG": {
+    "fifa_code": "YUG",
+    "fifa_name": "Yugoslavia",
+    "fifa_id": "43975",
+    "fifa_link": "/worldcup/archive/uruguay1930/teams/team=43975/players.html",
+    "current": false,
+    "wiki_link": "https://en.wikipedia.org/wiki/Yugoslavia_national_football_team",
+    "wiki_name": "Yugoslavia",
+    "bbc_name": "Yugoslavia",
+    "daily_mail_name": "Yugoslavia"
+  },
+  "BRA": {
+    "fifa_code": "BRA",
+    "fifa_name": "Brazil",
+    "fifa_id": "43924",
+    "fifa_link": "/worldcup/archive/uruguay1930/teams/team=43924/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Brazil_national_football_team",
+    "wiki_name": "Brazil",
+    "bbc_name": "Brazil",
+    "daily_mail_name": "Brazil"
+  },
+  "ROU": {
+    "fifa_code": "ROU",
+    "fifa_name": "Romania",
+    "fifa_id": "43964",
+    "fifa_link": "/worldcup/archive/uruguay1930/teams/team=43964/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Romania_national_football_team",
+    "wiki_name": "Romania",
+    "bbc_name": "Romania",
+    "daily_mail_name": "Romania"
+  },
+  "PER": {
+    "fifa_code": "PER",
+    "fifa_name": "Peru",
+    "fifa_id": "43929",
+    "fifa_link": "/worldcup/archive/uruguay1930/teams/team=43929/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Peru_national_football_team",
+    "wiki_name": "Peru",
+    "bbc_name": "Peru",
+    "daily_mail_name": "Peru"
+  },
+  "ARG": {
+    "fifa_code": "ARG",
+    "fifa_name": "Argentina",
+    "fifa_id": "43922",
+    "fifa_link": "/worldcup/archive/uruguay1930/teams/team=43922/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Argentina_national_football_team",
+    "wiki_name": "Argentina",
+    "bbc_name": "Argentina",
+    "daily_mail_name": "Argentina"
+  },
+  "CHI": {
+    "fifa_code": "CHI",
+    "fifa_name": "Chile",
+    "fifa_id": "43925",
+    "fifa_link": "/worldcup/archive/uruguay1930/teams/team=43925/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Chile_national_football_team",
+    "wiki_name": "Chile",
+    "bbc_name": "Chile",
+    "daily_mail_name": "Chile"
+  },
+  "BOL": {
+    "fifa_code": "BOL",
+    "fifa_name": "Bolivia",
+    "fifa_id": "43923",
+    "fifa_link": "/worldcup/archive/uruguay1930/teams/team=43923/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Bolivia_national_football_team",
+    "wiki_name": "Bolivia",
+    "bbc_name": "Bolivia",
+    "daily_mail_name": "Bolivia"
+  },
+  "PAR": {
+    "fifa_code": "PAR",
+    "fifa_name": "Paraguay",
+    "fifa_id": "43928",
+    "fifa_link": "/worldcup/archive/uruguay1930/teams/team=43928/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Paraguay_national_football_team",
+    "wiki_name": "Paraguay",
+    "bbc_name": "Paraguay",
+    "daily_mail_name": "Paraguay"
+  },
+  "URU": {
+    "fifa_code": "URU",
+    "fifa_name": "Uruguay",
+    "fifa_id": "43930",
+    "fifa_link": "/worldcup/archive/uruguay1930/teams/team=43930/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Uruguay_national_football_team",
+    "wiki_name": "Uruguay",
+    "bbc_name": "Uruguay",
+    "daily_mail_name": "Uruguay"
+  }
+}

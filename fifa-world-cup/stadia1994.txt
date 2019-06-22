@@ -1,0 +1,56 @@
+{
+  "Cotton Bowl, Dallas": {
+    "name": "Cotton Bowl",
+    "locality": "Dallas",
+    "country": "USA",
+    "key": "Cotton Bowl, Dallas"
+  },
+  "Soldier Field, Chicago": {
+    "name": "Soldier Field",
+    "locality": "Chicago",
+    "country": "USA",
+    "key": "Soldier Field, Chicago"
+  },
+  "Pontiac Silverdome, Detroit": {
+    "name": "Pontiac Silverdome",
+    "locality": "Detroit",
+    "country": "USA",
+    "key": "Pontiac Silverdome, Detroit"
+  },
+  "Giants Stadium, New York/New Jersey": {
+    "name": "Giants Stadium",
+    "locality": "New York/New Jersey",
+    "country": "USA",
+    "key": "Giants Stadium, New York/New Jersey"
+  },
+  "Rose Bowl, Los Angeles": {
+    "name": "Rose Bowl",
+    "locality": "Los Angeles",
+    "country": "USA",
+    "key": "Rose Bowl, Los Angeles"
+  },
+  "Citrus Bowl, Orlando": {
+    "name": "Citrus Bowl",
+    "locality": "Orlando",
+    "country": "USA",
+    "key": "Citrus Bowl, Orlando"
+  },
+  "RFK Stadium, Washington Dc": {
+    "name": "RFK Stadium",
+    "locality": "Washington Dc",
+    "country": "USA",
+    "key": "RFK Stadium, Washington Dc"
+  },
+  "Stanford Stadium, San Francisco": {
+    "name": "Stanford Stadium",
+    "locality": "San Francisco",
+    "country": "USA",
+    "key": "Stanford Stadium, San Francisco"
+  },
+  "Foxboro Stadium, Boston": {
+    "name": "Foxboro Stadium",
+    "locality": "Boston",
+    "country": "USA",
+    "key": "Foxboro Stadium, Boston"
+  }
+}

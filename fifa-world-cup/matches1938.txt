@@ -1,0 +1,239 @@
+[
+  {
+    "id": "1165",
+    "link": "/worldcup/matches/round=206/match=1165/index.html",
+    "date": "1938-06-04T17:00",
+    "group": "First round",
+    "home": "SUI",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "away": "GER",
+    "stadium": "Parc des Princes, Paris"
+  },
+  {
+    "id": "1173",
+    "link": "/worldcup/matches/round=206/match=1173/index.html",
+    "date": "1938-06-05T17:00",
+    "group": "First round",
+    "home": "HUN",
+    "score": {
+      "home": 6,
+      "away": 0
+    },
+    "away": "INH",
+    "stadium": "Velodrome Municipale, Reims"
+  },
+  {
+    "id": "1146",
+    "link": "/worldcup/matches/round=206/match=1146/index.html",
+    "date": "1938-06-05T17:00",
+    "group": "First round",
+    "home": "FRA",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "away": "BEL",
+    "stadium": "Stade Olympique, Colombes"
+  },
+  {
+    "id": "1156",
+    "link": "/worldcup/matches/round=206/match=1156/index.html",
+    "date": "1938-06-05T17:00",
+    "group": "First round",
+    "home": "CUB",
+    "score": {
+      "home": 3,
+      "away": 3
+    },
+    "away": "ROU",
+    "stadium": "Stade Municipal, Toulouse"
+  },
+  {
+    "id": "1179",
+    "link": "/worldcup/matches/round=206/match=1179/index.html",
+    "date": "1938-06-05T17:00",
+    "group": "First round",
+    "home": "ITA",
+    "score": {
+      "home": 2,
+      "away": 1,
+      "note": "AET"
+    },
+    "away": "NOR",
+    "stadium": "Stade Vélodrome, Marseilles"
+  },
+  {
+    "id": "1150",
+    "link": "/worldcup/matches/round=206/match=1150/index.html",
+    "date": "1938-06-05T17:30",
+    "group": "First round",
+    "home": "BRA",
+    "score": {
+      "home": 6,
+      "away": 5,
+      "note": "AET"
+    },
+    "away": "POL",
+    "stadium": "Stade de la Meinau, Strasbourg"
+  },
+  {
+    "id": "1172",
+    "link": "/worldcup/matches/round=206/match=1172/index.html",
+    "date": "1938-06-05T18:30",
+    "group": "First round",
+    "home": "TCH",
+    "score": {
+      "home": 3,
+      "away": 0,
+      "note": "AET"
+    },
+    "away": "NED",
+    "stadium": "Cavee Verte, Le Havre"
+  },
+  {
+    "id": "1157",
+    "link": "/worldcup/matches/round=206/match=1157/index.html",
+    "date": "1938-06-09T18:00",
+    "group": "First round",
+    "home": "CUB",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "ROU",
+    "stadium": "Stade Municipal, Toulouse"
+  },
+  {
+    "id": "1166",
+    "link": "/worldcup/matches/round=206/match=1166/index.html",
+    "date": "1938-06-09T18:00",
+    "group": "First round",
+    "home": "SUI",
+    "score": {
+      "home": 4,
+      "away": 2
+    },
+    "away": "GER",
+    "stadium": "Parc des Princes, Paris"
+  },
+  {
+    "id": "1152",
+    "link": "/worldcup/matches/round=429/match=1152/index.html",
+    "date": "1938-06-12T17:00",
+    "group": "Quarter-finals",
+    "home": "BRA",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "away": "TCH",
+    "stadium": "Stade du Parc Lescure, Bordeaux"
+  },
+  {
+    "id": "1175",
+    "link": "/worldcup/matches/round=429/match=1175/index.html",
+    "date": "1938-06-12T17:00",
+    "group": "Quarter-finals",
+    "home": "HUN",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "away": "SUI",
+    "stadium": "Victor Boucquey, Lille"
+  },
+  {
+    "id": "1158",
+    "link": "/worldcup/matches/round=429/match=1158/index.html",
+    "date": "1938-06-12T17:00",
+    "group": "Quarter-finals",
+    "home": "SWE",
+    "score": {
+      "home": 8,
+      "away": 0
+    },
+    "away": "CUB",
+    "stadium": "Fort Carree, Antibes"
+  },
+  {
+    "id": "1164",
+    "link": "/worldcup/matches/round=429/match=1164/index.html",
+    "date": "1938-06-12T17:00",
+    "group": "Quarter-finals",
+    "home": "ITA",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "away": "FRA",
+    "stadium": "Stade Olympique, Colombes"
+  },
+  {
+    "id": "1153",
+    "link": "/worldcup/matches/round=429/match=1153/index.html",
+    "date": "1938-06-14T18:00",
+    "group": "Quarter-finals",
+    "home": "BRA",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "TCH",
+    "stadium": "Stade du Parc Lescure, Bordeaux"
+  },
+  {
+    "id": "1176",
+    "link": "/worldcup/matches/round=3489/match=1176/index.html",
+    "date": "1938-06-16T18:00",
+    "group": "Semi-finals",
+    "home": "HUN",
+    "score": {
+      "home": 5,
+      "away": 1
+    },
+    "away": "SWE",
+    "stadium": "Parc des Princes, Paris"
+  },
+  {
+    "id": "1149",
+    "link": "/worldcup/matches/round=3489/match=1149/index.html",
+    "date": "1938-06-16T18:00",
+    "group": "Semi-finals",
+    "home": "ITA",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "BRA",
+    "stadium": "Stade Vélodrome, Marseilles"
+  },
+  {
+    "id": "1151",
+    "link": "/worldcup/matches/round=3488/match=1151/index.html",
+    "date": "1938-06-19T17:00",
+    "group": "Match for third place",
+    "home": "BRA",
+    "score": {
+      "home": 4,
+      "away": 2
+    },
+    "away": "SWE",
+    "stadium": "Stade du Parc Lescure, Bordeaux"
+  },
+  {
+    "id": "1174",
+    "link": "/worldcup/matches/round=3487/match=1174/index.html",
+    "date": "1938-06-19T17:00",
+    "group": "Final",
+    "home": "ITA",
+    "score": {
+      "home": 4,
+      "away": 2
+    },
+    "away": "HUN",
+    "stadium": "Stade Olympique, Colombes"
+  }
+]

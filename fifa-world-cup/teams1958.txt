@@ -1,0 +1,178 @@
+{
+  "SWE": {
+    "fifa_code": "SWE",
+    "fifa_name": "Sweden",
+    "fifa_id": "43970",
+    "fifa_link": "/worldcup/archive/sweden1958/teams/team=43970/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Sweden_national_football_team",
+    "wiki_name": "Sweden",
+    "bbc_name": "Sweden",
+    "daily_mail_name": "Sweden"
+  },
+  "MEX": {
+    "fifa_code": "MEX",
+    "fifa_name": "Mexico",
+    "fifa_id": "43911",
+    "fifa_link": "/worldcup/archive/sweden1958/teams/team=43911/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Mexico_national_football_team",
+    "wiki_name": "Mexico",
+    "bbc_name": "Mexico",
+    "daily_mail_name": "Mexico"
+  },
+  "URS": {
+    "fifa_code": "URS",
+    "fifa_name": "Soviet Union",
+    "fifa_id": "44026",
+    "fifa_link": "/worldcup/archive/sweden1958/teams/team=44026/players.html",
+    "current": false,
+    "wiki_link": "https://en.wikipedia.org/wiki/Soviet_Union_national_football_team",
+    "wiki_name": "Soviet Union",
+    "bbc_name": "Soviet Union",
+    "daily_mail_name": "Soviet Union"
+  },
+  "ENG": {
+    "fifa_code": "ENG",
+    "fifa_name": "England",
+    "fifa_id": "43942",
+    "fifa_link": "/worldcup/archive/sweden1958/teams/team=43942/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/England_national_football_team",
+    "wiki_name": "England",
+    "bbc_name": "England",
+    "daily_mail_name": "England"
+  },
+  "ARG": {
+    "fifa_code": "ARG",
+    "fifa_name": "Argentina",
+    "fifa_id": "43922",
+    "fifa_link": "/worldcup/archive/sweden1958/teams/team=43922/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Argentina_national_football_team",
+    "wiki_name": "Argentina",
+    "bbc_name": "Argentina",
+    "daily_mail_name": "Argentina"
+  },
+  "FRG": {
+    "fifa_code": "FRG",
+    "fifa_name": "Germany FR",
+    "fifa_id": "44023",
+    "fifa_link": "/worldcup/archive/sweden1958/teams/team=44023/players.html",
+    "current": false,
+    "wiki_link": "https://en.wikipedia.org/wiki/Germany_national_football_team",
+    "wiki_name": "West Germany",
+    "bbc_name": "West Germany",
+    "daily_mail_name": "West Germany"
+  },
+  "HUN": {
+    "fifa_code": "HUN",
+    "fifa_name": "Hungary",
+    "fifa_id": "43950",
+    "fifa_link": "/worldcup/archive/sweden1958/teams/team=43950/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Hungary_national_football_team",
+    "wiki_name": "Hungary",
+    "bbc_name": "Hungary",
+    "daily_mail_name": "Hungary"
+  },
+  "WAL": {
+    "fifa_code": "WAL",
+    "fifa_name": "Wales",
+    "fifa_id": "43974",
+    "fifa_link": "/worldcup/archive/sweden1958/teams/team=43974/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Wales_national_football_team",
+    "wiki_name": "Wales",
+    "bbc_name": "Wales",
+    "daily_mail_name": "Wales"
+  },
+  "FRA": {
+    "fifa_code": "FRA",
+    "fifa_name": "France",
+    "fifa_id": "43946",
+    "fifa_link": "/worldcup/archive/sweden1958/teams/team=43946/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/France_national_football_team",
+    "wiki_name": "France",
+    "bbc_name": "France",
+    "daily_mail_name": "France"
+  },
+  "PAR": {
+    "fifa_code": "PAR",
+    "fifa_name": "Paraguay",
+    "fifa_id": "43928",
+    "fifa_link": "/worldcup/archive/sweden1958/teams/team=43928/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Paraguay_national_football_team",
+    "wiki_name": "Paraguay",
+    "bbc_name": "Paraguay",
+    "daily_mail_name": "Paraguay"
+  },
+  "YUG": {
+    "fifa_code": "YUG",
+    "fifa_name": "Yugoslavia",
+    "fifa_id": "43975",
+    "fifa_link": "/worldcup/archive/sweden1958/teams/team=43975/players.html",
+    "current": false,
+    "wiki_link": "https://en.wikipedia.org/wiki/Yugoslavia_national_football_team",
+    "wiki_name": "Yugoslavia",
+    "bbc_name": "Yugoslavia",
+    "daily_mail_name": "Yugoslavia"
+  },
+  "SCO": {
+    "fifa_code": "SCO",
+    "fifa_name": "Scotland",
+    "fifa_id": "43967",
+    "fifa_link": "/worldcup/archive/sweden1958/teams/team=43967/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Scotland_national_football_team",
+    "wiki_name": "Scotland",
+    "bbc_name": "Scotland",
+    "daily_mail_name": "Scotland"
+  },
+  "BRA": {
+    "fifa_code": "BRA",
+    "fifa_name": "Brazil",
+    "fifa_id": "43924",
+    "fifa_link": "/worldcup/archive/sweden1958/teams/team=43924/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Brazil_national_football_team",
+    "wiki_name": "Brazil",
+    "bbc_name": "Brazil",
+    "daily_mail_name": "Brazil"
+  },
+  "AUT": {
+    "fifa_code": "AUT",
+    "fifa_name": "Austria",
+    "fifa_id": "43934",
+    "fifa_link": "/worldcup/archive/sweden1958/teams/team=43934/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Austria_national_football_team",
+    "wiki_name": "Austria",
+    "bbc_name": "Austria",
+    "daily_mail_name": "Austria"
+  },
+  "NIR": {
+    "fifa_code": "NIR",
+    "fifa_name": "Northern Ireland",
+    "fifa_id": "43952",
+    "fifa_link": "/worldcup/archive/sweden1958/teams/team=43952/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Northern_Ireland_national_football_team",
+    "wiki_name": "Northern Ireland",
+    "bbc_name": "Northern Ireland",
+    "daily_mail_name": "Northern Ireland"
+  },
+  "TCH": {
+    "fifa_code": "TCH",
+    "fifa_name": "Czechoslovakia",
+    "fifa_id": "44025",
+    "fifa_link": "/worldcup/archive/sweden1958/teams/team=44025/players.html",
+    "current": false,
+    "wiki_link": "https://en.wikipedia.org/wiki/Czechoslovakia_national_football_team",
+    "wiki_name": "Czechoslovakia",
+    "bbc_name": "Czechoslovakia",
+    "daily_mail_name": "Czechoslovakia"
+  }
+}

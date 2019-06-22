@@ -1,0 +1,145 @@
+{
+  "BRA": {
+    "fifa_code": "BRA",
+    "fifa_name": "Brazil",
+    "fifa_id": "43924",
+    "fifa_link": "/worldcup/archive/brazil1950/teams/team=43924/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Brazil_national_football_team",
+    "wiki_name": "Brazil",
+    "bbc_name": "Brazil",
+    "daily_mail_name": "Brazil"
+  },
+  "MEX": {
+    "fifa_code": "MEX",
+    "fifa_name": "Mexico",
+    "fifa_id": "43911",
+    "fifa_link": "/worldcup/archive/brazil1950/teams/team=43911/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Mexico_national_football_team",
+    "wiki_name": "Mexico",
+    "bbc_name": "Mexico",
+    "daily_mail_name": "Mexico"
+  },
+  "ENG": {
+    "fifa_code": "ENG",
+    "fifa_name": "England",
+    "fifa_id": "43942",
+    "fifa_link": "/worldcup/archive/brazil1950/teams/team=43942/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/England_national_football_team",
+    "wiki_name": "England",
+    "bbc_name": "England",
+    "daily_mail_name": "England"
+  },
+  "CHI": {
+    "fifa_code": "CHI",
+    "fifa_name": "Chile",
+    "fifa_id": "43925",
+    "fifa_link": "/worldcup/archive/brazil1950/teams/team=43925/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Chile_national_football_team",
+    "wiki_name": "Chile",
+    "bbc_name": "Chile",
+    "daily_mail_name": "Chile"
+  },
+  "ESP": {
+    "fifa_code": "ESP",
+    "fifa_name": "Spain",
+    "fifa_id": "43969",
+    "fifa_link": "/worldcup/archive/brazil1950/teams/team=43969/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Spain_national_football_team",
+    "wiki_name": "Spain",
+    "bbc_name": "Spain",
+    "daily_mail_name": "Spain"
+  },
+  "USA": {
+    "fifa_code": "USA",
+    "fifa_name": "USA",
+    "fifa_id": "43921",
+    "fifa_link": "/worldcup/archive/brazil1950/teams/team=43921/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/United_States_men%27s_national_soccer_team",
+    "wiki_name": "United States",
+    "bbc_name": "USA",
+    "daily_mail_name": "USA"
+  },
+  "SWE": {
+    "fifa_code": "SWE",
+    "fifa_name": "Sweden",
+    "fifa_id": "43970",
+    "fifa_link": "/worldcup/archive/brazil1950/teams/team=43970/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Sweden_national_football_team",
+    "wiki_name": "Sweden",
+    "bbc_name": "Sweden",
+    "daily_mail_name": "Sweden"
+  },
+  "ITA": {
+    "fifa_code": "ITA",
+    "fifa_name": "Italy",
+    "fifa_id": "43954",
+    "fifa_link": "/worldcup/archive/brazil1950/teams/team=43954/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Italy_national_football_team",
+    "wiki_name": "Italy",
+    "bbc_name": "Italy",
+    "daily_mail_name": "Italy"
+  },
+  "YUG": {
+    "fifa_code": "YUG",
+    "fifa_name": "Yugoslavia",
+    "fifa_id": "43975",
+    "fifa_link": "/worldcup/archive/brazil1950/teams/team=43975/players.html",
+    "current": false,
+    "wiki_link": "https://en.wikipedia.org/wiki/Yugoslavia_national_football_team",
+    "wiki_name": "Yugoslavia",
+    "bbc_name": "Yugoslavia",
+    "daily_mail_name": "Yugoslavia"
+  },
+  "SUI": {
+    "fifa_code": "SUI",
+    "fifa_name": "Switzerland",
+    "fifa_id": "43971",
+    "fifa_link": "/worldcup/archive/brazil1950/teams/team=43971/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Switzerland_national_football_team",
+    "wiki_name": "Switzerland",
+    "bbc_name": "Switzerland",
+    "daily_mail_name": "Switzerland"
+  },
+  "PAR": {
+    "fifa_code": "PAR",
+    "fifa_name": "Paraguay",
+    "fifa_id": "43928",
+    "fifa_link": "/worldcup/archive/brazil1950/teams/team=43928/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Paraguay_national_football_team",
+    "wiki_name": "Paraguay",
+    "bbc_name": "Paraguay",
+    "daily_mail_name": "Paraguay"
+  },
+  "URU": {
+    "fifa_code": "URU",
+    "fifa_name": "Uruguay",
+    "fifa_id": "43930",
+    "fifa_link": "/worldcup/archive/brazil1950/teams/team=43930/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Uruguay_national_football_team",
+    "wiki_name": "Uruguay",
+    "bbc_name": "Uruguay",
+    "daily_mail_name": "Uruguay"
+  },
+  "BOL": {
+    "fifa_code": "BOL",
+    "fifa_name": "Bolivia",
+    "fifa_id": "43923",
+    "fifa_link": "/worldcup/archive/brazil1950/teams/team=43923/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Bolivia_national_football_team",
+    "wiki_name": "Bolivia",
+    "bbc_name": "Bolivia",
+    "daily_mail_name": "Bolivia"
+  }
+}

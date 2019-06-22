@@ -1,0 +1,74 @@
+{
+  "Rasunda Stadium, Solna": {
+    "name": "Rasunda Stadium",
+    "locality": "Solna",
+    "country": "Sweden",
+    "key": "Rasunda Stadium, Solna"
+  },
+  "Nya Ullevi, Gothenburg": {
+    "name": "Nya Ullevi",
+    "locality": "Gothenburg",
+    "country": "Sweden",
+    "key": "Nya Ullevi, Gothenburg"
+  },
+  "Malmo Stadion, Malmö": {
+    "name": "Malmo Stadion",
+    "locality": "Malmö",
+    "country": "Sweden",
+    "key": "Malmo Stadion, Malmö"
+  },
+  "Jarnvallen, Sandviken": {
+    "name": "Jarnvallen",
+    "locality": "Sandviken",
+    "country": "Sweden",
+    "key": "Jarnvallen, Sandviken"
+  },
+  "Idrottsparken, Norrköping": {
+    "name": "Idrottsparken",
+    "locality": "Norrköping",
+    "country": "Sweden",
+    "key": "Idrottsparken, Norrköping"
+  },
+  "Arosvallen, Vasteras": {
+    "name": "Arosvallen",
+    "locality": "Vasteras",
+    "country": "Sweden",
+    "key": "Arosvallen, Vasteras"
+  },
+  "Rimnersvallen, Udevalla": {
+    "name": "Rimnersvallen",
+    "locality": "Udevalla",
+    "country": "Sweden",
+    "key": "Rimnersvallen, Udevalla"
+  },
+  "Orjans Vall, Halmstad": {
+    "name": "Orjans Vall",
+    "locality": "Halmstad",
+    "country": "Sweden",
+    "key": "Orjans Vall, Halmstad"
+  },
+  "Ryavallen, Boras": {
+    "name": "Ryavallen",
+    "locality": "Boras",
+    "country": "Sweden",
+    "key": "Ryavallen, Boras"
+  },
+  "Olympia Stadium, Helsingborg": {
+    "name": "Olympia Stadium",
+    "locality": "Helsingborg",
+    "country": "Sweden",
+    "key": "Olympia Stadium, Helsingborg"
+  },
+  "Tunavallen, Eskilstuna": {
+    "name": "Tunavallen",
+    "locality": "Eskilstuna",
+    "country": "Sweden",
+    "key": "Tunavallen, Eskilstuna"
+  },
+  "Eyravallen, Orebro": {
+    "name": "Eyravallen",
+    "locality": "Orebro",
+    "country": "Sweden",
+    "key": "Eyravallen, Orebro"
+  }
+}

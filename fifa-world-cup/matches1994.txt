@@ -1,0 +1,691 @@
+[
+  {
+    "id": "3050",
+    "link": "/worldcup/matches/round=337/match=3050/index.html",
+    "date": "1994-06-17T19:30",
+    "group": "Group C",
+    "home": "ESP",
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "away": "KOR",
+    "stadium": "Cotton Bowl, Dallas"
+  },
+  {
+    "id": "3049",
+    "link": "/worldcup/matches/round=337/match=3049/index.html",
+    "date": "1994-06-17T15:00",
+    "group": "Group C",
+    "home": "GER",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "BOL",
+    "stadium": "Soldier Field, Chicago"
+  },
+  {
+    "id": "3051",
+    "link": "/worldcup/matches/round=337/match=3051/index.html",
+    "date": "1994-06-18T11:30",
+    "group": "Group A",
+    "home": "USA",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "away": "SUI",
+    "stadium": "Pontiac Silverdome, Detroit"
+  },
+  {
+    "id": "3052",
+    "link": "/worldcup/matches/round=337/match=3052/index.html",
+    "date": "1994-06-18T16:00",
+    "group": "Group E",
+    "home": "ITA",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "away": "IRL",
+    "stadium": "Giants Stadium, New York/New Jersey"
+  },
+  {
+    "id": "3053",
+    "link": "/worldcup/matches/round=337/match=3053/index.html",
+    "date": "1994-06-18T19:30",
+    "group": "Group A",
+    "home": "COL",
+    "score": {
+      "home": 1,
+      "away": 3
+    },
+    "away": "ROU",
+    "stadium": "Rose Bowl, Los Angeles"
+  },
+  {
+    "id": "3054",
+    "link": "/worldcup/matches/round=337/match=3054/index.html",
+    "date": "1994-06-19T12:30",
+    "group": "Group F",
+    "home": "BEL",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "MAR",
+    "stadium": "Citrus Bowl, Orlando"
+  },
+  {
+    "id": "3055",
+    "link": "/worldcup/matches/round=337/match=3055/index.html",
+    "date": "1994-06-19T16:00",
+    "group": "Group E",
+    "home": "NOR",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "MEX",
+    "stadium": "RFK Stadium, Washington Dc"
+  },
+  {
+    "id": "3056",
+    "link": "/worldcup/matches/round=337/match=3056/index.html",
+    "date": "1994-06-19T19:30",
+    "group": "Group B",
+    "home": "CMR",
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "away": "SWE",
+    "stadium": "Rose Bowl, Los Angeles"
+  },
+  {
+    "id": "3058",
+    "link": "/worldcup/matches/round=337/match=3058/index.html",
+    "date": "1994-06-20T19:30",
+    "group": "Group F",
+    "home": "NED",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "KSA",
+    "stadium": "RFK Stadium, Washington Dc"
+  },
+  {
+    "id": "3057",
+    "link": "/worldcup/matches/round=337/match=3057/index.html",
+    "date": "1994-06-20T16:00",
+    "group": "Group B",
+    "home": "BRA",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "away": "RUS",
+    "stadium": "Stanford Stadium, San Francisco"
+  },
+  {
+    "id": "3059",
+    "link": "/worldcup/matches/round=337/match=3059/index.html",
+    "date": "1994-06-21T12:30",
+    "group": "Group D",
+    "home": "ARG",
+    "score": {
+      "home": 4,
+      "away": 0
+    },
+    "away": "GRE",
+    "stadium": "Foxboro Stadium, Boston"
+  },
+  {
+    "id": "3061",
+    "link": "/worldcup/matches/round=337/match=3061/index.html",
+    "date": "1994-06-21T19:30",
+    "group": "Group D",
+    "home": "NGA",
+    "score": {
+      "home": 3,
+      "away": 0
+    },
+    "away": "BUL",
+    "stadium": "Cotton Bowl, Dallas"
+  },
+  {
+    "id": "3060",
+    "link": "/worldcup/matches/round=337/match=3060/index.html",
+    "date": "1994-06-21T16:00",
+    "group": "Group C",
+    "home": "GER",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "away": "ESP",
+    "stadium": "Soldier Field, Chicago"
+  },
+  {
+    "id": "3062",
+    "link": "/worldcup/matches/round=337/match=3062/index.html",
+    "date": "1994-06-22T16:00",
+    "group": "Group A",
+    "home": "ROU",
+    "score": {
+      "home": 1,
+      "away": 4
+    },
+    "away": "SUI",
+    "stadium": "Pontiac Silverdome, Detroit"
+  },
+  {
+    "id": "3063",
+    "link": "/worldcup/matches/round=337/match=3063/index.html",
+    "date": "1994-06-22T19:30",
+    "group": "Group A",
+    "home": "USA",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "COL",
+    "stadium": "Rose Bowl, Los Angeles"
+  },
+  {
+    "id": "3064",
+    "link": "/worldcup/matches/round=337/match=3064/index.html",
+    "date": "1994-06-23T16:00",
+    "group": "Group E",
+    "home": "ITA",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "NOR",
+    "stadium": "Giants Stadium, New York/New Jersey"
+  },
+  {
+    "id": "3065",
+    "link": "/worldcup/matches/round=337/match=3065/index.html",
+    "date": "1994-06-23T19:30",
+    "group": "Group C",
+    "home": "KOR",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "away": "BOL",
+    "stadium": "Foxboro Stadium, Boston"
+  },
+  {
+    "id": "3066",
+    "link": "/worldcup/matches/round=337/match=3066/index.html",
+    "date": "1994-06-24T12:30",
+    "group": "Group E",
+    "home": "MEX",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "IRL",
+    "stadium": "Citrus Bowl, Orlando"
+  },
+  {
+    "id": "3068",
+    "link": "/worldcup/matches/round=337/match=3068/index.html",
+    "date": "1994-06-24T19:30",
+    "group": "Group B",
+    "home": "SWE",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "away": "RUS",
+    "stadium": "Pontiac Silverdome, Detroit"
+  },
+  {
+    "id": "3067",
+    "link": "/worldcup/matches/round=337/match=3067/index.html",
+    "date": "1994-06-24T16:00",
+    "group": "Group B",
+    "home": "BRA",
+    "score": {
+      "home": 3,
+      "away": 0
+    },
+    "away": "CMR",
+    "stadium": "Stanford Stadium, San Francisco"
+  },
+  {
+    "id": "3069",
+    "link": "/worldcup/matches/round=337/match=3069/index.html",
+    "date": "1994-06-25T12:30",
+    "group": "Group F",
+    "home": "BEL",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "NED",
+    "stadium": "Citrus Bowl, Orlando"
+  },
+  {
+    "id": "3070",
+    "link": "/worldcup/matches/round=337/match=3070/index.html",
+    "date": "1994-06-25T12:30",
+    "group": "Group F",
+    "home": "KSA",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "MAR",
+    "stadium": "Giants Stadium, New York/New Jersey"
+  },
+  {
+    "id": "3071",
+    "link": "/worldcup/matches/round=337/match=3071/index.html",
+    "date": "1994-06-25T16:00",
+    "group": "Group D",
+    "home": "ARG",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "NGA",
+    "stadium": "Foxboro Stadium, Boston"
+  },
+  {
+    "id": "3072",
+    "link": "/worldcup/matches/round=337/match=3072/index.html",
+    "date": "1994-06-26T12:30",
+    "group": "Group D",
+    "home": "BUL",
+    "score": {
+      "home": 4,
+      "away": 0
+    },
+    "away": "GRE",
+    "stadium": "Soldier Field, Chicago"
+  },
+  {
+    "id": "3073",
+    "link": "/worldcup/matches/round=337/match=3073/index.html",
+    "date": "1994-06-26T16:00",
+    "group": "Group A",
+    "home": "USA",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "away": "ROU",
+    "stadium": "Rose Bowl, Los Angeles"
+  },
+  {
+    "id": "3074",
+    "link": "/worldcup/matches/round=337/match=3074/index.html",
+    "date": "1994-06-26T16:00",
+    "group": "Group A",
+    "home": "SUI",
+    "score": {
+      "home": 0,
+      "away": 2
+    },
+    "away": "COL",
+    "stadium": "Stanford Stadium, San Francisco"
+  },
+  {
+    "id": "3076",
+    "link": "/worldcup/matches/round=337/match=3076/index.html",
+    "date": "1994-06-27T16:00",
+    "group": "Group C",
+    "home": "GER",
+    "score": {
+      "home": 3,
+      "away": 2
+    },
+    "away": "KOR",
+    "stadium": "Cotton Bowl, Dallas"
+  },
+  {
+    "id": "3075",
+    "link": "/worldcup/matches/round=337/match=3075/index.html",
+    "date": "1994-06-27T16:00",
+    "group": "Group C",
+    "home": "BOL",
+    "score": {
+      "home": 1,
+      "away": 3
+    },
+    "away": "ESP",
+    "stadium": "Soldier Field, Chicago"
+  },
+  {
+    "id": "3077",
+    "link": "/worldcup/matches/round=337/match=3077/index.html",
+    "date": "1994-06-28T12:30",
+    "group": "Group E",
+    "home": "IRL",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "away": "NOR",
+    "stadium": "Giants Stadium, New York/New Jersey"
+  },
+  {
+    "id": "3080",
+    "link": "/worldcup/matches/round=337/match=3080/index.html",
+    "date": "1994-06-28T16:00",
+    "group": "Group B",
+    "home": "BRA",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "away": "SWE",
+    "stadium": "Pontiac Silverdome, Detroit"
+  },
+  {
+    "id": "3078",
+    "link": "/worldcup/matches/round=337/match=3078/index.html",
+    "date": "1994-06-28T12:30",
+    "group": "Group E",
+    "home": "ITA",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "away": "MEX",
+    "stadium": "RFK Stadium, Washington Dc"
+  },
+  {
+    "id": "3079",
+    "link": "/worldcup/matches/round=337/match=3079/index.html",
+    "date": "1994-06-28T16:00",
+    "group": "Group B",
+    "home": "RUS",
+    "score": {
+      "home": 6,
+      "away": 1
+    },
+    "away": "CMR",
+    "stadium": "Stanford Stadium, San Francisco"
+  },
+  {
+    "id": "3081",
+    "link": "/worldcup/matches/round=337/match=3081/index.html",
+    "date": "1994-06-29T12:30",
+    "group": "Group F",
+    "home": "MAR",
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "away": "NED",
+    "stadium": "Citrus Bowl, Orlando"
+  },
+  {
+    "id": "3082",
+    "link": "/worldcup/matches/round=337/match=3082/index.html",
+    "date": "1994-06-29T12:30",
+    "group": "Group F",
+    "home": "BEL",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "away": "KSA",
+    "stadium": "RFK Stadium, Washington Dc"
+  },
+  {
+    "id": "3083",
+    "link": "/worldcup/matches/round=337/match=3083/index.html",
+    "date": "1994-06-30T19:30",
+    "group": "Group D",
+    "home": "GRE",
+    "score": {
+      "home": 0,
+      "away": 2
+    },
+    "away": "NGA",
+    "stadium": "Foxboro Stadium, Boston"
+  },
+  {
+    "id": "3084",
+    "link": "/worldcup/matches/round=337/match=3084/index.html",
+    "date": "1994-06-30T19:30",
+    "group": "Group D",
+    "home": "ARG",
+    "score": {
+      "home": 0,
+      "away": 2
+    },
+    "away": "BUL",
+    "stadium": "Cotton Bowl, Dallas"
+  },
+  {
+    "id": "3085",
+    "link": "/worldcup/matches/round=338/match=3085/index.html",
+    "date": "1994-07-02T12:00",
+    "group": "Round of 16",
+    "home": "GER",
+    "score": {
+      "home": 3,
+      "away": 2
+    },
+    "away": "BEL",
+    "stadium": "Soldier Field, Chicago"
+  },
+  {
+    "id": "3086",
+    "link": "/worldcup/matches/round=338/match=3086/index.html",
+    "date": "1994-07-02T16:30",
+    "group": "Round of 16",
+    "home": "ESP",
+    "score": {
+      "home": 3,
+      "away": 0
+    },
+    "away": "SUI",
+    "stadium": "RFK Stadium, Washington Dc"
+  },
+  {
+    "id": "3087",
+    "link": "/worldcup/matches/round=338/match=3087/index.html",
+    "date": "1994-07-03T12:00",
+    "group": "Round of 16",
+    "home": "KSA",
+    "score": {
+      "home": 1,
+      "away": 3
+    },
+    "away": "SWE",
+    "stadium": "Cotton Bowl, Dallas"
+  },
+  {
+    "id": "3088",
+    "link": "/worldcup/matches/round=338/match=3088/index.html",
+    "date": "1994-07-03T13:30",
+    "group": "Round of 16",
+    "home": "ROU",
+    "score": {
+      "home": 3,
+      "away": 2
+    },
+    "away": "ARG",
+    "stadium": "Rose Bowl, Los Angeles"
+  },
+  {
+    "id": "3089",
+    "link": "/worldcup/matches/round=338/match=3089/index.html",
+    "date": "1994-07-04T12:00",
+    "group": "Round of 16",
+    "home": "NED",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "away": "IRL",
+    "stadium": "Citrus Bowl, Orlando"
+  },
+  {
+    "id": "3090",
+    "link": "/worldcup/matches/round=338/match=3090/index.html",
+    "date": "1994-07-04T12:30",
+    "group": "Round of 16",
+    "home": "BRA",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "USA",
+    "stadium": "Stanford Stadium, San Francisco"
+  },
+  {
+    "id": "3091",
+    "link": "/worldcup/matches/round=338/match=3091/index.html",
+    "date": "1994-07-05T13:00",
+    "group": "Round of 16",
+    "home": "NGA",
+    "score": {
+      "home": 1,
+      "away": 2,
+      "note": "AET"
+    },
+    "away": "ITA",
+    "stadium": "Foxboro Stadium, Boston"
+  },
+  {
+    "id": "3092",
+    "link": "/worldcup/matches/round=338/match=3092/index.html",
+    "date": "1994-07-05T16:30",
+    "group": "Round of 16",
+    "home": "MEX",
+    "score": {
+      "home": 1,
+      "away": 1,
+      "penalties": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    "away": "BUL",
+    "stadium": "Giants Stadium, New York/New Jersey"
+  },
+  {
+    "id": "3097",
+    "link": "/worldcup/matches/round=796/match=3097/index.html",
+    "date": "1994-07-09T12:00",
+    "group": "Quarter-finals",
+    "home": "ITA",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "ESP",
+    "stadium": "Foxboro Stadium, Boston"
+  },
+  {
+    "id": "3098",
+    "link": "/worldcup/matches/round=796/match=3098/index.html",
+    "date": "1994-07-09T14:30",
+    "group": "Quarter-finals",
+    "home": "NED",
+    "score": {
+      "home": 2,
+      "away": 3
+    },
+    "away": "BRA",
+    "stadium": "Cotton Bowl, Dallas"
+  },
+  {
+    "id": "3096",
+    "link": "/worldcup/matches/round=796/match=3096/index.html",
+    "date": "1994-07-10T12:00",
+    "group": "Quarter-finals",
+    "home": "BUL",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "GER",
+    "stadium": "Giants Stadium, New York/New Jersey"
+  },
+  {
+    "id": "3095",
+    "link": "/worldcup/matches/round=796/match=3095/index.html",
+    "date": "1994-07-10T12:30",
+    "group": "Quarter-finals",
+    "home": "ROU",
+    "score": {
+      "home": 2,
+      "away": 2,
+      "penalties": {
+        "home": 4,
+        "away": 5
+      }
+    },
+    "away": "SWE",
+    "stadium": "Stanford Stadium, San Francisco"
+  },
+  {
+    "id": "3100",
+    "link": "/worldcup/matches/round=3461/match=3100/index.html",
+    "date": "1994-07-13T16:00",
+    "group": "Semi-finals",
+    "home": "BUL",
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "away": "ITA",
+    "stadium": "Giants Stadium, New York/New Jersey"
+  },
+  {
+    "id": "3099",
+    "link": "/worldcup/matches/round=3461/match=3099/index.html",
+    "date": "1994-07-13T16:30",
+    "group": "Semi-finals",
+    "home": "SWE",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "away": "BRA",
+    "stadium": "Rose Bowl, Los Angeles"
+  },
+  {
+    "id": "3103",
+    "link": "/worldcup/matches/round=3460/match=3103/index.html",
+    "date": "1994-07-16T12:30",
+    "group": "Match for third place",
+    "home": "SWE",
+    "score": {
+      "home": 4,
+      "away": 0
+    },
+    "away": "BUL",
+    "stadium": "Rose Bowl, Los Angeles"
+  },
+  {
+    "id": "3104",
+    "link": "/worldcup/matches/round=3459/match=3104/index.html",
+    "date": "1994-07-17T12:30",
+    "group": "Final",
+    "home": "BRA",
+    "score": {
+      "home": 0,
+      "away": 0,
+      "penalties": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    "away": "ITA",
+    "stadium": "Rose Bowl, Los Angeles"
+  }
+]

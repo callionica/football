@@ -1,0 +1,20 @@
+{
+  "Pocitos, Montevideo": {
+    "name": "Pocitos",
+    "locality": "Montevideo",
+    "country": "Uruguay",
+    "key": "Pocitos, Montevideo"
+  },
+  "Parque Central, Montevideo": {
+    "name": "Parque Central",
+    "locality": "Montevideo",
+    "country": "Uruguay",
+    "key": "Parque Central, Montevideo"
+  },
+  "Estadio Centenario, Montevideo": {
+    "name": "Estadio Centenario",
+    "locality": "Montevideo",
+    "country": "Uruguay",
+    "key": "Estadio Centenario, Montevideo"
+  }
+}

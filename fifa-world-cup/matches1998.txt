@@ -1,0 +1,847 @@
+[
+  {
+    "id": "4000",
+    "link": "/worldcup/matches/round=1014/match=4000/index.html",
+    "date": "1998-06-10T17:30",
+    "group": "Group A",
+    "home": "BRA",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "SCO",
+    "stadium": "Stade de France, Saint-Denis"
+  },
+  {
+    "id": "8725",
+    "link": "/worldcup/matches/round=1014/match=8725/index.html",
+    "date": "1998-06-10T21:00",
+    "group": "Group A",
+    "home": "MAR",
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "away": "NOR",
+    "stadium": "La Mosson, Montpellier"
+  },
+  {
+    "id": "8726",
+    "link": "/worldcup/matches/round=1014/match=8726/index.html",
+    "date": "1998-06-11T17:30",
+    "group": "Group B",
+    "home": "ITA",
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "away": "CHI",
+    "stadium": "Stade du Parc Lescure, Bordeaux"
+  },
+  {
+    "id": "8727",
+    "link": "/worldcup/matches/round=1014/match=8727/index.html",
+    "date": "1998-06-11T21:00",
+    "group": "Group B",
+    "home": "CMR",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "away": "AUT",
+    "stadium": "Stade Municipal, Toulouse"
+  },
+  {
+    "id": "8728",
+    "link": "/worldcup/matches/round=1014/match=8728/index.html",
+    "date": "1998-06-12T14:30",
+    "group": "Group D",
+    "home": "PAR",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "away": "BUL",
+    "stadium": "La Mosson, Montpellier"
+  },
+  {
+    "id": "8729",
+    "link": "/worldcup/matches/round=1014/match=8729/index.html",
+    "date": "1998-06-12T17:30",
+    "group": "Group C",
+    "home": "KSA",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "away": "DEN",
+    "stadium": "Stade Felix Bollaert, Lens"
+  },
+  {
+    "id": "8730",
+    "link": "/worldcup/matches/round=1014/match=8730/index.html",
+    "date": "1998-06-12T21:00",
+    "group": "Group C",
+    "home": "FRA",
+    "score": {
+      "home": 3,
+      "away": 0
+    },
+    "away": "RSA",
+    "stadium": "Stade Vélodrome, Marseilles"
+  },
+  {
+    "id": "8731",
+    "link": "/worldcup/matches/round=1014/match=8731/index.html",
+    "date": "1998-06-13T14:30",
+    "group": "Group D",
+    "home": "ESP",
+    "score": {
+      "home": 2,
+      "away": 3
+    },
+    "away": "NGA",
+    "stadium": "La Beaujoire, Nantes"
+  },
+  {
+    "id": "8732",
+    "link": "/worldcup/matches/round=1014/match=8732/index.html",
+    "date": "1998-06-13T17:30",
+    "group": "Group E",
+    "home": "KOR",
+    "score": {
+      "home": 1,
+      "away": 3
+    },
+    "away": "MEX",
+    "stadium": "Stade de Gerland, Lyon"
+  },
+  {
+    "id": "8733",
+    "link": "/worldcup/matches/round=1014/match=8733/index.html",
+    "date": "1998-06-13T21:00",
+    "group": "Group E",
+    "home": "NED",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "away": "BEL",
+    "stadium": "Stade de France, Saint-Denis"
+  },
+  {
+    "id": "8734",
+    "link": "/worldcup/matches/round=1014/match=8734/index.html",
+    "date": "1998-06-14T14:30",
+    "group": "Group H",
+    "home": "ARG",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "JPN",
+    "stadium": "Stade Municipal, Toulouse"
+  },
+  {
+    "id": "8735",
+    "link": "/worldcup/matches/round=1014/match=8735/index.html",
+    "date": "1998-06-14T17:30",
+    "group": "Group F",
+    "home": "YUG",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "IRN",
+    "stadium": "Stade Geoffroy Guichard, Saint-Etienne"
+  },
+  {
+    "id": "8736",
+    "link": "/worldcup/matches/round=1014/match=8736/index.html",
+    "date": "1998-06-14T21:00",
+    "group": "Group H",
+    "home": "JAM",
+    "score": {
+      "home": 1,
+      "away": 3
+    },
+    "away": "CRO",
+    "stadium": "Stade Felix Bollaert, Lens"
+  },
+  {
+    "id": "8740",
+    "link": "/worldcup/matches/round=1014/match=8740/index.html",
+    "date": "1998-06-15T14:30",
+    "group": "Group G",
+    "home": "ENG",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "away": "TUN",
+    "stadium": "Stade Vélodrome, Marseilles"
+  },
+  {
+    "id": "8739",
+    "link": "/worldcup/matches/round=1014/match=8739/index.html",
+    "date": "1998-06-15T17:30",
+    "group": "Group G",
+    "home": "ROU",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "COL",
+    "stadium": "Stade de Gerland, Lyon"
+  },
+  {
+    "id": "8738",
+    "link": "/worldcup/matches/round=1014/match=8738/index.html",
+    "date": "1998-06-15T21:00",
+    "group": "Group F",
+    "home": "GER",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "away": "USA",
+    "stadium": "Parc des Princes, Paris"
+  },
+  {
+    "id": "8741",
+    "link": "/worldcup/matches/round=1014/match=8741/index.html",
+    "date": "1998-06-16T17:30",
+    "group": "Group A",
+    "home": "SCO",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "away": "NOR",
+    "stadium": "Stade du Parc Lescure, Bordeaux"
+  },
+  {
+    "id": "8742",
+    "link": "/worldcup/matches/round=1014/match=8742/index.html",
+    "date": "1998-06-16T21:00",
+    "group": "Group A",
+    "home": "BRA",
+    "score": {
+      "home": 3,
+      "away": 0
+    },
+    "away": "MAR",
+    "stadium": "La Beaujoire, Nantes"
+  },
+  {
+    "id": "8743",
+    "link": "/worldcup/matches/round=1014/match=8743/index.html",
+    "date": "1998-06-17T17:30",
+    "group": "Group B",
+    "home": "CHI",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "away": "AUT",
+    "stadium": "Stade Geoffroy Guichard, Saint-Etienne"
+  },
+  {
+    "id": "8744",
+    "link": "/worldcup/matches/round=1014/match=8744/index.html",
+    "date": "1998-06-17T21:00",
+    "group": "Group B",
+    "home": "ITA",
+    "score": {
+      "home": 3,
+      "away": 0
+    },
+    "away": "CMR",
+    "stadium": "La Mosson, Montpellier"
+  },
+  {
+    "id": "8746",
+    "link": "/worldcup/matches/round=1014/match=8746/index.html",
+    "date": "1998-06-18T17:30",
+    "group": "Group C",
+    "home": "RSA",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "away": "DEN",
+    "stadium": "Stade Municipal, Toulouse"
+  },
+  {
+    "id": "8745",
+    "link": "/worldcup/matches/round=1014/match=8745/index.html",
+    "date": "1998-06-18T21:00",
+    "group": "Group C",
+    "home": "FRA",
+    "score": {
+      "home": 4,
+      "away": 0
+    },
+    "away": "KSA",
+    "stadium": "Stade de France, Saint-Denis"
+  },
+  {
+    "id": "8747",
+    "link": "/worldcup/matches/round=1014/match=8747/index.html",
+    "date": "1998-06-19T17:30",
+    "group": "Group D",
+    "home": "NGA",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "BUL",
+    "stadium": "Parc des Princes, Paris"
+  },
+  {
+    "id": "8748",
+    "link": "/worldcup/matches/round=1014/match=8748/index.html",
+    "date": "1998-06-19T21:00",
+    "group": "Group D",
+    "home": "ESP",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "away": "PAR",
+    "stadium": "Stade Geoffroy Guichard, Saint-Etienne"
+  },
+  {
+    "id": "8751",
+    "link": "/worldcup/matches/round=1014/match=8751/index.html",
+    "date": "1998-06-20T14:30",
+    "group": "Group H",
+    "home": "JPN",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "away": "CRO",
+    "stadium": "La Beaujoire, Nantes"
+  },
+  {
+    "id": "8750",
+    "link": "/worldcup/matches/round=1014/match=8750/index.html",
+    "date": "1998-06-20T17:30",
+    "group": "Group E",
+    "home": "BEL",
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "away": "MEX",
+    "stadium": "Stade du Parc Lescure, Bordeaux"
+  },
+  {
+    "id": "8749",
+    "link": "/worldcup/matches/round=1014/match=8749/index.html",
+    "date": "1998-06-20T21:00",
+    "group": "Group E",
+    "home": "NED",
+    "score": {
+      "home": 5,
+      "away": 0
+    },
+    "away": "KOR",
+    "stadium": "Stade Vélodrome, Marseilles"
+  },
+  {
+    "id": "8753",
+    "link": "/worldcup/matches/round=1014/match=8753/index.html",
+    "date": "1998-06-21T14:30",
+    "group": "Group F",
+    "home": "GER",
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "away": "YUG",
+    "stadium": "Stade Felix Bollaert, Lens"
+  },
+  {
+    "id": "8752",
+    "link": "/worldcup/matches/round=1014/match=8752/index.html",
+    "date": "1998-06-21T17:30",
+    "group": "Group H",
+    "home": "ARG",
+    "score": {
+      "home": 5,
+      "away": 0
+    },
+    "away": "JAM",
+    "stadium": "Parc des Princes, Paris"
+  },
+  {
+    "id": "8754",
+    "link": "/worldcup/matches/round=1014/match=8754/index.html",
+    "date": "1998-06-21T21:00",
+    "group": "Group F",
+    "home": "USA",
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "away": "IRN",
+    "stadium": "Stade de Gerland, Lyon"
+  },
+  {
+    "id": "8755",
+    "link": "/worldcup/matches/round=1014/match=8755/index.html",
+    "date": "1998-06-22T17:30",
+    "group": "Group G",
+    "home": "COL",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "TUN",
+    "stadium": "La Mosson, Montpellier"
+  },
+  {
+    "id": "8756",
+    "link": "/worldcup/matches/round=1014/match=8756/index.html",
+    "date": "1998-06-22T21:00",
+    "group": "Group G",
+    "home": "ROU",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "ENG",
+    "stadium": "Stade Municipal, Toulouse"
+  },
+  {
+    "id": "8757",
+    "link": "/worldcup/matches/round=1014/match=8757/index.html",
+    "date": "1998-06-23T16:00",
+    "group": "Group B",
+    "home": "ITA",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "AUT",
+    "stadium": "Stade de France, Saint-Denis"
+  },
+  {
+    "id": "8760",
+    "link": "/worldcup/matches/round=1014/match=8760/index.html",
+    "date": "1998-06-23T16:00",
+    "group": "Group B",
+    "home": "CHI",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "away": "CMR",
+    "stadium": "La Beaujoire, Nantes"
+  },
+  {
+    "id": "8758",
+    "link": "/worldcup/matches/round=1014/match=8758/index.html",
+    "date": "1998-06-23T21:00",
+    "group": "Group A",
+    "home": "SCO",
+    "score": {
+      "home": 0,
+      "away": 3
+    },
+    "away": "MAR",
+    "stadium": "Stade Geoffroy Guichard, Saint-Etienne"
+  },
+  {
+    "id": "8759",
+    "link": "/worldcup/matches/round=1014/match=8759/index.html",
+    "date": "1998-06-23T21:00",
+    "group": "Group A",
+    "home": "BRA",
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "away": "NOR",
+    "stadium": "Stade Vélodrome, Marseilles"
+  },
+  {
+    "id": "8762",
+    "link": "/worldcup/matches/round=1014/match=8762/index.html",
+    "date": "1998-06-24T16:00",
+    "group": "Group C",
+    "home": "FRA",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "DEN",
+    "stadium": "Stade de Gerland, Lyon"
+  },
+  {
+    "id": "8764",
+    "link": "/worldcup/matches/round=1014/match=8764/index.html",
+    "date": "1998-06-24T16:00",
+    "group": "Group C",
+    "home": "RSA",
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "away": "KSA",
+    "stadium": "Stade du Parc Lescure, Bordeaux"
+  },
+  {
+    "id": "8761",
+    "link": "/worldcup/matches/round=1014/match=8761/index.html",
+    "date": "1998-06-24T21:00",
+    "group": "Group D",
+    "home": "ESP",
+    "score": {
+      "home": 6,
+      "away": 1
+    },
+    "away": "BUL",
+    "stadium": "Stade Felix Bollaert, Lens"
+  },
+  {
+    "id": "8763",
+    "link": "/worldcup/matches/round=1014/match=8763/index.html",
+    "date": "1998-06-24T21:00",
+    "group": "Group D",
+    "home": "NGA",
+    "score": {
+      "home": 1,
+      "away": 3
+    },
+    "away": "PAR",
+    "stadium": "Stade Municipal, Toulouse"
+  },
+  {
+    "id": "8765",
+    "link": "/worldcup/matches/round=1014/match=8765/index.html",
+    "date": "1998-06-25T16:00",
+    "group": "Group E",
+    "home": "BEL",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "away": "KOR",
+    "stadium": "Parc des Princes, Paris"
+  },
+  {
+    "id": "8766",
+    "link": "/worldcup/matches/round=1014/match=8766/index.html",
+    "date": "1998-06-25T16:00",
+    "group": "Group E",
+    "home": "NED",
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "away": "MEX",
+    "stadium": "Stade Geoffroy Guichard, Saint-Etienne"
+  },
+  {
+    "id": "8767",
+    "link": "/worldcup/matches/round=1014/match=8767/index.html",
+    "date": "1998-06-25T21:00",
+    "group": "Group F",
+    "home": "GER",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "away": "IRN",
+    "stadium": "La Mosson, Montpellier"
+  },
+  {
+    "id": "8768",
+    "link": "/worldcup/matches/round=1014/match=8768/index.html",
+    "date": "1998-06-25T21:00",
+    "group": "Group F",
+    "home": "USA",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "away": "YUG",
+    "stadium": "La Beaujoire, Nantes"
+  },
+  {
+    "id": "8771",
+    "link": "/worldcup/matches/round=1014/match=8771/index.html",
+    "date": "1998-06-26T16:00",
+    "group": "Group H",
+    "home": "JPN",
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "away": "JAM",
+    "stadium": "Stade de Gerland, Lyon"
+  },
+  {
+    "id": "8772",
+    "link": "/worldcup/matches/round=1014/match=8772/index.html",
+    "date": "1998-06-26T16:00",
+    "group": "Group H",
+    "home": "ARG",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "CRO",
+    "stadium": "Stade du Parc Lescure, Bordeaux"
+  },
+  {
+    "id": "8769",
+    "link": "/worldcup/matches/round=1014/match=8769/index.html",
+    "date": "1998-06-26T21:00",
+    "group": "Group G",
+    "home": "ROU",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "away": "TUN",
+    "stadium": "Stade de France, Saint-Denis"
+  },
+  {
+    "id": "8770",
+    "link": "/worldcup/matches/round=1014/match=8770/index.html",
+    "date": "1998-06-26T21:00",
+    "group": "Group G",
+    "home": "COL",
+    "score": {
+      "home": 0,
+      "away": 2
+    },
+    "away": "ENG",
+    "stadium": "Stade Felix Bollaert, Lens"
+  },
+  {
+    "id": "8774",
+    "link": "/worldcup/matches/round=1024/match=8774/index.html",
+    "date": "1998-06-27T16:30",
+    "group": "Round of 16",
+    "home": "ITA",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "NOR",
+    "stadium": "Stade Vélodrome, Marseilles"
+  },
+  {
+    "id": "8773",
+    "link": "/worldcup/matches/round=1024/match=8773/index.html",
+    "date": "1998-06-27T21:00",
+    "group": "Round of 16",
+    "home": "BRA",
+    "score": {
+      "home": 4,
+      "away": 1
+    },
+    "away": "CHI",
+    "stadium": "Parc des Princes, Paris"
+  },
+  {
+    "id": "8776",
+    "link": "/worldcup/matches/round=1024/match=8776/index.html",
+    "date": "1998-06-28T16:30",
+    "group": "Round of 16",
+    "home": "FRA",
+    "score": {
+      "home": 1,
+      "away": 0,
+      "note": "AET"
+    },
+    "away": "PAR",
+    "stadium": "Stade Felix Bollaert, Lens"
+  },
+  {
+    "id": "8775",
+    "link": "/worldcup/matches/round=1024/match=8775/index.html",
+    "date": "1998-06-28T21:00",
+    "group": "Round of 16",
+    "home": "NGA",
+    "score": {
+      "home": 1,
+      "away": 4
+    },
+    "away": "DEN",
+    "stadium": "Stade de France, Saint-Denis"
+  },
+  {
+    "id": "8777",
+    "link": "/worldcup/matches/round=1024/match=8777/index.html",
+    "date": "1998-06-29T16:30",
+    "group": "Round of 16",
+    "home": "GER",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "MEX",
+    "stadium": "La Mosson, Montpellier"
+  },
+  {
+    "id": "8778",
+    "link": "/worldcup/matches/round=1024/match=8778/index.html",
+    "date": "1998-06-29T21:00",
+    "group": "Round of 16",
+    "home": "NED",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "YUG",
+    "stadium": "Stade Municipal, Toulouse"
+  },
+  {
+    "id": "8780",
+    "link": "/worldcup/matches/round=1024/match=8780/index.html",
+    "date": "1998-06-30T16:30",
+    "group": "Round of 16",
+    "home": "ROU",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "away": "CRO",
+    "stadium": "Stade du Parc Lescure, Bordeaux"
+  },
+  {
+    "id": "8779",
+    "link": "/worldcup/matches/round=1024/match=8779/index.html",
+    "date": "1998-06-30T21:00",
+    "group": "Round of 16",
+    "home": "ARG",
+    "score": {
+      "home": 2,
+      "away": 2,
+      "penalties": {
+        "home": 4,
+        "away": 3
+      }
+    },
+    "away": "ENG",
+    "stadium": "Stade Geoffroy Guichard, Saint-Etienne"
+  },
+  {
+    "id": "8781",
+    "link": "/worldcup/matches/round=1025/match=8781/index.html",
+    "date": "1998-07-03T16:30",
+    "group": "Quarter-finals",
+    "home": "ITA",
+    "score": {
+      "home": 0,
+      "away": 0,
+      "penalties": {
+        "home": 3,
+        "away": 4
+      }
+    },
+    "away": "FRA",
+    "stadium": "Stade de France, Saint-Denis"
+  },
+  {
+    "id": "8782",
+    "link": "/worldcup/matches/round=1025/match=8782/index.html",
+    "date": "1998-07-03T21:00",
+    "group": "Quarter-finals",
+    "home": "BRA",
+    "score": {
+      "home": 3,
+      "away": 2
+    },
+    "away": "DEN",
+    "stadium": "La Beaujoire, Nantes"
+  },
+  {
+    "id": "8784",
+    "link": "/worldcup/matches/round=1025/match=8784/index.html",
+    "date": "1998-07-04T16:30",
+    "group": "Quarter-finals",
+    "home": "NED",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "ARG",
+    "stadium": "Stade Vélodrome, Marseilles"
+  },
+  {
+    "id": "8783",
+    "link": "/worldcup/matches/round=1025/match=8783/index.html",
+    "date": "1998-07-04T21:00",
+    "group": "Quarter-finals",
+    "home": "GER",
+    "score": {
+      "home": 0,
+      "away": 3
+    },
+    "away": "CRO",
+    "stadium": "Stade de Gerland, Lyon"
+  },
+  {
+    "id": "8785",
+    "link": "/worldcup/matches/round=1026/match=8785/index.html",
+    "date": "1998-07-07T21:00",
+    "group": "Semi-finals",
+    "home": "BRA",
+    "score": {
+      "home": 1,
+      "away": 1,
+      "penalties": {
+        "home": 4,
+        "away": 2
+      }
+    },
+    "away": "NED",
+    "stadium": "Stade Vélodrome, Marseilles"
+  },
+  {
+    "id": "8786",
+    "link": "/worldcup/matches/round=1026/match=8786/index.html",
+    "date": "1998-07-08T21:00",
+    "group": "Semi-finals",
+    "home": "FRA",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "CRO",
+    "stadium": "Stade de France, Saint-Denis"
+  },
+  {
+    "id": "8787",
+    "link": "/worldcup/matches/round=1028/match=8787/index.html",
+    "date": "1998-07-11T21:00",
+    "group": "Match for third place",
+    "home": "NED",
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "away": "CRO",
+    "stadium": "Parc des Princes, Paris"
+  },
+  {
+    "id": "8788",
+    "link": "/worldcup/matches/round=1027/match=8788/index.html",
+    "date": "1998-07-12T21:00",
+    "group": "Final",
+    "home": "BRA",
+    "score": {
+      "home": 0,
+      "away": 3
+    },
+    "away": "FRA",
+    "stadium": "Stade de France, Saint-Denis"
+  }
+]

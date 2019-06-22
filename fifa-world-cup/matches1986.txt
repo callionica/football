@@ -1,0 +1,692 @@
+[
+  {
+    "id": "459",
+    "link": "/worldcup/matches/round=308/match=459/index.html",
+    "date": "1986-05-31T12:00",
+    "group": "Group A",
+    "home": "BUL",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "away": "ITA",
+    "stadium": "Estadio Azteca, Mexico City"
+  },
+  {
+    "id": "468",
+    "link": "/worldcup/matches/round=308/match=468/index.html",
+    "date": "1986-06-01T16:00",
+    "group": "Group C",
+    "home": "CAN",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "away": "FRA",
+    "stadium": "Nou Camp - Estadio León, Leon"
+  },
+  {
+    "id": "439",
+    "link": "/worldcup/matches/round=308/match=439/index.html",
+    "date": "1986-06-01T12:00",
+    "group": "Group D",
+    "home": "ESP",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "away": "BRA",
+    "stadium": "Jalisco, Guadalajara"
+  },
+  {
+    "id": "610",
+    "link": "/worldcup/matches/round=308/match=610/index.html",
+    "date": "1986-06-02T12:00",
+    "group": "Group C",
+    "home": "URS",
+    "score": {
+      "home": 6,
+      "away": 0
+    },
+    "away": "HUN",
+    "stadium": "Estadio Irapuato, Irapuato"
+  },
+  {
+    "id": "395",
+    "link": "/worldcup/matches/round=308/match=395/index.html",
+    "date": "1986-06-02T12:00",
+    "group": "Group A",
+    "home": "ARG",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "away": "KOR",
+    "stadium": "Estadio Olímpico Universitario, Mexico City"
+  },
+  {
+    "id": "674",
+    "link": "/worldcup/matches/round=308/match=674/index.html",
+    "date": "1986-06-02T16:00",
+    "group": "Group F",
+    "home": "MAR",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "away": "POL",
+    "stadium": "Estadio Universitario, Monterrey"
+  },
+  {
+    "id": "379",
+    "link": "/worldcup/matches/round=308/match=379/index.html",
+    "date": "1986-06-03T12:00",
+    "group": "Group D",
+    "home": "ALG",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "away": "NIR",
+    "stadium": "Tres de Marzo, Guadalajara"
+  },
+  {
+    "id": "428",
+    "link": "/worldcup/matches/round=308/match=428/index.html",
+    "date": "1986-06-03T12:00",
+    "group": "Group B",
+    "home": "BEL",
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "away": "MEX",
+    "stadium": "Estadio Azteca, Mexico City"
+  },
+  {
+    "id": "538",
+    "link": "/worldcup/matches/round=308/match=538/index.html",
+    "date": "1986-06-03T16:00",
+    "group": "Group F",
+    "home": "POR",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "ENG",
+    "stadium": "Tecnologico, Monterrey"
+  },
+  {
+    "id": "628",
+    "link": "/worldcup/matches/round=308/match=628/index.html",
+    "date": "1986-06-04T12:00",
+    "group": "Group B",
+    "home": "PAR",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "IRQ",
+    "stadium": "Bombonera - Estadio Nemesio Diez, Toluca"
+  },
+  {
+    "id": "517",
+    "link": "/worldcup/matches/round=308/match=517/index.html",
+    "date": "1986-06-04T16:00",
+    "group": "Group E",
+    "home": "SCO",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "away": "DEN",
+    "stadium": "Neza, Nezahualcoyotl"
+  },
+  {
+    "id": "585",
+    "link": "/worldcup/matches/round=308/match=585/index.html",
+    "date": "1986-06-04T12:00",
+    "group": "Group E",
+    "home": "URU",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "away": "FRG",
+    "stadium": "Estadio Corregidora, Queretaro"
+  },
+  {
+    "id": "394",
+    "link": "/worldcup/matches/round=308/match=394/index.html",
+    "date": "1986-06-05T12:00",
+    "group": "Group A",
+    "home": "ITA",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "away": "ARG",
+    "stadium": "Cuauhtemoc, Puebla"
+  },
+  {
+    "id": "571",
+    "link": "/worldcup/matches/round=308/match=571/index.html",
+    "date": "1986-06-05T12:00",
+    "group": "Group C",
+    "home": "FRA",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "away": "URS",
+    "stadium": "Nou Camp - Estadio León, Leon"
+  },
+  {
+    "id": "460",
+    "link": "/worldcup/matches/round=308/match=460/index.html",
+    "date": "1986-06-05T16:00",
+    "group": "Group A",
+    "home": "KOR",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "away": "BUL",
+    "stadium": "Estadio Olímpico Universitario, Mexico City"
+  },
+  {
+    "id": "475",
+    "link": "/worldcup/matches/round=308/match=475/index.html",
+    "date": "1986-06-06T12:00",
+    "group": "Group C",
+    "home": "HUN",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "away": "CAN",
+    "stadium": "Estadio Irapuato, Irapuato"
+  },
+  {
+    "id": "377",
+    "link": "/worldcup/matches/round=308/match=377/index.html",
+    "date": "1986-06-06T12:00",
+    "group": "Group D",
+    "home": "BRA",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "ALG",
+    "stadium": "Jalisco, Guadalajara"
+  },
+  {
+    "id": "533",
+    "link": "/worldcup/matches/round=308/match=533/index.html",
+    "date": "1986-06-06T16:00",
+    "group": "Group F",
+    "home": "ENG",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "away": "MAR",
+    "stadium": "Tecnologico, Monterrey"
+  },
+  {
+    "id": "551",
+    "link": "/worldcup/matches/round=308/match=551/index.html",
+    "date": "1986-06-07T12:00",
+    "group": "Group D",
+    "home": "NIR",
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "away": "ESP",
+    "stadium": "Tres de Marzo, Guadalajara"
+  },
+  {
+    "id": "680",
+    "link": "/worldcup/matches/round=308/match=680/index.html",
+    "date": "1986-06-07T12:00",
+    "group": "Group B",
+    "home": "MEX",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "away": "PAR",
+    "stadium": "Estadio Azteca, Mexico City"
+  },
+  {
+    "id": "701",
+    "link": "/worldcup/matches/round=308/match=701/index.html",
+    "date": "1986-06-07T16:00",
+    "group": "Group F",
+    "home": "POL",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "POR",
+    "stadium": "Estadio Universitario, Monterrey"
+  },
+  {
+    "id": "427",
+    "link": "/worldcup/matches/round=308/match=427/index.html",
+    "date": "1986-06-08T12:00",
+    "group": "Group B",
+    "home": "IRQ",
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "away": "BEL",
+    "stadium": "Bombonera - Estadio Nemesio Diez, Toluca"
+  },
+  {
+    "id": "522",
+    "link": "/worldcup/matches/round=308/match=522/index.html",
+    "date": "1986-06-08T16:00",
+    "group": "Group E",
+    "home": "DEN",
+    "score": {
+      "home": 6,
+      "away": 1
+    },
+    "away": "URU",
+    "stadium": "Neza, Nezahualcoyotl"
+  },
+  {
+    "id": "580",
+    "link": "/worldcup/matches/round=308/match=580/index.html",
+    "date": "1986-06-08T12:00",
+    "group": "Group E",
+    "home": "FRG",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "SCO",
+    "stadium": "Estadio Corregidora, Queretaro"
+  },
+  {
+    "id": "567",
+    "link": "/worldcup/matches/round=308/match=567/index.html",
+    "date": "1986-06-09T12:00",
+    "group": "Group C",
+    "home": "HUN",
+    "score": {
+      "home": 0,
+      "away": 3
+    },
+    "away": "FRA",
+    "stadium": "Nou Camp - Estadio León, Leon"
+  },
+  {
+    "id": "476",
+    "link": "/worldcup/matches/round=308/match=476/index.html",
+    "date": "1986-06-09T12:00",
+    "group": "Group C",
+    "home": "URS",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "away": "CAN",
+    "stadium": "Estadio Irapuato, Irapuato"
+  },
+  {
+    "id": "643",
+    "link": "/worldcup/matches/round=308/match=643/index.html",
+    "date": "1986-06-10T12:00",
+    "group": "Group A",
+    "home": "KOR",
+    "score": {
+      "home": 2,
+      "away": 3
+    },
+    "away": "ITA",
+    "stadium": "Cuauhtemoc, Puebla"
+  },
+  {
+    "id": "389",
+    "link": "/worldcup/matches/round=308/match=389/index.html",
+    "date": "1986-06-10T12:00",
+    "group": "Group A",
+    "home": "ARG",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "away": "BUL",
+    "stadium": "Estadio Olímpico Universitario, Mexico City"
+  },
+  {
+    "id": "429",
+    "link": "/worldcup/matches/round=308/match=429/index.html",
+    "date": "1986-06-11T12:00",
+    "group": "Group B",
+    "home": "PAR",
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "away": "BEL",
+    "stadium": "Bombonera - Estadio Nemesio Diez, Toluca"
+  },
+  {
+    "id": "627",
+    "link": "/worldcup/matches/round=308/match=627/index.html",
+    "date": "1986-06-11T12:00",
+    "group": "Group B",
+    "home": "IRQ",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "away": "MEX",
+    "stadium": "Estadio Azteca, Mexico City"
+  },
+  {
+    "id": "675",
+    "link": "/worldcup/matches/round=308/match=675/index.html",
+    "date": "1986-06-11T16:00",
+    "group": "Group F",
+    "home": "POR",
+    "score": {
+      "home": 1,
+      "away": 3
+    },
+    "away": "MAR",
+    "stadium": "Tres de Marzo, Guadalajara"
+  },
+  {
+    "id": "537",
+    "link": "/worldcup/matches/round=308/match=537/index.html",
+    "date": "1986-06-11T16:00",
+    "group": "Group F",
+    "home": "ENG",
+    "score": {
+      "home": 3,
+      "away": 0
+    },
+    "away": "POL",
+    "stadium": "Tecnologico, Monterrey"
+  },
+  {
+    "id": "441",
+    "link": "/worldcup/matches/round=308/match=441/index.html",
+    "date": "1986-06-12T12:00",
+    "group": "Group D",
+    "home": "NIR",
+    "score": {
+      "home": 0,
+      "away": 3
+    },
+    "away": "BRA",
+    "stadium": "Jalisco, Guadalajara"
+  },
+  {
+    "id": "378",
+    "link": "/worldcup/matches/round=308/match=378/index.html",
+    "date": "1986-06-12T12:00",
+    "group": "Group D",
+    "home": "ALG",
+    "score": {
+      "home": 0,
+      "away": 3
+    },
+    "away": "ESP",
+    "stadium": "Tecnologico, Monterrey"
+  },
+  {
+    "id": "712",
+    "link": "/worldcup/matches/round=308/match=712/index.html",
+    "date": "1986-06-13T12:00",
+    "group": "Group E",
+    "home": "SCO",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "away": "URU",
+    "stadium": "Neza, Nezahualcoyotl"
+  },
+  {
+    "id": "512",
+    "link": "/worldcup/matches/round=308/match=512/index.html",
+    "date": "1986-06-13T12:00",
+    "group": "Group E",
+    "home": "DEN",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "away": "FRG",
+    "stadium": "Estadio Corregidora, Queretaro"
+  },
+  {
+    "id": "432",
+    "link": "/worldcup/matches/round=309/match=432/index.html",
+    "date": "1986-06-15T16:00",
+    "group": "Round of 16",
+    "home": "URS",
+    "score": {
+      "home": 3,
+      "away": 4,
+      "note": "AET"
+    },
+    "away": "BEL",
+    "stadium": "Nou Camp - Estadio León, Leon"
+  },
+  {
+    "id": "463",
+    "link": "/worldcup/matches/round=309/match=463/index.html",
+    "date": "1986-06-15T12:00",
+    "group": "Round of 16",
+    "home": "MEX",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "away": "BUL",
+    "stadium": "Estadio Azteca, Mexico City"
+  },
+  {
+    "id": "398",
+    "link": "/worldcup/matches/round=309/match=398/index.html",
+    "date": "1986-06-16T16:00",
+    "group": "Round of 16",
+    "home": "ARG",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "URU",
+    "stadium": "Cuauhtemoc, Puebla"
+  },
+  {
+    "id": "444",
+    "link": "/worldcup/matches/round=309/match=444/index.html",
+    "date": "1986-06-16T12:00",
+    "group": "Round of 16",
+    "home": "BRA",
+    "score": {
+      "home": 4,
+      "away": 0
+    },
+    "away": "POL",
+    "stadium": "Jalisco, Guadalajara"
+  },
+  {
+    "id": "568",
+    "link": "/worldcup/matches/round=309/match=568/index.html",
+    "date": "1986-06-17T12:00",
+    "group": "Round of 16",
+    "home": "ITA",
+    "score": {
+      "home": 0,
+      "away": 2
+    },
+    "away": "FRA",
+    "stadium": "Estadio Olímpico Universitario, Mexico City"
+  },
+  {
+    "id": "574",
+    "link": "/worldcup/matches/round=309/match=574/index.html",
+    "date": "1986-06-17T16:00",
+    "group": "Round of 16",
+    "home": "MAR",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "away": "FRG",
+    "stadium": "Estadio Universitario, Monterrey"
+  },
+  {
+    "id": "536",
+    "link": "/worldcup/matches/round=309/match=536/index.html",
+    "date": "1986-06-18T12:00",
+    "group": "Round of 16",
+    "home": "ENG",
+    "score": {
+      "home": 3,
+      "away": 0
+    },
+    "away": "PAR",
+    "stadium": "Estadio Azteca, Mexico City"
+  },
+  {
+    "id": "511",
+    "link": "/worldcup/matches/round=309/match=511/index.html",
+    "date": "1986-06-18T16:00",
+    "group": "Round of 16",
+    "home": "DEN",
+    "score": {
+      "home": 1,
+      "away": 5
+    },
+    "away": "ESP",
+    "stadium": "Estadio Corregidora, Queretaro"
+  },
+  {
+    "id": "440",
+    "link": "/worldcup/matches/round=714/match=440/index.html",
+    "date": "1986-06-21T12:00",
+    "group": "Quarter-finals",
+    "home": "BRA",
+    "score": {
+      "home": 1,
+      "away": 1,
+      "penalties": {
+        "home": 3,
+        "away": 4
+      }
+    },
+    "away": "FRA",
+    "stadium": "Jalisco, Guadalajara"
+  },
+  {
+    "id": "575",
+    "link": "/worldcup/matches/round=714/match=575/index.html",
+    "date": "1986-06-21T16:00",
+    "group": "Quarter-finals",
+    "home": "FRG",
+    "score": {
+      "home": 0,
+      "away": 0,
+      "penalties": {
+        "home": 4,
+        "away": 1
+      }
+    },
+    "away": "MEX",
+    "stadium": "Estadio Universitario, Monterrey"
+  },
+  {
+    "id": "421",
+    "link": "/worldcup/matches/round=714/match=421/index.html",
+    "date": "1986-06-22T16:00",
+    "group": "Quarter-finals",
+    "home": "ESP",
+    "score": {
+      "home": 1,
+      "away": 1,
+      "penalties": {
+        "home": 4,
+        "away": 5
+      }
+    },
+    "away": "BEL",
+    "stadium": "Cuauhtemoc, Puebla"
+  },
+  {
+    "id": "392",
+    "link": "/worldcup/matches/round=714/match=392/index.html",
+    "date": "1986-06-22T12:00",
+    "group": "Quarter-finals",
+    "home": "ARG",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "ENG",
+    "stadium": "Estadio Azteca, Mexico City"
+  },
+  {
+    "id": "564",
+    "link": "/worldcup/matches/round=3469/match=564/index.html",
+    "date": "1986-06-25T12:00",
+    "group": "Semi-finals",
+    "home": "FRA",
+    "score": {
+      "home": 0,
+      "away": 2
+    },
+    "away": "FRG",
+    "stadium": "Jalisco, Guadalajara"
+  },
+  {
+    "id": "388",
+    "link": "/worldcup/matches/round=3469/match=388/index.html",
+    "date": "1986-06-25T16:00",
+    "group": "Semi-finals",
+    "home": "ARG",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "away": "BEL",
+    "stadium": "Estadio Azteca, Mexico City"
+  },
+  {
+    "id": "422",
+    "link": "/worldcup/matches/round=3468/match=422/index.html",
+    "date": "1986-06-28T12:00",
+    "group": "Match for third place",
+    "home": "FRA",
+    "score": {
+      "home": 4,
+      "away": 2,
+      "note": "AET"
+    },
+    "away": "BEL",
+    "stadium": "Cuauhtemoc, Puebla"
+  },
+  {
+    "id": "393",
+    "link": "/worldcup/matches/round=3467/match=393/index.html",
+    "date": "1986-06-29T12:00",
+    "group": "Final",
+    "home": "ARG",
+    "score": {
+      "home": 3,
+      "away": 2
+    },
+    "away": "FRG",
+    "stadium": "Estadio Azteca, Mexico City"
+  }
+]

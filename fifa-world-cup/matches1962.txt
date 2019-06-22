@@ -1,0 +1,418 @@
+[
+  {
+    "id": "1479",
+    "link": "/worldcup/matches/round=231/match=1479/index.html",
+    "date": "1962-05-30T15:00",
+    "group": "Group 1",
+    "home": "URU",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "COL",
+    "stadium": "Carlos Dittborn, Arica"
+  },
+  {
+    "id": "1461",
+    "link": "/worldcup/matches/round=231/match=1461/index.html",
+    "date": "1962-05-30T15:00",
+    "group": "Group 3",
+    "home": "BRA",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "away": "MEX",
+    "stadium": "Estadio Sausalito, Vina Del Mar"
+  },
+  {
+    "id": "1447",
+    "link": "/worldcup/matches/round=231/match=1447/index.html",
+    "date": "1962-05-30T15:00",
+    "group": "Group 4",
+    "home": "ARG",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "BUL",
+    "stadium": "El Teniente - Estadio Braden Copper Co., Rancagua"
+  },
+  {
+    "id": "1473",
+    "link": "/worldcup/matches/round=231/match=1473/index.html",
+    "date": "1962-05-30T15:00",
+    "group": "Group 2",
+    "home": "CHI",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "away": "SUI",
+    "stadium": "Nacional, Santiago De Chile"
+  },
+  {
+    "id": "1563",
+    "link": "/worldcup/matches/round=231/match=1563/index.html",
+    "date": "1962-05-31T15:00",
+    "group": "Group 1",
+    "home": "URS",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "away": "YUG",
+    "stadium": "Carlos Dittborn, Arica"
+  },
+  {
+    "id": "1498",
+    "link": "/worldcup/matches/round=231/match=1498/index.html",
+    "date": "1962-05-31T15:00",
+    "group": "Group 3",
+    "home": "TCH",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "ESP",
+    "stadium": "Estadio Sausalito, Vina Del Mar"
+  },
+  {
+    "id": "1490",
+    "link": "/worldcup/matches/round=231/match=1490/index.html",
+    "date": "1962-05-31T15:00",
+    "group": "Group 4",
+    "home": "HUN",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "ENG",
+    "stadium": "El Teniente - Estadio Braden Copper Co., Rancagua"
+  },
+  {
+    "id": "1507",
+    "link": "/worldcup/matches/round=231/match=1507/index.html",
+    "date": "1962-05-31T15:00",
+    "group": "Group 2",
+    "home": "FRG",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "away": "ITA",
+    "stadium": "Nacional, Santiago De Chile"
+  },
+  {
+    "id": "1564",
+    "link": "/worldcup/matches/round=231/match=1564/index.html",
+    "date": "1962-06-02T15:00",
+    "group": "Group 1",
+    "home": "YUG",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "away": "URU",
+    "stadium": "Carlos Dittborn, Arica"
+  },
+  {
+    "id": "1462",
+    "link": "/worldcup/matches/round=231/match=1462/index.html",
+    "date": "1962-06-02T15:00",
+    "group": "Group 3",
+    "home": "BRA",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "away": "TCH",
+    "stadium": "Estadio Sausalito, Vina Del Mar"
+  },
+  {
+    "id": "1450",
+    "link": "/worldcup/matches/round=231/match=1450/index.html",
+    "date": "1962-06-02T15:00",
+    "group": "Group 4",
+    "home": "ENG",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "away": "ARG",
+    "stadium": "El Teniente - Estadio Braden Copper Co., Rancagua"
+  },
+  {
+    "id": "1472",
+    "link": "/worldcup/matches/round=231/match=1472/index.html",
+    "date": "1962-06-02T15:00",
+    "group": "Group 2",
+    "home": "CHI",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "away": "ITA",
+    "stadium": "Nacional, Santiago De Chile"
+  },
+  {
+    "id": "1478",
+    "link": "/worldcup/matches/round=231/match=1478/index.html",
+    "date": "1962-06-03T15:00",
+    "group": "Group 1",
+    "home": "URS",
+    "score": {
+      "home": 4,
+      "away": 4
+    },
+    "away": "COL",
+    "stadium": "Carlos Dittborn, Arica"
+  },
+  {
+    "id": "1497",
+    "link": "/worldcup/matches/round=231/match=1497/index.html",
+    "date": "1962-06-03T15:00",
+    "group": "Group 3",
+    "home": "ESP",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "MEX",
+    "stadium": "Estadio Sausalito, Vina Del Mar"
+  },
+  {
+    "id": "1470",
+    "link": "/worldcup/matches/round=231/match=1470/index.html",
+    "date": "1962-06-03T15:00",
+    "group": "Group 4",
+    "home": "HUN",
+    "score": {
+      "home": 6,
+      "away": 1
+    },
+    "away": "BUL",
+    "stadium": "El Teniente - Estadio Braden Copper Co., Rancagua"
+  },
+  {
+    "id": "1510",
+    "link": "/worldcup/matches/round=231/match=1510/index.html",
+    "date": "1962-06-03T15:00",
+    "group": "Group 2",
+    "home": "FRG",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "SUI",
+    "stadium": "Nacional, Santiago De Chile"
+  },
+  {
+    "id": "1562",
+    "link": "/worldcup/matches/round=231/match=1562/index.html",
+    "date": "1962-06-06T15:00",
+    "group": "Group 1",
+    "home": "URS",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "URU",
+    "stadium": "Carlos Dittborn, Arica"
+  },
+  {
+    "id": "1460",
+    "link": "/worldcup/matches/round=231/match=1460/index.html",
+    "date": "1962-06-06T15:00",
+    "group": "Group 3",
+    "home": "BRA",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "ESP",
+    "stadium": "Estadio Sausalito, Vina Del Mar"
+  },
+  {
+    "id": "1451",
+    "link": "/worldcup/matches/round=231/match=1451/index.html",
+    "date": "1962-06-06T15:00",
+    "group": "Group 4",
+    "home": "HUN",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "away": "ARG",
+    "stadium": "El Teniente - Estadio Braden Copper Co., Rancagua"
+  },
+  {
+    "id": "1471",
+    "link": "/worldcup/matches/round=231/match=1471/index.html",
+    "date": "1962-06-06T15:00",
+    "group": "Group 2",
+    "home": "FRG",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "away": "CHI",
+    "stadium": "Nacional, Santiago De Chile"
+  },
+  {
+    "id": "1480",
+    "link": "/worldcup/matches/round=231/match=1480/index.html",
+    "date": "1962-06-07T15:00",
+    "group": "Group 1",
+    "home": "YUG",
+    "score": {
+      "home": 5,
+      "away": 0
+    },
+    "away": "COL",
+    "stadium": "Carlos Dittborn, Arica"
+  },
+  {
+    "id": "1544",
+    "link": "/worldcup/matches/round=231/match=1544/index.html",
+    "date": "1962-06-07T15:00",
+    "group": "Group 3",
+    "home": "MEX",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "away": "TCH",
+    "stadium": "Estadio Sausalito, Vina Del Mar"
+  },
+  {
+    "id": "1464",
+    "link": "/worldcup/matches/round=231/match=1464/index.html",
+    "date": "1962-06-07T15:00",
+    "group": "Group 4",
+    "home": "ENG",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "away": "BUL",
+    "stadium": "El Teniente - Estadio Braden Copper Co., Rancagua"
+  },
+  {
+    "id": "1532",
+    "link": "/worldcup/matches/round=231/match=1532/index.html",
+    "date": "1962-06-07T15:00",
+    "group": "Group 2",
+    "home": "ITA",
+    "score": {
+      "home": 3,
+      "away": 0
+    },
+    "away": "SUI",
+    "stadium": "Nacional, Santiago De Chile"
+  },
+  {
+    "id": "1474",
+    "link": "/worldcup/matches/round=232/match=1474/index.html",
+    "date": "1962-06-10T14:30",
+    "group": "Quarter-finals",
+    "home": "CHI",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "URS",
+    "stadium": "Carlos Dittborn, Arica"
+  },
+  {
+    "id": "1459",
+    "link": "/worldcup/matches/round=232/match=1459/index.html",
+    "date": "1962-06-10T14:30",
+    "group": "Quarter-finals",
+    "home": "BRA",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "away": "ENG",
+    "stadium": "Estadio Sausalito, Vina Del Mar"
+  },
+  {
+    "id": "1525",
+    "link": "/worldcup/matches/round=232/match=1525/index.html",
+    "date": "1962-06-10T14:30",
+    "group": "Quarter-finals",
+    "home": "TCH",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "HUN",
+    "stadium": "El Teniente - Estadio Braden Copper Co., Rancagua"
+  },
+  {
+    "id": "1511",
+    "link": "/worldcup/matches/round=232/match=1511/index.html",
+    "date": "1962-06-10T14:30",
+    "group": "Quarter-finals",
+    "home": "YUG",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "FRG",
+    "stadium": "Nacional, Santiago De Chile"
+  },
+  {
+    "id": "1559",
+    "link": "/worldcup/matches/round=514/match=1559/index.html",
+    "date": "1962-06-13T14:30",
+    "group": "Semi-finals",
+    "home": "TCH",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "away": "YUG",
+    "stadium": "Estadio Sausalito, Vina Del Mar"
+  },
+  {
+    "id": "1458",
+    "link": "/worldcup/matches/round=514/match=1458/index.html",
+    "date": "1962-06-13T14:30",
+    "group": "Semi-finals",
+    "home": "BRA",
+    "score": {
+      "home": 4,
+      "away": 2
+    },
+    "away": "CHI",
+    "stadium": "Nacional, Santiago De Chile"
+  },
+  {
+    "id": "1475",
+    "link": "/worldcup/matches/round=3481/match=1475/index.html",
+    "date": "1962-06-16T14:30",
+    "group": "Match for third place",
+    "home": "CHI",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "YUG",
+    "stadium": "Nacional, Santiago De Chile"
+  },
+  {
+    "id": "1463",
+    "link": "/worldcup/matches/round=3480/match=1463/index.html",
+    "date": "1962-06-17T14:30",
+    "group": "Final",
+    "home": "BRA",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "away": "TCH",
+    "stadium": "Nacional, Santiago De Chile"
+  }
+]

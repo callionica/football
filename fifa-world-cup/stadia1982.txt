@@ -1,0 +1,104 @@
+{
+  "Camp Nou, Barcelona": {
+    "name": "Camp Nou",
+    "locality": "Barcelona",
+    "country": "Spain",
+    "key": "Camp Nou, Barcelona"
+  },
+  "Estadio Municipal de Balaídos, Vigo": {
+    "name": "Estadio Municipal de Balaídos",
+    "locality": "Vigo",
+    "country": "Spain",
+    "key": "Estadio Municipal de Balaídos, Vigo"
+  },
+  "Ramon Sanchez Pizjuan, Seville": {
+    "name": "Ramon Sanchez Pizjuan",
+    "locality": "Seville",
+    "country": "Spain",
+    "key": "Ramon Sanchez Pizjuan, Seville"
+  },
+  "Riazor, La CoruñA": {
+    "name": "Riazor",
+    "locality": "La CoruñA",
+    "country": "Spain",
+    "key": "Riazor, La CoruñA"
+  },
+  "Nuevo Estadio, Elche": {
+    "name": "Nuevo Estadio",
+    "locality": "Elche",
+    "country": "Spain",
+    "key": "Nuevo Estadio, Elche"
+  },
+  "La Rosaleda, Malaga": {
+    "name": "La Rosaleda",
+    "locality": "Malaga",
+    "country": "Spain",
+    "key": "La Rosaleda, Malaga"
+  },
+  "El Molinon, Gijon": {
+    "name": "El Molinon",
+    "locality": "Gijon",
+    "country": "Spain",
+    "key": "El Molinon, Gijon"
+  },
+  "San Mames, Bilbao": {
+    "name": "San Mames",
+    "locality": "Bilbao",
+    "country": "Spain",
+    "key": "San Mames, Bilbao"
+  },
+  "Luis Casanova, Valencia": {
+    "name": "Luis Casanova",
+    "locality": "Valencia",
+    "country": "Spain",
+    "key": "Luis Casanova, Valencia"
+  },
+  "Carlos Tartiere, Oviedo": {
+    "name": "Carlos Tartiere",
+    "locality": "Oviedo",
+    "country": "Spain",
+    "key": "Carlos Tartiere, Oviedo"
+  },
+  "Jose Zorrilla, Valladolid": {
+    "name": "Jose Zorrilla",
+    "locality": "Valladolid",
+    "country": "Spain",
+    "key": "Jose Zorrilla, Valladolid"
+  },
+  "La Romareda, Zaragoza": {
+    "name": "La Romareda",
+    "locality": "Zaragoza",
+    "country": "Spain",
+    "key": "La Romareda, Zaragoza"
+  },
+  "Jose Rico Perez, Alicante": {
+    "name": "Jose Rico Perez",
+    "locality": "Alicante",
+    "country": "Spain",
+    "key": "Jose Rico Perez, Alicante"
+  },
+  "Benito Villamarin, Seville": {
+    "name": "Benito Villamarin",
+    "locality": "Seville",
+    "country": "Spain",
+    "key": "Benito Villamarin, Seville"
+  },
+  "Vicente Calderon, Madrid": {
+    "name": "Vicente Calderon",
+    "locality": "Madrid",
+    "country": "Spain",
+    "key": "Vicente Calderon, Madrid"
+  },
+  "Sarria, Barcelona": {
+    "name": "Sarria",
+    "locality": "Barcelona",
+    "country": "Spain",
+    "key": "Sarria, Barcelona"
+  },
+  "Santiago Bernabeu, Madrid": {
+    "name": "Santiago Bernabeu",
+    "locality": "Madrid",
+    "country": "Spain",
+    "key": "Santiago Bernabeu, Madrid"
+  }
+}

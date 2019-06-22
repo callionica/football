@@ -1,0 +1,458 @@
+[
+  {
+    "id": "1415",
+    "link": "/worldcup/matches/round=220/match=1415/index.html",
+    "date": "1958-06-08T14:00",
+    "group": "Group 3",
+    "home": "SWE",
+    "score": {
+      "home": 3,
+      "away": 0
+    },
+    "away": "MEX",
+    "stadium": "Rasunda Stadium, Solna"
+  },
+  {
+    "id": "1372",
+    "link": "/worldcup/matches/round=220/match=1372/index.html",
+    "date": "1958-06-08T19:00",
+    "group": "Group 4",
+    "home": "URS",
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "away": "ENG",
+    "stadium": "Nya Ullevi, Gothenburg"
+  },
+  {
+    "id": "1323",
+    "link": "/worldcup/matches/round=220/match=1323/index.html",
+    "date": "1958-06-08T19:00",
+    "group": "Group 1",
+    "home": "ARG",
+    "score": {
+      "home": 1,
+      "away": 3
+    },
+    "away": "FRG",
+    "stadium": "Malmo Stadion, Malmö"
+  },
+  {
+    "id": "1407",
+    "link": "/worldcup/matches/round=220/match=1407/index.html",
+    "date": "1958-06-08T19:00",
+    "group": "Group 3",
+    "home": "HUN",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "away": "WAL",
+    "stadium": "Jarnvallen, Sandviken"
+  },
+  {
+    "id": "1386",
+    "link": "/worldcup/matches/round=220/match=1386/index.html",
+    "date": "1958-06-08T19:00",
+    "group": "Group 2",
+    "home": "FRA",
+    "score": {
+      "home": 7,
+      "away": 3
+    },
+    "away": "PAR",
+    "stadium": "Idrottsparken, Norrköping"
+  },
+  {
+    "id": "1434",
+    "link": "/worldcup/matches/round=220/match=1434/index.html",
+    "date": "1958-06-08T19:00",
+    "group": "Group 2",
+    "home": "YUG",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "away": "SCO",
+    "stadium": "Arosvallen, Vasteras"
+  },
+  {
+    "id": "1326",
+    "link": "/worldcup/matches/round=220/match=1326/index.html",
+    "date": "1958-06-08T19:00",
+    "group": "Group 4",
+    "home": "BRA",
+    "score": {
+      "home": 3,
+      "away": 0
+    },
+    "away": "AUT",
+    "stadium": "Rimnersvallen, Udevalla"
+  },
+  {
+    "id": "1421",
+    "link": "/worldcup/matches/round=220/match=1421/index.html",
+    "date": "1958-06-08T19:00",
+    "group": "Group 1",
+    "home": "NIR",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "TCH",
+    "stadium": "Orjans Vall, Halmstad"
+  },
+  {
+    "id": "1339",
+    "link": "/worldcup/matches/round=220/match=1339/index.html",
+    "date": "1958-06-11T19:00",
+    "group": "Group 4",
+    "home": "BRA",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "away": "ENG",
+    "stadium": "Nya Ullevi, Gothenburg"
+  },
+  {
+    "id": "1418",
+    "link": "/worldcup/matches/round=220/match=1418/index.html",
+    "date": "1958-06-11T19:00",
+    "group": "Group 3",
+    "home": "MEX",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "away": "WAL",
+    "stadium": "Rasunda Stadium, Solna"
+  },
+  {
+    "id": "1423",
+    "link": "/worldcup/matches/round=220/match=1423/index.html",
+    "date": "1958-06-11T19:00",
+    "group": "Group 2",
+    "home": "PAR",
+    "score": {
+      "home": 3,
+      "away": 2
+    },
+    "away": "SCO",
+    "stadium": "Idrottsparken, Norrköping"
+  },
+  {
+    "id": "1388",
+    "link": "/worldcup/matches/round=220/match=1388/index.html",
+    "date": "1958-06-11T19:00",
+    "group": "Group 2",
+    "home": "YUG",
+    "score": {
+      "home": 3,
+      "away": 2
+    },
+    "away": "FRA",
+    "stadium": "Arosvallen, Vasteras"
+  },
+  {
+    "id": "1332",
+    "link": "/worldcup/matches/round=220/match=1332/index.html",
+    "date": "1958-06-11T19:00",
+    "group": "Group 4",
+    "home": "URS",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "away": "AUT",
+    "stadium": "Ryavallen, Boras"
+  },
+  {
+    "id": "1391",
+    "link": "/worldcup/matches/round=220/match=1391/index.html",
+    "date": "1958-06-11T19:00",
+    "group": "Group 1",
+    "home": "FRG",
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "away": "TCH",
+    "stadium": "Olympia Stadium, Helsingborg"
+  },
+  {
+    "id": "1324",
+    "link": "/worldcup/matches/round=220/match=1324/index.html",
+    "date": "1958-06-11T19:00",
+    "group": "Group 1",
+    "home": "ARG",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "away": "NIR",
+    "stadium": "Orjans Vall, Halmstad"
+  },
+  {
+    "id": "1406",
+    "link": "/worldcup/matches/round=220/match=1406/index.html",
+    "date": "1958-06-12T19:00",
+    "group": "Group 3",
+    "home": "SWE",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "HUN",
+    "stadium": "Rasunda Stadium, Solna"
+  },
+  {
+    "id": "1438",
+    "link": "/worldcup/matches/round=220/match=1438/index.html",
+    "date": "1958-06-15T14:00",
+    "group": "Group 3",
+    "home": "SWE",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "away": "WAL",
+    "stadium": "Rasunda Stadium, Solna"
+  },
+  {
+    "id": "1344",
+    "link": "/worldcup/matches/round=220/match=1344/index.html",
+    "date": "1958-06-15T19:00",
+    "group": "Group 4",
+    "home": "BRA",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "away": "URS",
+    "stadium": "Nya Ullevi, Gothenburg"
+  },
+  {
+    "id": "1389",
+    "link": "/worldcup/matches/round=220/match=1389/index.html",
+    "date": "1958-06-15T19:00",
+    "group": "Group 1",
+    "home": "FRG",
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "away": "NIR",
+    "stadium": "Malmo Stadion, Malmö"
+  },
+  {
+    "id": "1403",
+    "link": "/worldcup/matches/round=220/match=1403/index.html",
+    "date": "1958-06-15T19:00",
+    "group": "Group 3",
+    "home": "HUN",
+    "score": {
+      "home": 4,
+      "away": 0
+    },
+    "away": "MEX",
+    "stadium": "Jarnvallen, Sandviken"
+  },
+  {
+    "id": "1426",
+    "link": "/worldcup/matches/round=220/match=1426/index.html",
+    "date": "1958-06-15T19:00",
+    "group": "Group 2",
+    "home": "PAR",
+    "score": {
+      "home": 3,
+      "away": 3
+    },
+    "away": "YUG",
+    "stadium": "Tunavallen, Eskilstuna"
+  },
+  {
+    "id": "1387",
+    "link": "/worldcup/matches/round=220/match=1387/index.html",
+    "date": "1958-06-15T19:00",
+    "group": "Group 2",
+    "home": "FRA",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "SCO",
+    "stadium": "Eyravallen, Orebro"
+  },
+  {
+    "id": "1327",
+    "link": "/worldcup/matches/round=220/match=1327/index.html",
+    "date": "1958-06-15T19:00",
+    "group": "Group 4",
+    "home": "ENG",
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "away": "AUT",
+    "stadium": "Ryavallen, Boras"
+  },
+  {
+    "id": "1325",
+    "link": "/worldcup/matches/round=220/match=1325/index.html",
+    "date": "1958-06-15T19:00",
+    "group": "Group 1",
+    "home": "TCH",
+    "score": {
+      "home": 6,
+      "away": 1
+    },
+    "away": "ARG",
+    "stadium": "Olympia Stadium, Helsingborg"
+  },
+  {
+    "id": "1373",
+    "link": "/worldcup/matches/round=220/match=1373/index.html",
+    "date": "1958-06-17T19:00",
+    "group": "Group 4",
+    "home": "URS",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "ENG",
+    "stadium": "Nya Ullevi, Gothenburg"
+  },
+  {
+    "id": "1422",
+    "link": "/worldcup/matches/round=220/match=1422/index.html",
+    "date": "1958-06-17T19:00",
+    "group": "Group 1",
+    "home": "NIR",
+    "score": {
+      "home": 2,
+      "away": 1,
+      "note": "AET"
+    },
+    "away": "TCH",
+    "stadium": "Malmo Stadion, Malmö"
+  },
+  {
+    "id": "1408",
+    "link": "/worldcup/matches/round=220/match=1408/index.html",
+    "date": "1958-06-17T19:00",
+    "group": "Group 3",
+    "home": "WAL",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "HUN",
+    "stadium": "Rasunda Stadium, Solna"
+  },
+  {
+    "id": "1345",
+    "link": "/worldcup/matches/round=221/match=1345/index.html",
+    "date": "1958-06-19T19:00",
+    "group": "Quarter-finals",
+    "home": "BRA",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "WAL",
+    "stadium": "Nya Ullevi, Gothenburg"
+  },
+  {
+    "id": "1392",
+    "link": "/worldcup/matches/round=221/match=1392/index.html",
+    "date": "1958-06-19T19:00",
+    "group": "Quarter-finals",
+    "home": "FRG",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "YUG",
+    "stadium": "Malmo Stadion, Malmö"
+  },
+  {
+    "id": "1437",
+    "link": "/worldcup/matches/round=221/match=1437/index.html",
+    "date": "1958-06-19T19:00",
+    "group": "Quarter-finals",
+    "home": "SWE",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "away": "URS",
+    "stadium": "Rasunda Stadium, Solna"
+  },
+  {
+    "id": "1385",
+    "link": "/worldcup/matches/round=221/match=1385/index.html",
+    "date": "1958-06-19T19:00",
+    "group": "Quarter-finals",
+    "home": "FRA",
+    "score": {
+      "home": 4,
+      "away": 0
+    },
+    "away": "NIR",
+    "stadium": "Idrottsparken, Norrköping"
+  },
+  {
+    "id": "1390",
+    "link": "/worldcup/matches/round=488/match=1390/index.html",
+    "date": "1958-06-24T19:00",
+    "group": "Semi-finals",
+    "home": "SWE",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "away": "FRG",
+    "stadium": "Nya Ullevi, Gothenburg"
+  },
+  {
+    "id": "1340",
+    "link": "/worldcup/matches/round=488/match=1340/index.html",
+    "date": "1958-06-24T19:00",
+    "group": "Semi-finals",
+    "home": "BRA",
+    "score": {
+      "home": 5,
+      "away": 2
+    },
+    "away": "FRA",
+    "stadium": "Rasunda Stadium, Solna"
+  },
+  {
+    "id": "1382",
+    "link": "/worldcup/matches/round=3483/match=1382/index.html",
+    "date": "1958-06-28T17:00",
+    "group": "Match for third place",
+    "home": "FRA",
+    "score": {
+      "home": 6,
+      "away": 3
+    },
+    "away": "FRG",
+    "stadium": "Nya Ullevi, Gothenburg"
+  },
+  {
+    "id": "1343",
+    "link": "/worldcup/matches/round=3482/match=1343/index.html",
+    "date": "1958-06-29T15:00",
+    "group": "Final",
+    "home": "BRA",
+    "score": {
+      "home": 5,
+      "away": 2
+    },
+    "away": "SWE",
+    "stadium": "Rasunda Stadium, Solna"
+  }
+]

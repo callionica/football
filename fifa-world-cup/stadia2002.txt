@@ -1,0 +1,122 @@
+{
+  "Seoul World Cup Stadium, Seoul": {
+    "name": "Seoul World Cup Stadium",
+    "locality": "Seoul",
+    "country": "Korea",
+    "key": "Seoul World Cup Stadium, Seoul"
+  },
+  "Munsu Football Stadium, Ulsan": {
+    "name": "Munsu Football Stadium",
+    "locality": "Ulsan",
+    "country": "Korea",
+    "key": "Munsu Football Stadium, Ulsan"
+  },
+  "Niigata Stadium Big Swan, Niigata": {
+    "name": "Niigata Stadium Big Swan",
+    "locality": "Niigata",
+    "country": "Japan",
+    "key": "Niigata Stadium Big Swan, Niigata"
+  },
+  "Sapporo Dome, Sapporo": {
+    "name": "Sapporo Dome",
+    "locality": "Sapporo",
+    "country": "Japan",
+    "key": "Sapporo Dome, Sapporo"
+  },
+  "Kashima Stadium, Ibaraki": {
+    "name": "Kashima Stadium",
+    "locality": "Ibaraki",
+    "country": "Japan",
+    "key": "Kashima Stadium, Ibaraki"
+  },
+  "Busan Asiad Main Stadium, Busan": {
+    "name": "Busan Asiad Main Stadium",
+    "locality": "Busan",
+    "country": "Korea",
+    "key": "Busan Asiad Main Stadium, Busan"
+  },
+  "Saitama Stadium 2002, Saitama": {
+    "name": "Saitama Stadium 2002",
+    "locality": "Saitama",
+    "country": "Japan",
+    "key": "Saitama Stadium 2002, Saitama"
+  },
+  "Gwangju World Cup Stadium, Gwangju": {
+    "name": "Gwangju World Cup Stadium",
+    "locality": "Gwangju",
+    "country": "Korea",
+    "key": "Gwangju World Cup Stadium, Gwangju"
+  },
+  "Kobe Wing Stadium, Kobe": {
+    "name": "Kobe Wing Stadium",
+    "locality": "Kobe",
+    "country": "Japan",
+    "key": "Kobe Wing Stadium, Kobe"
+  },
+  "Suwon World Cup Stadium, Suwon": {
+    "name": "Suwon World Cup Stadium",
+    "locality": "Suwon",
+    "country": "Korea",
+    "key": "Suwon World Cup Stadium, Suwon"
+  },
+  "Daegu World Cup Stadium, Daegu": {
+    "name": "Daegu World Cup Stadium",
+    "locality": "Daegu",
+    "country": "Korea",
+    "key": "Daegu World Cup Stadium, Daegu"
+  },
+  "Jeonju World Cup Stadium, Jeonju": {
+    "name": "Jeonju World Cup Stadium",
+    "locality": "Jeonju",
+    "country": "Korea",
+    "key": "Jeonju World Cup Stadium, Jeonju"
+  },
+  "Jeju World Cup Stadium, Jeju": {
+    "name": "Jeju World Cup Stadium",
+    "locality": "Jeju",
+    "country": "Korea",
+    "key": "Jeju World Cup Stadium, Jeju"
+  },
+  "Incheon Football Stadium, Incheon": {
+    "name": "Incheon Football Stadium",
+    "locality": "Incheon",
+    "country": "Korea",
+    "key": "Incheon Football Stadium, Incheon"
+  },
+  "International Stadium Yokohama, Yokohama": {
+    "name": "International Stadium Yokohama",
+    "locality": "Yokohama",
+    "country": "Japan",
+    "key": "International Stadium Yokohama, Yokohama"
+  },
+  "Miyagi Stadium, Rifu": {
+    "name": "Miyagi Stadium",
+    "locality": "Rifu",
+    "country": "Japan",
+    "key": "Miyagi Stadium, Rifu"
+  },
+  "Oita Stadium Big Eye, Oita": {
+    "name": "Oita Stadium Big Eye",
+    "locality": "Oita",
+    "country": "Japan",
+    "key": "Oita Stadium Big Eye, Oita"
+  },
+  "Shizuoka Stadium Ecopa, Shizuoka": {
+    "name": "Shizuoka Stadium Ecopa",
+    "locality": "Shizuoka",
+    "country": "Japan",
+    "key": "Shizuoka Stadium Ecopa, Shizuoka"
+  },
+  "Osaka Nagai Stadium, Osaka": {
+    "name": "Osaka Nagai Stadium",
+    "locality": "Osaka",
+    "country": "Japan",
+    "key": "Osaka Nagai Stadium, Osaka"
+  },
+  "Daejeon World Cup Stadium, Daejeon": {
+    "name": "Daejeon World Cup Stadium",
+    "locality": "Daejeon",
+    "country": "Korea",
+    "key": "Daejeon World Cup Stadium, Daejeon"
+  }
+}

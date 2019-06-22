@@ -1,0 +1,852 @@
+[
+  {
+    "id": "97410001",
+    "link": "/worldcup/matches/round=97410100/match=97410001/index.html",
+    "date": "2006-06-09T18:00",
+    "group": "Group A",
+    "home": "GER",
+    "score": {
+      "home": 4,
+      "away": 2
+    },
+    "away": "CRC",
+    "stadium": "FIFA World Cup Stadium, Munich, Munich"
+  },
+  {
+    "id": "97410002",
+    "link": "/worldcup/matches/round=97410100/match=97410002/index.html",
+    "date": "2006-06-09T21:00",
+    "group": "Group A",
+    "home": "POL",
+    "score": {
+      "home": 0,
+      "away": 2
+    },
+    "away": "ECU",
+    "stadium": "FIFA World Cup Stadium, Gelsenkirchen, Gelsenkirchen"
+  },
+  {
+    "id": "97410003",
+    "link": "/worldcup/matches/round=97410100/match=97410003/index.html",
+    "date": "2006-06-10T15:00",
+    "group": "Group B",
+    "home": "ENG",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "PAR",
+    "stadium": "FIFA World Cup Stadium, Frankfurt, Frankfurt/Main"
+  },
+  {
+    "id": "97410004",
+    "link": "/worldcup/matches/round=97410100/match=97410004/index.html",
+    "date": "2006-06-10T18:00",
+    "group": "Group B",
+    "home": "TRI",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "away": "SWE",
+    "stadium": "FIFA World Cup Stadium, Dortmund, Dortmund"
+  },
+  {
+    "id": "97410005",
+    "link": "/worldcup/matches/round=97410100/match=97410005/index.html",
+    "date": "2006-06-10T21:00",
+    "group": "Group C",
+    "home": "ARG",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "CIV",
+    "stadium": "FIFA World Cup Stadium, Hamburg, Hamburg"
+  },
+  {
+    "id": "97410006",
+    "link": "/worldcup/matches/round=97410100/match=97410006/index.html",
+    "date": "2006-06-11T15:00",
+    "group": "Group C",
+    "home": "SCG",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "away": "NED",
+    "stadium": "Zentralstadion, Leipzig"
+  },
+  {
+    "id": "97410007",
+    "link": "/worldcup/matches/round=97410100/match=97410007/index.html",
+    "date": "2006-06-11T18:00",
+    "group": "Group D",
+    "home": "MEX",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "away": "IRN",
+    "stadium": "Franken-Stadion, Nuremberg"
+  },
+  {
+    "id": "97410008",
+    "link": "/worldcup/matches/round=97410100/match=97410008/index.html",
+    "date": "2006-06-11T21:00",
+    "group": "Group D",
+    "home": "ANG",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "away": "POR",
+    "stadium": "FIFA World Cup Stadium, Cologne, Cologne"
+  },
+  {
+    "id": "97410012",
+    "link": "/worldcup/matches/round=97410100/match=97410012/index.html",
+    "date": "2006-06-12T15:00",
+    "group": "Group F",
+    "home": "AUS",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "away": "JPN",
+    "stadium": "Fritz-Walter-Stadion, Kaiserslautern"
+  },
+  {
+    "id": "97410010",
+    "link": "/worldcup/matches/round=97410100/match=97410010/index.html",
+    "date": "2006-06-12T18:00",
+    "group": "Group E",
+    "home": "USA",
+    "score": {
+      "home": 0,
+      "away": 3
+    },
+    "away": "CZE",
+    "stadium": "FIFA World Cup Stadium, Gelsenkirchen, Gelsenkirchen"
+  },
+  {
+    "id": "97410009",
+    "link": "/worldcup/matches/round=97410100/match=97410009/index.html",
+    "date": "2006-06-12T21:00",
+    "group": "Group E",
+    "home": "ITA",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "away": "GHA",
+    "stadium": "FIFA World Cup Stadium, Hanover, Hanover"
+  },
+  {
+    "id": "97410014",
+    "link": "/worldcup/matches/round=97410100/match=97410014/index.html",
+    "date": "2006-06-13T15:00",
+    "group": "Group G",
+    "home": "KOR",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "TOG",
+    "stadium": "FIFA World Cup Stadium, Frankfurt, Frankfurt/Main"
+  },
+  {
+    "id": "97410013",
+    "link": "/worldcup/matches/round=97410100/match=97410013/index.html",
+    "date": "2006-06-13T18:00",
+    "group": "Group G",
+    "home": "FRA",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "away": "SUI",
+    "stadium": "Gottlieb-Daimler-Stadion, Stuttgart"
+  },
+  {
+    "id": "97410011",
+    "link": "/worldcup/matches/round=97410100/match=97410011/index.html",
+    "date": "2006-06-13T21:00",
+    "group": "Group F",
+    "home": "BRA",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "CRO",
+    "stadium": "Olympiastadion, Berlin"
+  },
+  {
+    "id": "97410015",
+    "link": "/worldcup/matches/round=97410100/match=97410015/index.html",
+    "date": "2006-06-14T15:00",
+    "group": "Group H",
+    "home": "ESP",
+    "score": {
+      "home": 4,
+      "away": 0
+    },
+    "away": "UKR",
+    "stadium": "Zentralstadion, Leipzig"
+  },
+  {
+    "id": "97410016",
+    "link": "/worldcup/matches/round=97410100/match=97410016/index.html",
+    "date": "2006-06-14T18:00",
+    "group": "Group H",
+    "home": "TUN",
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "away": "KSA",
+    "stadium": "FIFA World Cup Stadium, Munich, Munich"
+  },
+  {
+    "id": "97410017",
+    "link": "/worldcup/matches/round=97410100/match=97410017/index.html",
+    "date": "2006-06-14T21:00",
+    "group": "Group A",
+    "home": "GER",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "POL",
+    "stadium": "FIFA World Cup Stadium, Dortmund, Dortmund"
+  },
+  {
+    "id": "97410018",
+    "link": "/worldcup/matches/round=97410100/match=97410018/index.html",
+    "date": "2006-06-15T15:00",
+    "group": "Group A",
+    "home": "ECU",
+    "score": {
+      "home": 3,
+      "away": 0
+    },
+    "away": "CRC",
+    "stadium": "FIFA World Cup Stadium, Hamburg, Hamburg"
+  },
+  {
+    "id": "97410019",
+    "link": "/worldcup/matches/round=97410100/match=97410019/index.html",
+    "date": "2006-06-15T18:00",
+    "group": "Group B",
+    "home": "ENG",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "away": "TRI",
+    "stadium": "Franken-Stadion, Nuremberg"
+  },
+  {
+    "id": "97410020",
+    "link": "/worldcup/matches/round=97410100/match=97410020/index.html",
+    "date": "2006-06-15T21:00",
+    "group": "Group B",
+    "home": "SWE",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "PAR",
+    "stadium": "Olympiastadion, Berlin"
+  },
+  {
+    "id": "97410021",
+    "link": "/worldcup/matches/round=97410100/match=97410021/index.html",
+    "date": "2006-06-16T15:00",
+    "group": "Group C",
+    "home": "ARG",
+    "score": {
+      "home": 6,
+      "away": 0
+    },
+    "away": "SCG",
+    "stadium": "FIFA World Cup Stadium, Gelsenkirchen, Gelsenkirchen"
+  },
+  {
+    "id": "97410022",
+    "link": "/worldcup/matches/round=97410100/match=97410022/index.html",
+    "date": "2006-06-16T18:00",
+    "group": "Group C",
+    "home": "NED",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "CIV",
+    "stadium": "Gottlieb-Daimler-Stadion, Stuttgart"
+  },
+  {
+    "id": "97410023",
+    "link": "/worldcup/matches/round=97410100/match=97410023/index.html",
+    "date": "2006-06-16T21:00",
+    "group": "Group D",
+    "home": "MEX",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "away": "ANG",
+    "stadium": "FIFA World Cup Stadium, Hanover, Hanover"
+  },
+  {
+    "id": "97410024",
+    "link": "/worldcup/matches/round=97410100/match=97410024/index.html",
+    "date": "2006-06-17T15:00",
+    "group": "Group D",
+    "home": "POR",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "away": "IRN",
+    "stadium": "FIFA World Cup Stadium, Frankfurt, Frankfurt/Main"
+  },
+  {
+    "id": "97410026",
+    "link": "/worldcup/matches/round=97410100/match=97410026/index.html",
+    "date": "2006-06-17T18:00",
+    "group": "Group E",
+    "home": "CZE",
+    "score": {
+      "home": 0,
+      "away": 2
+    },
+    "away": "GHA",
+    "stadium": "FIFA World Cup Stadium, Cologne, Cologne"
+  },
+  {
+    "id": "97410025",
+    "link": "/worldcup/matches/round=97410100/match=97410025/index.html",
+    "date": "2006-06-17T21:00",
+    "group": "Group E",
+    "home": "ITA",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "away": "USA",
+    "stadium": "Fritz-Walter-Stadion, Kaiserslautern"
+  },
+  {
+    "id": "97410028",
+    "link": "/worldcup/matches/round=97410100/match=97410028/index.html",
+    "date": "2006-06-18T15:00",
+    "group": "Group F",
+    "home": "JPN",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "away": "CRO",
+    "stadium": "Franken-Stadion, Nuremberg"
+  },
+  {
+    "id": "97410027",
+    "link": "/worldcup/matches/round=97410100/match=97410027/index.html",
+    "date": "2006-06-18T18:00",
+    "group": "Group F",
+    "home": "BRA",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "away": "AUS",
+    "stadium": "FIFA World Cup Stadium, Munich, Munich"
+  },
+  {
+    "id": "97410029",
+    "link": "/worldcup/matches/round=97410100/match=97410029/index.html",
+    "date": "2006-06-18T21:00",
+    "group": "Group G",
+    "home": "FRA",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "away": "KOR",
+    "stadium": "Zentralstadion, Leipzig"
+  },
+  {
+    "id": "97410030",
+    "link": "/worldcup/matches/round=97410100/match=97410030/index.html",
+    "date": "2006-06-19T15:00",
+    "group": "Group G",
+    "home": "TOG",
+    "score": {
+      "home": 0,
+      "away": 2
+    },
+    "away": "SUI",
+    "stadium": "FIFA World Cup Stadium, Dortmund, Dortmund"
+  },
+  {
+    "id": "97410032",
+    "link": "/worldcup/matches/round=97410100/match=97410032/index.html",
+    "date": "2006-06-19T18:00",
+    "group": "Group H",
+    "home": "KSA",
+    "score": {
+      "home": 0,
+      "away": 4
+    },
+    "away": "UKR",
+    "stadium": "FIFA World Cup Stadium, Hamburg, Hamburg"
+  },
+  {
+    "id": "97410031",
+    "link": "/worldcup/matches/round=97410100/match=97410031/index.html",
+    "date": "2006-06-19T21:00",
+    "group": "Group H",
+    "home": "ESP",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "away": "TUN",
+    "stadium": "Gottlieb-Daimler-Stadion, Stuttgart"
+  },
+  {
+    "id": "97410033",
+    "link": "/worldcup/matches/round=97410100/match=97410033/index.html",
+    "date": "2006-06-20T16:00",
+    "group": "Group A",
+    "home": "ECU",
+    "score": {
+      "home": 0,
+      "away": 3
+    },
+    "away": "GER",
+    "stadium": "Olympiastadion, Berlin"
+  },
+  {
+    "id": "97410034",
+    "link": "/worldcup/matches/round=97410100/match=97410034/index.html",
+    "date": "2006-06-20T16:00",
+    "group": "Group A",
+    "home": "CRC",
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "away": "POL",
+    "stadium": "FIFA World Cup Stadium, Hanover, Hanover"
+  },
+  {
+    "id": "97410035",
+    "link": "/worldcup/matches/round=97410100/match=97410035/index.html",
+    "date": "2006-06-20T21:00",
+    "group": "Group B",
+    "home": "SWE",
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "away": "ENG",
+    "stadium": "FIFA World Cup Stadium, Cologne, Cologne"
+  },
+  {
+    "id": "97410036",
+    "link": "/worldcup/matches/round=97410100/match=97410036/index.html",
+    "date": "2006-06-20T21:00",
+    "group": "Group B",
+    "home": "PAR",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "away": "TRI",
+    "stadium": "Fritz-Walter-Stadion, Kaiserslautern"
+  },
+  {
+    "id": "97410040",
+    "link": "/worldcup/matches/round=97410100/match=97410040/index.html",
+    "date": "2006-06-21T16:00",
+    "group": "Group D",
+    "home": "IRN",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "away": "ANG",
+    "stadium": "Zentralstadion, Leipzig"
+  },
+  {
+    "id": "97410039",
+    "link": "/worldcup/matches/round=97410100/match=97410039/index.html",
+    "date": "2006-06-21T16:00",
+    "group": "Group D",
+    "home": "POR",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "MEX",
+    "stadium": "FIFA World Cup Stadium, Gelsenkirchen, Gelsenkirchen"
+  },
+  {
+    "id": "97410037",
+    "link": "/worldcup/matches/round=97410100/match=97410037/index.html",
+    "date": "2006-06-21T21:00",
+    "group": "Group C",
+    "home": "NED",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "away": "ARG",
+    "stadium": "FIFA World Cup Stadium, Frankfurt, Frankfurt/Main"
+  },
+  {
+    "id": "97410038",
+    "link": "/worldcup/matches/round=97410100/match=97410038/index.html",
+    "date": "2006-06-21T21:00",
+    "group": "Group C",
+    "home": "CIV",
+    "score": {
+      "home": 3,
+      "away": 2
+    },
+    "away": "SCG",
+    "stadium": "FIFA World Cup Stadium, Munich, Munich"
+  },
+  {
+    "id": "97410041",
+    "link": "/worldcup/matches/round=97410100/match=97410041/index.html",
+    "date": "2006-06-22T16:00",
+    "group": "Group E",
+    "home": "CZE",
+    "score": {
+      "home": 0,
+      "away": 2
+    },
+    "away": "ITA",
+    "stadium": "FIFA World Cup Stadium, Hamburg, Hamburg"
+  },
+  {
+    "id": "97410042",
+    "link": "/worldcup/matches/round=97410100/match=97410042/index.html",
+    "date": "2006-06-22T16:00",
+    "group": "Group E",
+    "home": "GHA",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "USA",
+    "stadium": "Franken-Stadion, Nuremberg"
+  },
+  {
+    "id": "97410043",
+    "link": "/worldcup/matches/round=97410100/match=97410043/index.html",
+    "date": "2006-06-22T21:00",
+    "group": "Group F",
+    "home": "JPN",
+    "score": {
+      "home": 1,
+      "away": 4
+    },
+    "away": "BRA",
+    "stadium": "FIFA World Cup Stadium, Dortmund, Dortmund"
+  },
+  {
+    "id": "97410044",
+    "link": "/worldcup/matches/round=97410100/match=97410044/index.html",
+    "date": "2006-06-22T21:00",
+    "group": "Group F",
+    "home": "CRO",
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "away": "AUS",
+    "stadium": "Gottlieb-Daimler-Stadion, Stuttgart"
+  },
+  {
+    "id": "97410048",
+    "link": "/worldcup/matches/round=97410100/match=97410048/index.html",
+    "date": "2006-06-23T16:00",
+    "group": "Group H",
+    "home": "UKR",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "TUN",
+    "stadium": "Olympiastadion, Berlin"
+  },
+  {
+    "id": "97410047",
+    "link": "/worldcup/matches/round=97410100/match=97410047/index.html",
+    "date": "2006-06-23T16:00",
+    "group": "Group H",
+    "home": "KSA",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "away": "ESP",
+    "stadium": "Fritz-Walter-Stadion, Kaiserslautern"
+  },
+  {
+    "id": "97410045",
+    "link": "/worldcup/matches/round=97410100/match=97410045/index.html",
+    "date": "2006-06-23T21:00",
+    "group": "Group G",
+    "home": "TOG",
+    "score": {
+      "home": 0,
+      "away": 2
+    },
+    "away": "FRA",
+    "stadium": "FIFA World Cup Stadium, Cologne, Cologne"
+  },
+  {
+    "id": "97410046",
+    "link": "/worldcup/matches/round=97410100/match=97410046/index.html",
+    "date": "2006-06-23T21:00",
+    "group": "Group G",
+    "home": "SUI",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "away": "KOR",
+    "stadium": "FIFA World Cup Stadium, Hanover, Hanover"
+  },
+  {
+    "id": "97410049",
+    "link": "/worldcup/matches/round=97410200/match=97410049/index.html",
+    "date": "2006-06-24T17:00",
+    "group": "Round of 16",
+    "home": "GER",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "away": "SWE",
+    "stadium": "FIFA World Cup Stadium, Munich, Munich"
+  },
+  {
+    "id": "97410050",
+    "link": "/worldcup/matches/round=97410200/match=97410050/index.html",
+    "date": "2006-06-24T21:00",
+    "group": "Round of 16",
+    "home": "ARG",
+    "score": {
+      "home": 2,
+      "away": 1,
+      "note": "AET"
+    },
+    "away": "MEX",
+    "stadium": "Zentralstadion, Leipzig"
+  },
+  {
+    "id": "97410051",
+    "link": "/worldcup/matches/round=97410200/match=97410051/index.html",
+    "date": "2006-06-25T17:00",
+    "group": "Round of 16",
+    "home": "ENG",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "ECU",
+    "stadium": "Gottlieb-Daimler-Stadion, Stuttgart"
+  },
+  {
+    "id": "97410052",
+    "link": "/worldcup/matches/round=97410200/match=97410052/index.html",
+    "date": "2006-06-25T21:00",
+    "group": "Round of 16",
+    "home": "POR",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "NED",
+    "stadium": "Franken-Stadion, Nuremberg"
+  },
+  {
+    "id": "97410053",
+    "link": "/worldcup/matches/round=97410200/match=97410053/index.html",
+    "date": "2006-06-26T17:00",
+    "group": "Round of 16",
+    "home": "ITA",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "AUS",
+    "stadium": "Fritz-Walter-Stadion, Kaiserslautern"
+  },
+  {
+    "id": "97410054",
+    "link": "/worldcup/matches/round=97410200/match=97410054/index.html",
+    "date": "2006-06-26T21:00",
+    "group": "Round of 16",
+    "home": "SUI",
+    "score": {
+      "home": 0,
+      "away": 0,
+      "penalties": {
+        "home": 0,
+        "away": 3
+      }
+    },
+    "away": "UKR",
+    "stadium": "FIFA World Cup Stadium, Cologne, Cologne"
+  },
+  {
+    "id": "97410055",
+    "link": "/worldcup/matches/round=97410200/match=97410055/index.html",
+    "date": "2006-06-27T17:00",
+    "group": "Round of 16",
+    "home": "BRA",
+    "score": {
+      "home": 3,
+      "away": 0
+    },
+    "away": "GHA",
+    "stadium": "FIFA World Cup Stadium, Dortmund, Dortmund"
+  },
+  {
+    "id": "97410056",
+    "link": "/worldcup/matches/round=97410200/match=97410056/index.html",
+    "date": "2006-06-27T21:00",
+    "group": "Round of 16",
+    "home": "ESP",
+    "score": {
+      "home": 1,
+      "away": 3
+    },
+    "away": "FRA",
+    "stadium": "FIFA World Cup Stadium, Hanover, Hanover"
+  },
+  {
+    "id": "97410057",
+    "link": "/worldcup/matches/round=97410300/match=97410057/index.html",
+    "date": "2006-06-30T17:00",
+    "group": "Quarter-finals",
+    "home": "GER",
+    "score": {
+      "home": 1,
+      "away": 1,
+      "penalties": {
+        "home": 4,
+        "away": 2
+      }
+    },
+    "away": "ARG",
+    "stadium": "Olympiastadion, Berlin"
+  },
+  {
+    "id": "97410058",
+    "link": "/worldcup/matches/round=97410300/match=97410058/index.html",
+    "date": "2006-06-30T21:00",
+    "group": "Quarter-finals",
+    "home": "ITA",
+    "score": {
+      "home": 3,
+      "away": 0
+    },
+    "away": "UKR",
+    "stadium": "FIFA World Cup Stadium, Hamburg, Hamburg"
+  },
+  {
+    "id": "97410059",
+    "link": "/worldcup/matches/round=97410300/match=97410059/index.html",
+    "date": "2006-07-01T17:00",
+    "group": "Quarter-finals",
+    "home": "ENG",
+    "score": {
+      "home": 0,
+      "away": 0,
+      "penalties": {
+        "home": 1,
+        "away": 3
+      }
+    },
+    "away": "POR",
+    "stadium": "FIFA World Cup Stadium, Gelsenkirchen, Gelsenkirchen"
+  },
+  {
+    "id": "97410060",
+    "link": "/worldcup/matches/round=97410300/match=97410060/index.html",
+    "date": "2006-07-01T21:00",
+    "group": "Quarter-finals",
+    "home": "BRA",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "away": "FRA",
+    "stadium": "FIFA World Cup Stadium, Frankfurt, Frankfurt/Main"
+  },
+  {
+    "id": "97410061",
+    "link": "/worldcup/matches/round=97410400/match=97410061/index.html",
+    "date": "2006-07-04T21:00",
+    "group": "Semi-finals",
+    "home": "GER",
+    "score": {
+      "home": 0,
+      "away": 2,
+      "note": "AET"
+    },
+    "away": "ITA",
+    "stadium": "FIFA World Cup Stadium, Dortmund, Dortmund"
+  },
+  {
+    "id": "97410062",
+    "link": "/worldcup/matches/round=97410400/match=97410062/index.html",
+    "date": "2006-07-05T21:00",
+    "group": "Semi-finals",
+    "home": "POR",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "away": "FRA",
+    "stadium": "FIFA World Cup Stadium, Munich, Munich"
+  },
+  {
+    "id": "97410063",
+    "link": "/worldcup/matches/round=97410500/match=97410063/index.html",
+    "date": "2006-07-08T21:00",
+    "group": "Third place",
+    "home": "GER",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "away": "POR",
+    "stadium": "Gottlieb-Daimler-Stadion, Stuttgart"
+  },
+  {
+    "id": "97410064",
+    "link": "/worldcup/matches/round=97410600/match=97410064/index.html",
+    "date": "2006-07-09T20:00",
+    "group": "Final",
+    "home": "ITA",
+    "score": {
+      "home": 1,
+      "away": 1,
+      "penalties": {
+        "home": 5,
+        "away": 3
+      }
+    },
+    "away": "FRA",
+    "stadium": "Olympiastadion, Berlin"
+  }
+]

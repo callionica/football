@@ -1,0 +1,845 @@
+[
+  {
+    "id": "43950001",
+    "link": "/worldcup/matches/round=43950100/match=43950001/index.html",
+    "date": "2002-05-31T20:30",
+    "group": "Group A",
+    "home": "FRA",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "away": "SEN",
+    "stadium": "Seoul World Cup Stadium, Seoul"
+  },
+  {
+    "id": "43950003",
+    "link": "/worldcup/matches/round=43950100/match=43950003/index.html",
+    "date": "2002-06-01T18:00",
+    "group": "Group A",
+    "home": "URU",
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "away": "DEN",
+    "stadium": "Munsu Football Stadium, Ulsan"
+  },
+  {
+    "id": "43950002",
+    "link": "/worldcup/matches/round=43950100/match=43950002/index.html",
+    "date": "2002-06-01T15:30",
+    "group": "Group E",
+    "home": "IRL",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "away": "CMR",
+    "stadium": "Niigata Stadium Big Swan, Niigata"
+  },
+  {
+    "id": "43950004",
+    "link": "/worldcup/matches/round=43950100/match=43950004/index.html",
+    "date": "2002-06-01T20:30",
+    "group": "Group E",
+    "home": "GER",
+    "score": {
+      "home": 8,
+      "away": 0
+    },
+    "away": "KSA",
+    "stadium": "Sapporo Dome, Sapporo"
+  },
+  {
+    "id": "43950007",
+    "link": "/worldcup/matches/round=43950100/match=43950007/index.html",
+    "date": "2002-06-02T14:30",
+    "group": "Group F",
+    "home": "ARG",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "NGA",
+    "stadium": "Kashima Stadium, Ibaraki"
+  },
+  {
+    "id": "43950006",
+    "link": "/worldcup/matches/round=43950100/match=43950006/index.html",
+    "date": "2002-06-02T16:30",
+    "group": "Group B",
+    "home": "PAR",
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "away": "RSA",
+    "stadium": "Busan Asiad Main Stadium, Busan"
+  },
+  {
+    "id": "43950005",
+    "link": "/worldcup/matches/round=43950100/match=43950005/index.html",
+    "date": "2002-06-02T18:30",
+    "group": "Group F",
+    "home": "ENG",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "away": "SWE",
+    "stadium": "Saitama Stadium 2002, Saitama"
+  },
+  {
+    "id": "43950008",
+    "link": "/worldcup/matches/round=43950100/match=43950008/index.html",
+    "date": "2002-06-02T20:30",
+    "group": "Group B",
+    "home": "ESP",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "away": "SVN",
+    "stadium": "Gwangju World Cup Stadium, Gwangju"
+  },
+  {
+    "id": "43950010",
+    "link": "/worldcup/matches/round=43950100/match=43950010/index.html",
+    "date": "2002-06-03T18:00",
+    "group": "Group C",
+    "home": "BRA",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "TUR",
+    "stadium": "Munsu Football Stadium, Ulsan"
+  },
+  {
+    "id": "43950011",
+    "link": "/worldcup/matches/round=43950100/match=43950011/index.html",
+    "date": "2002-06-03T20:30",
+    "group": "Group G",
+    "home": "ITA",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "away": "ECU",
+    "stadium": "Sapporo Dome, Sapporo"
+  },
+  {
+    "id": "43950009",
+    "link": "/worldcup/matches/round=43950100/match=43950009/index.html",
+    "date": "2002-06-03T15:30",
+    "group": "Group G",
+    "home": "CRO",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "away": "MEX",
+    "stadium": "Niigata Stadium Big Swan, Niigata"
+  },
+  {
+    "id": "43950012",
+    "link": "/worldcup/matches/round=43950100/match=43950012/index.html",
+    "date": "2002-06-04T15:30",
+    "group": "Group C",
+    "home": "CHN",
+    "score": {
+      "home": 0,
+      "away": 2
+    },
+    "away": "CRC",
+    "stadium": "Gwangju World Cup Stadium, Gwangju"
+  },
+  {
+    "id": "43950013",
+    "link": "/worldcup/matches/round=43950100/match=43950013/index.html",
+    "date": "2002-06-04T18:00",
+    "group": "Group H",
+    "home": "JPN",
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "away": "BEL",
+    "stadium": "Saitama Stadium 2002, Saitama"
+  },
+  {
+    "id": "43950014",
+    "link": "/worldcup/matches/round=43950100/match=43950014/index.html",
+    "date": "2002-06-04T20:30",
+    "group": "Group D",
+    "home": "KOR",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "away": "POL",
+    "stadium": "Busan Asiad Main Stadium, Busan"
+  },
+  {
+    "id": "43950015",
+    "link": "/worldcup/matches/round=43950100/match=43950015/index.html",
+    "date": "2002-06-05T15:30",
+    "group": "Group H",
+    "home": "RUS",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "away": "TUN",
+    "stadium": "Kobe Wing Stadium, Kobe"
+  },
+  {
+    "id": "43950016",
+    "link": "/worldcup/matches/round=43950100/match=43950016/index.html",
+    "date": "2002-06-05T18:00",
+    "group": "Group D",
+    "home": "USA",
+    "score": {
+      "home": 3,
+      "away": 2
+    },
+    "away": "POR",
+    "stadium": "Suwon World Cup Stadium, Suwon"
+  },
+  {
+    "id": "43950017",
+    "link": "/worldcup/matches/round=43950100/match=43950017/index.html",
+    "date": "2002-06-05T20:30",
+    "group": "Group E",
+    "home": "GER",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "away": "IRL",
+    "stadium": "Kashima Stadium, Ibaraki"
+  },
+  {
+    "id": "43950020",
+    "link": "/worldcup/matches/round=43950100/match=43950020/index.html",
+    "date": "2002-06-06T15:30",
+    "group": "Group A",
+    "home": "DEN",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "away": "SEN",
+    "stadium": "Daegu World Cup Stadium, Daegu"
+  },
+  {
+    "id": "43950019",
+    "link": "/worldcup/matches/round=43950100/match=43950019/index.html",
+    "date": "2002-06-06T18:00",
+    "group": "Group E",
+    "home": "CMR",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "KSA",
+    "stadium": "Saitama Stadium 2002, Saitama"
+  },
+  {
+    "id": "43950018",
+    "link": "/worldcup/matches/round=43950100/match=43950018/index.html",
+    "date": "2002-06-06T20:30",
+    "group": "Group A",
+    "home": "FRA",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "away": "URU",
+    "stadium": "Busan Asiad Main Stadium, Busan"
+  },
+  {
+    "id": "43950021",
+    "link": "/worldcup/matches/round=43950100/match=43950021/index.html",
+    "date": "2002-06-07T15:30",
+    "group": "Group F",
+    "home": "SWE",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "NGA",
+    "stadium": "Kobe Wing Stadium, Kobe"
+  },
+  {
+    "id": "43950023",
+    "link": "/worldcup/matches/round=43950100/match=43950023/index.html",
+    "date": "2002-06-07T20:30",
+    "group": "Group F",
+    "home": "ARG",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "away": "ENG",
+    "stadium": "Sapporo Dome, Sapporo"
+  },
+  {
+    "id": "43950022",
+    "link": "/worldcup/matches/round=43950100/match=43950022/index.html",
+    "date": "2002-06-07T18:00",
+    "group": "Group B",
+    "home": "ESP",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "away": "PAR",
+    "stadium": "Jeonju World Cup Stadium, Jeonju"
+  },
+  {
+    "id": "43950024",
+    "link": "/worldcup/matches/round=43950100/match=43950024/index.html",
+    "date": "2002-06-08T15:30",
+    "group": "Group B",
+    "home": "RSA",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "SVN",
+    "stadium": "Daegu World Cup Stadium, Daegu"
+  },
+  {
+    "id": "43950026",
+    "link": "/worldcup/matches/round=43950100/match=43950026/index.html",
+    "date": "2002-06-08T20:30",
+    "group": "Group C",
+    "home": "BRA",
+    "score": {
+      "home": 4,
+      "away": 0
+    },
+    "away": "CHN",
+    "stadium": "Jeju World Cup Stadium, Jeju"
+  },
+  {
+    "id": "43950025",
+    "link": "/worldcup/matches/round=43950100/match=43950025/index.html",
+    "date": "2002-06-08T18:00",
+    "group": "Group G",
+    "home": "ITA",
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "away": "CRO",
+    "stadium": "Kashima Stadium, Ibaraki"
+  },
+  {
+    "id": "43950028",
+    "link": "/worldcup/matches/round=43950100/match=43950028/index.html",
+    "date": "2002-06-09T18:00",
+    "group": "Group C",
+    "home": "CRC",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "away": "TUR",
+    "stadium": "Incheon Football Stadium, Incheon"
+  },
+  {
+    "id": "43950029",
+    "link": "/worldcup/matches/round=43950100/match=43950029/index.html",
+    "date": "2002-06-09T20:30",
+    "group": "Group H",
+    "home": "JPN",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "RUS",
+    "stadium": "International Stadium Yokohama, Yokohama"
+  },
+  {
+    "id": "43950027",
+    "link": "/worldcup/matches/round=43950100/match=43950027/index.html",
+    "date": "2002-06-09T15:30",
+    "group": "Group G",
+    "home": "MEX",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "ECU",
+    "stadium": "Miyagi Stadium, Rifu"
+  },
+  {
+    "id": "43950030",
+    "link": "/worldcup/matches/round=43950100/match=43950030/index.html",
+    "date": "2002-06-10T15:30",
+    "group": "Group D",
+    "home": "KOR",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "away": "USA",
+    "stadium": "Daegu World Cup Stadium, Daegu"
+  },
+  {
+    "id": "43950032",
+    "link": "/worldcup/matches/round=43950100/match=43950032/index.html",
+    "date": "2002-06-10T20:30",
+    "group": "Group D",
+    "home": "POR",
+    "score": {
+      "home": 4,
+      "away": 0
+    },
+    "away": "POL",
+    "stadium": "Jeonju World Cup Stadium, Jeonju"
+  },
+  {
+    "id": "43950031",
+    "link": "/worldcup/matches/round=43950100/match=43950031/index.html",
+    "date": "2002-06-10T18:00",
+    "group": "Group H",
+    "home": "TUN",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "away": "BEL",
+    "stadium": "Oita Stadium Big Eye, Oita"
+  },
+  {
+    "id": "43950033",
+    "link": "/worldcup/matches/round=43950100/match=43950033/index.html",
+    "date": "2002-06-11T15:30",
+    "group": "Group A",
+    "home": "DEN",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "away": "FRA",
+    "stadium": "Incheon Football Stadium, Incheon"
+  },
+  {
+    "id": "43950034",
+    "link": "/worldcup/matches/round=43950100/match=43950034/index.html",
+    "date": "2002-06-11T15:30",
+    "group": "Group A",
+    "home": "SEN",
+    "score": {
+      "home": 3,
+      "away": 3
+    },
+    "away": "URU",
+    "stadium": "Suwon World Cup Stadium, Suwon"
+  },
+  {
+    "id": "43950036",
+    "link": "/worldcup/matches/round=43950100/match=43950036/index.html",
+    "date": "2002-06-11T20:30",
+    "group": "Group E",
+    "home": "KSA",
+    "score": {
+      "home": 0,
+      "away": 3
+    },
+    "away": "IRL",
+    "stadium": "International Stadium Yokohama, Yokohama"
+  },
+  {
+    "id": "43950035",
+    "link": "/worldcup/matches/round=43950100/match=43950035/index.html",
+    "date": "2002-06-11T20:30",
+    "group": "Group E",
+    "home": "CMR",
+    "score": {
+      "home": 0,
+      "away": 2
+    },
+    "away": "GER",
+    "stadium": "Shizuoka Stadium Ecopa, Shizuoka"
+  },
+  {
+    "id": "43950037",
+    "link": "/worldcup/matches/round=43950100/match=43950037/index.html",
+    "date": "2002-06-12T15:30",
+    "group": "Group F",
+    "home": "SWE",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "away": "ARG",
+    "stadium": "Miyagi Stadium, Rifu"
+  },
+  {
+    "id": "43950038",
+    "link": "/worldcup/matches/round=43950100/match=43950038/index.html",
+    "date": "2002-06-12T15:30",
+    "group": "Group F",
+    "home": "NGA",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "away": "ENG",
+    "stadium": "Osaka Nagai Stadium, Osaka"
+  },
+  {
+    "id": "43950040",
+    "link": "/worldcup/matches/round=43950100/match=43950040/index.html",
+    "date": "2002-06-12T20:30",
+    "group": "Group B",
+    "home": "SVN",
+    "score": {
+      "home": 1,
+      "away": 3
+    },
+    "away": "PAR",
+    "stadium": "Jeju World Cup Stadium, Jeju"
+  },
+  {
+    "id": "43950039",
+    "link": "/worldcup/matches/round=43950100/match=43950039/index.html",
+    "date": "2002-06-12T20:30",
+    "group": "Group B",
+    "home": "RSA",
+    "score": {
+      "home": 2,
+      "away": 3
+    },
+    "away": "ESP",
+    "stadium": "Daejeon World Cup Stadium, Daejeon"
+  },
+  {
+    "id": "43950041",
+    "link": "/worldcup/matches/round=43950100/match=43950041/index.html",
+    "date": "2002-06-13T15:30",
+    "group": "Group C",
+    "home": "CRC",
+    "score": {
+      "home": 2,
+      "away": 5
+    },
+    "away": "BRA",
+    "stadium": "Suwon World Cup Stadium, Suwon"
+  },
+  {
+    "id": "43950042",
+    "link": "/worldcup/matches/round=43950100/match=43950042/index.html",
+    "date": "2002-06-13T15:30",
+    "group": "Group C",
+    "home": "TUR",
+    "score": {
+      "home": 3,
+      "away": 0
+    },
+    "away": "CHN",
+    "stadium": "Seoul World Cup Stadium, Seoul"
+  },
+  {
+    "id": "43950044",
+    "link": "/worldcup/matches/round=43950100/match=43950044/index.html",
+    "date": "2002-06-13T20:30",
+    "group": "Group G",
+    "home": "ECU",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "CRO",
+    "stadium": "International Stadium Yokohama, Yokohama"
+  },
+  {
+    "id": "43950043",
+    "link": "/worldcup/matches/round=43950100/match=43950043/index.html",
+    "date": "2002-06-13T20:30",
+    "group": "Group G",
+    "home": "MEX",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "away": "ITA",
+    "stadium": "Oita Stadium Big Eye, Oita"
+  },
+  {
+    "id": "43950045",
+    "link": "/worldcup/matches/round=43950100/match=43950045/index.html",
+    "date": "2002-06-14T15:30",
+    "group": "Group H",
+    "home": "TUN",
+    "score": {
+      "home": 0,
+      "away": 2
+    },
+    "away": "JPN",
+    "stadium": "Osaka Nagai Stadium, Osaka"
+  },
+  {
+    "id": "43950047",
+    "link": "/worldcup/matches/round=43950100/match=43950047/index.html",
+    "date": "2002-06-14T20:30",
+    "group": "Group D",
+    "home": "POR",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "away": "KOR",
+    "stadium": "Incheon Football Stadium, Incheon"
+  },
+  {
+    "id": "43950048",
+    "link": "/worldcup/matches/round=43950100/match=43950048/index.html",
+    "date": "2002-06-14T20:30",
+    "group": "Group D",
+    "home": "POL",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "away": "USA",
+    "stadium": "Daejeon World Cup Stadium, Daejeon"
+  },
+  {
+    "id": "43950046",
+    "link": "/worldcup/matches/round=43950100/match=43950046/index.html",
+    "date": "2002-06-14T15:30",
+    "group": "Group H",
+    "home": "BEL",
+    "score": {
+      "home": 3,
+      "away": 2
+    },
+    "away": "RUS",
+    "stadium": "Shizuoka Stadium Ecopa, Shizuoka"
+  },
+  {
+    "id": "43950050",
+    "link": "/worldcup/matches/round=43950200/match=43950050/index.html",
+    "date": "2002-06-15T20:30",
+    "group": "Round of 16",
+    "home": "DEN",
+    "score": {
+      "home": 0,
+      "away": 3
+    },
+    "away": "ENG",
+    "stadium": "Niigata Stadium Big Swan, Niigata"
+  },
+  {
+    "id": "43950049",
+    "link": "/worldcup/matches/round=43950200/match=43950049/index.html",
+    "date": "2002-06-15T15:30",
+    "group": "Round of 16",
+    "home": "GER",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "PAR",
+    "stadium": "Jeju World Cup Stadium, Jeju"
+  },
+  {
+    "id": "43950052",
+    "link": "/worldcup/matches/round=43950200/match=43950052/index.html",
+    "date": "2002-06-16T20:30",
+    "group": "Round of 16",
+    "home": "ESP",
+    "score": {
+      "home": 1,
+      "away": 1,
+      "penalties": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    "away": "IRL",
+    "stadium": "Suwon World Cup Stadium, Suwon"
+  },
+  {
+    "id": "43950051",
+    "link": "/worldcup/matches/round=43950200/match=43950051/index.html",
+    "date": "2002-06-16T15:30",
+    "group": "Round of 16",
+    "home": "SWE",
+    "score": {
+      "home": 1,
+      "away": 2,
+      "note": "Golden Goal"
+    },
+    "away": "SEN",
+    "stadium": "Oita Stadium Big Eye, Oita"
+  },
+  {
+    "id": "43950054",
+    "link": "/worldcup/matches/round=43950200/match=43950054/index.html",
+    "date": "2002-06-17T20:30",
+    "group": "Round of 16",
+    "home": "BRA",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "away": "BEL",
+    "stadium": "Kobe Wing Stadium, Kobe"
+  },
+  {
+    "id": "43950053",
+    "link": "/worldcup/matches/round=43950200/match=43950053/index.html",
+    "date": "2002-06-17T15:30",
+    "group": "Round of 16",
+    "home": "MEX",
+    "score": {
+      "home": 0,
+      "away": 2
+    },
+    "away": "USA",
+    "stadium": "Jeonju World Cup Stadium, Jeonju"
+  },
+  {
+    "id": "43950055",
+    "link": "/worldcup/matches/round=43950200/match=43950055/index.html",
+    "date": "2002-06-18T15:30",
+    "group": "Round of 16",
+    "home": "JPN",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "away": "TUR",
+    "stadium": "Miyagi Stadium, Rifu"
+  },
+  {
+    "id": "43950056",
+    "link": "/worldcup/matches/round=43950200/match=43950056/index.html",
+    "date": "2002-06-18T20:30",
+    "group": "Round of 16",
+    "home": "KOR",
+    "score": {
+      "home": 2,
+      "away": 1,
+      "note": "Golden Goal"
+    },
+    "away": "ITA",
+    "stadium": "Daejeon World Cup Stadium, Daejeon"
+  },
+  {
+    "id": "43950057",
+    "link": "/worldcup/matches/round=43950300/match=43950057/index.html",
+    "date": "2002-06-21T15:30",
+    "group": "Quarter-finals",
+    "home": "ENG",
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "away": "BRA",
+    "stadium": "Shizuoka Stadium Ecopa, Shizuoka"
+  },
+  {
+    "id": "43950058",
+    "link": "/worldcup/matches/round=43950300/match=43950058/index.html",
+    "date": "2002-06-21T20:30",
+    "group": "Quarter-finals",
+    "home": "GER",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "USA",
+    "stadium": "Munsu Football Stadium, Ulsan"
+  },
+  {
+    "id": "43950060",
+    "link": "/worldcup/matches/round=43950300/match=43950060/index.html",
+    "date": "2002-06-22T20:30",
+    "group": "Quarter-finals",
+    "home": "SEN",
+    "score": {
+      "home": 0,
+      "away": 1,
+      "note": "Golden Goal"
+    },
+    "away": "TUR",
+    "stadium": "Osaka Nagai Stadium, Osaka"
+  },
+  {
+    "id": "43950059",
+    "link": "/worldcup/matches/round=43950300/match=43950059/index.html",
+    "date": "2002-06-22T15:30",
+    "group": "Quarter-finals",
+    "home": "ESP",
+    "score": {
+      "home": 0,
+      "away": 0,
+      "penalties": {
+        "home": 3,
+        "away": 5
+      }
+    },
+    "away": "KOR",
+    "stadium": "Gwangju World Cup Stadium, Gwangju"
+  },
+  {
+    "id": "43950061",
+    "link": "/worldcup/matches/round=43950400/match=43950061/index.html",
+    "date": "2002-06-25T20:30",
+    "group": "Semi-finals",
+    "home": "GER",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "KOR",
+    "stadium": "Seoul World Cup Stadium, Seoul"
+  },
+  {
+    "id": "43950062",
+    "link": "/worldcup/matches/round=43950400/match=43950062/index.html",
+    "date": "2002-06-26T20:30",
+    "group": "Semi-finals",
+    "home": "BRA",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "TUR",
+    "stadium": "Saitama Stadium 2002, Saitama"
+  },
+  {
+    "id": "43950063",
+    "link": "/worldcup/matches/round=43950500/match=43950063/index.html",
+    "date": "2002-06-29T20:00",
+    "group": "Third place",
+    "home": "KOR",
+    "score": {
+      "home": 2,
+      "away": 3
+    },
+    "away": "TUR",
+    "stadium": "Daegu World Cup Stadium, Daegu"
+  },
+  {
+    "id": "43950064",
+    "link": "/worldcup/matches/round=43950600/match=43950064/index.html",
+    "date": "2002-06-30T20:00",
+    "group": "Final",
+    "home": "GER",
+    "score": {
+      "home": 0,
+      "away": 2
+    },
+    "away": "BRA",
+    "stadium": "International Stadium Yokohama, Yokohama"
+  }
+]

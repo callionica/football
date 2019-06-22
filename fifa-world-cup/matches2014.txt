@@ -1,0 +1,854 @@
+[
+  {
+    "id": "300186456",
+    "link": "/worldcup/matches/round=255931/match=300186456/index.html",
+    "date": "2014-06-12T17:00",
+    "group": "Group A",
+    "home": "BRA",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "away": "CRO",
+    "stadium": "Arena de Sao Paulo, Sao Paulo"
+  },
+  {
+    "id": "300186492",
+    "link": "/worldcup/matches/round=255931/match=300186492/index.html",
+    "date": "2014-06-13T13:00",
+    "group": "Group A",
+    "home": "MEX",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "CMR",
+    "stadium": "Estadio das Dunas, Natal"
+  },
+  {
+    "id": "300186510",
+    "link": "/worldcup/matches/round=255931/match=300186510/index.html",
+    "date": "2014-06-13T16:00",
+    "group": "Group B",
+    "home": "ESP",
+    "score": {
+      "home": 1,
+      "away": 5
+    },
+    "away": "NED",
+    "stadium": "Arena Fonte Nova, Salvador"
+  },
+  {
+    "id": "300186473",
+    "link": "/worldcup/matches/round=255931/match=300186473/index.html",
+    "date": "2014-06-13T18:00",
+    "group": "Group B",
+    "home": "CHI",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "away": "AUS",
+    "stadium": "Arena Pantanal, Cuiaba"
+  },
+  {
+    "id": "300186471",
+    "link": "/worldcup/matches/round=255931/match=300186471/index.html",
+    "date": "2014-06-14T13:00",
+    "group": "Group C",
+    "home": "COL",
+    "score": {
+      "home": 3,
+      "away": 0
+    },
+    "away": "GRE",
+    "stadium": "Estadio Mineirao, Belo Horizonte"
+  },
+  {
+    "id": "300186489",
+    "link": "/worldcup/matches/round=255931/match=300186489/index.html",
+    "date": "2014-06-14T16:00",
+    "group": "Group D",
+    "home": "URU",
+    "score": {
+      "home": 1,
+      "away": 3
+    },
+    "away": "CRC",
+    "stadium": "Estadio Castelao, Fortaleza"
+  },
+  {
+    "id": "300186513",
+    "link": "/worldcup/matches/round=255931/match=300186513/index.html",
+    "date": "2014-06-14T18:00",
+    "group": "Group D",
+    "home": "ENG",
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "away": "ITA",
+    "stadium": "Arena Amazonia, Manaus"
+  },
+  {
+    "id": "300186507",
+    "link": "/worldcup/matches/round=255931/match=300186507/index.html",
+    "date": "2014-06-14T22:00",
+    "group": "Group C",
+    "home": "CIV",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "JPN",
+    "stadium": "Arena Pernambuco, Recife"
+  },
+  {
+    "id": "300186494",
+    "link": "/worldcup/matches/round=255931/match=300186494/index.html",
+    "date": "2014-06-15T13:00",
+    "group": "Group E",
+    "home": "SUI",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "ECU",
+    "stadium": "Estadio Nacional, Brasilia"
+  },
+  {
+    "id": "300186496",
+    "link": "/worldcup/matches/round=255931/match=300186496/index.html",
+    "date": "2014-06-15T16:00",
+    "group": "Group E",
+    "home": "FRA",
+    "score": {
+      "home": 3,
+      "away": 0
+    },
+    "away": "HON",
+    "stadium": "Estadio Beira-Rio, Porto Alegre"
+  },
+  {
+    "id": "300186477",
+    "link": "/worldcup/matches/round=255931/match=300186477/index.html",
+    "date": "2014-06-15T19:00",
+    "group": "Group F",
+    "home": "ARG",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "BIH",
+    "stadium": "Estadio do Maracana, Rio De Janeiro"
+  },
+  {
+    "id": "300186475",
+    "link": "/worldcup/matches/round=255931/match=300186475/index.html",
+    "date": "2014-06-16T13:00",
+    "group": "Group G",
+    "home": "GER",
+    "score": {
+      "home": 4,
+      "away": 0
+    },
+    "away": "POR",
+    "stadium": "Arena Fonte Nova, Salvador"
+  },
+  {
+    "id": "300186505",
+    "link": "/worldcup/matches/round=255931/match=300186505/index.html",
+    "date": "2014-06-16T16:00",
+    "group": "Group F",
+    "home": "IRN",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "away": "NGA",
+    "stadium": "Arena da Baixada, Curitiba"
+  },
+  {
+    "id": "300186512",
+    "link": "/worldcup/matches/round=255931/match=300186512/index.html",
+    "date": "2014-06-16T19:00",
+    "group": "Group G",
+    "home": "GHA",
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "away": "USA",
+    "stadium": "Estadio das Dunas, Natal"
+  },
+  {
+    "id": "300186479",
+    "link": "/worldcup/matches/round=255931/match=300186479/index.html",
+    "date": "2014-06-17T13:00",
+    "group": "Group H",
+    "home": "BEL",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "ALG",
+    "stadium": "Estadio Mineirao, Belo Horizonte"
+  },
+  {
+    "id": "300186509",
+    "link": "/worldcup/matches/round=255931/match=300186509/index.html",
+    "date": "2014-06-17T16:00",
+    "group": "Group A",
+    "home": "BRA",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "away": "MEX",
+    "stadium": "Estadio Castelao, Fortaleza"
+  },
+  {
+    "id": "300186499",
+    "link": "/worldcup/matches/round=255931/match=300186499/index.html",
+    "date": "2014-06-17T18:00",
+    "group": "Group H",
+    "home": "RUS",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "away": "KOR",
+    "stadium": "Arena Pantanal, Cuiaba"
+  },
+  {
+    "id": "300186478",
+    "link": "/worldcup/matches/round=255931/match=300186478/index.html",
+    "date": "2014-06-18T13:00",
+    "group": "Group B",
+    "home": "AUS",
+    "score": {
+      "home": 2,
+      "away": 3
+    },
+    "away": "NED",
+    "stadium": "Estadio Beira-Rio, Porto Alegre"
+  },
+  {
+    "id": "300186498",
+    "link": "/worldcup/matches/round=255931/match=300186498/index.html",
+    "date": "2014-06-18T16:00",
+    "group": "Group B",
+    "home": "ESP",
+    "score": {
+      "home": 0,
+      "away": 2
+    },
+    "away": "CHI",
+    "stadium": "Estadio do Maracana, Rio De Janeiro"
+  },
+  {
+    "id": "300186453",
+    "link": "/worldcup/matches/round=255931/match=300186453/index.html",
+    "date": "2014-06-18T18:00",
+    "group": "Group A",
+    "home": "CMR",
+    "score": {
+      "home": 0,
+      "away": 4
+    },
+    "away": "CRO",
+    "stadium": "Arena Amazonia, Manaus"
+  },
+  {
+    "id": "300186468",
+    "link": "/worldcup/matches/round=255931/match=300186468/index.html",
+    "date": "2014-06-19T13:00",
+    "group": "Group C",
+    "home": "COL",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "CIV",
+    "stadium": "Estadio Nacional, Brasilia"
+  },
+  {
+    "id": "300186486",
+    "link": "/worldcup/matches/round=255931/match=300186486/index.html",
+    "date": "2014-06-19T16:00",
+    "group": "Group D",
+    "home": "URU",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "ENG",
+    "stadium": "Arena de Sao Paulo, Sao Paulo"
+  },
+  {
+    "id": "300186454",
+    "link": "/worldcup/matches/round=255931/match=300186454/index.html",
+    "date": "2014-06-19T19:00",
+    "group": "Group C",
+    "home": "JPN",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "away": "GRE",
+    "stadium": "Estadio das Dunas, Natal"
+  },
+  {
+    "id": "300186500",
+    "link": "/worldcup/matches/round=255931/match=300186500/index.html",
+    "date": "2014-06-20T13:00",
+    "group": "Group D",
+    "home": "ITA",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "away": "CRC",
+    "stadium": "Arena Pernambuco, Recife"
+  },
+  {
+    "id": "300186514",
+    "link": "/worldcup/matches/round=255931/match=300186514/index.html",
+    "date": "2014-06-20T16:00",
+    "group": "Group E",
+    "home": "SUI",
+    "score": {
+      "home": 2,
+      "away": 5
+    },
+    "away": "FRA",
+    "stadium": "Arena Fonte Nova, Salvador"
+  },
+  {
+    "id": "300186463",
+    "link": "/worldcup/matches/round=255931/match=300186463/index.html",
+    "date": "2014-06-20T19:00",
+    "group": "Group E",
+    "home": "HON",
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "away": "ECU",
+    "stadium": "Arena da Baixada, Curitiba"
+  },
+  {
+    "id": "300186466",
+    "link": "/worldcup/matches/round=255931/match=300186466/index.html",
+    "date": "2014-06-21T13:00",
+    "group": "Group F",
+    "home": "ARG",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "IRN",
+    "stadium": "Estadio Mineirao, Belo Horizonte"
+  },
+  {
+    "id": "300186493",
+    "link": "/worldcup/matches/round=255931/match=300186493/index.html",
+    "date": "2014-06-21T16:00",
+    "group": "Group G",
+    "home": "GER",
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "away": "GHA",
+    "stadium": "Estadio Castelao, Fortaleza"
+  },
+  {
+    "id": "300186511",
+    "link": "/worldcup/matches/round=255931/match=300186511/index.html",
+    "date": "2014-06-21T18:00",
+    "group": "Group F",
+    "home": "NGA",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "BIH",
+    "stadium": "Arena Pantanal, Cuiaba"
+  },
+  {
+    "id": "300186481",
+    "link": "/worldcup/matches/round=255931/match=300186481/index.html",
+    "date": "2014-06-22T13:00",
+    "group": "Group H",
+    "home": "BEL",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "RUS",
+    "stadium": "Estadio do Maracana, Rio De Janeiro"
+  },
+  {
+    "id": "300186495",
+    "link": "/worldcup/matches/round=255931/match=300186495/index.html",
+    "date": "2014-06-22T16:00",
+    "group": "Group H",
+    "home": "KOR",
+    "score": {
+      "home": 2,
+      "away": 4
+    },
+    "away": "ALG",
+    "stadium": "Estadio Beira-Rio, Porto Alegre"
+  },
+  {
+    "id": "300186483",
+    "link": "/worldcup/matches/round=255931/match=300186483/index.html",
+    "date": "2014-06-22T18:00",
+    "group": "Group G",
+    "home": "USA",
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "away": "POR",
+    "stadium": "Arena Amazonia, Manaus"
+  },
+  {
+    "id": "300186467",
+    "link": "/worldcup/matches/round=255931/match=300186467/index.html",
+    "date": "2014-06-23T13:00",
+    "group": "Group B",
+    "home": "AUS",
+    "score": {
+      "home": 0,
+      "away": 3
+    },
+    "away": "ESP",
+    "stadium": "Arena da Baixada, Curitiba"
+  },
+  {
+    "id": "300186470",
+    "link": "/worldcup/matches/round=255931/match=300186470/index.html",
+    "date": "2014-06-23T13:00",
+    "group": "Group B",
+    "home": "NED",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "away": "CHI",
+    "stadium": "Arena de Sao Paulo, Sao Paulo"
+  },
+  {
+    "id": "300186472",
+    "link": "/worldcup/matches/round=255931/match=300186472/index.html",
+    "date": "2014-06-23T17:00",
+    "group": "Group A",
+    "home": "CMR",
+    "score": {
+      "home": 1,
+      "away": 4
+    },
+    "away": "BRA",
+    "stadium": "Estadio Nacional, Brasilia"
+  },
+  {
+    "id": "300186452",
+    "link": "/worldcup/matches/round=255931/match=300186452/index.html",
+    "date": "2014-06-23T17:00",
+    "group": "Group A",
+    "home": "CRO",
+    "score": {
+      "home": 1,
+      "away": 3
+    },
+    "away": "MEX",
+    "stadium": "Arena Pernambuco, Recife"
+  },
+  {
+    "id": "300186465",
+    "link": "/worldcup/matches/round=255931/match=300186465/index.html",
+    "date": "2014-06-24T13:00",
+    "group": "Group D",
+    "home": "ITA",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "away": "URU",
+    "stadium": "Estadio das Dunas, Natal"
+  },
+  {
+    "id": "300186484",
+    "link": "/worldcup/matches/round=255931/match=300186484/index.html",
+    "date": "2014-06-24T13:00",
+    "group": "Group D",
+    "home": "CRC",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "away": "ENG",
+    "stadium": "Estadio Mineirao, Belo Horizonte"
+  },
+  {
+    "id": "300186457",
+    "link": "/worldcup/matches/round=255931/match=300186457/index.html",
+    "date": "2014-06-24T16:00",
+    "group": "Group C",
+    "home": "JPN",
+    "score": {
+      "home": 1,
+      "away": 4
+    },
+    "away": "COL",
+    "stadium": "Arena Pantanal, Cuiaba"
+  },
+  {
+    "id": "300186455",
+    "link": "/worldcup/matches/round=255931/match=300186455/index.html",
+    "date": "2014-06-24T17:00",
+    "group": "Group C",
+    "home": "GRE",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "CIV",
+    "stadium": "Estadio Castelao, Fortaleza"
+  },
+  {
+    "id": "300186458",
+    "link": "/worldcup/matches/round=255931/match=300186458/index.html",
+    "date": "2014-06-25T13:00",
+    "group": "Group F",
+    "home": "NGA",
+    "score": {
+      "home": 2,
+      "away": 3
+    },
+    "away": "ARG",
+    "stadium": "Estadio Beira-Rio, Porto Alegre"
+  },
+  {
+    "id": "300186464",
+    "link": "/worldcup/matches/round=255931/match=300186464/index.html",
+    "date": "2014-06-25T13:00",
+    "group": "Group F",
+    "home": "BIH",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "away": "IRN",
+    "stadium": "Arena Fonte Nova, Salvador"
+  },
+  {
+    "id": "300186482",
+    "link": "/worldcup/matches/round=255931/match=300186482/index.html",
+    "date": "2014-06-25T16:00",
+    "group": "Group E",
+    "home": "HON",
+    "score": {
+      "home": 0,
+      "away": 3
+    },
+    "away": "SUI",
+    "stadium": "Arena Amazonia, Manaus"
+  },
+  {
+    "id": "300186515",
+    "link": "/worldcup/matches/round=255931/match=300186515/index.html",
+    "date": "2014-06-25T17:00",
+    "group": "Group E",
+    "home": "ECU",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "away": "FRA",
+    "stadium": "Estadio do Maracana, Rio De Janeiro"
+  },
+  {
+    "id": "300186469",
+    "link": "/worldcup/matches/round=255931/match=300186469/index.html",
+    "date": "2014-06-26T13:00",
+    "group": "Group G",
+    "home": "USA",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "away": "GER",
+    "stadium": "Arena Pernambuco, Recife"
+  },
+  {
+    "id": "300186476",
+    "link": "/worldcup/matches/round=255931/match=300186476/index.html",
+    "date": "2014-06-26T13:00",
+    "group": "Group G",
+    "home": "POR",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "GHA",
+    "stadium": "Estadio Nacional, Brasilia"
+  },
+  {
+    "id": "300186480",
+    "link": "/worldcup/matches/round=255931/match=300186480/index.html",
+    "date": "2014-06-26T17:00",
+    "group": "Group H",
+    "home": "KOR",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "away": "BEL",
+    "stadium": "Arena de Sao Paulo, Sao Paulo"
+  },
+  {
+    "id": "300186506",
+    "link": "/worldcup/matches/round=255931/match=300186506/index.html",
+    "date": "2014-06-26T17:00",
+    "group": "Group H",
+    "home": "ALG",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "away": "RUS",
+    "stadium": "Arena da Baixada, Curitiba"
+  },
+  {
+    "id": "300186487",
+    "link": "/worldcup/matches/round=255951/match=300186487/index.html",
+    "date": "2014-06-28T13:00",
+    "group": "Round of 16",
+    "home": "BRA",
+    "score": {
+      "home": 1,
+      "away": 1,
+      "penalties": {
+        "home": 3,
+        "away": 2
+      }
+    },
+    "away": "CHI",
+    "stadium": "Estadio Mineirao, Belo Horizonte"
+  },
+  {
+    "id": "300186491",
+    "link": "/worldcup/matches/round=255951/match=300186491/index.html",
+    "date": "2014-06-28T17:00",
+    "group": "Round of 16",
+    "home": "COL",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "away": "URU",
+    "stadium": "Estadio do Maracana, Rio De Janeiro"
+  },
+  {
+    "id": "300186508",
+    "link": "/worldcup/matches/round=255951/match=300186508/index.html",
+    "date": "2014-06-29T13:00",
+    "group": "Round of 16",
+    "home": "NED",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "MEX",
+    "stadium": "Estadio Castelao, Fortaleza"
+  },
+  {
+    "id": "300186459",
+    "link": "/worldcup/matches/round=255951/match=300186459/index.html",
+    "date": "2014-06-29T17:00",
+    "group": "Round of 16",
+    "home": "CRC",
+    "score": {
+      "home": 1,
+      "away": 1,
+      "penalties": {
+        "home": 5,
+        "away": 3
+      }
+    },
+    "away": "GRE",
+    "stadium": "Arena Pernambuco, Recife"
+  },
+  {
+    "id": "300186462",
+    "link": "/worldcup/matches/round=255951/match=300186462/index.html",
+    "date": "2014-06-30T13:00",
+    "group": "Round of 16",
+    "home": "FRA",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "away": "NGA",
+    "stadium": "Estadio Nacional, Brasilia"
+  },
+  {
+    "id": "300186460",
+    "link": "/worldcup/matches/round=255951/match=300186460/index.html",
+    "date": "2014-06-30T17:00",
+    "group": "Round of 16",
+    "home": "GER",
+    "score": {
+      "home": 2,
+      "away": 1,
+      "note": "AET"
+    },
+    "away": "ALG",
+    "stadium": "Estadio Beira-Rio, Porto Alegre"
+  },
+  {
+    "id": "300186503",
+    "link": "/worldcup/matches/round=255951/match=300186503/index.html",
+    "date": "2014-07-01T13:00",
+    "group": "Round of 16",
+    "home": "ARG",
+    "score": {
+      "home": 1,
+      "away": 0,
+      "note": "AET"
+    },
+    "away": "SUI",
+    "stadium": "Arena de Sao Paulo, Sao Paulo"
+  },
+  {
+    "id": "300186497",
+    "link": "/worldcup/matches/round=255951/match=300186497/index.html",
+    "date": "2014-07-01T17:00",
+    "group": "Round of 16",
+    "home": "BEL",
+    "score": {
+      "home": 2,
+      "away": 1,
+      "note": "AET"
+    },
+    "away": "USA",
+    "stadium": "Arena Fonte Nova, Salvador"
+  },
+  {
+    "id": "300186485",
+    "link": "/worldcup/matches/round=255953/match=300186485/index.html",
+    "date": "2014-07-04T13:00",
+    "group": "Quarter-finals",
+    "home": "FRA",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "away": "GER",
+    "stadium": "Estadio do Maracana, Rio De Janeiro"
+  },
+  {
+    "id": "300186461",
+    "link": "/worldcup/matches/round=255953/match=300186461/index.html",
+    "date": "2014-07-04T17:00",
+    "group": "Quarter-finals",
+    "home": "BRA",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "COL",
+    "stadium": "Estadio Castelao, Fortaleza"
+  },
+  {
+    "id": "300186504",
+    "link": "/worldcup/matches/round=255953/match=300186504/index.html",
+    "date": "2014-07-05T13:00",
+    "group": "Quarter-finals",
+    "home": "ARG",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "BEL",
+    "stadium": "Estadio Nacional, Brasilia"
+  },
+  {
+    "id": "300186488",
+    "link": "/worldcup/matches/round=255953/match=300186488/index.html",
+    "date": "2014-07-05T17:00",
+    "group": "Quarter-finals",
+    "home": "NED",
+    "score": {
+      "home": 0,
+      "away": 0,
+      "penalties": {
+        "home": 4,
+        "away": 3
+      }
+    },
+    "away": "CRC",
+    "stadium": "Arena Fonte Nova, Salvador"
+  },
+  {
+    "id": "300186474",
+    "link": "/worldcup/matches/round=255955/match=300186474/index.html",
+    "date": "2014-07-08T17:00",
+    "group": "Semi-finals",
+    "home": "BRA",
+    "score": {
+      "home": 1,
+      "away": 7
+    },
+    "away": "GER",
+    "stadium": "Estadio Mineirao, Belo Horizonte"
+  },
+  {
+    "id": "300186490",
+    "link": "/worldcup/matches/round=255955/match=300186490/index.html",
+    "date": "2014-07-09T17:00",
+    "group": "Semi-finals",
+    "home": "NED",
+    "score": {
+      "home": 0,
+      "away": 0,
+      "penalties": {
+        "home": 2,
+        "away": 4
+      }
+    },
+    "away": "ARG",
+    "stadium": "Arena de Sao Paulo, Sao Paulo"
+  },
+  {
+    "id": "300186502",
+    "link": "/worldcup/matches/round=255957/match=300186502/index.html",
+    "date": "2014-07-12T17:00",
+    "group": "Play-off for third place",
+    "home": "BRA",
+    "score": {
+      "home": 0,
+      "away": 3
+    },
+    "away": "NED",
+    "stadium": "Estadio Nacional, Brasilia"
+  },
+  {
+    "id": "300186501",
+    "link": "/worldcup/matches/round=255959/match=300186501/index.html",
+    "date": "2014-07-13T16:00",
+    "group": "Final",
+    "home": "GER",
+    "score": {
+      "home": 1,
+      "away": 0,
+      "note": "AET"
+    },
+    "away": "ARG",
+    "stadium": "Estadio do Maracana, Rio De Janeiro"
+  }
+]

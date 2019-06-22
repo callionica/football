@@ -1,0 +1,341 @@
+[
+  {
+    "id": "1315",
+    "link": "/worldcup/matches/round=211/match=1315/index.html",
+    "date": "1954-06-16T18:00",
+    "group": "Group 3",
+    "home": "URU",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "away": "TCH",
+    "stadium": "Wankdorf Stadium, Berne"
+  },
+  {
+    "id": "1236",
+    "link": "/worldcup/matches/round=211/match=1236/index.html",
+    "date": "1954-06-16T18:00",
+    "group": "Group 3",
+    "home": "AUT",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "SCO",
+    "stadium": "Hardturm, Zurich"
+  },
+  {
+    "id": "1249",
+    "link": "/worldcup/matches/round=211/match=1249/index.html",
+    "date": "1954-06-16T18:00",
+    "group": "Group 1",
+    "home": "BRA",
+    "score": {
+      "home": 5,
+      "away": 0
+    },
+    "away": "MEX",
+    "stadium": "Charmilles, Geneva"
+  },
+  {
+    "id": "1276",
+    "link": "/worldcup/matches/round=211/match=1276/index.html",
+    "date": "1954-06-16T18:00",
+    "group": "Group 1",
+    "home": "YUG",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "FRA",
+    "stadium": "La Pontaise, Lausanne"
+  },
+  {
+    "id": "1283",
+    "link": "/worldcup/matches/round=211/match=1283/index.html",
+    "date": "1954-06-17T18:00",
+    "group": "Group 2",
+    "home": "FRG",
+    "score": {
+      "home": 4,
+      "away": 1
+    },
+    "away": "TUR",
+    "stadium": "Wankdorf Stadium, Berne"
+  },
+  {
+    "id": "1294",
+    "link": "/worldcup/matches/round=211/match=1294/index.html",
+    "date": "1954-06-17T18:00",
+    "group": "Group 2",
+    "home": "HUN",
+    "score": {
+      "home": 9,
+      "away": 0
+    },
+    "away": "KOR",
+    "stadium": "Hardturm, Zurich"
+  },
+  {
+    "id": "1240",
+    "link": "/worldcup/matches/round=211/match=1240/index.html",
+    "date": "1954-06-17T18:10",
+    "group": "Group 4",
+    "home": "ENG",
+    "score": {
+      "home": 4,
+      "away": 4
+    },
+    "away": "BEL",
+    "stadium": "St. Jakob, Basel"
+  },
+  {
+    "id": "1300",
+    "link": "/worldcup/matches/round=211/match=1300/index.html",
+    "date": "1954-06-17T17:50",
+    "group": "Group 4",
+    "home": "SUI",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "ITA",
+    "stadium": "La Pontaise, Lausanne"
+  },
+  {
+    "id": "1313",
+    "link": "/worldcup/matches/round=211/match=1313/index.html",
+    "date": "1954-06-19T16:50",
+    "group": "Group 3",
+    "home": "URU",
+    "score": {
+      "home": 7,
+      "away": 0
+    },
+    "away": "SCO",
+    "stadium": "St. Jakob, Basel"
+  },
+  {
+    "id": "1238",
+    "link": "/worldcup/matches/round=211/match=1238/index.html",
+    "date": "1954-06-19T17:00",
+    "group": "Group 3",
+    "home": "AUT",
+    "score": {
+      "home": 5,
+      "away": 0
+    },
+    "away": "TCH",
+    "stadium": "Hardturm, Zurich"
+  },
+  {
+    "id": "1275",
+    "link": "/worldcup/matches/round=211/match=1275/index.html",
+    "date": "1954-06-19T17:10",
+    "group": "Group 1",
+    "home": "FRA",
+    "score": {
+      "home": 3,
+      "away": 2
+    },
+    "away": "MEX",
+    "stadium": "Charmilles, Geneva"
+  },
+  {
+    "id": "1252",
+    "link": "/worldcup/matches/round=211/match=1252/index.html",
+    "date": "1954-06-19T17:00",
+    "group": "Group 1",
+    "home": "BRA",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "away": "YUG",
+    "stadium": "La Pontaise, Lausanne"
+  },
+  {
+    "id": "1277",
+    "link": "/worldcup/matches/round=211/match=1277/index.html",
+    "date": "1954-06-20T16:50",
+    "group": "Group 2",
+    "home": "HUN",
+    "score": {
+      "home": 8,
+      "away": 3
+    },
+    "away": "FRG",
+    "stadium": "St. Jakob, Basel"
+  },
+  {
+    "id": "1304",
+    "link": "/worldcup/matches/round=211/match=1304/index.html",
+    "date": "1954-06-20T17:00",
+    "group": "Group 2",
+    "home": "TUR",
+    "score": {
+      "home": 7,
+      "away": 0
+    },
+    "away": "KOR",
+    "stadium": "Charmilles, Geneva"
+  },
+  {
+    "id": "1263",
+    "link": "/worldcup/matches/round=211/match=1263/index.html",
+    "date": "1954-06-20T17:10",
+    "group": "Group 4",
+    "home": "ENG",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "away": "SUI",
+    "stadium": "Wankdorf Stadium, Berne"
+  },
+  {
+    "id": "1243",
+    "link": "/worldcup/matches/round=211/match=1243/index.html",
+    "date": "1954-06-20T17:00",
+    "group": "Group 4",
+    "home": "ITA",
+    "score": {
+      "home": 4,
+      "away": 1
+    },
+    "away": "BEL",
+    "stadium": "Comunale di Cornaredo, Lugano"
+  },
+  {
+    "id": "1284",
+    "link": "/worldcup/matches/round=211/match=1284/index.html",
+    "date": "1954-06-23T18:00",
+    "group": "Group 2",
+    "home": "FRG",
+    "score": {
+      "home": 7,
+      "away": 2
+    },
+    "away": "TUR",
+    "stadium": "Hardturm, Zurich"
+  },
+  {
+    "id": "1301",
+    "link": "/worldcup/matches/round=211/match=1301/index.html",
+    "date": "1954-06-23T18:00",
+    "group": "Group 4",
+    "home": "SUI",
+    "score": {
+      "home": 4,
+      "away": 1
+    },
+    "away": "ITA",
+    "stadium": "St. Jakob, Basel"
+  },
+  {
+    "id": "1264",
+    "link": "/worldcup/matches/round=212/match=1264/index.html",
+    "date": "1954-06-26T17:00",
+    "group": "Quarter-finals",
+    "home": "URU",
+    "score": {
+      "home": 4,
+      "away": 2
+    },
+    "away": "ENG",
+    "stadium": "St. Jakob, Basel"
+  },
+  {
+    "id": "1237",
+    "link": "/worldcup/matches/round=212/match=1237/index.html",
+    "date": "1954-06-26T17:00",
+    "group": "Quarter-finals",
+    "home": "AUT",
+    "score": {
+      "home": 7,
+      "away": 5
+    },
+    "away": "SUI",
+    "stadium": "La Pontaise, Lausanne"
+  },
+  {
+    "id": "1285",
+    "link": "/worldcup/matches/round=212/match=1285/index.html",
+    "date": "1954-06-27T17:00",
+    "group": "Quarter-finals",
+    "home": "FRG",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "away": "YUG",
+    "stadium": "Charmilles, Geneva"
+  },
+  {
+    "id": "1248",
+    "link": "/worldcup/matches/round=212/match=1248/index.html",
+    "date": "1954-06-27T17:00",
+    "group": "Quarter-finals",
+    "home": "HUN",
+    "score": {
+      "home": 4,
+      "away": 2
+    },
+    "away": "BRA",
+    "stadium": "Wankdorf Stadium, Berne"
+  },
+  {
+    "id": "1233",
+    "link": "/worldcup/matches/round=462/match=1233/index.html",
+    "date": "1954-06-30T18:00",
+    "group": "Semi-finals",
+    "home": "FRG",
+    "score": {
+      "home": 6,
+      "away": 1
+    },
+    "away": "AUT",
+    "stadium": "St. Jakob, Basel"
+  },
+  {
+    "id": "1295",
+    "link": "/worldcup/matches/round=462/match=1295/index.html",
+    "date": "1954-06-30T18:00",
+    "group": "Semi-finals",
+    "home": "HUN",
+    "score": {
+      "home": 4,
+      "away": 2,
+      "note": "AET"
+    },
+    "away": "URU",
+    "stadium": "La Pontaise, Lausanne"
+  },
+  {
+    "id": "1239",
+    "link": "/worldcup/matches/round=3485/match=1239/index.html",
+    "date": "1954-07-03T17:00",
+    "group": "Match for third place",
+    "home": "AUT",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "away": "URU",
+    "stadium": "Hardturm, Zurich"
+  },
+  {
+    "id": "1278",
+    "link": "/worldcup/matches/round=3484/match=1278/index.html",
+    "date": "1954-07-04T17:00",
+    "group": "Final",
+    "home": "FRG",
+    "score": {
+      "home": 3,
+      "away": 2
+    },
+    "away": "HUN",
+    "stadium": "Wankdorf Stadium, Berne"
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "Carlos Dittborn, Arica": {
+    "name": "Carlos Dittborn",
+    "locality": "Arica",
+    "country": "Chile",
+    "key": "Carlos Dittborn, Arica"
+  },
+  "Estadio Sausalito, Vina Del Mar": {
+    "name": "Estadio Sausalito",
+    "locality": "Vina Del Mar",
+    "country": "Chile",
+    "key": "Estadio Sausalito, Vina Del Mar"
+  },
+  "El Teniente - Estadio Braden Copper Co., Rancagua": {
+    "name": "El Teniente - Estadio Braden Copper Co.",
+    "locality": "Rancagua",
+    "country": "Chile",
+    "key": "El Teniente - Estadio Braden Copper Co., Rancagua"
+  },
+  "Nacional, Santiago De Chile": {
+    "name": "Nacional",
+    "locality": "Santiago De Chile",
+    "country": "Chile",
+    "key": "Nacional, Santiago De Chile"
+  }
+}

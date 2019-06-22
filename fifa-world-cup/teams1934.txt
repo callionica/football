@@ -1,0 +1,178 @@
+{
+  "AUT": {
+    "fifa_code": "AUT",
+    "fifa_name": "Austria",
+    "fifa_id": "43934",
+    "fifa_link": "/worldcup/archive/italy1934/teams/team=43934/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Austria_national_football_team",
+    "wiki_name": "Austria",
+    "bbc_name": "Austria",
+    "daily_mail_name": "Austria"
+  },
+  "FRA": {
+    "fifa_code": "FRA",
+    "fifa_name": "France",
+    "fifa_id": "43946",
+    "fifa_link": "/worldcup/archive/italy1934/teams/team=43946/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/France_national_football_team",
+    "wiki_name": "France",
+    "bbc_name": "France",
+    "daily_mail_name": "France"
+  },
+  "HUN": {
+    "fifa_code": "HUN",
+    "fifa_name": "Hungary",
+    "fifa_id": "43950",
+    "fifa_link": "/worldcup/archive/italy1934/teams/team=43950/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Hungary_national_football_team",
+    "wiki_name": "Hungary",
+    "bbc_name": "Hungary",
+    "daily_mail_name": "Hungary"
+  },
+  "EGY": {
+    "fifa_code": "EGY",
+    "fifa_name": "Egypt",
+    "fifa_id": "43855",
+    "fifa_link": "/worldcup/archive/italy1934/teams/team=43855/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Egypt_national_football_team",
+    "wiki_name": "Egypt",
+    "bbc_name": "Egypt",
+    "daily_mail_name": "Egypt"
+  },
+  "SUI": {
+    "fifa_code": "SUI",
+    "fifa_name": "Switzerland",
+    "fifa_id": "43971",
+    "fifa_link": "/worldcup/archive/italy1934/teams/team=43971/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Switzerland_national_football_team",
+    "wiki_name": "Switzerland",
+    "bbc_name": "Switzerland",
+    "daily_mail_name": "Switzerland"
+  },
+  "NED": {
+    "fifa_code": "NED",
+    "fifa_name": "Netherlands",
+    "fifa_id": "43960",
+    "fifa_link": "/worldcup/archive/italy1934/teams/team=43960/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Netherlands_national_football_team",
+    "wiki_name": "Netherlands",
+    "bbc_name": "Netherlands",
+    "daily_mail_name": "Holland"
+  },
+  "SWE": {
+    "fifa_code": "SWE",
+    "fifa_name": "Sweden",
+    "fifa_id": "43970",
+    "fifa_link": "/worldcup/archive/italy1934/teams/team=43970/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Sweden_national_football_team",
+    "wiki_name": "Sweden",
+    "bbc_name": "Sweden",
+    "daily_mail_name": "Sweden"
+  },
+  "ARG": {
+    "fifa_code": "ARG",
+    "fifa_name": "Argentina",
+    "fifa_id": "43922",
+    "fifa_link": "/worldcup/archive/italy1934/teams/team=43922/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Argentina_national_football_team",
+    "wiki_name": "Argentina",
+    "bbc_name": "Argentina",
+    "daily_mail_name": "Argentina"
+  },
+  "GER": {
+    "fifa_code": "GER",
+    "fifa_name": "Germany",
+    "fifa_id": "43948",
+    "fifa_link": "/worldcup/archive/italy1934/teams/team=43948/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Germany_national_football_team",
+    "wiki_name": "Germany",
+    "bbc_name": "Germany",
+    "daily_mail_name": "Germany"
+  },
+  "BEL": {
+    "fifa_code": "BEL",
+    "fifa_name": "Belgium",
+    "fifa_id": "43935",
+    "fifa_link": "/worldcup/archive/italy1934/teams/team=43935/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Belgium_national_football_team",
+    "wiki_name": "Belgium",
+    "bbc_name": "Belgium",
+    "daily_mail_name": "Belgium"
+  },
+  "ESP": {
+    "fifa_code": "ESP",
+    "fifa_name": "Spain",
+    "fifa_id": "43969",
+    "fifa_link": "/worldcup/archive/italy1934/teams/team=43969/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Spain_national_football_team",
+    "wiki_name": "Spain",
+    "bbc_name": "Spain",
+    "daily_mail_name": "Spain"
+  },
+  "BRA": {
+    "fifa_code": "BRA",
+    "fifa_name": "Brazil",
+    "fifa_id": "43924",
+    "fifa_link": "/worldcup/archive/italy1934/teams/team=43924/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Brazil_national_football_team",
+    "wiki_name": "Brazil",
+    "bbc_name": "Brazil",
+    "daily_mail_name": "Brazil"
+  },
+  "ITA": {
+    "fifa_code": "ITA",
+    "fifa_name": "Italy",
+    "fifa_id": "43954",
+    "fifa_link": "/worldcup/archive/italy1934/teams/team=43954/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Italy_national_football_team",
+    "wiki_name": "Italy",
+    "bbc_name": "Italy",
+    "daily_mail_name": "Italy"
+  },
+  "USA": {
+    "fifa_code": "USA",
+    "fifa_name": "USA",
+    "fifa_id": "43921",
+    "fifa_link": "/worldcup/archive/italy1934/teams/team=43921/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/United_States_men%27s_national_soccer_team",
+    "wiki_name": "United States",
+    "bbc_name": "USA",
+    "daily_mail_name": "USA"
+  },
+  "TCH": {
+    "fifa_code": "TCH",
+    "fifa_name": "Czechoslovakia",
+    "fifa_id": "44025",
+    "fifa_link": "/worldcup/archive/italy1934/teams/team=44025/players.html",
+    "current": false,
+    "wiki_link": "https://en.wikipedia.org/wiki/Czechoslovakia_national_football_team",
+    "wiki_name": "Czechoslovakia",
+    "bbc_name": "Czechoslovakia",
+    "daily_mail_name": "Czechoslovakia"
+  },
+  "ROU": {
+    "fifa_code": "ROU",
+    "fifa_name": "Romania",
+    "fifa_id": "43964",
+    "fifa_link": "/worldcup/archive/italy1934/teams/team=43964/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Romania_national_football_team",
+    "wiki_name": "Romania",
+    "bbc_name": "Romania",
+    "daily_mail_name": "Romania"
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "BRA": {
+    "fifa_code": "BRA",
+    "fifa_name": "Brazil",
+    "fifa_id": "43924",
+    "fifa_link": "/worldcup/archive/germany1974/teams/team=43924/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Brazil_national_football_team",
+    "wiki_name": "Brazil",
+    "bbc_name": "Brazil",
+    "daily_mail_name": "Brazil"
+  },
+  "YUG": {
+    "fifa_code": "YUG",
+    "fifa_name": "Yugoslavia",
+    "fifa_id": "43975",
+    "fifa_link": "/worldcup/archive/germany1974/teams/team=43975/players.html",
+    "current": false,
+    "wiki_link": "https://en.wikipedia.org/wiki/Yugoslavia_national_football_team",
+    "wiki_name": "Yugoslavia",
+    "bbc_name": "Yugoslavia",
+    "daily_mail_name": "Yugoslavia"
+  },
+  "FRG": {
+    "fifa_code": "FRG",
+    "fifa_name": "Germany FR",
+    "fifa_id": "44023",
+    "fifa_link": "/worldcup/archive/germany1974/teams/team=44023/players.html",
+    "current": false,
+    "wiki_link": "https://en.wikipedia.org/wiki/Germany_national_football_team",
+    "wiki_name": "West Germany",
+    "bbc_name": "West Germany",
+    "daily_mail_name": "West Germany"
+  },
+  "CHI": {
+    "fifa_code": "CHI",
+    "fifa_name": "Chile",
+    "fifa_id": "43925",
+    "fifa_link": "/worldcup/archive/germany1974/teams/team=43925/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Chile_national_football_team",
+    "wiki_name": "Chile",
+    "bbc_name": "Chile",
+    "daily_mail_name": "Chile"
+  },
+  "GDR": {
+    "fifa_code": "GDR",
+    "fifa_name": "German DR",
+    "fifa_id": "44024",
+    "fifa_link": "/worldcup/archive/germany1974/teams/team=44024/players.html",
+    "current": false,
+    "wiki_link": "https://en.wikipedia.org/wiki/East_Germany_national_football_team",
+    "wiki_name": "East Germany",
+    "bbc_name": "East Germany",
+    "daily_mail_name": "East Germany"
+  },
+  "AUS": {
+    "fifa_code": "AUS",
+    "fifa_name": "Australia",
+    "fifa_id": "43976",
+    "fifa_link": "/worldcup/archive/germany1974/teams/team=43976/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Australia_national_soccer_team",
+    "wiki_name": "Australia",
+    "bbc_name": "Australia",
+    "daily_mail_name": "Australia"
+  },
+  "ZAI": {
+    "fifa_code": "ZAI",
+    "fifa_name": "Zaire",
+    "fifa_id": "43890",
+    "fifa_link": "/worldcup/archive/germany1974/teams/team=43890/players.html",
+    "current": false,
+    "wiki_link": "https://en.wikipedia.org/wiki/DR_Congo_national_football_team",
+    "wiki_name": "Zaire",
+    "bbc_name": "Zaire",
+    "daily_mail_name": "Zaire"
+  },
+  "SCO": {
+    "fifa_code": "SCO",
+    "fifa_name": "Scotland",
+    "fifa_id": "43967",
+    "fifa_link": "/worldcup/archive/germany1974/teams/team=43967/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Scotland_national_football_team",
+    "wiki_name": "Scotland",
+    "bbc_name": "Scotland",
+    "daily_mail_name": "Scotland"
+  },
+  "URU": {
+    "fifa_code": "URU",
+    "fifa_name": "Uruguay",
+    "fifa_id": "43930",
+    "fifa_link": "/worldcup/archive/germany1974/teams/team=43930/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Uruguay_national_football_team",
+    "wiki_name": "Uruguay",
+    "bbc_name": "Uruguay",
+    "daily_mail_name": "Uruguay"
+  },
+  "NED": {
+    "fifa_code": "NED",
+    "fifa_name": "Netherlands",
+    "fifa_id": "43960",
+    "fifa_link": "/worldcup/archive/germany1974/teams/team=43960/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Netherlands_national_football_team",
+    "wiki_name": "Netherlands",
+    "bbc_name": "Netherlands",
+    "daily_mail_name": "Holland"
+  },
+  "SWE": {
+    "fifa_code": "SWE",
+    "fifa_name": "Sweden",
+    "fifa_id": "43970",
+    "fifa_link": "/worldcup/archive/germany1974/teams/team=43970/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Sweden_national_football_team",
+    "wiki_name": "Sweden",
+    "bbc_name": "Sweden",
+    "daily_mail_name": "Sweden"
+  },
+  "BUL": {
+    "fifa_code": "BUL",
+    "fifa_name": "Bulgaria",
+    "fifa_id": "43936",
+    "fifa_link": "/worldcup/archive/germany1974/teams/team=43936/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Bulgaria_national_football_team",
+    "wiki_name": "Bulgaria",
+    "bbc_name": "Bulgaria",
+    "daily_mail_name": "Bulgaria"
+  },
+  "ITA": {
+    "fifa_code": "ITA",
+    "fifa_name": "Italy",
+    "fifa_id": "43954",
+    "fifa_link": "/worldcup/archive/germany1974/teams/team=43954/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Italy_national_football_team",
+    "wiki_name": "Italy",
+    "bbc_name": "Italy",
+    "daily_mail_name": "Italy"
+  },
+  "HAI": {
+    "fifa_code": "HAI",
+    "fifa_name": "Haiti",
+    "fifa_id": "43908",
+    "fifa_link": "/worldcup/archive/germany1974/teams/team=43908/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Haiti_national_football_team",
+    "wiki_name": "Haiti",
+    "bbc_name": "Haiti",
+    "daily_mail_name": "Haiti"
+  },
+  "POL": {
+    "fifa_code": "POL",
+    "fifa_name": "Poland",
+    "fifa_id": "43962",
+    "fifa_link": "/worldcup/archive/germany1974/teams/team=43962/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Poland_national_football_team",
+    "wiki_name": "Poland",
+    "bbc_name": "Poland",
+    "daily_mail_name": "Poland"
+  },
+  "ARG": {
+    "fifa_code": "ARG",
+    "fifa_name": "Argentina",
+    "fifa_id": "43922",
+    "fifa_link": "/worldcup/archive/germany1974/teams/team=43922/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Argentina_national_football_team",
+    "wiki_name": "Argentina",
+    "bbc_name": "Argentina",
+    "daily_mail_name": "Argentina"
+  }
+}

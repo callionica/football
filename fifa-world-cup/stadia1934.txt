@@ -1,0 +1,50 @@
+{
+  "Stadio Benito Mussolini, Turin": {
+    "name": "Stadio Benito Mussolini",
+    "locality": "Turin",
+    "country": "Italy",
+    "key": "Stadio Benito Mussolini, Turin"
+  },
+  "Giorgio Ascarelli, Naples": {
+    "name": "Giorgio Ascarelli",
+    "locality": "Naples",
+    "country": "Italy",
+    "key": "Giorgio Ascarelli, Naples"
+  },
+  "San Siro, Milan": {
+    "name": "San Siro",
+    "locality": "Milan",
+    "country": "Italy",
+    "key": "San Siro, Milan"
+  },
+  "Littorale, Bologna": {
+    "name": "Littorale",
+    "locality": "Bologna",
+    "country": "Italy",
+    "key": "Littorale, Bologna"
+  },
+  "Giovanni Berta, Florence": {
+    "name": "Giovanni Berta",
+    "locality": "Florence",
+    "country": "Italy",
+    "key": "Giovanni Berta, Florence"
+  },
+  "Luigi Ferraris, Genoa": {
+    "name": "Luigi Ferraris",
+    "locality": "Genoa",
+    "country": "Italy",
+    "key": "Luigi Ferraris, Genoa"
+  },
+  "Nazionale PNF, Rome": {
+    "name": "Nazionale PNF",
+    "locality": "Rome",
+    "country": "Italy",
+    "key": "Nazionale PNF, Rome"
+  },
+  "Littorio, Trieste": {
+    "name": "Littorio",
+    "locality": "Trieste",
+    "country": "Italy",
+    "key": "Littorio, Trieste"
+  }
+}

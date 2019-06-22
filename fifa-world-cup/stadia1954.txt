@@ -1,0 +1,38 @@
+{
+  "Wankdorf Stadium, Berne": {
+    "name": "Wankdorf Stadium",
+    "locality": "Berne",
+    "country": "Switzerland",
+    "key": "Wankdorf Stadium, Berne"
+  },
+  "Hardturm, Zurich": {
+    "name": "Hardturm",
+    "locality": "Zurich",
+    "country": "Switzerland",
+    "key": "Hardturm, Zurich"
+  },
+  "Charmilles, Geneva": {
+    "name": "Charmilles",
+    "locality": "Geneva",
+    "country": "Switzerland",
+    "key": "Charmilles, Geneva"
+  },
+  "La Pontaise, Lausanne": {
+    "name": "La Pontaise",
+    "locality": "Lausanne",
+    "country": "Switzerland",
+    "key": "La Pontaise, Lausanne"
+  },
+  "St. Jakob, Basel": {
+    "name": "St. Jakob",
+    "locality": "Basel",
+    "country": "Switzerland",
+    "key": "St. Jakob, Basel"
+  },
+  "Comunale di Cornaredo, Lugano": {
+    "name": "Comunale di Cornaredo",
+    "locality": "Lugano",
+    "country": "Switzerland",
+    "key": "Comunale di Cornaredo, Lugano"
+  }
+}

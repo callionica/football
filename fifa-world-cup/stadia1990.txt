@@ -1,0 +1,74 @@
+{
+  "Giuseppe Meazza, Milan": {
+    "name": "Giuseppe Meazza",
+    "locality": "Milan",
+    "country": "Italy",
+    "key": "Giuseppe Meazza, Milan"
+  },
+  "Stadio San Nicola, Bari": {
+    "name": "Stadio San Nicola",
+    "locality": "Bari",
+    "country": "Italy",
+    "key": "Stadio San Nicola, Bari"
+  },
+  "Renato Dall Ara, Bologna": {
+    "name": "Renato Dall Ara",
+    "locality": "Bologna",
+    "country": "Italy",
+    "key": "Renato Dall Ara, Bologna"
+  },
+  "Stadio Olimpico, Rome": {
+    "name": "Stadio Olimpico",
+    "locality": "Rome",
+    "country": "Italy",
+    "key": "Stadio Olimpico, Rome"
+  },
+  "Comunale, Florence": {
+    "name": "Comunale",
+    "locality": "Florence",
+    "country": "Italy",
+    "key": "Comunale, Florence"
+  },
+  "Stadio delle Alpi, Turin": {
+    "name": "Stadio delle Alpi",
+    "locality": "Turin",
+    "country": "Italy",
+    "key": "Stadio delle Alpi, Turin"
+  },
+  "Luigi Ferraris, Genoa": {
+    "name": "Luigi Ferraris",
+    "locality": "Genoa",
+    "country": "Italy",
+    "key": "Luigi Ferraris, Genoa"
+  },
+  "Sant Elia, Cagliari": {
+    "name": "Sant Elia",
+    "locality": "Cagliari",
+    "country": "Italy",
+    "key": "Sant Elia, Cagliari"
+  },
+  "Marc Antonio Bentegodi, Verona": {
+    "name": "Marc Antonio Bentegodi",
+    "locality": "Verona",
+    "country": "Italy",
+    "key": "Marc Antonio Bentegodi, Verona"
+  },
+  "Della Favorita, Palermo": {
+    "name": "Della Favorita",
+    "locality": "Palermo",
+    "country": "Italy",
+    "key": "Della Favorita, Palermo"
+  },
+  "Friuli, Udine": {
+    "name": "Friuli",
+    "locality": "Udine",
+    "country": "Italy",
+    "key": "Friuli, Udine"
+  },
+  "San Paolo, Naples": {
+    "name": "San Paolo",
+    "locality": "Naples",
+    "country": "Italy",
+    "key": "San Paolo, Naples"
+  }
+}

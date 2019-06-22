@@ -1,0 +1,56 @@
+{
+  "Waldstadion, Frankfurt/Main": {
+    "name": "Waldstadion",
+    "locality": "Frankfurt/Main",
+    "country": "Germany",
+    "key": "Waldstadion, Frankfurt/Main"
+  },
+  "Olympiastadion, Berlin West": {
+    "name": "Olympiastadion",
+    "locality": "Berlin West",
+    "country": "Germany",
+    "key": "Olympiastadion, Berlin West"
+  },
+  "Volksparkstadion, Hamburg": {
+    "name": "Volksparkstadion",
+    "locality": "Hamburg",
+    "country": "Germany",
+    "key": "Volksparkstadion, Hamburg"
+  },
+  "Westfalenstadion, Dortmund": {
+    "name": "Westfalenstadion",
+    "locality": "Dortmund",
+    "country": "Germany",
+    "key": "Westfalenstadion, Dortmund"
+  },
+  "Niedersachsenstadion, Hanover": {
+    "name": "Niedersachsenstadion",
+    "locality": "Hanover",
+    "country": "Germany",
+    "key": "Niedersachsenstadion, Hanover"
+  },
+  "Rheinstadion, Düsseldorf": {
+    "name": "Rheinstadion",
+    "locality": "Düsseldorf",
+    "country": "Germany",
+    "key": "Rheinstadion, Düsseldorf"
+  },
+  "Olympiastadion, Munich": {
+    "name": "Olympiastadion",
+    "locality": "Munich",
+    "country": "Germany",
+    "key": "Olympiastadion, Munich"
+  },
+  "Neckarstadion, Stuttgart": {
+    "name": "Neckarstadion",
+    "locality": "Stuttgart",
+    "country": "Germany",
+    "key": "Neckarstadion, Stuttgart"
+  },
+  "Parkstadion, Gelsenkirchen": {
+    "name": "Parkstadion",
+    "locality": "Gelsenkirchen",
+    "country": "Germany",
+    "key": "Parkstadion, Gelsenkirchen"
+  }
+}

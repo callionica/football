@@ -1,0 +1,225 @@
+[
+  {
+    "id": "1104",
+    "link": "/worldcup/matches/round=204/match=1104/index.html",
+    "date": "1934-05-27T16:30",
+    "group": "Preliminary round",
+    "home": "AUT",
+    "score": {
+      "home": 3,
+      "away": 2,
+      "note": "AET"
+    },
+    "away": "FRA",
+    "stadium": "Stadio Benito Mussolini, Turin"
+  },
+  {
+    "id": "1119",
+    "link": "/worldcup/matches/round=204/match=1119/index.html",
+    "date": "1934-05-27T16:30",
+    "group": "Preliminary round",
+    "home": "HUN",
+    "score": {
+      "home": 4,
+      "away": 2
+    },
+    "away": "EGY",
+    "stadium": "Giorgio Ascarelli, Naples"
+  },
+  {
+    "id": "1133",
+    "link": "/worldcup/matches/round=204/match=1133/index.html",
+    "date": "1934-05-27T16:30",
+    "group": "Preliminary round",
+    "home": "SUI",
+    "score": {
+      "home": 3,
+      "away": 2
+    },
+    "away": "NED",
+    "stadium": "San Siro, Milan"
+  },
+  {
+    "id": "1102",
+    "link": "/worldcup/matches/round=204/match=1102/index.html",
+    "date": "1934-05-27T16:30",
+    "group": "Preliminary round",
+    "home": "SWE",
+    "score": {
+      "home": 3,
+      "away": 2
+    },
+    "away": "ARG",
+    "stadium": "Littorale, Bologna"
+  },
+  {
+    "id": "1108",
+    "link": "/worldcup/matches/round=204/match=1108/index.html",
+    "date": "1934-05-27T16:30",
+    "group": "Preliminary round",
+    "home": "GER",
+    "score": {
+      "home": 5,
+      "away": 2
+    },
+    "away": "BEL",
+    "stadium": "Giovanni Berta, Florence"
+  },
+  {
+    "id": "1111",
+    "link": "/worldcup/matches/round=204/match=1111/index.html",
+    "date": "1934-05-27T16:30",
+    "group": "Preliminary round",
+    "home": "ESP",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "away": "BRA",
+    "stadium": "Luigi Ferraris, Genoa"
+  },
+  {
+    "id": "1135",
+    "link": "/worldcup/matches/round=204/match=1135/index.html",
+    "date": "1934-05-27T16:30",
+    "group": "Preliminary round",
+    "home": "ITA",
+    "score": {
+      "home": 7,
+      "away": 1
+    },
+    "away": "USA",
+    "stadium": "Nazionale PNF, Rome"
+  },
+  {
+    "id": "1141",
+    "link": "/worldcup/matches/round=204/match=1141/index.html",
+    "date": "1934-05-27T16:30",
+    "group": "Preliminary round",
+    "home": "TCH",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "ROU",
+    "stadium": "Littorio, Trieste"
+  },
+  {
+    "id": "1143",
+    "link": "/worldcup/matches/round=418/match=1143/index.html",
+    "date": "1934-05-31T16:30",
+    "group": "Quarter-finals",
+    "home": "TCH",
+    "score": {
+      "home": 3,
+      "away": 2
+    },
+    "away": "SUI",
+    "stadium": "Stadio Benito Mussolini, Turin"
+  },
+  {
+    "id": "1129",
+    "link": "/worldcup/matches/round=418/match=1129/index.html",
+    "date": "1934-05-31T16:30",
+    "group": "Quarter-finals",
+    "home": "GER",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "SWE",
+    "stadium": "San Siro, Milan"
+  },
+  {
+    "id": "1122",
+    "link": "/worldcup/matches/round=418/match=1122/index.html",
+    "date": "1934-05-31T16:30",
+    "group": "Quarter-finals",
+    "home": "ITA",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "away": "ESP",
+    "stadium": "Giovanni Berta, Florence"
+  },
+  {
+    "id": "1106",
+    "link": "/worldcup/matches/round=418/match=1106/index.html",
+    "date": "1934-05-31T16:30",
+    "group": "Quarter-finals",
+    "home": "AUT",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "HUN",
+    "stadium": "Littorale, Bologna"
+  },
+  {
+    "id": "1123",
+    "link": "/worldcup/matches/round=418/match=1123/index.html",
+    "date": "1934-06-01T16:30",
+    "group": "Quarter-finals",
+    "home": "ITA",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "ESP",
+    "stadium": "Giovanni Berta, Florence"
+  },
+  {
+    "id": "1107",
+    "link": "/worldcup/matches/round=3492/match=1107/index.html",
+    "date": "1934-06-03T16:30",
+    "group": "Semi-finals",
+    "home": "ITA",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "AUT",
+    "stadium": "San Siro, Milan"
+  },
+  {
+    "id": "1130",
+    "link": "/worldcup/matches/round=3492/match=1130/index.html",
+    "date": "1934-06-03T16:30",
+    "group": "Semi-finals",
+    "home": "TCH",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "away": "GER",
+    "stadium": "Nazionale PNF, Rome"
+  },
+  {
+    "id": "1105",
+    "link": "/worldcup/matches/round=3491/match=1105/index.html",
+    "date": "1934-06-07T18:00",
+    "group": "Match for third place",
+    "home": "GER",
+    "score": {
+      "home": 3,
+      "away": 2
+    },
+    "away": "AUT",
+    "stadium": "Giorgio Ascarelli, Naples"
+  },
+  {
+    "id": "1134",
+    "link": "/worldcup/matches/round=3490/match=1134/index.html",
+    "date": "1934-06-10T17:30",
+    "group": "Final",
+    "home": "ITA",
+    "score": {
+      "home": 2,
+      "away": 1,
+      "note": "AET"
+    },
+    "away": "TCH",
+    "stadium": "Nazionale PNF, Rome"
+  }
+]

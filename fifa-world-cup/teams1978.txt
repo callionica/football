@@ -1,0 +1,178 @@
+{
+  "FRG": {
+    "fifa_code": "FRG",
+    "fifa_name": "Germany FR",
+    "fifa_id": "44023",
+    "fifa_link": "/worldcup/archive/argentina1978/teams/team=44023/players.html",
+    "current": false,
+    "wiki_link": "https://en.wikipedia.org/wiki/Germany_national_football_team",
+    "wiki_name": "West Germany",
+    "bbc_name": "West Germany",
+    "daily_mail_name": "West Germany"
+  },
+  "POL": {
+    "fifa_code": "POL",
+    "fifa_name": "Poland",
+    "fifa_id": "43962",
+    "fifa_link": "/worldcup/archive/argentina1978/teams/team=43962/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Poland_national_football_team",
+    "wiki_name": "Poland",
+    "bbc_name": "Poland",
+    "daily_mail_name": "Poland"
+  },
+  "ITA": {
+    "fifa_code": "ITA",
+    "fifa_name": "Italy",
+    "fifa_id": "43954",
+    "fifa_link": "/worldcup/archive/argentina1978/teams/team=43954/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Italy_national_football_team",
+    "wiki_name": "Italy",
+    "bbc_name": "Italy",
+    "daily_mail_name": "Italy"
+  },
+  "FRA": {
+    "fifa_code": "FRA",
+    "fifa_name": "France",
+    "fifa_id": "43946",
+    "fifa_link": "/worldcup/archive/argentina1978/teams/team=43946/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/France_national_football_team",
+    "wiki_name": "France",
+    "bbc_name": "France",
+    "daily_mail_name": "France"
+  },
+  "TUN": {
+    "fifa_code": "TUN",
+    "fifa_name": "Tunisia",
+    "fifa_id": "43888",
+    "fifa_link": "/worldcup/archive/argentina1978/teams/team=43888/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Tunisia_national_football_team",
+    "wiki_name": "Tunisia",
+    "bbc_name": "Tunisia",
+    "daily_mail_name": "Tunisia"
+  },
+  "MEX": {
+    "fifa_code": "MEX",
+    "fifa_name": "Mexico",
+    "fifa_id": "43911",
+    "fifa_link": "/worldcup/archive/argentina1978/teams/team=43911/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Mexico_national_football_team",
+    "wiki_name": "Mexico",
+    "bbc_name": "Mexico",
+    "daily_mail_name": "Mexico"
+  },
+  "ARG": {
+    "fifa_code": "ARG",
+    "fifa_name": "Argentina",
+    "fifa_id": "43922",
+    "fifa_link": "/worldcup/archive/argentina1978/teams/team=43922/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Argentina_national_football_team",
+    "wiki_name": "Argentina",
+    "bbc_name": "Argentina",
+    "daily_mail_name": "Argentina"
+  },
+  "HUN": {
+    "fifa_code": "HUN",
+    "fifa_name": "Hungary",
+    "fifa_id": "43950",
+    "fifa_link": "/worldcup/archive/argentina1978/teams/team=43950/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Hungary_national_football_team",
+    "wiki_name": "Hungary",
+    "bbc_name": "Hungary",
+    "daily_mail_name": "Hungary"
+  },
+  "SWE": {
+    "fifa_code": "SWE",
+    "fifa_name": "Sweden",
+    "fifa_id": "43970",
+    "fifa_link": "/worldcup/archive/argentina1978/teams/team=43970/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Sweden_national_football_team",
+    "wiki_name": "Sweden",
+    "bbc_name": "Sweden",
+    "daily_mail_name": "Sweden"
+  },
+  "BRA": {
+    "fifa_code": "BRA",
+    "fifa_name": "Brazil",
+    "fifa_id": "43924",
+    "fifa_link": "/worldcup/archive/argentina1978/teams/team=43924/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Brazil_national_football_team",
+    "wiki_name": "Brazil",
+    "bbc_name": "Brazil",
+    "daily_mail_name": "Brazil"
+  },
+  "AUT": {
+    "fifa_code": "AUT",
+    "fifa_name": "Austria",
+    "fifa_id": "43934",
+    "fifa_link": "/worldcup/archive/argentina1978/teams/team=43934/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Austria_national_football_team",
+    "wiki_name": "Austria",
+    "bbc_name": "Austria",
+    "daily_mail_name": "Austria"
+  },
+  "ESP": {
+    "fifa_code": "ESP",
+    "fifa_name": "Spain",
+    "fifa_id": "43969",
+    "fifa_link": "/worldcup/archive/argentina1978/teams/team=43969/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Spain_national_football_team",
+    "wiki_name": "Spain",
+    "bbc_name": "Spain",
+    "daily_mail_name": "Spain"
+  },
+  "PER": {
+    "fifa_code": "PER",
+    "fifa_name": "Peru",
+    "fifa_id": "43929",
+    "fifa_link": "/worldcup/archive/argentina1978/teams/team=43929/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Peru_national_football_team",
+    "wiki_name": "Peru",
+    "bbc_name": "Peru",
+    "daily_mail_name": "Peru"
+  },
+  "SCO": {
+    "fifa_code": "SCO",
+    "fifa_name": "Scotland",
+    "fifa_id": "43967",
+    "fifa_link": "/worldcup/archive/argentina1978/teams/team=43967/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Scotland_national_football_team",
+    "wiki_name": "Scotland",
+    "bbc_name": "Scotland",
+    "daily_mail_name": "Scotland"
+  },
+  "NED": {
+    "fifa_code": "NED",
+    "fifa_name": "Netherlands",
+    "fifa_id": "43960",
+    "fifa_link": "/worldcup/archive/argentina1978/teams/team=43960/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Netherlands_national_football_team",
+    "wiki_name": "Netherlands",
+    "bbc_name": "Netherlands",
+    "daily_mail_name": "Holland"
+  },
+  "IRN": {
+    "fifa_code": "IRN",
+    "fifa_name": "Iran",
+    "fifa_id": "43817",
+    "fifa_link": "/worldcup/archive/argentina1978/teams/team=43817/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Iran_national_football_team",
+    "wiki_name": "Iran",
+    "bbc_name": "Iran",
+    "daily_mail_name": "Iran"
+  }
+}

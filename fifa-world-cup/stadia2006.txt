@@ -1,0 +1,74 @@
+{
+  "FIFA World Cup Stadium, Munich, Munich": {
+    "name": "FIFA World Cup Stadium, Munich",
+    "locality": "Munich",
+    "country": "Germany",
+    "key": "FIFA World Cup Stadium, Munich, Munich"
+  },
+  "FIFA World Cup Stadium, Gelsenkirchen, Gelsenkirchen": {
+    "name": "FIFA World Cup Stadium, Gelsenkirchen",
+    "locality": "Gelsenkirchen",
+    "country": "Germany",
+    "key": "FIFA World Cup Stadium, Gelsenkirchen, Gelsenkirchen"
+  },
+  "FIFA World Cup Stadium, Frankfurt, Frankfurt/Main": {
+    "name": "FIFA World Cup Stadium, Frankfurt",
+    "locality": "Frankfurt/Main",
+    "country": "Germany",
+    "key": "FIFA World Cup Stadium, Frankfurt, Frankfurt/Main"
+  },
+  "FIFA World Cup Stadium, Dortmund, Dortmund": {
+    "name": "FIFA World Cup Stadium, Dortmund",
+    "locality": "Dortmund",
+    "country": "Germany",
+    "key": "FIFA World Cup Stadium, Dortmund, Dortmund"
+  },
+  "FIFA World Cup Stadium, Hamburg, Hamburg": {
+    "name": "FIFA World Cup Stadium, Hamburg",
+    "locality": "Hamburg",
+    "country": "Germany",
+    "key": "FIFA World Cup Stadium, Hamburg, Hamburg"
+  },
+  "Zentralstadion, Leipzig": {
+    "name": "Zentralstadion",
+    "locality": "Leipzig",
+    "country": "Germany",
+    "key": "Zentralstadion, Leipzig"
+  },
+  "Franken-Stadion, Nuremberg": {
+    "name": "Franken-Stadion",
+    "locality": "Nuremberg",
+    "country": "Germany",
+    "key": "Franken-Stadion, Nuremberg"
+  },
+  "FIFA World Cup Stadium, Cologne, Cologne": {
+    "name": "FIFA World Cup Stadium, Cologne",
+    "locality": "Cologne",
+    "country": "Germany",
+    "key": "FIFA World Cup Stadium, Cologne, Cologne"
+  },
+  "Fritz-Walter-Stadion, Kaiserslautern": {
+    "name": "Fritz-Walter-Stadion",
+    "locality": "Kaiserslautern",
+    "country": "Germany",
+    "key": "Fritz-Walter-Stadion, Kaiserslautern"
+  },
+  "FIFA World Cup Stadium, Hanover, Hanover": {
+    "name": "FIFA World Cup Stadium, Hanover",
+    "locality": "Hanover",
+    "country": "Germany",
+    "key": "FIFA World Cup Stadium, Hanover, Hanover"
+  },
+  "Gottlieb-Daimler-Stadion, Stuttgart": {
+    "name": "Gottlieb-Daimler-Stadion",
+    "locality": "Stuttgart",
+    "country": "Germany",
+    "key": "Gottlieb-Daimler-Stadion, Stuttgart"
+  },
+  "Olympiastadion, Berlin": {
+    "name": "Olympiastadion",
+    "locality": "Berlin",
+    "country": "Germany",
+    "key": "Olympiastadion, Berlin"
+  }
+}

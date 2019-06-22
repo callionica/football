@@ -1,0 +1,62 @@
+{
+  "Parc des Princes, Paris": {
+    "name": "Parc des Princes",
+    "locality": "Paris",
+    "country": "France",
+    "key": "Parc des Princes, Paris"
+  },
+  "Velodrome Municipale, Reims": {
+    "name": "Velodrome Municipale",
+    "locality": "Reims",
+    "country": "France",
+    "key": "Velodrome Municipale, Reims"
+  },
+  "Stade Olympique, Colombes": {
+    "name": "Stade Olympique",
+    "locality": "Colombes",
+    "country": "France",
+    "key": "Stade Olympique, Colombes"
+  },
+  "Stade Municipal, Toulouse": {
+    "name": "Stade Municipal",
+    "locality": "Toulouse",
+    "country": "France",
+    "key": "Stade Municipal, Toulouse"
+  },
+  "Stade Vélodrome, Marseilles": {
+    "name": "Stade Vélodrome",
+    "locality": "Marseilles",
+    "country": "France",
+    "key": "Stade Vélodrome, Marseilles"
+  },
+  "Stade de la Meinau, Strasbourg": {
+    "name": "Stade de la Meinau",
+    "locality": "Strasbourg",
+    "country": "France",
+    "key": "Stade de la Meinau, Strasbourg"
+  },
+  "Cavee Verte, Le Havre": {
+    "name": "Cavee Verte",
+    "locality": "Le Havre",
+    "country": "France",
+    "key": "Cavee Verte, Le Havre"
+  },
+  "Stade du Parc Lescure, Bordeaux": {
+    "name": "Stade du Parc Lescure",
+    "locality": "Bordeaux",
+    "country": "France",
+    "key": "Stade du Parc Lescure, Bordeaux"
+  },
+  "Victor Boucquey, Lille": {
+    "name": "Victor Boucquey",
+    "locality": "Lille",
+    "country": "France",
+    "key": "Victor Boucquey, Lille"
+  },
+  "Fort Carree, Antibes": {
+    "name": "Fort Carree",
+    "locality": "Antibes",
+    "country": "France",
+    "key": "Fort Carree, Antibes"
+  }
+}

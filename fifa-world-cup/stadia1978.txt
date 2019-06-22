@@ -1,0 +1,38 @@
+{
+  "El Monumental - Estadio Monumental Antonio Vespuci, Buenos Aires": {
+    "name": "El Monumental - Estadio Monumental Antonio Vespuci",
+    "locality": "Buenos Aires",
+    "country": "Argentina",
+    "key": "El Monumental - Estadio Monumental Antonio Vespuci, Buenos Aires"
+  },
+  "Estadio José María Minella, Mar Del Plata": {
+    "name": "Estadio José María Minella",
+    "locality": "Mar Del Plata",
+    "country": "Argentina",
+    "key": "Estadio José María Minella, Mar Del Plata"
+  },
+  "Arroyito - Estadio Dr. Lisandro de la Torre, Rosario": {
+    "name": "Arroyito - Estadio Dr. Lisandro de la Torre",
+    "locality": "Rosario",
+    "country": "Argentina",
+    "key": "Arroyito - Estadio Dr. Lisandro de la Torre, Rosario"
+  },
+  "Jose Amalfitani, Buenos Aires": {
+    "name": "Jose Amalfitani",
+    "locality": "Buenos Aires",
+    "country": "Argentina",
+    "key": "Jose Amalfitani, Buenos Aires"
+  },
+  "Estadio Olímpico Chateau Carreras, Cordoba": {
+    "name": "Estadio Olímpico Chateau Carreras",
+    "locality": "Cordoba",
+    "country": "Argentina",
+    "key": "Estadio Olímpico Chateau Carreras, Cordoba"
+  },
+  "San Martin, Mendoza": {
+    "name": "San Martin",
+    "locality": "Mendoza",
+    "country": "Argentina",
+    "key": "San Martin, Mendoza"
+  }
+}

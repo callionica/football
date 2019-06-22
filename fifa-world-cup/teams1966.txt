@@ -1,0 +1,178 @@
+{
+  "ENG": {
+    "fifa_code": "ENG",
+    "fifa_name": "England",
+    "fifa_id": "43942",
+    "fifa_link": "/worldcup/archive/england1966/teams/team=43942/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/England_national_football_team",
+    "wiki_name": "England",
+    "bbc_name": "England",
+    "daily_mail_name": "England"
+  },
+  "URU": {
+    "fifa_code": "URU",
+    "fifa_name": "Uruguay",
+    "fifa_id": "43930",
+    "fifa_link": "/worldcup/archive/england1966/teams/team=43930/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Uruguay_national_football_team",
+    "wiki_name": "Uruguay",
+    "bbc_name": "Uruguay",
+    "daily_mail_name": "Uruguay"
+  },
+  "FRG": {
+    "fifa_code": "FRG",
+    "fifa_name": "Germany FR",
+    "fifa_id": "44023",
+    "fifa_link": "/worldcup/archive/england1966/teams/team=44023/players.html",
+    "current": false,
+    "wiki_link": "https://en.wikipedia.org/wiki/Germany_national_football_team",
+    "wiki_name": "West Germany",
+    "bbc_name": "West Germany",
+    "daily_mail_name": "West Germany"
+  },
+  "SUI": {
+    "fifa_code": "SUI",
+    "fifa_name": "Switzerland",
+    "fifa_id": "43971",
+    "fifa_link": "/worldcup/archive/england1966/teams/team=43971/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Switzerland_national_football_team",
+    "wiki_name": "Switzerland",
+    "bbc_name": "Switzerland",
+    "daily_mail_name": "Switzerland"
+  },
+  "BRA": {
+    "fifa_code": "BRA",
+    "fifa_name": "Brazil",
+    "fifa_id": "43924",
+    "fifa_link": "/worldcup/archive/england1966/teams/team=43924/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Brazil_national_football_team",
+    "wiki_name": "Brazil",
+    "bbc_name": "Brazil",
+    "daily_mail_name": "Brazil"
+  },
+  "BUL": {
+    "fifa_code": "BUL",
+    "fifa_name": "Bulgaria",
+    "fifa_id": "43936",
+    "fifa_link": "/worldcup/archive/england1966/teams/team=43936/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Bulgaria_national_football_team",
+    "wiki_name": "Bulgaria",
+    "bbc_name": "Bulgaria",
+    "daily_mail_name": "Bulgaria"
+  },
+  "URS": {
+    "fifa_code": "URS",
+    "fifa_name": "Soviet Union",
+    "fifa_id": "44026",
+    "fifa_link": "/worldcup/archive/england1966/teams/team=44026/players.html",
+    "current": false,
+    "wiki_link": "https://en.wikipedia.org/wiki/Soviet_Union_national_football_team",
+    "wiki_name": "Soviet Union",
+    "bbc_name": "Soviet Union",
+    "daily_mail_name": "Soviet Union"
+  },
+  "PRK": {
+    "fifa_code": "PRK",
+    "fifa_name": "Korea DPR",
+    "fifa_id": "43821",
+    "fifa_link": "/worldcup/archive/england1966/teams/team=43821/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/North_Korea_national_football_team",
+    "wiki_name": "North Korea",
+    "bbc_name": "North Korea",
+    "daily_mail_name": "North Korea"
+  },
+  "FRA": {
+    "fifa_code": "FRA",
+    "fifa_name": "France",
+    "fifa_id": "43946",
+    "fifa_link": "/worldcup/archive/england1966/teams/team=43946/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/France_national_football_team",
+    "wiki_name": "France",
+    "bbc_name": "France",
+    "daily_mail_name": "France"
+  },
+  "MEX": {
+    "fifa_code": "MEX",
+    "fifa_name": "Mexico",
+    "fifa_id": "43911",
+    "fifa_link": "/worldcup/archive/england1966/teams/team=43911/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Mexico_national_football_team",
+    "wiki_name": "Mexico",
+    "bbc_name": "Mexico",
+    "daily_mail_name": "Mexico"
+  },
+  "POR": {
+    "fifa_code": "POR",
+    "fifa_name": "Portugal",
+    "fifa_id": "43963",
+    "fifa_link": "/worldcup/archive/england1966/teams/team=43963/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Portugal_national_football_team",
+    "wiki_name": "Portugal",
+    "bbc_name": "Portugal",
+    "daily_mail_name": "Portugal"
+  },
+  "HUN": {
+    "fifa_code": "HUN",
+    "fifa_name": "Hungary",
+    "fifa_id": "43950",
+    "fifa_link": "/worldcup/archive/england1966/teams/team=43950/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Hungary_national_football_team",
+    "wiki_name": "Hungary",
+    "bbc_name": "Hungary",
+    "daily_mail_name": "Hungary"
+  },
+  "ARG": {
+    "fifa_code": "ARG",
+    "fifa_name": "Argentina",
+    "fifa_id": "43922",
+    "fifa_link": "/worldcup/archive/england1966/teams/team=43922/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Argentina_national_football_team",
+    "wiki_name": "Argentina",
+    "bbc_name": "Argentina",
+    "daily_mail_name": "Argentina"
+  },
+  "ESP": {
+    "fifa_code": "ESP",
+    "fifa_name": "Spain",
+    "fifa_id": "43969",
+    "fifa_link": "/worldcup/archive/england1966/teams/team=43969/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Spain_national_football_team",
+    "wiki_name": "Spain",
+    "bbc_name": "Spain",
+    "daily_mail_name": "Spain"
+  },
+  "ITA": {
+    "fifa_code": "ITA",
+    "fifa_name": "Italy",
+    "fifa_id": "43954",
+    "fifa_link": "/worldcup/archive/england1966/teams/team=43954/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Italy_national_football_team",
+    "wiki_name": "Italy",
+    "bbc_name": "Italy",
+    "daily_mail_name": "Italy"
+  },
+  "CHI": {
+    "fifa_code": "CHI",
+    "fifa_name": "Chile",
+    "fifa_id": "43925",
+    "fifa_link": "/worldcup/archive/england1966/teams/team=43925/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Chile_national_football_team",
+    "wiki_name": "Chile",
+    "bbc_name": "Chile",
+    "daily_mail_name": "Chile"
+  }
+}

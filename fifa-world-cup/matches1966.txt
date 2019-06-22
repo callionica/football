@@ -1,0 +1,419 @@
+[
+  {
+    "id": "1636",
+    "link": "/worldcup/matches/round=238/match=1636/index.html",
+    "date": "1966-07-11T19:30",
+    "group": "Group 1",
+    "home": "ENG",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "away": "URU",
+    "stadium": "Wembley Stadium, London"
+  },
+  {
+    "id": "1656",
+    "link": "/worldcup/matches/round=238/match=1656/index.html",
+    "date": "1966-07-12T19:30",
+    "group": "Group 2",
+    "home": "FRG",
+    "score": {
+      "home": 5,
+      "away": 0
+    },
+    "away": "SUI",
+    "stadium": "Hillsborough, Sheffield"
+  },
+  {
+    "id": "1596",
+    "link": "/worldcup/matches/round=238/match=1596/index.html",
+    "date": "1966-07-12T19:30",
+    "group": "Group 3",
+    "home": "BRA",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "away": "BUL",
+    "stadium": "Goodison Park, Liverpool"
+  },
+  {
+    "id": "1710",
+    "link": "/worldcup/matches/round=238/match=1710/index.html",
+    "date": "1966-07-12T19:30",
+    "group": "Group 4",
+    "home": "URS",
+    "score": {
+      "home": 3,
+      "away": 0
+    },
+    "away": "PRK",
+    "stadium": "Ayresome Park, Middlesbrough"
+  },
+  {
+    "id": "1650",
+    "link": "/worldcup/matches/round=238/match=1650/index.html",
+    "date": "1966-07-13T19:30",
+    "group": "Group 1",
+    "home": "FRA",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "away": "MEX",
+    "stadium": "Wembley Stadium, London"
+  },
+  {
+    "id": "1675",
+    "link": "/worldcup/matches/round=238/match=1675/index.html",
+    "date": "1966-07-13T19:30",
+    "group": "Group 3",
+    "home": "POR",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "away": "HUN",
+    "stadium": "Old Trafford Stadium, Manchester"
+  },
+  {
+    "id": "1578",
+    "link": "/worldcup/matches/round=238/match=1578/index.html",
+    "date": "1966-07-13T19:30",
+    "group": "Group 2",
+    "home": "ARG",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "ESP",
+    "stadium": "Villa Park, Birmingham"
+  },
+  {
+    "id": "1608",
+    "link": "/worldcup/matches/round=238/match=1608/index.html",
+    "date": "1966-07-13T19:30",
+    "group": "Group 4",
+    "home": "ITA",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "away": "CHI",
+    "stadium": "Roker Park Ground, Sunderland"
+  },
+  {
+    "id": "1653",
+    "link": "/worldcup/matches/round=238/match=1653/index.html",
+    "date": "1966-07-15T19:30",
+    "group": "Group 1",
+    "home": "URU",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "FRA",
+    "stadium": "White City, London"
+  },
+  {
+    "id": "1641",
+    "link": "/worldcup/matches/round=238/match=1641/index.html",
+    "date": "1966-07-15T19:30",
+    "group": "Group 2",
+    "home": "ESP",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "SUI",
+    "stadium": "Hillsborough, Sheffield"
+  },
+  {
+    "id": "1597",
+    "link": "/worldcup/matches/round=238/match=1597/index.html",
+    "date": "1966-07-15T19:30",
+    "group": "Group 3",
+    "home": "HUN",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "away": "BRA",
+    "stadium": "Goodison Park, Liverpool"
+  },
+  {
+    "id": "1609",
+    "link": "/worldcup/matches/round=238/match=1609/index.html",
+    "date": "1966-07-15T19:30",
+    "group": "Group 4",
+    "home": "PRK",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "away": "CHI",
+    "stadium": "Ayresome Park, Middlesbrough"
+  },
+  {
+    "id": "1602",
+    "link": "/worldcup/matches/round=238/match=1602/index.html",
+    "date": "1966-07-16T15:00",
+    "group": "Group 3",
+    "home": "POR",
+    "score": {
+      "home": 3,
+      "away": 0
+    },
+    "away": "BUL",
+    "stadium": "Old Trafford Stadium, Manchester"
+  },
+  {
+    "id": "1579",
+    "link": "/worldcup/matches/round=238/match=1579/index.html",
+    "date": "1966-07-16T15:00",
+    "group": "Group 2",
+    "home": "FRG",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "away": "ARG",
+    "stadium": "Villa Park, Birmingham"
+  },
+  {
+    "id": "1682",
+    "link": "/worldcup/matches/round=238/match=1682/index.html",
+    "date": "1966-07-16T15:00",
+    "group": "Group 4",
+    "home": "URS",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "ITA",
+    "stadium": "Roker Park Ground, Sunderland"
+  },
+  {
+    "id": "1634",
+    "link": "/worldcup/matches/round=238/match=1634/index.html",
+    "date": "1966-07-16T19:30",
+    "group": "Group 1",
+    "home": "ENG",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "away": "MEX",
+    "stadium": "Wembley Stadium, London"
+  },
+  {
+    "id": "1689",
+    "link": "/worldcup/matches/round=238/match=1689/index.html",
+    "date": "1966-07-19T16:30",
+    "group": "Group 1",
+    "home": "URU",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "away": "MEX",
+    "stadium": "Wembley Stadium, London"
+  },
+  {
+    "id": "1582",
+    "link": "/worldcup/matches/round=238/match=1582/index.html",
+    "date": "1966-07-19T19:30",
+    "group": "Group 2",
+    "home": "ARG",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "away": "SUI",
+    "stadium": "Hillsborough, Sheffield"
+  },
+  {
+    "id": "1598",
+    "link": "/worldcup/matches/round=238/match=1598/index.html",
+    "date": "1966-07-19T19:30",
+    "group": "Group 3",
+    "home": "POR",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "away": "BRA",
+    "stadium": "Goodison Park, Liverpool"
+  },
+  {
+    "id": "1679",
+    "link": "/worldcup/matches/round=238/match=1679/index.html",
+    "date": "1966-07-19T19:30",
+    "group": "Group 4",
+    "home": "PRK",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "ITA",
+    "stadium": "Ayresome Park, Middlesbrough"
+  },
+  {
+    "id": "1632",
+    "link": "/worldcup/matches/round=238/match=1632/index.html",
+    "date": "1966-07-20T19:30",
+    "group": "Group 1",
+    "home": "ENG",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "away": "FRA",
+    "stadium": "Wembley Stadium, London"
+  },
+  {
+    "id": "1599",
+    "link": "/worldcup/matches/round=238/match=1599/index.html",
+    "date": "1966-07-20T19:30",
+    "group": "Group 3",
+    "home": "HUN",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "away": "BUL",
+    "stadium": "Old Trafford Stadium, Manchester"
+  },
+  {
+    "id": "1637",
+    "link": "/worldcup/matches/round=238/match=1637/index.html",
+    "date": "1966-07-20T19:30",
+    "group": "Group 2",
+    "home": "FRG",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "ESP",
+    "stadium": "Villa Park, Birmingham"
+  },
+  {
+    "id": "1610",
+    "link": "/worldcup/matches/round=238/match=1610/index.html",
+    "date": "1966-07-20T19:30",
+    "group": "Group 4",
+    "home": "URS",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "CHI",
+    "stadium": "Roker Park Ground, Sunderland"
+  },
+  {
+    "id": "1577",
+    "link": "/worldcup/matches/round=239/match=1577/index.html",
+    "date": "1966-07-23T15:00",
+    "group": "Quarter-finals",
+    "home": "ENG",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "ARG",
+    "stadium": "Wembley Stadium, London"
+  },
+  {
+    "id": "1660",
+    "link": "/worldcup/matches/round=239/match=1660/index.html",
+    "date": "1966-07-23T15:00",
+    "group": "Quarter-finals",
+    "home": "FRG",
+    "score": {
+      "home": 4,
+      "away": 0
+    },
+    "away": "URU",
+    "stadium": "Hillsborough, Sheffield"
+  },
+  {
+    "id": "1676",
+    "link": "/worldcup/matches/round=239/match=1676/index.html",
+    "date": "1966-07-23T15:00",
+    "group": "Quarter-finals",
+    "home": "URS",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "HUN",
+    "stadium": "Roker Park Ground, Sunderland"
+  },
+  {
+    "id": "1702",
+    "link": "/worldcup/matches/round=239/match=1702/index.html",
+    "date": "1966-07-23T15:00",
+    "group": "Quarter-finals",
+    "home": "POR",
+    "score": {
+      "home": 5,
+      "away": 3
+    },
+    "away": "PRK",
+    "stadium": "Goodison Park, Liverpool"
+  },
+  {
+    "id": "1659",
+    "link": "/worldcup/matches/round=536/match=1659/index.html",
+    "date": "1966-07-25T19:30",
+    "group": "Semi-finals",
+    "home": "FRG",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "URS",
+    "stadium": "Goodison Park, Liverpool"
+  },
+  {
+    "id": "1635",
+    "link": "/worldcup/matches/round=536/match=1635/index.html",
+    "date": "1966-07-26T19:30",
+    "group": "Semi-finals",
+    "home": "ENG",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "POR",
+    "stadium": "Wembley Stadium, London"
+  },
+  {
+    "id": "1709",
+    "link": "/worldcup/matches/round=3479/match=1709/index.html",
+    "date": "1966-07-28T19:30",
+    "group": "Match for third place",
+    "home": "POR",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "URS",
+    "stadium": "Wembley Stadium, London"
+  },
+  {
+    "id": "1633",
+    "link": "/worldcup/matches/round=3478/match=1633/index.html",
+    "date": "1966-07-30T15:00",
+    "group": "Final",
+    "home": "ENG",
+    "score": {
+      "home": 4,
+      "away": 2,
+      "note": "AET"
+    },
+    "away": "FRG",
+    "stadium": "Wembley Stadium, London"
+  }
+]

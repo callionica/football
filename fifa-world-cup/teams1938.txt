@@ -1,0 +1,167 @@
+{
+  "SUI": {
+    "fifa_code": "SUI",
+    "fifa_name": "Switzerland",
+    "fifa_id": "43971",
+    "fifa_link": "/worldcup/archive/france1938/teams/team=43971/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Switzerland_national_football_team",
+    "wiki_name": "Switzerland",
+    "bbc_name": "Switzerland",
+    "daily_mail_name": "Switzerland"
+  },
+  "GER": {
+    "fifa_code": "GER",
+    "fifa_name": "Germany",
+    "fifa_id": "43948",
+    "fifa_link": "/worldcup/archive/france1938/teams/team=43948/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Germany_national_football_team",
+    "wiki_name": "Germany",
+    "bbc_name": "Germany",
+    "daily_mail_name": "Germany"
+  },
+  "HUN": {
+    "fifa_code": "HUN",
+    "fifa_name": "Hungary",
+    "fifa_id": "43950",
+    "fifa_link": "/worldcup/archive/france1938/teams/team=43950/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Hungary_national_football_team",
+    "wiki_name": "Hungary",
+    "bbc_name": "Hungary",
+    "daily_mail_name": "Hungary"
+  },
+  "INH": {
+    "fifa_code": "INH",
+    "fifa_name": "Dutch East Indies",
+    "fifa_id": "44031",
+    "fifa_link": "/worldcup/archive/france1938/teams/team=44031/players.html",
+    "current": false,
+    "wiki_link": "https://en.wikipedia.org/wiki/Indonesia_national_football_team",
+    "wiki_name": "Dutch East Indies",
+    "bbc_name": "Dutch East Indies",
+    "daily_mail_name": "Dutch East Indies"
+  },
+  "FRA": {
+    "fifa_code": "FRA",
+    "fifa_name": "France",
+    "fifa_id": "43946",
+    "fifa_link": "/worldcup/archive/france1938/teams/team=43946/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/France_national_football_team",
+    "wiki_name": "France",
+    "bbc_name": "France",
+    "daily_mail_name": "France"
+  },
+  "BEL": {
+    "fifa_code": "BEL",
+    "fifa_name": "Belgium",
+    "fifa_id": "43935",
+    "fifa_link": "/worldcup/archive/france1938/teams/team=43935/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Belgium_national_football_team",
+    "wiki_name": "Belgium",
+    "bbc_name": "Belgium",
+    "daily_mail_name": "Belgium"
+  },
+  "CUB": {
+    "fifa_code": "CUB",
+    "fifa_name": "Cuba",
+    "fifa_id": "43902",
+    "fifa_link": "/worldcup/archive/france1938/teams/team=43902/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Cuba_national_football_team",
+    "wiki_name": "Cuba",
+    "bbc_name": "Cuba",
+    "daily_mail_name": "Cuba"
+  },
+  "ROU": {
+    "fifa_code": "ROU",
+    "fifa_name": "Romania",
+    "fifa_id": "43964",
+    "fifa_link": "/worldcup/archive/france1938/teams/team=43964/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Romania_national_football_team",
+    "wiki_name": "Romania",
+    "bbc_name": "Romania",
+    "daily_mail_name": "Romania"
+  },
+  "ITA": {
+    "fifa_code": "ITA",
+    "fifa_name": "Italy",
+    "fifa_id": "43954",
+    "fifa_link": "/worldcup/archive/france1938/teams/team=43954/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Italy_national_football_team",
+    "wiki_name": "Italy",
+    "bbc_name": "Italy",
+    "daily_mail_name": "Italy"
+  },
+  "NOR": {
+    "fifa_code": "NOR",
+    "fifa_name": "Norway",
+    "fifa_id": "43961",
+    "fifa_link": "/worldcup/archive/france1938/teams/team=43961/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Norway_national_football_team",
+    "wiki_name": "Norway",
+    "bbc_name": "Norway",
+    "daily_mail_name": "Norway"
+  },
+  "BRA": {
+    "fifa_code": "BRA",
+    "fifa_name": "Brazil",
+    "fifa_id": "43924",
+    "fifa_link": "/worldcup/archive/france1938/teams/team=43924/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Brazil_national_football_team",
+    "wiki_name": "Brazil",
+    "bbc_name": "Brazil",
+    "daily_mail_name": "Brazil"
+  },
+  "POL": {
+    "fifa_code": "POL",
+    "fifa_name": "Poland",
+    "fifa_id": "43962",
+    "fifa_link": "/worldcup/archive/france1938/teams/team=43962/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Poland_national_football_team",
+    "wiki_name": "Poland",
+    "bbc_name": "Poland",
+    "daily_mail_name": "Poland"
+  },
+  "TCH": {
+    "fifa_code": "TCH",
+    "fifa_name": "Czechoslovakia",
+    "fifa_id": "44025",
+    "fifa_link": "/worldcup/archive/france1938/teams/team=44025/players.html",
+    "current": false,
+    "wiki_link": "https://en.wikipedia.org/wiki/Czechoslovakia_national_football_team",
+    "wiki_name": "Czechoslovakia",
+    "bbc_name": "Czechoslovakia",
+    "daily_mail_name": "Czechoslovakia"
+  },
+  "NED": {
+    "fifa_code": "NED",
+    "fifa_name": "Netherlands",
+    "fifa_id": "43960",
+    "fifa_link": "/worldcup/archive/france1938/teams/team=43960/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Netherlands_national_football_team",
+    "wiki_name": "Netherlands",
+    "bbc_name": "Netherlands",
+    "daily_mail_name": "Holland"
+  },
+  "SWE": {
+    "fifa_code": "SWE",
+    "fifa_name": "Sweden",
+    "fifa_id": "43970",
+    "fifa_link": "/worldcup/archive/france1938/teams/team=43970/players.html",
+    "current": true,
+    "wiki_link": "https://en.wikipedia.org/wiki/Sweden_national_football_team",
+    "wiki_name": "Sweden",
+    "bbc_name": "Sweden",
+    "daily_mail_name": "Sweden"
+  }
+}

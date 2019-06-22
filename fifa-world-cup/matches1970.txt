@@ -1,0 +1,421 @@
+[
+  {
+    "id": "1902",
+    "link": "/worldcup/matches/round=250/match=1902/index.html",
+    "date": "1970-05-31T12:00",
+    "group": "Group 1",
+    "home": "MEX",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "away": "URS",
+    "stadium": "Estadio Azteca, Mexico City"
+  },
+  {
+    "id": "1881",
+    "link": "/worldcup/matches/round=250/match=1881/index.html",
+    "date": "1970-06-02T16:00",
+    "group": "Group 2",
+    "home": "URU",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "away": "ISR",
+    "stadium": "Cuauhtemoc, Puebla"
+  },
+  {
+    "id": "1780",
+    "link": "/worldcup/matches/round=250/match=1780/index.html",
+    "date": "1970-06-02T16:00",
+    "group": "Group 4",
+    "home": "PER",
+    "score": {
+      "home": 3,
+      "away": 2
+    },
+    "away": "BUL",
+    "stadium": "Nou Camp - Estadio León, Leon"
+  },
+  {
+    "id": "1812",
+    "link": "/worldcup/matches/round=250/match=1812/index.html",
+    "date": "1970-06-02T16:00",
+    "group": "Group 3",
+    "home": "ENG",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "ROU",
+    "stadium": "Jalisco, Guadalajara"
+  },
+  {
+    "id": "1883",
+    "link": "/worldcup/matches/round=250/match=1883/index.html",
+    "date": "1970-06-03T16:00",
+    "group": "Group 2",
+    "home": "ITA",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "SWE",
+    "stadium": "Luis Dosal, Toluca"
+  },
+  {
+    "id": "1839",
+    "link": "/worldcup/matches/round=250/match=1839/index.html",
+    "date": "1970-06-03T16:00",
+    "group": "Group 4",
+    "home": "FRG",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "MAR",
+    "stadium": "Nou Camp - Estadio León, Leon"
+  },
+  {
+    "id": "1770",
+    "link": "/worldcup/matches/round=250/match=1770/index.html",
+    "date": "1970-06-03T16:00",
+    "group": "Group 3",
+    "home": "BRA",
+    "score": {
+      "home": 4,
+      "away": 1
+    },
+    "away": "TCH",
+    "stadium": "Jalisco, Guadalajara"
+  },
+  {
+    "id": "1747",
+    "link": "/worldcup/matches/round=250/match=1747/index.html",
+    "date": "1970-06-03T16:00",
+    "group": "Group 1",
+    "home": "BEL",
+    "score": {
+      "home": 3,
+      "away": 0
+    },
+    "away": "SLV",
+    "stadium": "Estadio Azteca, Mexico City"
+  },
+  {
+    "id": "1884",
+    "link": "/worldcup/matches/round=250/match=1884/index.html",
+    "date": "1970-06-06T16:00",
+    "group": "Group 2",
+    "home": "URU",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "away": "ITA",
+    "stadium": "Cuauhtemoc, Puebla"
+  },
+  {
+    "id": "1893",
+    "link": "/worldcup/matches/round=250/match=1893/index.html",
+    "date": "1970-06-06T16:00",
+    "group": "Group 4",
+    "home": "PER",
+    "score": {
+      "home": 3,
+      "away": 0
+    },
+    "away": "MAR",
+    "stadium": "Nou Camp - Estadio León, Leon"
+  },
+  {
+    "id": "1919",
+    "link": "/worldcup/matches/round=250/match=1919/index.html",
+    "date": "1970-06-06T16:00",
+    "group": "Group 3",
+    "home": "ROU",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "away": "TCH",
+    "stadium": "Jalisco, Guadalajara"
+  },
+  {
+    "id": "1753",
+    "link": "/worldcup/matches/round=250/match=1753/index.html",
+    "date": "1970-06-06T16:00",
+    "group": "Group 1",
+    "home": "URS",
+    "score": {
+      "home": 4,
+      "away": 1
+    },
+    "away": "BEL",
+    "stadium": "Estadio Azteca, Mexico City"
+  },
+  {
+    "id": "1880",
+    "link": "/worldcup/matches/round=250/match=1880/index.html",
+    "date": "1970-06-07T12:00",
+    "group": "Group 2",
+    "home": "SWE",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "away": "ISR",
+    "stadium": "Luis Dosal, Toluca"
+  },
+  {
+    "id": "1774",
+    "link": "/worldcup/matches/round=250/match=1774/index.html",
+    "date": "1970-06-07T12:00",
+    "group": "Group 4",
+    "home": "FRG",
+    "score": {
+      "home": 5,
+      "away": 2
+    },
+    "away": "BUL",
+    "stadium": "Nou Camp - Estadio León, Leon"
+  },
+  {
+    "id": "1764",
+    "link": "/worldcup/matches/round=250/match=1764/index.html",
+    "date": "1970-06-07T12:00",
+    "group": "Group 3",
+    "home": "BRA",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "ENG",
+    "stadium": "Jalisco, Guadalajara"
+  },
+  {
+    "id": "1820",
+    "link": "/worldcup/matches/round=250/match=1820/index.html",
+    "date": "1970-06-07T12:00",
+    "group": "Group 1",
+    "home": "MEX",
+    "score": {
+      "home": 4,
+      "away": 0
+    },
+    "away": "SLV",
+    "stadium": "Estadio Azteca, Mexico City"
+  },
+  {
+    "id": "1922",
+    "link": "/worldcup/matches/round=250/match=1922/index.html",
+    "date": "1970-06-10T16:00",
+    "group": "Group 2",
+    "home": "SWE",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "URU",
+    "stadium": "Cuauhtemoc, Puebla"
+  },
+  {
+    "id": "1840",
+    "link": "/worldcup/matches/round=250/match=1840/index.html",
+    "date": "1970-06-10T16:00",
+    "group": "Group 4",
+    "home": "FRG",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "away": "PER",
+    "stadium": "Nou Camp - Estadio León, Leon"
+  },
+  {
+    "id": "1769",
+    "link": "/worldcup/matches/round=250/match=1769/index.html",
+    "date": "1970-06-10T16:00",
+    "group": "Group 3",
+    "home": "BRA",
+    "score": {
+      "home": 3,
+      "away": 2
+    },
+    "away": "ROU",
+    "stadium": "Jalisco, Guadalajara"
+  },
+  {
+    "id": "1823",
+    "link": "/worldcup/matches/round=250/match=1823/index.html",
+    "date": "1970-06-10T16:00",
+    "group": "Group 1",
+    "home": "URS",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "away": "SLV",
+    "stadium": "Estadio Azteca, Mexico City"
+  },
+  {
+    "id": "1877",
+    "link": "/worldcup/matches/round=250/match=1877/index.html",
+    "date": "1970-06-11T16:00",
+    "group": "Group 2",
+    "home": "ITA",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "away": "ISR",
+    "stadium": "Luis Dosal, Toluca"
+  },
+  {
+    "id": "1779",
+    "link": "/worldcup/matches/round=250/match=1779/index.html",
+    "date": "1970-06-11T16:00",
+    "group": "Group 4",
+    "home": "BUL",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "away": "MAR",
+    "stadium": "Nou Camp - Estadio León, Leon"
+  },
+  {
+    "id": "1813",
+    "link": "/worldcup/matches/round=250/match=1813/index.html",
+    "date": "1970-06-11T16:00",
+    "group": "Group 3",
+    "home": "ENG",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "TCH",
+    "stadium": "Jalisco, Guadalajara"
+  },
+  {
+    "id": "1752",
+    "link": "/worldcup/matches/round=250/match=1752/index.html",
+    "date": "1970-06-11T16:00",
+    "group": "Group 1",
+    "home": "MEX",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "BEL",
+    "stadium": "Estadio Azteca, Mexico City"
+  },
+  {
+    "id": "1882",
+    "link": "/worldcup/matches/round=251/match=1882/index.html",
+    "date": "1970-06-14T12:00",
+    "group": "Quarter-finals",
+    "home": "ITA",
+    "score": {
+      "home": 4,
+      "away": 1
+    },
+    "away": "MEX",
+    "stadium": "Luis Dosal, Toluca"
+  },
+  {
+    "id": "1811",
+    "link": "/worldcup/matches/round=251/match=1811/index.html",
+    "date": "1970-06-14T12:00",
+    "group": "Quarter-finals",
+    "home": "FRG",
+    "score": {
+      "home": 3,
+      "away": 2,
+      "note": "AET"
+    },
+    "away": "ENG",
+    "stadium": "Nou Camp - Estadio León, Leon"
+  },
+  {
+    "id": "1768",
+    "link": "/worldcup/matches/round=251/match=1768/index.html",
+    "date": "1970-06-14T12:00",
+    "group": "Quarter-finals",
+    "home": "BRA",
+    "score": {
+      "home": 4,
+      "away": 2
+    },
+    "away": "PER",
+    "stadium": "Jalisco, Guadalajara"
+  },
+  {
+    "id": "1925",
+    "link": "/worldcup/matches/round=251/match=1925/index.html",
+    "date": "1970-06-14T12:00",
+    "group": "Quarter-finals",
+    "home": "URU",
+    "score": {
+      "home": 1,
+      "away": 0,
+      "note": "AET"
+    },
+    "away": "URS",
+    "stadium": "Estadio Azteca, Mexico City"
+  },
+  {
+    "id": "1771",
+    "link": "/worldcup/matches/round=569/match=1771/index.html",
+    "date": "1970-06-17T16:00",
+    "group": "Semi-finals",
+    "home": "BRA",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "away": "URU",
+    "stadium": "Jalisco, Guadalajara"
+  },
+  {
+    "id": "1838",
+    "link": "/worldcup/matches/round=569/match=1838/index.html",
+    "date": "1970-06-17T16:00",
+    "group": "Semi-finals",
+    "home": "ITA",
+    "score": {
+      "home": 4,
+      "away": 3,
+      "note": "AET"
+    },
+    "away": "FRG",
+    "stadium": "Estadio Azteca, Mexico City"
+  },
+  {
+    "id": "1843",
+    "link": "/worldcup/matches/round=3477/match=1843/index.html",
+    "date": "1970-06-20T16:00",
+    "group": "Match for third place",
+    "home": "FRG",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "away": "URU",
+    "stadium": "Estadio Azteca, Mexico City"
+  },
+  {
+    "id": "1765",
+    "link": "/worldcup/matches/round=3476/match=1765/index.html",
+    "date": "1970-06-21T12:00",
+    "group": "Final",
+    "home": "BRA",
+    "score": {
+      "home": 4,
+      "away": 1
+    },
+    "away": "ITA",
+    "stadium": "Estadio Azteca, Mexico City"
+  }
+]

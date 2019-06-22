@@ -1,0 +1,32 @@
+{
+  "Estadio Azteca, Mexico City": {
+    "name": "Estadio Azteca",
+    "locality": "Mexico City",
+    "country": "Mexico",
+    "key": "Estadio Azteca, Mexico City"
+  },
+  "Cuauhtemoc, Puebla": {
+    "name": "Cuauhtemoc",
+    "locality": "Puebla",
+    "country": "Mexico",
+    "key": "Cuauhtemoc, Puebla"
+  },
+  "Nou Camp - Estadio León, Leon": {
+    "name": "Nou Camp - Estadio León",
+    "locality": "Leon",
+    "country": "Mexico",
+    "key": "Nou Camp - Estadio León, Leon"
+  },
+  "Jalisco, Guadalajara": {
+    "name": "Jalisco",
+    "locality": "Guadalajara",
+    "country": "Mexico",
+    "key": "Jalisco, Guadalajara"
+  },
+  "Luis Dosal, Toluca": {
+    "name": "Luis Dosal",
+    "locality": "Toluca",
+    "country": "Mexico",
+    "key": "Luis Dosal, Toluca"
+  }
+}
