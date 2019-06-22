@@ -1,0 +1,31 @@
+{
+	"Group 1" : { "title" : "Group 1", "url" : "group-1", "index" : "000" },
+	"Group 2" : { "title" : "Group 2", "url" : "group-2", "index" : "001" },
+	"Group 3" : { "title" : "Group 3", "url" : "group-3", "index" : "002" },
+	"Group 4" : { "title" : "Group 4", "url" : "group-4", "index" : "003" },
+	"Group 5" : { "title" : "Group 5", "url" : "group-5", "index" : "004" },
+	"Group 6" : { "title" : "Group 6", "url" : "group-6", "index" : "005" },
+	"Group 7" : { "title" : "Group 7", "url" : "group-7", "index" : "006" },
+	"Group 8" : { "title" : "Group 8", "url" : "group-8", "index" : "007" },
+
+	"Group A" : { "title" : "Group A", "url" : "group-a", "index" : "010" },
+	"Group B" : { "title" : "Group B", "url" : "group-b", "index" : "011" },
+	"Group C" : { "title" : "Group C", "url" : "group-c", "index" : "012" },
+	"Group D" : { "title" : "Group D", "url" : "group-d", "index" : "013" },
+	"Group E" : { "title" : "Group E", "url" : "group-e", "index" : "014" },
+	"Group F" : { "title" : "Group F", "url" : "group-f", "index" : "015" },
+	"Group G" : { "title" : "Group G", "url" : "group-g", "index" : "016" },
+	"Group H" : { "title" : "Group H", "url" : "group-h", "index" : "017" },
+
+	"First round" : { "title" : "First round", "url" : "first-round", "index" : "100", "knockout": true },
+	"Preliminary round" : { "title" : "First round", "url" : "first-round", "index" : "100", "knockout": true },
+	
+	"Round of 16" : { "title" : "Round of 16", "url" : "round-of-16", "index" : "100", "knockout": true },
+	
+	"Quarter-finals" : { "title" : "Quarter-finals", "url" : "quarter-finals", "index" : "200", "knockout": true },
+	"Semi-finals" : { "title" : "Semi-finals", "url" : "semi-finals", "index" : "300", "knockout": true },
+	"Match for third place" : { "title" : "Match for Third Place", "url" : "match-for-third-place", "index" : "400", "knockout": true },
+	"Play-off for third place" : { "title" : "Match for Third Place", "url" : "match-for-third-place", "index" : "400", "knockout": true },
+	"Third place" : { "title" : "Match for Third Place", "url" : "match-for-third-place", "index" : "400", "knockout": true },
+	"Final" : { "title" : "Final", "url" : "final", "index" : "900", "knockout": true }
+}

@@ -1,0 +1,22 @@
+[
+["Brazil", 2014, "brazil"],
+["South Africa", 2010, "southafrica"],
+["Germany", 2006, "germany"],
+["Korea/Japan", 2002, "koreajapan"],
+["France", 1998, "france"],
+["USA", 1994, "usa"],
+["Italy", 1990, "italy"],
+["Mexico", 1986, "mexico"],
+["Spain", 1982, "spain"],
+["Argentina", 1978, "argentina"],
+["Germany", 1974, "germany"],
+["Mexico", 1970, "mexico"],
+["England", 1966, "england"],
+["Chile", 1962, "chile"],
+["Sweden", 1958, "sweden"],
+["Switzerland", 1954, "switzerland"],
+["Brazil", 1950, "brazil"],
+["France", 1938, "france"],
+["Italy", 1934, "italy"],
+["Uruguay", 1930, "uruguay"]
+]
