@@ -1,0 +1,15 @@
+{
+  "names": [
+    "home",
+    "score",
+    "away",
+    "date",
+    "group",
+    "stage",
+    "scoreNote",
+    "referee_stadium",
+    "link",
+    "report"
+  ],
+  "values": []
+}
